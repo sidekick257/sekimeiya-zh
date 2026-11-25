@@ -52,7 +52,8 @@ Rules:
 
 6.2 Locked non-name terms (use these exact renderings):
     Titles and coined names
-    - Sekimeiya, the Sekimeiya, Past Sekimeiya, Future Sekimeiya: keep English. Do not transliterate (never 塞肯梅亚) and do not abbreviate as 「石」.
+    - Sekimeiya, the Sekimeiya: keep English. Do not transliterate (never 塞肯梅亚) and do not abbreviate as 「石」.
+    - Past Sekimeiya → 过去Sekimeiya; Future Sekimeiya → 未来Sekimeiya. Keep the word Sekimeiya in English; only translate Past/Future. Do not leave a space, and do not write 「过去的Sekimeiya」.
     - Spun Glass, and the full title The Sekimeiya: Spun Glass: keep English.
     - Xyn, XYN: keep English (including in possessives such as Xyn's / XYN's).
     - Calliant / Calliants → 卡利安特花 (use the same rendering for the flower and the chapter title)
@@ -71,6 +72,7 @@ Rules:
     - security room → 监控室
     - crystal floor → 水晶层
     - crystal room / crystal rooms → 水晶展室. Keep room codes, e.g. 水晶展室 A5, 水晶展室 B4.
+    - Numbered rooms such as room B4 / room A1 / room C3 → B4房间 / A1房间 / C3房间 (only letter+number codes + 「室」). Do not change proper room names: 活动室, 储藏室, 监控室, 机械室, 员工室, 水晶展室, 清洁间, etc.
     - mechanical room → 机械室
     - cleaning room → 清洁间
     - staff room → 员工室
