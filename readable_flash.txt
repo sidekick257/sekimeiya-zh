@@ -1,0 +1,4039 @@
+共 310 条
+
+-------- 1/310  notes  notes.rpy  旁白  notes_rpy_L000006_1_89faf3c7 --------
+【原文】
+After Dark
+【译文】
+夜幕之后
+
+-------- 2/310  notes  notes.rpy  旁白  notes_rpy_L000020_1_20e578fe --------
+【原文】
+Cave-in
+【译文】
+塌方
+
+-------- 3/310  notes  notes.rpy  旁白  notes_rpy_L000031_1_abfaeb0f --------
+【原文】
+Cave-in
+【译文】
+塌方
+
+-------- 4/310  notes  notes.rpy  旁白  notes_rpy_L000045_1_3ba069cc --------
+【原文】
+Cave-in
+【译文】
+塌方
+
+-------- 5/310  notes  notes.rpy  旁白  notes_rpy_L000059_1_6f4ffc62 --------
+【原文】
+Window Net
+【译文】
+窗网
+
+-------- 6/310  notes  notes.rpy  旁白  notes_rpy_L000076_1_b67f4d46 --------
+【原文】
+Window Net
+【译文】
+窗网
+
+-------- 7/310  notes  notes.rpy  旁白  notes_rpy_L000089_1_fc8d649b --------
+【原文】
+Blue Light
+【译文】
+蓝光
+
+-------- 8/310  notes  notes.rpy  旁白  notes_rpy_L000104_1_8be50746 --------
+【原文】
+Undercurrent
+【译文】
+暗流
+
+-------- 9/310  notes  notes.rpy  旁白  notes_rpy_L000119_1_a747ea29 --------
+【原文】
+Undercurrent
+【译文】
+暗流
+
+-------- 10/310  notes  notes.rpy  旁白  notes_rpy_L000134_1_a619c637 --------
+【原文】
+Line Art
+【译文】
+线稿
+
+-------- 11/310  notes  notes.rpy  旁白  notes_rpy_L000149_1_cc0d54f8 --------
+【原文】
+Line Art
+【译文】
+线稿
+
+-------- 12/310  notes  notes.rpy  旁白  notes_rpy_L000162_1_553f5f89 --------
+【原文】
+Ring Chain
+【译文】
+环链
+
+-------- 13/310  notes  notes.rpy  旁白  notes_rpy_L000178_1_68bfe06b --------
+【原文】
+Ring Chain
+【译文】
+环链
+
+-------- 14/310  notes  notes.rpy  旁白  notes_rpy_L000193_1_66a64898 --------
+【原文】
+Darkroom
+【译文】
+暗房
+
+-------- 15/310  notes  notes.rpy  旁白  notes_rpy_L000204_1_686d2277 --------
+【原文】
+B-Side
+【译文】
+B面
+
+-------- 16/310  notes  notes.rpy  旁白  notes_rpy_L000222_1_937f0f55 --------
+【原文】
+B-Side
+【译文】
+B面
+
+-------- 17/310  notes  notes.rpy  旁白  notes_rpy_L000233_1_4bd9b9b7 --------
+【原文】
+Insulation
+【译文】
+绝缘
+
+-------- 18/310  notes  notes.rpy  旁白  notes_rpy_L000252_1_19e9bb1f --------
+【原文】
+Insulation
+【译文】
+绝缘
+
+-------- 19/310  notes  notes.rpy  旁白  notes_rpy_L000270_1_d4438af9 --------
+【原文】
+The Third Law
+【译文】
+第三定律
+
+-------- 20/310  notes  notes.rpy  旁白  notes_rpy_L000290_1_4a21aeda --------
+【原文】
+The Third Law
+【译文】
+第三定律
+
+-------- 21/310  notes  notes.rpy  旁白  notes_rpy_L000307_1_6aa17b18 --------
+【原文】
+Condemned
+【译文】
+定罪
+
+-------- 22/310  notes  notes.rpy  旁白  notes_rpy_L000323_1_ff7cb5e2 --------
+【原文】
+Condemned
+【译文】
+定罪
+
+-------- 23/310  notes  notes.rpy  旁白  notes_rpy_L000339_1_38f89635 --------
+【原文】
+Walls of Glass
+【译文】
+玻璃之墙
+
+-------- 24/310  notes  notes.rpy  旁白  notes_rpy_L000355_1_1350022d --------
+【原文】
+Walls of Glass
+【译文】
+玻璃之墙
+
+-------- 25/310  notes  notes.rpy  旁白  notes_rpy_L000369_1_df65596c --------
+【原文】
+Behind Bars
+【译文】
+铁窗之后
+
+-------- 26/310  notes  notes.rpy  旁白  notes_rpy_L000387_1_d0f5dc8a --------
+【原文】
+Behind Bars
+【译文】
+铁窗之后
+
+-------- 27/310  notes  notes.rpy  旁白  notes_rpy_L000406_1_0fe63ab9 --------
+【原文】
+Thunderhead
+【译文】
+雷云
+
+-------- 28/310  notes  notes.rpy  旁白  notes_rpy_L000422_1_a2b6f20b --------
+【原文】
+Thunderhead
+【译文】
+雷云
+
+-------- 29/310  notes  notes.rpy  旁白  notes_rpy_L000443_1_82d7d849 --------
+【原文】
+Thunderhead
+【译文】
+雷云
+
+-------- 30/310  notes  notes.rpy  旁白  notes_rpy_L000461_1_3e3b51cf --------
+【原文】
+Airtight Room
+【译文】
+气密室
+
+-------- 31/310  notes  notes.rpy  旁白  notes_rpy_L000476_1_8ba216c3 --------
+【原文】
+Airtight Room
+【译文】
+气密室
+
+-------- 32/310  notes  notes.rpy  旁白  notes_rpy_L000499_1_ee807db6 --------
+【原文】
+Hidden Cliff
+【译文】
+隐秘悬崖
+
+-------- 33/310  notes  notes.rpy  旁白  notes_rpy_L000511_1_29b39c55 --------
+【原文】
+Hidden Cliff
+【译文】
+隐秘悬崖
+
+-------- 34/310  notes  notes.rpy  旁白  notes_rpy_L000527_1_0fc36e94 --------
+【原文】
+Hidden Cliff
+【译文】
+隐秘悬崖
+
+-------- 35/310  notes  notes.rpy  旁白  notes_rpy_L000539_1_6e77ae1b --------
+【原文】
+Hidden Cliff
+【译文】
+隐秘悬崖
+
+-------- 36/310  notes  notes.rpy  旁白  notes_rpy_L000556_1_120bf4ae --------
+【原文】
+Wind Shelter
+【译文】
+避风处
+
+-------- 37/310  notes  notes.rpy  旁白  notes_rpy_L000572_1_b2878ae6 --------
+【原文】
+Wind Shelter
+【译文】
+避风处
+
+-------- 38/310  notes  notes.rpy  旁白  notes_rpy_L000585_1_1bea2067 --------
+【原文】
+Cable-Stayed
+【译文】
+斜拉桥
+
+-------- 39/310  notes  notes.rpy  旁白  notes_rpy_L000597_1_a430b5e5 --------
+【原文】
+Mind Over Matter
+【译文】
+心胜于物
+
+-------- 40/310  notes  notes.rpy  旁白  notes_rpy_L000610_1_4531d507 --------
+【原文】
+Satellite
+【译文】
+卫星
+
+-------- 41/310  notes  notes.rpy  旁白  notes_rpy_L000624_1_48fbc5a6 --------
+【原文】
+Satellite
+【译文】
+卫星
+
+-------- 42/310  notes  notes.rpy  旁白  notes_rpy_L000642_1_fe9b013a --------
+【原文】
+A Step Forward
+【译文】
+向前一步
+
+-------- 43/310  notes  notes.rpy  旁白  notes_rpy_L000663_1_c432f3c9 --------
+【原文】
+Theater Under The Sun
+【译文】
+烈日下的剧场
+
+-------- 44/310  notes  notes.rpy  旁白  notes_rpy_L000680_1_ffbac097 --------
+【原文】
+Only White
+【译文】
+唯有纯白
+
+-------- 45/310  notes  notes.rpy  旁白  notes_rpy_L000696_1_035ecc63 --------
+【原文】
+Only White
+【译文】
+唯有纯白
+
+-------- 46/310  notes  notes.rpy  旁白  notes_rpy_L000710_1_ca9a4a76 --------
+【原文】
+Only White
+【译文】
+唯有纯白
+
+-------- 47/310  notes  notes.rpy  旁白  notes_rpy_L000728_1_f4695700 --------
+【原文】
+Bloodhound
+【译文】
+寻血猎犬
+
+-------- 48/310  notes  notes.rpy  旁白  notes_rpy_L000749_1_23240c0b --------
+【原文】
+Change of Mind
+【译文】
+心意转变
+
+-------- 49/310  notes  notes.rpy  旁白  notes_rpy_L000763_1_3d38ab74 --------
+【原文】
+Self-Causality
+【译文】
+自我因果
+
+-------- 50/310  notes  notes.rpy  旁白  notes_rpy_L000776_1_56f80566 --------
+【原文】
+Catch-22
+【译文】
+第二十二条军规
+
+-------- 51/310  notes  notes.rpy  旁白  notes_rpy_L000791_1_00d6528a --------
+【原文】
+Catch-22
+【译文】
+第二十二条军规
+
+-------- 52/310  notes  notes.rpy  旁白  notes_rpy_L000808_1_f0532d47 --------
+【原文】
+Transparent Reality
+【译文】
+透明的现实
+
+-------- 53/310  notes  notes.rpy  旁白  notes_rpy_L000824_1_841415fc --------
+【原文】
+Transparent Reality
+【译文】
+透明的现实
+
+-------- 54/310  notes  notes.rpy  旁白  notes_rpy_L000846_1_f1d9f3f6 --------
+【原文】
+Lap Crossing
+【译文】
+膝上交错
+
+-------- 55/310  notes  notes.rpy  旁白  notes_rpy_L000864_1_a4bc0848 --------
+【原文】
+Trampoline
+【译文】
+蹦床
+
+-------- 56/310  notes  notes.rpy  旁白  notes_rpy_L000884_1_3183251f --------
+【原文】
+Even Landscape
+【译文】
+平坦的风景
+
+-------- 57/310  notes  notes.rpy  旁白  notes_rpy_L000898_1_9276f882 --------
+【原文】
+Even Landscape
+【译文】
+平坦的风景
+
+-------- 58/310  notes  notes.rpy  旁白  notes_rpy_L000918_1_961976f6 --------
+【原文】
+No Longer Anywhere
+【译文】
+无处可寻
+
+-------- 59/310  notes  notes.rpy  旁白  notes_rpy_L000936_1_69c9e968 --------
+【原文】
+No Longer Anywhere
+【译文】
+无处可寻
+
+-------- 60/310  notes  notes.rpy  旁白  notes_rpy_L000957_1_92f54c35 --------
+【原文】
+No Longer Anywhere
+【译文】
+无处可寻
+
+-------- 61/310  notes  notes.rpy  旁白  notes_rpy_L000975_1_e13363f0 --------
+【原文】
+The Last Bird
+【译文】
+最后一只鸟
+
+-------- 62/310  notes  notes.rpy  旁白  notes_rpy_L000993_1_1a0ef599 --------
+【原文】
+The Last Bird
+【译文】
+最后一只鸟
+
+-------- 63/310  notes  notes.rpy  旁白  notes_rpy_L001010_1_1b63dac8 --------
+【原文】
+The Last Bird
+【译文】
+最后一只鸟
+
+-------- 64/310  notes  notes.rpy  旁白  notes_rpy_L001030_1_23cf40b0 --------
+【原文】
+Lone Thread
+【译文】
+孤线
+
+-------- 65/310  notes  notes.rpy  旁白  notes_rpy_L001041_1_bbe935d0 --------
+【原文】
+Crystallized
+【译文】
+结晶
+
+-------- 66/310  notes  notes.rpy  旁白  notes_rpy_L001054_1_18a1bcd6 --------
+【原文】
+Grounded Strobe
+【译文】
+坠地的闪光
+
+-------- 67/310  notes  notes.rpy  旁白  notes_rpy_L001067_1_70d67b71 --------
+【原文】
+Arcology
+【译文】
+生态巨构
+
+-------- 68/310  notes  notes.rpy  旁白  notes_rpy_L001086_1_c05765b7 --------
+【原文】
+Acid Rain
+【译文】
+酸雨
+
+-------- 69/310  notes  notes.rpy  旁白  notes_rpy_L001103_1_518d588b --------
+【原文】
+Acid Rain
+【译文】
+酸雨
+
+-------- 70/310  notes  notes.rpy  旁白  notes_rpy_L001119_1_767cbf74 --------
+【原文】
+Acid Rain
+【译文】
+酸雨
+
+-------- 71/310  notes  notes.rpy  旁白  notes_rpy_L001139_1_999183c7 --------
+【原文】
+Acid Rain
+【译文】
+酸雨
+
+-------- 72/310  notes  notes.rpy  旁白  notes_rpy_L001154_1_b41f7a11 --------
+【原文】
+Terraformed
+【译文】
+地球化改造
+
+-------- 73/310  notes  notes.rpy  旁白  notes_rpy_L001171_1_acb53eba --------
+【原文】
+Terraformed
+【译文】
+地球化改造
+
+-------- 74/310  notes  notes.rpy  旁白  notes_rpy_L001187_1_80f6ac32 --------
+【原文】
+Where Is The Mask
+【译文】
+面具何在
+
+-------- 75/310  notes  notes.rpy  旁白  notes_rpy_L001205_1_2b3ec255 --------
+【原文】
+Where Is The Mask
+【译文】
+面具何在
+
+-------- 76/310  notes  notes.rpy  旁白  notes_rpy_L001223_1_3e107bd1 --------
+【原文】
+Ten Interloping Eyes
+【译文】
+十只窥视之眼
+
+-------- 77/310  notes  notes.rpy  旁白  notes_rpy_L001237_1_a827de4c --------
+【原文】
+Ten Interloping Eyes
+【译文】
+十只窥视之眼
+
+-------- 78/310  notes  notes.rpy  旁白  notes_rpy_L001250_1_bc7455b0 --------
+【原文】
+Ten Interloping Eyes
+【译文】
+十只窥视之眼
+
+-------- 79/310  notes  notes.rpy  旁白  notes_rpy_L001270_1_8fc55e89 --------
+【原文】
+Wireframe
+【译文】
+线框
+
+-------- 80/310  notes  notes.rpy  旁白  notes_rpy_L001286_1_48a45502 --------
+【原文】
+A Hole in the Earth
+【译文】
+大地的空洞
+
+-------- 81/310  notes  notes.rpy  旁白  notes_rpy_L001305_1_c9a0a7d8 --------
+【原文】
+A Hole in the Earth
+【译文】
+大地的空洞
+
+-------- 82/310  notes  notes.rpy  旁白  notes_rpy_L001325_1_e9963209 --------
+【原文】
+Systemic Toxin
+【译文】
+全身性毒素
+
+-------- 83/310  notes  notes.rpy  旁白  notes_rpy_L001342_1_39eb9705 --------
+【原文】
+Crossover
+【译文】
+交错
+
+-------- 84/310  notes  notes.rpy  旁白  notes_rpy_L001364_1_795a4185 --------
+【原文】
+Eruption
+【译文】
+喷发
+
+-------- 85/310  notes  notes.rpy  旁白  notes_rpy_L001381_1_7c81b586 --------
+【原文】
+Eruption
+【译文】
+喷发
+
+-------- 86/310  notes  notes.rpy  旁白  notes_rpy_L001403_1_a65c7142 --------
+【原文】
+The Pond
+【译文】
+池塘
+
+-------- 87/310  notes  notes.rpy  旁白  notes_rpy_L001421_1_2ae8282b --------
+【原文】
+The Pond
+【译文】
+池塘
+
+-------- 88/310  notes  notes.rpy  旁白  notes_rpy_L001439_1_689d16df --------
+【原文】
+The Pond
+【译文】
+池塘
+
+-------- 89/310  notes  notes.rpy  旁白  notes_rpy_L001458_1_69857a86 --------
+【原文】
+Delayed Reflection
+【译文】
+延迟的倒影
+
+-------- 90/310  notes  notes.rpy  旁白  notes_rpy_L001474_1_39d82d95 --------
+【原文】
+Delayed Reflection
+【译文】
+延迟的倒影
+
+-------- 91/310  notes  notes.rpy  旁白  notes_rpy_L001492_1_7f0540b3 --------
+【原文】
+Finding Self
+【译文】
+寻找自我
+
+-------- 92/310  notes  notes.rpy  旁白  notes_rpy_L001508_1_ffe2ad04 --------
+【原文】
+Permafrost
+【译文】
+永久冻土
+
+-------- 93/310  notes  notes.rpy  旁白  notes_rpy_L001521_1_d6fcb648 --------
+【原文】
+Sunrise
+【译文】
+日出
+
+-------- 94/310  notes  notes.rpy  旁白  notes_rpy_L001537_1_08e55032 --------
+【原文】
+Self-Fulfillment
+【译文】
+自我实现
+
+-------- 95/310  notes  notes.rpy  旁白  notes_rpy_L001550_1_96470824 --------
+【原文】
+Hex Ladder
+【译文】
+六角梯
+
+-------- 96/310  notes  notes.rpy  旁白  notes_rpy_L001562_1_e3d6e0bd --------
+【原文】
+Karma
+【译文】
+因果
+
+-------- 97/310  notes  notes.rpy  旁白  notes_rpy_L001576_1_d126ff14 --------
+【原文】
+Karma
+【译文】
+因果
+
+-------- 98/310  notes  notes.rpy  旁白  notes_rpy_L001594_1_89071f0f --------
+【原文】
+Liquid Canvas
+【译文】
+液态画布
+
+-------- 99/310  notes  notes.rpy  旁白  notes_rpy_L001610_1_9f4125c9 --------
+【原文】
+Fresh Start
+【译文】
+崭新的开始
+
+-------- 100/310  notes  notes.rpy  旁白  notes_rpy_L001627_1_b54b9b95 --------
+【原文】
+Sky Signals
+【译文】
+天空信号
+
+-------- 101/310  notes  notes.rpy  旁白  notes_rpy_L001640_1_a3cc2ec1 --------
+【原文】
+Excavation
+【译文】
+发掘
+
+-------- 102/310  notes  notes.rpy  旁白  notes_rpy_L001657_1_ec43668b --------
+【原文】
+Orbit Crash
+【译文】
+轨道坠落
+
+-------- 103/310  notes  notes.rpy  旁白  notes_rpy_L001674_1_9f35d6dd --------
+【原文】
+Mutual Reject
+【译文】
+相互排斥
+
+-------- 104/310  notes  notes.rpy  旁白  notes_rpy_L001690_1_9e8f0209 --------
+【原文】
+Axis Ropeway
+【译文】
+轴索道
+
+-------- 105/310  notes  notes.rpy  旁白  notes_rpy_L001702_1_618c77f7 --------
+【原文】
+Mirage
+【译文】
+蜃景
+
+-------- 106/310  notes  notes.rpy  旁白  notes_rpy_L001720_1_b8844524 --------
+【原文】
+Tethered
+【译文】
+系连
+
+-------- 107/310  notes  notes.rpy  旁白  notes_rpy_L001738_1_66af664f --------
+【原文】
+Saving Reverie
+【译文】
+拯救幻想
+
+-------- 108/310  notes  notes.rpy  旁白  notes_rpy_L001750_1_d651ce57 --------
+【原文】
+Stopping Power
+【译文】
+停止力
+
+-------- 109/310  notes  notes.rpy  旁白  notes_rpy_L001767_1_fc816ea6 --------
+【原文】
+Sleep Paralysis
+【译文】
+睡眠瘫痪
+
+-------- 110/310  notes  notes.rpy  旁白  notes_rpy_L001784_1_6c6da576 --------
+【原文】
+Bridge
+【译文】
+桥
+
+-------- 111/310  notes  notes.rpy  旁白  notes_rpy_L001800_1_32f61bbd --------
+【原文】
+River
+【译文】
+河流
+
+-------- 112/310  notes  notes.rpy  旁白  notes_rpy_L001821_1_76094117 --------
+【原文】
+Sunken Vessel
+【译文】
+沉没的船
+
+-------- 113/310  notes  notes.rpy  旁白  notes_rpy_L001837_1_eee22093 --------
+【原文】
+Sunken Vessel
+【译文】
+沉没的船
+
+-------- 114/310  notes  notes.rpy  旁白  notes_rpy_L001857_1_ff421afb --------
+【原文】
+Simulation Therapy
+【译文】
+模拟疗法
+
+-------- 115/310  notes  notes.rpy  旁白  notes_rpy_L001876_1_33f8fde3 --------
+【原文】
+Undertow
+【译文】
+暗流
+
+-------- 116/310  notes  notes.rpy  旁白  notes_rpy_L001899_1_b3c51f9b --------
+【原文】
+Transformative Interference
+【译文】
+转化性干涉
+
+-------- 117/310  notes  notes.rpy  旁白  notes_rpy_L001924_1_9cf838e6 --------
+【原文】
+Helix
+【译文】
+螺旋
+
+-------- 118/310  notes  notes.rpy  旁白  notes_rpy_L001947_1_43209a6e --------
+【原文】
+Helix
+【译文】
+螺旋
+
+-------- 119/310  notes  notes.rpy  旁白  notes_rpy_L001965_1_81687ae5 --------
+【原文】
+Helix
+【译文】
+螺旋
+
+-------- 120/310  notes  notes.rpy  旁白  notes_rpy_L001986_1_e5b40a21 --------
+【原文】
+Failure
+【译文】
+失败
+
+-------- 121/310  notes  notes.rpy  旁白  notes_rpy_L002007_1_0581f2d1 --------
+【原文】
+First Cause Dilemma
+【译文】
+第一因的两难
+
+-------- 122/310  notes  notes.rpy  旁白  notes_rpy_L002021_1_99c81f14 --------
+【原文】
+Corrosion Fatigue
+【译文】
+腐蚀疲劳
+
+-------- 123/310  notes  notes.rpy  旁白  notes_rpy_L002032_1_3e269e4e --------
+【原文】
+Molehill
+【译文】
+鼹鼠丘
+
+-------- 124/310  notes  notes.rpy  旁白  notes_rpy_L002055_1_8937da41 --------
+【原文】
+The Copse
+【译文】
+小树林
+
+-------- 125/310  notes  notes.rpy  旁白  notes_rpy_L002079_1_118f563c --------
+【原文】
+Initial Singularity
+【译文】
+初始奇点
+
+-------- 126/310  notes  notes.rpy  旁白  notes_rpy_L002094_1_6d9b5ffb --------
+【原文】
+Contrition
+【译文】
+悔悟
+
+-------- 127/310  notes  notes.rpy  旁白  notes_rpy_L002116_1_00367b31 --------
+【原文】
+Inside Out
+【译文】
+里外翻转
+
+-------- 128/310  notes  notes.rpy  旁白  notes_rpy_L002134_1_86971e99 --------
+【原文】
+Tachyon Rotation
+【译文】
+快子旋转
+
+-------- 129/310  notes  notes.rpy  旁白  notes_rpy_L002154_1_cf8a4e21 --------
+【原文】
+Bioluminescent
+【译文】
+生物发光
+
+-------- 130/310  notes  notes.rpy  旁白  notes_rpy_L002167_1_34764aed --------
+【原文】
+Bioluminescent
+【译文】
+生物发光
+
+-------- 131/310  notes  notes.rpy  旁白  notes_rpy_L002180_1_f1aee9a0 --------
+【原文】
+Sheer Intent
+【译文】
+纯粹意图
+
+-------- 132/310  notes  notes.rpy  旁白  notes_rpy_L002201_1_041b6c37 --------
+【原文】
+Sheer Intent
+【译文】
+纯粹意图
+
+-------- 133/310  notes  notes.rpy  旁白  notes_rpy_L002222_1_715aa2dc --------
+【原文】
+Sheer Intent
+【译文】
+纯粹意图
+
+-------- 134/310  notes  notes.rpy  旁白  notes_rpy_L002243_1_390c86db --------
+【原文】
+Snowmelt
+【译文】
+融雪
+
+-------- 135/310  notes  notes.rpy  旁白  notes_rpy_L002262_1_16031347 --------
+【原文】
+Lucid Dream
+【译文】
+清醒梦
+
+-------- 136/310  notes  notes.rpy  旁白  notes_rpy_L002281_1_49aed3ce --------
+【原文】
+Lucid Dream
+【译文】
+清醒梦
+
+-------- 137/310  notes  notes.rpy  旁白  notes_rpy_L002294_1_7c786b8d --------
+【原文】
+Lucid Dream
+【译文】
+清醒梦
+
+-------- 138/310  notes  notes.rpy  旁白  notes_rpy_L002312_1_c9cd7fb7 --------
+【原文】
+Lucid Dream
+【译文】
+清醒梦
+
+-------- 139/310  notes  notes.rpy  旁白  notes_rpy_L002328_1_0bc83174 --------
+【原文】
+Oubliette
+【译文】
+地下密牢
+
+-------- 140/310  notes  notes.rpy  旁白  notes_rpy_L002347_1_8cb346e7 --------
+【原文】
+Picture Frame
+【译文】
+相框
+
+-------- 141/310  notes  notes.rpy  旁白  notes_rpy_L002358_1_f9e2bd56 --------
+【原文】
+The Peak
+【译文】
+顶峰
+
+-------- 142/310  notes  notes.rpy  旁白  notes_rpy_L000008_1_11aa4bac --------
+【原文】
+
+-Lobby
+After a very long wait, the hallway doors open at {time=9.}
+Naomi comes from the right door and takes the first group to the event room.
+-Event room
+As Naomi is unlocking the Sekimeiya cabinet, smoke appears, and I fall to the floor.
+Before losing consciousness, an alarm plays.
+
+【译文】
+-大厅
+等了很久之后，走廊的门在{time=9.}打开。
+Naomi 从右边的门出来，带着第一组人前往活动室。
+-活动室
+Naomi 正在打开 Sekimeiya 展示柜的锁时，烟雾出现，我倒在地板上。
+失去意识前，警报响起。
+
+-------- 143/310  notes  notes.rpy  旁白  notes_rpy_L000022_1_e8c34cd0 --------
+【原文】
+
+-Event room
+I reawaken in the event room. Its appearance has drastically changed.
+Shiroya and Akaro are safe, but Naomi is missing.
+
+【译文】
+-活动室
+我在活动室里再次醒来。这里的样子已经大变。
+Shiroya 和 Akaro 安然无恙，但 Naomi 不见了。
+
+-------- 144/310  notes  notes.rpy  旁白  notes_rpy_L000033_1_a9a3541c --------
+【原文】
+
+-Right hallway
+We're drawn to the right hallway by a yell.
+We meet up with the second group and Katei.
+Katei tells us that we'll be trapped for twelve hours in Ashiya Tower.
+-Lobby
+A shutter is covering the exit. No smoke was released in the lobby.
+
+【译文】
+-右侧走廊
+一声喊叫把我们引到右侧走廊。
+我们与第二组人和 Katei 会合。
+Katei 告诉我们，我们会被困在芦屋塔里十二个小时。
+-大厅
+一道卷帘门挡住了出口。大厅里没有释放过烟雾。
+
+-------- 145/310  notes  notes.rpy  旁白  notes_rpy_L000047_1_921cdf72 --------
+【原文】
+
+-Event room
+We return to the event room to check if the Sekimeiya is in the cabinet.
+We see a shining, white egg that seems to be the Sekimeiya.
+-Left hallway
+We go to the left hallway to access the security room.
+Katei unlocks the security room, and we check the layout of the crystal floor.
+
+【译文】
+-活动室
+我们回到活动室，确认 Sekimeiya 是否还在展示柜里。
+我们看到一个发光的白色蛋状物，似乎就是 Sekimeiya。
+-左侧走廊
+我们前往左侧走廊，以便进入监控室。
+Katei 打开监控室的锁，我们查看了水晶层的布局。
+
+-------- 146/310  notes  notes.rpy  旁白  notes_rpy_L000061_1_c527cc01 --------
+【原文】
+
+-Security room
+The {u}computer displays {time=9:41.}{/u} We talk to Suripo, a policeman outside the tower.
+At the end of the conversation, the leftmost computer monitor powers off.
+The computer and all the screens power off.
+-Mechanical room
+Sai and I go to the mechanical room to check the light breakers.
+Sai guarantees that Katei has been lying to us.
+-Event room
+Sai and I go to the event room. The Sekimeiya is still inside the cabinet.
+
+【译文】
+-监控室
+{u}电脑显示 {time=9:41.}{/u} 我们与塔外的一名警察 Suripo 交谈。
+谈话结束时，最左侧的电脑显示器关机了。
+电脑和所有屏幕都断电了。
+-机械室
+Sai 和我去机械室检查照明断路器。
+Sai 断言 Katei 一直在骗我们。
+-活动室
+Sai 和我前往活动室。Sekimeiya 仍在展示柜里。
+
+-------- 147/310  notes  notes.rpy  旁白  notes_rpy_L000078_1_fdcf6b8f --------
+【原文】
+
+-Security room
+Sai and I return to the security room.
+Katei presses the power button on the computer, and it boots up.
+-Hallway A
+We leave Katei in the security room and go look for Naomi.
+
+【译文】
+-监控室
+Sai 和我回到监控室。
+Katei 按下电脑的电源按钮，电脑启动了。
+-A走廊
+我们把 Katei 留在监控室，然后去找 Naomi。
+
+-------- 148/310  notes  notes.rpy  旁白  notes_rpy_L000091_1_9e4c899e --------
+【原文】
+
+-Event room
+Sai takes the Sekimeiya out of the cabinet.
+Katei enters the room and puts the Sekimeiya back in the cabinet.
+Katei explains what he knows about the Sekimeiya's discovery.
+-Crystal room A1
+We begin searching through all the rooms to find Naomi.
+All the curtains are lowered, and behind them are gemstones displayed to the visitors.
+
+【译文】
+-活动室
+Sai 把 Sekimeiya 从展示柜里取出来。
+Katei 走进房间，把 Sekimeiya 放回展示柜。
+Katei 说明了他所知道的 Sekimeiya 被发现的情况。
+-水晶展室 A1
+我们开始逐个搜查所有房间，寻找 Naomi。
+所有窗帘都放了下来，帘子后面是展示给参观者的宝石。
+
+-------- 149/310  notes  notes.rpy  旁白  notes_rpy_L000106_1_c486ae7a --------
+【原文】
+
+-Hallway A
+Isla finds a rusty key on the floor of hallway A, close to the event room.
+-Crystal floor
+We keep looking for Naomi in the crystal rooms.
+-Crystal room A5
+We enter room A5. The walls show that smoke was released in it.
+All the cabinets are empty.
+
+【译文】
+-A走廊
+Isla 在 A走廊靠近活动室的地板上找到一把生锈的钥匙。
+-水晶层
+我们继续在水晶展室里寻找 Naomi。
+-水晶展室 A5
+我们进入 A5 房间。墙壁表明这里曾释放过烟雾。
+所有展示柜都是空的。
+
+-------- 150/310  notes  notes.rpy  旁白  notes_rpy_L000121_1_a8a5a0c4 --------
+【原文】
+
+-Hallway C
+We find an empty suitcase in hallway C.
+-Staff room
+After the cleaning room and B6, we enter the staff room.
+Katei opens his locker. Only a coat is inside it.
+-Crystal floor
+We look through the remaining rooms in hallway B and are unable to find Naomi.
+
+【译文】
+-C走廊
+我们在 C走廊里找到一个空行李箱。
+-员工室
+在查看完清洁间和 B6 之后，我们进入员工室。
+Katei 打开他的储物柜。里面只有一件外套。
+-水晶层
+我们查看了 B走廊剩下的房间，仍然找不到 Naomi。
+
+-------- 151/310  notes  notes.rpy  旁白  notes_rpy_L000136_1_745206e6 --------
+【原文】
+
+-Floor 6
+Shiroya, Isla, Erina, and I take the elevator to the sixth floor.
+We investigate it and don't find anyone.
+-Floor 5
+We go to the fifth floor, which shares a similar layout.
+As we're about to leave, Erina and I hear a deep sound in the distance.
+Isla tells us that a friend of hers told her that we'd get trapped in the tower.            
+
+【译文】
+-6楼
+Shiroya、Isla、Erina 和我乘电梯来到六楼。
+我们搜查了一番，没有找到任何人。
+-5楼
+我们前往五楼，那里的布局与六楼相似。
+就在我们准备离开时，Erina 和我听到远处传来一声低沉的声音。
+Isla 告诉我们，她的一个朋友曾告诉她，我们会被困在这座塔里。
+
+-------- 152/310  notes  notes.rpy  旁白  notes_rpy_L000151_1_031558c3 --------
+【原文】
+
+-Floor 4
+We go to the fourth floor. It looks like the previous two.
+Akaro and Sai are next to the elevator. They tell us that Naomi appeared from below and asked to talk to Katei privately.
+Katei comes from the stairs. He says that Naomi refused to come with him after she failed to clear her name.
+Shiroya and I stay on the fourth floor after everyone goes to find Naomi.
+
+【译文】
+-4楼
+我们来到四楼。这里和上面两层看起来一样。
+Akaro 和 Sai 在电梯旁。他们告诉我们，Naomi 从楼下出现，并要求与 Katei 单独谈谈。
+Katei 从楼梯过来。他说 Naomi 在未能洗清自己的嫌疑后，拒绝跟他走。
+大家去找 Naomi 后，Shiroya 和我留在四楼。
+
+-------- 153/310  notes  notes.rpy  旁白  notes_rpy_L000164_1_2ba2adce --------
+【原文】
+
+-Floor 4
+Shiroya and I hear the elevator passing through the fourth floor. We run up.
+-Floor 5
+We call the elevator on the fifth floor and determine it was on the sixth.
+-Floor 6
+I stay next to the elevator while Shiroya goes to find the person who took the elevator.
+She comes back and hasn't found anyone, but she brings me to the door that we missed earlier, presumably leading to the attic.
+Akaro comes and tells us to hurry to the crystal floor. We walk all the way down.
+
+【译文】
+-4楼
+Shiroya 和我听到电梯经过四楼。我们往上跑。
+-5楼
+我们在五楼叫了电梯，并确定它刚才在六楼。
+-6楼
+我留在电梯旁，Shiroya 去找乘坐电梯的人。
+她回来了，没有找到任何人，但她把我带到一扇我们之前漏看的门前，那扇门大概通往阁楼。
+Akaro 过来，让我们赶快去水晶层。我们一路走了下去。
+
+-------- 154/310  notes  notes.rpy  旁白  notes_rpy_L000180_1_a72374cd --------
+【原文】
+
+-Crystal floor
+Everyone is by the crystal floor's staircase. Sai tells us that the Sekimeiya has been taken from the cabinet.
+Shiroya and I confirm that the Sekimeiya is gone.
+-Crystal room A5
+Sai and I fail to find the Sekimeiya in room A5, but I realize that some cabinets have inner compartments.
+-Crystal floor
+We resume the crystal floor search.
+
+【译文】
+-水晶层
+大家都在水晶层的楼梯旁。Sai 告诉我们，Sekimeiya 被人从展示柜里拿走了。
+Shiroya 和我确认 Sekimeiya 不见了。
+-水晶展室 A5
+Sai 和我在 A5 房间里没找到 Sekimeiya，但我意识到有些展示柜有内部隔层。
+-水晶层
+我们重新开始搜查水晶层。
+
+-------- 155/310  notes  notes.rpy  旁白  notes_rpy_L000195_1_453d69a2 --------
+【原文】
+
+-Crystal room B4
+In room B4, Naomi's dead body is found.
+Katei accuses me of having killed Naomi. I notice that one of the cabinets has a damaged wheel. Inside the cabinet is the Sekimeiya.
+
+【译文】
+-水晶展室 B4
+在 B4 房间里，Naomi 的尸体被发现了。
+Katei 指控我杀了 Naomi。我注意到其中一个展示柜的轮子坏了。展示柜里面是 Sekimeiya。
+
+-------- 156/310  notes  notes.rpy  旁白  notes_rpy_L000206_1_055367fe --------
+【原文】
+
+-Hallway A
+After touching the Sekimeiya, I find myself in hallway A, next to the lobby.
+-Crystal floor
+I can't find anyone on the crystal floor.
+-Floor 6
+I take the elevator to the sixth floor.
+Shiroya is there, but she doesn't pay me any mind and enters the partitions.
+The attic door is still locked. I can't find Shiroya in the partitions.
+-Crystal floor
+After minutes of waiting on floor 5, I keep going down the floors without finding anyone.
+
+【译文】
+-A走廊
+触碰 Sekimeiya 之后，我发现自己身处大厅旁的 A走廊。
+-水晶层
+我在水晶层找不到任何人。
+-6楼
+我乘电梯来到六楼。
+Shiroya 在那里，但她没有理我，走进了隔间。
+阁楼的门仍然锁着。我在隔间里找不到 Shiroya。
+-水晶层
+在五楼等了几分钟后，我继续往楼下走，却没有找到任何人。
+
+-------- 157/310  notes  notes.rpy  旁白  notes_rpy_L000224_1_05c220bd --------
+【原文】
+
+-Crystal room B4
+Everyone is in room B4 again. They say that I disappeared as soon as I leaned into the cabinet. The Sekimeiya has become gray.
+I entertain the idea that I might've gone to the past.
+
+【译文】
+-水晶展室 B4
+大家又都聚集在 B4 房间里。他们说，我刚探身靠近展示柜就消失了。Sekimeiya 变成了灰色。
+我开始设想，自己也许回到了过去。
+
+-------- 158/310  notes  notes.rpy  旁白  notes_rpy_L000235_1_9224d120 --------
+【原文】
+
+-Event room
+The moment that we put the Sekimeiya in a cold environment, it becomes white again. We lock the cabinet manually.
+We hear a door closing outside of the room.
+-Crystal floor
+We search for the person who made the sound. Erina, Isla, Katei, and I look through the hallway A rooms while Shiroya, Akaro, and Sai look through hallway B's.
+Nobody is found. Sai, doubting Katei's word, finds the Sekimeiya in the storeroom.
+-Event room
+Erina and Isla stay by the stairs. The rest of us put the Sekimeiya inside the cabinet.
+-Crystal room B4
+We check Naomi's corpse and are unable to find the key for the Sekimeiya cabinet.
+Before leaving, I detach a curtain from a cabinet and lay it over Naomi.
+
+【译文】
+-活动室
+我们把 Sekimeiya 放进低温环境的那一刻，它又变白了。我们手动锁上了展示柜。
+我们听到房间外有一扇门关上的声音。
+-水晶层
+我们寻找发出声音的人。Erina、Isla、Katei 和我查看 A走廊的房间，而 Shiroya、Akaro 和 Sai 查看 B走廊的房间。
+一个人也没找到。Sai 怀疑 Katei 的话，最终在储藏室里找到了 Sekimeiya。
+-活动室
+Erina 和 Isla 留在楼梯旁。我们其余的人把 Sekimeiya 放进展示柜。
+-水晶展室 B4
+我们检查了 Naomi 的尸体，却找不到打开 Sekimeiya 展示柜的钥匙。
+离开前，我从一个展示柜上扯下窗帘，盖在 Naomi 身上。
+
+-------- 159/310  notes  notes.rpy  旁白  notes_rpy_L000254_1_3927fb1e --------
+【原文】
+
+-Ashiya Tower
+To find the person who made the noise, all of us stay on a different floor. Erina and Isla stay on floor 2, Sai stays on floor 3, Akaro stays on floor 4, Shiroya and I stay on floor 5, and Katei stays on floor 6.
+-Floor 5
+Shiroya and I talk in front of the elevator. Minutes later, Katei returns, and we all go back to the crystal floor.
+-Crystal floor
+Sai calls the elevator and assures us that it came from floor 5.
+Sai reveals that while we were all on different floors, he heard the elevator three times. Everyone else says they didn't hear anything.
+-Event room
+The Sekimeiya hasn't been taken from the cabinet.
+{u}Sai's wristwatch displays {time=11:20.}{/u}
+
+【译文】
+-芦屋塔
+为了找出发出声响的人，我们所有人都分别待在不同的楼层。Erina 和 Isla 留在 2楼，Sai 留在 3楼，Akaro 留在 4楼，Shiroya 和我留在 5楼，Katei 留在 6楼。
+-5楼
+Shiroya 和我在电梯前说话。几分钟后，Katei 回来了，我们一起回到水晶层。
+-水晶层
+Sai 叫来电梯，并向我们保证它是从 5楼下来的。
+Sai 透露，当我们都在不同楼层时，他听到了三次电梯声。其他人都说他们什么也没听见。
+-活动室
+Sekimeiya 没有被从展示柜里拿走。
+{u}Sai 的手表显示 {time=11:20.}{/u}
+
+-------- 160/310  notes  notes.rpy  旁白  notes_rpy_L000272_1_ce923b7b --------
+【原文】
+
+-Event room
+We hear the sound of a door closing yet again, although quieter than the previous time.
+-Crystal floor
+We search through the crystal floor and are unable to find anyone. Realizing that we forgot the bathrooms, and that the men's is locked, Katei retrieves the bathroom key from the security room.
+-Men's bathroom
+Inside the bathroom, we find Naomi's corpse.
+-Crystal room B4
+Naomi's original corpse is still in room B4.
+-Men's bathroom
+We inspect Naomi's second body.
+-Event room
+Sai takes the Sekimeiya out of the cabinet, but nothing seems to happen when we touch it.
+
+【译文】
+-活动室
+我们又听到了门关上的声音，不过比上一次轻。
+-水晶层
+我们搜遍了水晶层，一个人也没找到。意识到我们忘了厕所，而且男厕所锁着，Katei 便从监控室取来厕所钥匙。
+-男厕所
+在厕所里，我们发现了 Naomi 的尸体。
+-水晶展室 B4
+Naomi 原本的尸体仍然在 B4 房间里。
+-男厕所
+我们检查了 Naomi 的第二具尸体。
+-活动室
+Sai 把 Sekimeiya 从展示柜里取出来，但我们触碰它时似乎什么也没发生。
+
+-------- 161/310  notes  notes.rpy  旁白  notes_rpy_L000292_1_0c82af8a --------
+【原文】
+
+-Crystal room B4
+I realize that one of Naomi's keys might unlock the attic. I take it from her keyring.
+Shiroya reveals that Akaro is no longer with us.
+-Crystal floor
+Next to the stairs, Erina and Isla deny having seen Akaro.
+The elevator's keyhole confirms that our key will unlock the entrance to the attic.
+We search through the crystal floor again and are unable to find Akaro.
+-Floor 6
+We unlock the attic's door.
+
+【译文】
+-水晶展室 B4
+我意识到 Naomi 的一把钥匙也许能打开阁楼。我从她的钥匙串上取下了那把钥匙。
+Shiroya 透露，Akaro 已经不见了。
+-水晶层
+在楼梯旁，Erina 和 Isla 否认见过 Akaro。
+电梯的钥匙孔证实，我们的钥匙能打开通往阁楼的入口。
+我们再次搜查水晶层，仍然找不到 Akaro。
+-6楼
+我们打开了阁楼的门锁。
+
+-------- 162/310  notes  notes.rpy  旁白  notes_rpy_L000309_1_33a4505e --------
+【原文】
+
+-Attic's living room
+Footprints reveal someone was in the attic recently.
+The footprints seem to start at the sofa, go to the staircase, and then to the hallway.
+* Attic footprints?|bg attic2
+* Attic footprints?|bg attic3
+There's an empty suitcase on the sofa, which looks like the one on the crystal floor.
+-Attic
+We inspect the attic and can't find anyone. It has four bedrooms, a kitchen, an empty storeroom, and a bathroom.
+
+【译文】
+-阁楼客厅
+脚印表明最近有人来过阁楼。
+脚印似乎从沙发开始，延伸到楼梯，然后通往走廊。
+* 阁楼里的脚印？|bg attic2
+* 阁楼里的脚印？|bg attic3
+沙发上有一个空行李箱，看起来和水晶层的那个一样。
+-阁楼
+我们检查了阁楼，找不到任何人。阁楼有四间卧室、一间厨房、一个空储藏室和一间浴室。
+
+-------- 163/310  notes  notes.rpy  旁白  notes_rpy_L000325_1_a71cd45d --------
+【原文】
+
+-Ashiya Tower
+After confirming that nobody else is in the attic, we disable the elevator and thoroughly inspect every floor on the way down to the crystal floor.
+-Crystal floor
+The men's bathroom door seems to have moved. Akaro is inside.
+Akaro appears unresponsive and tells us that he touched the Sekimeiya and teleported.
+Shiroya covers Naomi's second body with a curtain.
+-Event room
+I check that the Sekimeiya is inside the cabinet. I touch it and feel no response.  
+
+【译文】
+-芦屋塔
+确认阁楼里没有其他人后，我们停用了电梯，并在下楼前往水晶层的途中仔细检查了每一层。
+-水晶层
+男厕所的门似乎移动过。Akaro 在里面。
+Akaro 看起来反应迟钝，他告诉我们，他碰了 Sekimeiya 后被传送了。
+Shiroya 用窗帘盖住 Naomi 的第二具尸体。
+-活动室
+我确认 Sekimeiya 在展示柜里。我碰了碰它，没有任何反应。
+
+-------- 164/310  notes  notes.rpy  旁白  notes_rpy_L000341_1_7f95d7d3 --------
+【原文】
+
+-Attic
+We leave Akaro in the men's bathroom and return to the attic.
+-Right bedroom
+Shiroya, Erina, Isla, and I rest in the right bedroom.
+I notice a voice recorder inside Isla's purse. 
+We play a saved audio file that implies we'll be trapped in the tower for at least a month. We hear Akaro, Sai, and Isla's voices. Erina and I are mentioned to still be there.
+Sai and Katei arrive. They found a note in the kitchen that reveals that Naomi's job was to maintain the attic and keep it tidy.
+Shiroya finds the Sekimeiya cabinet key in her purse.
+
+【译文】
+-阁楼
+我们把 Akaro 留在男厕所，然后回到阁楼。
+-右侧卧室
+Shiroya、Erina、Isla 和我在右侧卧室休息。
+我注意到 Isla 的手提包里有一支录音笔。
+我们播放了一段保存的音频文件，其中暗示我们至少会被困在塔里一个月。我们听到了 Akaro、Sai 和 Isla 的声音。音频里提到 Erina 和我还留在那里。
+Sai 和 Katei 来了。他们在厨房找到一张纸条，上面写着 Naomi 的工作是维护阁楼并保持整洁。
+Shiroya 在自己的手提包里找到了 Sekimeiya 展示柜的钥匙。
+
+-------- 165/310  notes  notes.rpy  旁白  notes_rpy_L000357_1_0f2c5123 --------
+【原文】
+
+-Ashiya Tower
+Shiroya and I leave the bedroom and walk to the crystal floor. On the fifth floor, we come across Akaro, who's going to the attic.
+-Event room
+The Sekimeiya is no longer in the cabinet.
+-Crystal room B3
+Shiroya finds the Sekimeiya under a cushion in a cabinet.
+
+【译文】
+-芦屋塔
+Shiroya 和我离开卧室，走向水晶层。在五楼，我们遇到了正要去阁楼的 Akaro。
+-活动室
+Sekimeiya 已经不在展示柜里了。
+-水晶展室 B3
+Shiroya 在一个展示柜的坐垫下面找到了 Sekimeiya。
+
+-------- 166/310  notes  notes.rpy  旁白  notes_rpy_L000371_1_cda105bd --------
+【原文】
+
+-Security room
+I appear in the security room after touching the Sekimeiya and fall to the floor.
+The {u}computer says it's {time=11:10}{/u}, letting me estimate that I traveled forty minutes to the past.
+-Hallway A
+I see the group coming from the upper floors.
+-Cleaning room
+I wait in the cleaning room, staring at the men's bathroom.
+Naomi comes from hallway C and looks inside the men's bathroom. She is pulled in by someone.
+I run to save Naomi, but the door is slammed and locked from the inside. Recognizing it as the sound we heard from the event room, I run to the second floor.
+
+【译文】
+-监控室
+触碰 Sekimeiya 后，我出现在监控室，并倒在地上。
+{u}电脑显示现在是 {time=11:10}{/u}，这让我估计自己回到了四十分钟前的过去。
+-A走廊
+我看到那群人从楼上下来。
+-清洁间
+我在清洁间里等待，盯着男厕所。
+Naomi 从 C走廊过来，朝男厕所里看。她被人拉了进去。
+我跑过去想救 Naomi，但门被猛地关上，并从里面锁住了。我认出那正是我们在活动室听到的声音，于是跑向二楼。
+
+-------- 167/310  notes  notes.rpy  旁白  notes_rpy_L000389_1_baaf588c --------
+【原文】
+
+-Floor 2 
+I wait in the floor 2 partitions until the group goes to the attic. I confirm that nobody walked up before that point.
+-Crystal floor
+I see that Naomi is dead in the bathroom. I look through every room and am unable to find Akaro.
+-Cleaning room
+I notice that I was the one who moved the bathroom's door. That's what causes the group to approach it and find Akaro inside when they come from the attic.
+The group goes back to the attic and leaves Akaro in the bathroom.
+Akaro walks to the attic.
+-Men's bathroom
+I'm unable to find anything of importance after Akaro leaves.
+I hear a sound outside the bathroom.
+
+【译文】
+-2楼 
+我在二楼的隔间里等到那群人前往阁楼。我确认在那之前没有人上楼。
+-水晶层
+我看到 Naomi 死在厕所里。我查看了每个房间，却找不到 Akaro。
+-清洁间
+我注意到，移动厕所门的人正是我。正因如此，当那群人从阁楼过来时，才会靠近那扇门并在里面发现 Akaro。
+那群人回到阁楼，把 Akaro 留在厕所里。
+Akaro 朝阁楼走去。
+-男厕所
+Akaro 离开后，我没能找到任何重要的东西。
+我听到厕所外传来一声响动。
+
+-------- 168/310  notes  notes.rpy  旁白  notes_rpy_L000408_1_361fe6a4 --------
+【原文】
+
+-Hallway A
+I find Sai in hallway A. We're both shocked to see each other.
+-Lobby
+Sai has the gray Sekimeiya in his hip pack. Soon after he takes it out, it suddenly turns white.
+-Crystal room B3
+Shiroya is not in the room where I traveled from.
+-Event room
+I prevent Sai from running away, and we put the Sekimeiya in its cabinet.
+
+【译文】
+-A走廊
+我在 A走廊找到了 Sai。我们俩看到对方都很震惊。
+-大厅
+Sai 的腰包里装着灰色 Sekimeiya。他把它取出来后不久，它突然变成了白色。
+-水晶展室 B3
+Shiroya 不在我穿越离开的那个房间里。
+-活动室
+我阻止 Sai 逃跑，然后我们把 Sekimeiya 放回它的展示柜。
+
+-------- 169/310  notes  notes.rpy  旁白  notes_rpy_L000424_1_69c83de1 --------
+【原文】
+
+-Security room
+I bring Sai to the security room and notice that the door wasn't shut. The computer monitors are on, and the {u}time displayed is {time=11:57.}{/u}
+The computer monitors power off due to prolonged inactivity. According to Sai, that means the computer hasn't been used in fifty minutes.
+The screen of Sai's wristwatch is blank.
+-Attic's living room
+We obtain a lithium battery for Sai's wristwatch.
+-Floor 6
+We swap the batteries, and the wristwatch powers on. The time and date show "--:--" and "9999-12-31" respectively.
+-Crystal floor
+Sai manages to run away.
+-Security room
+The {u}computer shows it's {time=12:18.}{/u}
+I leave at {time=12:31} after failing to display the live footage of the cameras.
+
+【译文】
+-监控室
+我把 Sai 带到监控室，并注意到门没有关。电脑显示器亮着，{u}显示的时间是 {time=11:57.}{/u}
+由于长时间无操作，电脑显示器关机了。按照 Sai 的说法，这意味着电脑已经五十分钟没有被使用过。
+Sai 的手表屏幕一片空白。
+-阁楼客厅
+我们为 Sai 的手表找到了一块锂电池。
+-6楼
+我们更换了电池，手表开机了。时间和日期分别显示为“--:--”和“9999-12-31”。
+-水晶层
+Sai 设法逃走了。
+-监控室
+{u}电脑显示现在是 {time=12:18.}{/u}
+在未能显示摄像头实时画面后，我在 {time=12:31} 离开。
+
+-------- 170/310  notes  notes.rpy  旁白  notes_rpy_L000445_1_6cd37d45 --------
+【原文】
+
+-Hallway A
+I reunite with Shiroya. She tells me she also traveled forty minutes to the past at the moment that I touched the Sekimeiya. She appeared in the partitions on the second floor.
+-Crystal floor
+We can't find the Sekimeiya in the event room or in room B3.
+-Right bedroom
+We return to the attic's bedroom and meet up with everyone else. {u}Sai's wristwatch displays {time=12:37}{/u}, and people claim he didn't leave the attic.
+-Crystal floor
+We go to the crystal floor to find the Sekimeiya. In the event room, we realize that Sai isn't with us, but we're able to find him in front of the cleaning room. When he sees us, he walks to hallway C.
+-Cleaning room
+Shiroya and I enter the room Sai had been about to open while Katei chases after Sai.
+
+【译文】
+-A走廊
+我与 Shiroya 重逢。她告诉我，在我触碰 Sekimeiya 的那一刻，她也回到了四十分钟前的过去。她出现在二楼的隔间里。
+-水晶层
+我们在活动室和 B3 房间里都找不到 Sekimeiya。
+-右侧卧室
+我们回到阁楼的卧室，与其他所有人会合。{u}Sai 的手表显示 {time=12:37}{/u}，而大家都说他没有离开过阁楼。
+-水晶层
+我们去水晶层寻找 Sekimeiya。在活动室，我们意识到 Sai 没有和我们在一起，但我们在清洁间前找到了他。他一看到我们，就朝 C走廊走去。
+-清洁间
+Katei 去追 Sai 时，Shiroya 和我进入了 Sai 刚才正要打开的那个房间。
+
+-------- 171/310  notes  notes.rpy  旁白  notes_rpy_L000463_1_70567967 --------
+【原文】
+
+-Attic's living room
+I suddenly find myself in the living room.
+Shiroya appears from the hallway, and we realize that both of us just traveled from the cleaning room.
+-Left bedroom
+We go to the upper level of the left bedroom.
+We estimate that we traveled at {time=12:40} and went one hour to the past. Shiroya and I seemed to have appeared in the locations we'd been at {time=12:10.}
+Both of us fall asleep.
+
+【译文】
+-阁楼客厅
+我突然发现自己身处客厅。
+Shiroya 从走廊出现，我们意识到我们俩刚刚都是从清洁间穿越过来的。
+-左侧卧室
+我们来到左侧卧室的上层。
+我们估计自己是在 {time=12:40} 穿越的，回到了一个小时前。Shiroya 和我似乎出现在了我们在 {time=12:10.} 所处的位置。
+我们两个都睡着了。
+
+-------- 172/310  notes  notes.rpy  旁白  notes_rpy_L000478_1_3c5cd5a4 --------
+【原文】
+
+-Left bedroom
+Shiroya and I reawaken.
+-Attic
+The door to the staircase has been closed, telling us that the group already left the right bedroom. We walk to the crystal floor.
+-Cleaning room
+The cleaning cart has disappeared. Three cleaning buckets, which were under it, are still there. The white Sekimeiya is inside one.
+Touching the Sekimeiya doesn't make us travel, and I notice that it's cold.
+-Crystal room B4
+I take a key from Naomi's keyring.
+-Staff room
+We're able to use the key to open a locker, and we lock the Sekimeiya inside it.
+-Hallway B
+We can't find anyone in any of the hallway B rooms.
+-Lobby
+Erina, Akaro, Katei, and Sai are next to the metallic shutter.
+
+【译文】
+-左侧卧室
+Shiroya 和我醒来。
+-阁楼
+通往楼梯的门已经关上，这说明众人已经离开了右侧卧室。我们走向水晶层。
+-清洁间
+清洁推车不见了。原来放在下面的三个清洁桶还在，其中一个里面装着白色 Sekimeiya。
+触碰 Sekimeiya 并没有让我们穿越，我还注意到它是冷的。
+-水晶展室 B4
+我从 Naomi 的钥匙圈上取下一把钥匙。
+-员工室
+我们用那把钥匙打开了一个储物柜，把 Sekimeiya 锁在里面。
+-B走廊
+B走廊的所有房间里都找不到人。
+-大厅
+Erina、Akaro、Katei 和 Sai 在金属卷帘门旁。
+
+-------- 173/310  notes  notes.rpy  旁白  notes_rpy_L000501_1_cc49aabf --------
+【原文】
+
+-Lobby
+Sai tells us what happened while we were sleeping.
+After Shiroya and I disappeared from the cleaning room, Sai, Erina, Isla, and Akaro were also unable to find Katei. After they searched the entire crystal floor, Isla was drawn to a cabinet in room A5. She let out a yell before falling in and disappearing.
+Erina found the cabinet empty when she looked inside it. The group searched the building for Isla, but they couldn't find her. After waiting in the lobby, Katei appeared from hallway A, and he was told what had happened. They looked at the cabinet where Isla had disappeared and found her dead body. Then, they waited next to the shutter until the arrival of myself and Shiroya.
+
+【译文】
+-大厅
+Sai 告诉我们我们睡着时发生了什么。
+Shiroya 和我从清洁间消失后，Sai、Erina、Isla 和 Akaro 也找不到 Katei。他们把整个水晶层搜过一遍后，Isla 被水晶展室 A5 里的一个展示柜吸引。她大叫一声，随后跌进去消失了。
+Erina 往柜子里看时，发现里面空无一物。众人搜遍大楼找 Isla，却找不到她。在大厅等了一阵后，Katei 从 A走廊出现，他们把事情告诉了他。他们去查看 Isla 消失的那个展示柜，发现了她的尸体。然后，他们一直在卷帘门旁等到我和 Shiroya 出现。
+
+-------- 174/310  notes  notes.rpy  旁白  notes_rpy_L000513_1_f334d7ae --------
+【原文】
+
+-Crystal room A5
+I see Isla's body in the cabinet, and next to it is the white Sekimeiya.
+-Cleaning room
+Everyone verifies that the Sekimeiya is no longer in the cleaning room.
+-Event room
+I bring the Sekimeiya from room A5 to its cabinet.
+-Crystal room A5
+A quick glance reveals no blood or apparent wounds on Isla's corpse.
+
+【译文】
+-水晶展室 A5
+我在展示柜里看到 Isla 的尸体，旁边是白色 Sekimeiya。
+-清洁间
+大家确认 Sekimeiya 已经不在清洁间里。
+-活动室
+我把 Sekimeiya 从水晶展室 A5 带回它的展示柜。
+-水晶展室 A5
+快速一瞥，Isla 的尸体上没有血，也没有明显伤口。
+
+-------- 175/310  notes  notes.rpy  旁白  notes_rpy_L000529_1_cdc62190 --------
+【原文】
+
+-Lobby
+We all wait in the lobby.
+Katei and Sai leave the lobby and don't immediately return. Before I go to find them, Katei comes back.
+Shiroya and I go find Sai.
+
+【译文】
+-大厅
+我们都在大厅等待。
+Katei 和 Sai 离开大厅，没有立刻回来。在我去找他们之前，Katei 回来了。
+Shiroya 和我去找 Sai。
+
+-------- 176/310  notes  notes.rpy  旁白  notes_rpy_L000541_1_e4d23fd4 --------
+【原文】
+
+-Event room
+The Sekimeiya is still in the cabinet.
+-Crystal room B4
+The temperature of one of the cabinets is set to 0ºC. We change it to "room temperature".
+-Storeroom
+Shiroya finds the mechanism that uncovers a secret corridor. At the end of it, there's a door without a handle.
+The others come and see the secret corridor.
+-Event room
+Erina suggests locking ourselves up in one place until {time=21:00.}
+
+【译文】
+-活动室
+Sekimeiya 还在展示柜里。
+-水晶展室 B4
+其中一台展示柜的温度被设为 0ºC。我们把它改成“室温”。
+-储藏室
+Shiroya 找到了一个能打开秘密走廊的机关。走到尽头，有一扇没有把手的门。
+其他人过来看到了这条秘密走廊。
+-活动室
+Erina 提议我们把自己锁在一个地方，直到 {time=21:00.}
+
+-------- 177/310  notes  notes.rpy  旁白  notes_rpy_L000558_1_1ebb44b0 --------
+【原文】
+
+-Right bedroom
+The key to the Sekimeiya cabinet is still in the bedroom.
+-Event room
+We lock the Sekimeiya inside the cabinet.
+-Right bedroom
+We inspect the room and make sure none of us are hiding anything.
+We lock ourselves inside the bedroom.
+{u}Sai's wristwatch displays {time=15:08.}{/u}
+
+【译文】
+-右侧卧室
+Sekimeiya 展示柜的钥匙还在卧室里。
+-活动室
+我们把 Sekimeiya 锁进展示柜。
+-右侧卧室
+我们检查房间，确认我们当中没有人藏东西。
+我们把自己反锁在卧室里。
+{u}Sai 的手表显示 {time=15:08.}{/u}
+
+-------- 178/310  notes  notes.rpy  旁白  notes_rpy_L000574_1_60ea192e --------
+【原文】
+
+-Right bedroom
+Erina, Shiroya, and I go to the upper level of the bedroom, where Shiroya presents the possibility of Isla's friend being Isla herself.
+Katei comes up from the hatch, accusing me of being behind all the deaths.
+We realize that Akaro and Sai have escaped.
+The inner chain isn't set, and the key to the Sekimeiya cabinet is gone.
+
+【译文】
+-右侧卧室
+Erina、Shiroya 和我来到卧室上层，Shiroya 在那里提出，Isla 的朋友可能就是 Isla 本人。
+Katei 从舱口爬上来，指责我是一切死亡的幕后黑手。
+我们意识到 Akaro 和 Sai 已经逃走了。
+内侧的门链没有挂上，Sekimeiya 展示柜的钥匙也不见了。
+
+-------- 179/310  notes  notes.rpy  旁白  notes_rpy_L000587_1_65367b32 --------
+【原文】
+
+-Right bedroom
+Akaro knocks from the outside. He opens the door, which has the key inserted on his side.
+Akaro claims not to know Katei, and many of his memories contradict ours. We close the door again and set the chain.
+We leave Akaro on the bed while the rest of us go to the upper level of the bedroom.
+
+【译文】
+-右侧卧室
+Akaro 从外面敲门。他打开了门——钥匙插在他那一侧。
+Akaro 声称不认识 Katei，而且他的许多记忆与我们的相矛盾。我们再次关上门，挂上门链。
+我们把 Akaro 留在床上，其余人则去了卧室上层。
+
+-------- 180/310  notes  notes.rpy  旁白  notes_rpy_L000599_1_4460fb17 --------
+【原文】
+
+-Right bedroom
+I wonder whether Akaro and Sai escaped the bedroom by thinking up a causal loop.
+I'm unable to execute a causal loop myself.
+We realize that Akaro has escaped again. This time, the chain is still set.
+Katei takes the bedroom key from Erina's pocket and unlocks the door. He and Erina leave.
+
+【译文】
+-右侧卧室
+我琢磨 Akaro 和 Sai 是不是靠想出一个因果循环而逃出了卧室。
+我自己无法执行因果循环。
+我们意识到 Akaro 又逃走了。这一次，门链仍然挂着。
+Katei 从 Erina 的口袋里拿出卧室钥匙，打开了门。他和 Erina 离开了。
+
+-------- 181/310  notes  notes.rpy  旁白  notes_rpy_L000612_1_03bd9ed7 --------
+【原文】
+
+-Right bedroom
+Shiroya and I reattach the door handles.
+-Kitchen
+I try to have some tap water, but it's not drinkable.
+-Ashiya Tower
+We notice that the elevator was reenabled. As we're walking down the floors, we hear the elevator once on floors 4 and 3.
+
+【译文】
+-右侧卧室
+我和 Shiroya 重新装上门把手。
+-厨房
+我想喝点自来水，但水不能饮用。
+-芦屋塔
+我们注意到电梯恢复了运行。我们往下走时，在第 4 层和第 3 层各听到一次电梯的声音。
+
+-------- 182/310  notes  notes.rpy  旁白  notes_rpy_L000626_1_7ad83672 --------
+【原文】
+
+-Crystal floor
+The elevator is on the crystal floor.
+-Event room
+The Sekimeiya is not inside the cabinet.
+-Staff room
+The Sekimeiya is not inside Naomi's locker.
+-Women's bathroom
+I flush the key to Naomi's locker away, but nothing seems to happen as a result.
+-Crystal room B6
+We find the white Sekimeiya on the floor of room B6.
+
+【译文】
+-水晶层
+电梯停在水晶层。
+-活动室
+Sekimeiya 不在展示柜里。
+-员工室
+Sekimeiya 不在 Naomi 的储物柜里。
+-女洗手间
+我把 Naomi 储物柜的钥匙冲进马桶，但似乎没有产生任何结果。
+-水晶展室 B6
+我们在水晶展室 B6 的地板上发现了白色 Sekimeiya。
+
+-------- 183/310  notes  notes.rpy  旁白  notes_rpy_L000644_1_2386b015 --------
+【原文】
+
+-Right bedroom
+Shiroya and I travel from room B6 to the right attic bedroom.
+-Attic
+We determine that we traveled a few minutes to the past. Shiroya calls the elevator, and we realize that the last two times we heard it were our doing. We take it to the crystal floor.
+-Lobby
+We conclude that we traveled five minutes to the past and appeared where we'd been ten minutes before traveling.
+Shiroya notices a drop of blood near the hallway A door.
+I see that the key to Naomi's locker is still in my pocket, which confirms that a past body of mine was replicated.
+-Women's bathroom
+I flush Naomi's locker key away again.
+-Crystal room B6
+The Sekimeiya is not in the room.
+We find the Sekimeiya inside a drawer of a cabinet after noticing it wasn't properly shut.
+
+【译文】
+-右侧卧室
+我和 Shiroya 从水晶展室 B6 穿越到了阁楼的右侧卧室。
+-阁楼
+我们确定自己回到了几分钟前。Shiroya 叫来电梯，我们意识到前两次听到电梯声都是我们自己弄出来的。我们乘电梯到水晶层。
+-大厅
+我们得出结论：我们回到了五分钟前，并出现在穿越前十分钟我们所在的位置。
+Shiroya 注意到 A走廊门口附近有一滴血。
+我看到 Naomi 储物柜的钥匙还在我口袋里，这证实了我过去的一具身体被复制了。
+-女洗手间
+我又把 Naomi 储物柜的钥匙冲走了。
+-水晶展室 B6
+Sekimeiya 不在房间里。
+我们注意到一个展示柜没有关好，随后在它的抽屉里找到了 Sekimeiya。
+
+-------- 184/310  notes  notes.rpy  旁白  notes_rpy_L000666_1_f4277670 --------
+【原文】
+
+-Ashiya Tower
+In front of the event room, Atsuki touches the Sekimeiya and finds himself in the dark. Thanks to a faint light, he realizes he's in the lobby of Ashiya Tower.
+While he's in hallway B, a robotic voice coming from the security room plays throughout the floor. Atsuki realizes it's not addressing him, and he rushes to the staff room, where he can't be recorded.
+After a very long wait in the dark, the lights suddenly turn on.
+Atsuki hears a sound in the hallway, and soon after, the door to the staff room is opened by a man carrying a black suitcase.
+The man pushes Atsuki against the wall, making him rapidly lose consciousness. Before Atsuki's world fades, he sees four people in front of him, all of whom he recognizes—two men, a woman, and a girl.
+Atsuki dies in a world devoid of sense—a frozen world that had defied a very important rule.
+Ending: Ethereal Arc
+
+【译文】
+-芦屋塔
+在活动室前，Atsuki 触碰了 Sekimeiya，发现自己身处黑暗之中。借着一丝微光，他意识到自己在芦屋塔的大厅里。
+当他在 B走廊时，监控室传来的机械般的声音通过整层楼的广播响起。Atsuki 意识到那不是在对他说话，便冲进员工室——那里不会被监控拍到。
+在黑暗中等了很久之后，灯突然亮了。
+Atsuki 听到走廊里有声音，不久后，员工室的门被一个提着黑色手提箱的男人打开。
+男人把 Atsuki 按在墙上，使他迅速失去意识。在 Atsuki 的世界消失之前，他看到面前有四个人，而且全都认识——两个男人、一个女人和一个女孩。
+Atsuki 在一个毫无意义的世界中死去——一个违背了极其重要规则的冻结世界。
+结局：Ethereal Arc
+
+-------- 185/310  notes  notes.rpy  旁白  notes_rpy_L000682_1_918c7627 --------
+【原文】
+
+-Event room
+We decide not to activate the Sekimeiya and lock it inside its cabinet.
+We see another drop of blood on the floor.
+-Security room
+Nobody is in any of the hallway A rooms, and in the security room, we find Katei's body lying in a pool of blood under the desk. His skull has a large crack.
+We find a message on the computer's middle screen: "{time=10:04}: Camera(s) disabled and associated footage erased". {u}The time displayed is {time=17.}{/u}
+-Hallway A
+We can still see the green lights on the cameras.
+
+【译文】
+-活动室
+我们决定不启动 Sekimeiya，把它锁进展示柜。
+我们看到地板上又有一滴血。
+-监控室
+A走廊的所有房间都没有人，而在监控室里，我们发现 Katei 的尸体躺在桌下的一滩血里。他的头骨上有一道很大的裂口。
+我们发现电脑中间屏幕上有一条消息：“{time=10:04}：摄像头已停用，相关录像已删除”。{u}显示的时间是 {time=17.}{/u}
+-A走廊
+我们仍然能看到摄像头上的绿灯。
+
+-------- 186/310  notes  notes.rpy  旁白  notes_rpy_L000698_1_5c58cc48 --------
+【原文】
+
+-Crystal floor
+Shiroya and I search together to find Erina. We don't find anyone in the mechanical room or in the first rooms in hallway B.
+-Crystal room B4
+Erina's body is on the floor next to Naomi's, soaked in blood. We cover it with a curtain.
+-Event room
+Shiroya and I wait in the event room after confirming that the Sekimeiya is still in the cabinet.
+
+【译文】
+-水晶层
+我和 Shiroya 一起寻找 Erina。机械室和 B走廊最前面的几个房间里都没有人。
+-水晶展室 B4
+Erina 的尸体倒在 Naomi 的尸体旁，浑身是血。我们用窗帘盖住了她。
+-活动室
+确认 Sekimeiya 还在展示柜里后，我和 Shiroya 在活动室等待。
+
+-------- 187/310  notes  notes.rpy  旁白  notes_rpy_L000712_1_01825238 --------
+【原文】
+
+-Event room
+I fall asleep and am woken up by footsteps. I see Shiroya in hallway B wearing different clothes, and the moment she sees me, she walks away.
+I wake up the Shiroya who's still in the event room. I tell her what I saw and am unable to find the other Shiroya.
+-Security room
+The {u}computer displays {time=17:29.}{/u}
+-Right bedroom
+We walk to the attic. In the wardrobe of the right bedroom are the clothes the other Shiroya was wearing.
+I draw a cross on the collar of the shirt I saw Shiroya wearing.
+-Attic
+We call the elevator and press the lowest button, but we stop on the third floor.
+
+【译文】
+-活动室
+我睡着了，又被脚步声吵醒。我看到 B走廊里的 Shiroya 穿着不同的衣服，她一看到我就走开了。
+我叫醒还在活动室的 Shiroya，把看到的事告诉她，却找不到另一个 Shiroya。
+-监控室
+{u}电脑显示 {time=17:29.}{/u}
+-右侧卧室
+我们走到阁楼。右侧卧室的衣柜里放着另一个 Shiroya 穿的衣服。
+我在我看到 Shiroya 穿的那件衬衫领口画了一个叉。
+-阁楼
+我们叫来电梯，按下最底层的按钮，但电梯停在了三层。
+
+-------- 188/310  notes  notes.rpy  旁白  notes_rpy_L000730_1_2d3ae94a --------
+【原文】
+
+-Floor 3
+A knife swings at me from the partitions.
+-Attic
+Shiroya and I are chased, but we're able to lock ourselves in the attic.
+We confirm we're alone.
+-Left bedroom
+We hear someone walking in the hallway.
+-Attic's storeroom
+Unable to decide on an escaping method, we wait in the storeroom.
+-Floor 6
+We walk out of the attic. The exit door is unlocked, and Shiroya locks it with the key we'd left next to it.
+-Floor 4
+Sai swings a knife at me from behind.
+
+【译文】
+-三层
+一把刀从隔断后朝我挥来。
+-阁楼
+我和 Shiroya 被追赶，但我们成功把自己锁进了阁楼。
+我们确认只有我们两个人。
+-左侧卧室
+我们听到有人在走廊里走动。
+-阁楼储藏室
+我们无法决定逃跑方法，只能在储藏室里等待。
+-六层
+我们走出阁楼。出口的门没有锁，Shiroya 用我们留在门旁的钥匙把它锁上了。
+-四层
+Sai 从背后朝我挥刀。
+
+-------- 189/310  notes  notes.rpy  旁白  notes_rpy_L000752_1_d98256a2 --------
+【原文】
+
+-Ashiya Tower
+Atsuki and Shiroya board the elevator on the third floor and bring it to the attic.
+They find the right bedroom's key in the drawer, but before they can lock themselves inside, Sai knocks Shiroya away from the door.
+Sai stabs Atsuki. Shiroya attempts to stop him, but Sai slices her across the chest without giving it much thought. Sai stabs Atsuki repeatedly until his senses fade.
+Ending: Pendulum
+
+【译文】
+-芦屋塔
+Atsuki 和 Shiroya 在三层乘上电梯，把它叫到阁楼。
+他们在抽屉里找到了右侧卧室的钥匙，但还没等他们把自己锁进去，Sai 就把 Shiroya 从门边撞开。
+Sai 刺伤 Atsuki。Shiroya 试图阻止他，但 Sai 想都没想就划开了她的胸口。Sai 反复刺向 Atsuki，直到他失去意识。
+结局：Pendulum
+
+-------- 190/310  notes  notes.rpy  旁白  notes_rpy_L000766_1_4f7bfb4f --------
+【原文】
+
+-Ashiya Tower
+Atsuki and Shiroya board the elevator on the third floor. As it's moving up, they press the stop button and remain stationary between two floors.
+Once a long wait passes, Atsuki looks up and sees a hand stabbing a knife into his chest. He can't comprehend even a single piece of the ridiculous last image his brain perceives before his sight blackens.
+Ending: Personal Paradox
+
+【译文】
+-芦屋塔
+Atsuki 和 Shiroya 在三层乘上电梯。电梯上行时，他们按下停止按钮，停在两层之间不动。
+漫长的等待过去后，Atsuki 抬起头，看见一只手正把刀刺进他的胸口。在他视野变黑之前，大脑接收到的最后画面荒诞至极，他连其中一点都无法理解。
+结局：Personal Paradox
+
+-------- 191/310  notes  notes.rpy  旁白  notes_rpy_L000778_1_8eff461c --------
+【原文】
+
+-Floor 3
+I decide not to take the elevator.
+-Event room
+We run to the event room. The Sekimeiya is still locked inside the cabinet.
+I collide with Sai after dashing to hallway B.
+Sai's will to kill me seems to fade away. After he asks me what time it is, he says the {u}time on his wristwatch is {time=17:41.}{/u}
+Sai reveals he wants the Sekimeiya that's inside the cabinet. He leaves his knife on the floor and runs to hallway B.
+
+【译文】
+-三层
+我决定不乘电梯。
+-活动室
+我们跑到活动室。Sekimeiya 仍锁在展示柜里。
+我冲进 B走廊时撞上了 Sai。
+Sai 杀我的意志似乎消退了。他问我现在几点，然后说{u}他手表上的时间是 {time=17:41.}{/u}
+Sai 透露他想要展示柜里的 Sekimeiya。他把刀留在地板上，跑向 B走廊。
+
+-------- 192/310  notes  notes.rpy  旁白  notes_rpy_L000793_1_cc45c1c8 --------
+【原文】
+
+-Hallway B
+Before I can look at the hallway, I hear one of its doors closing.
+I find a new key in the cleaning room, but I'm unable to find Sai inside any room in hallway B.
+-Hallway A
+After looking at the mechanical room, I return to the event room from hallway A. Shiroya looks at the bathrooms and meets back up with me.
+-Event room
+Sai unlocks the cabinet and takes out the Sekimeiya.
+Approximately fifteen minutes later, Shiroya and I rush him. With a quick reaction, Sai touches the Sekimeiya and disappears, causing Shiroya to vanish with him.
+*Event Room Positioning|bg sr1
+
+【译文】
+-B走廊
+我还没来得及看向走廊，就听见其中一扇门关上的声音。
+我在清洁间找到一把新钥匙，但在 B走廊的任何房间里都找不到 Sai。
+-A走廊
+看过机械室后，我从 A走廊回到活动室。Shiroya 查看洗手间后回来与我会合。
+-活动室
+Sai 打开展示柜，取出 Sekimeiya。
+大约十五分钟后，我和 Shiroya 冲向他。Sai 反应很快，触碰 Sekimeiya 后消失了，Shiroya 也随他一起消失。
+*Event Room Positioning|bg sr1
+
+-------- 193/310  notes  notes.rpy  旁白  notes_rpy_L000810_1_dd07c900 --------
+【原文】
+
+-Event room
+Approximately five minutes after Sai and Shiroya disappear, the Sekimeiya turns white. I put it inside the cabinet.
+-Crystal floor
+I circle around the floor, wondering if I'm alone in the building. When I return to the event room, I take the Sekimeiya out of the cabinet, debating whether or not to use it.
+-Staff room
+I realize that the key I found in the cleaning room resembles the one for Naomi's locker. I bring the Sekimeiya to the staff room and manage to open a new locker.
+A winter coat and a pair of pants are inside it. In the coat, I find a set of keys and a spying bug.
+I touch the Sekimeiya when I estimate it's been out of the cabinet for fifteen minutes.
+
+【译文】
+-活动室
+Sai 和 Shiroya 消失大约五分钟后，Sekimeiya 变白了。我把它放进展示柜。
+-水晶层
+我在水晶层转了一圈，心想大楼里是不是只剩我一个人。回到活动室后，我把 Sekimeiya 从展示柜里拿出来，犹豫要不要使用它。
+-员工室
+我意识到在清洁间找到的那把钥匙很像 Naomi 储物柜的钥匙。我把 Sekimeiya 带到员工室，成功打开了一个新的储物柜。
+里面有一件冬季外套和一条裤子。在外套里，我找到一串钥匙和一个窃听器。
+我估计 Sekimeiya 离开展示柜已有十五分钟时，触碰了它。
+
+-------- 194/310  notes  notes.rpy  旁白  notes_rpy_L000826_1_41fd87e6 --------
+【原文】
+
+-Event room
+I appear in the event room, facing the covered cabinet.
+-Hallway A
+I find my past self walking in hallway A, which tells me I went about twenty minutes to the past.
+-Ashiya Tower
+I look through floors 2 to 6, but I realize the attic's door is locked and that Shiroya disappeared with its key.
+The elevator is still on the third floor.
+-Crystal floor
+I'm unable to find anyone in any of the hallway A rooms.
+-Security room
+I'm in the {u}security room from {time=18:24} to {time=18:30.}{/u}
+-Staff room
+I return to the staff room and find the gray Sekimeiya on the floor, which I lock in the new locker. I sit on the floor to rest.
+As I'm about to leave, I notice a note next to where I was sitting.
+
+【译文】
+-活动室
+我出现在活动室，面对着盖住的展示柜。
+-A走廊
+我发现过去的自己正在 A走廊走动，这表明我回到了大约二十分钟前。
+-芦屋塔
+我查看了 2 到 6 层，但发现阁楼的门锁着，而 Shiroya 带着钥匙消失了。
+电梯仍停在三层。
+-水晶层
+A走廊所有房间都找不到人。
+-监控室
+我{u}从 {time=18:24} 到 {time=18:30.} 都待在监控室。{/u}
+-员工室
+我回到员工室，在地板上发现灰色 Sekimeiya，把它锁进新储物柜。我坐在地上休息。
+正要离开时，我注意到刚才坐的位置旁边有一张纸条。
+
+-------- 195/310  notes  notes.rpy  旁白  notes_rpy_L000848_1_df224073 --------
+【原文】
+
+-Hallway B
+After crying out Shiroya's name, I hear footsteps coming from the lobby. Shiroya is there, but she's wearing the clothes from the attic.
+Erina appears from hallway C with bloodstained clothing.
+Erina's body is no longer in room B4. I realize that we didn't confirm her death.
+-Event room
+We follow Erina to the event room and find the Sekimeiya in the cabinet. Erina rolls it into her purse.
+Sai appears from hallway A.
+I see the note in Erina's purse. She gives it to me, and I quickly stuff it in one of my pockets.
+Erina claims to have seen Miiya.
+After approximately fifteen minutes of charge time, Erina activates the Sekimeiya.
+
+【译文】
+-B走廊
+喊出 Shiroya 的名字后，我听到从大厅传来的脚步声。Shiroya 在那里，但她穿着阁楼里的衣服。
+Erina 出现在 C走廊，衣服上沾满血。
+Erina 的尸体已经不在水晶展室 B4 里。我意识到我们并没有确认她的死亡。
+-活动室
+我们跟着 Erina 到活动室，在展示柜里找到了 Sekimeiya。Erina 把它塞进自己的手提包里。
+Sai 从 A走廊出现。
+我看到 Erina 手提包里的纸条。她把它给了我，我迅速塞进一个口袋。
+Erina 声称她看见了 Miiya。
+大约充能十五分钟后，Erina 启动了 Sekimeiya。
+
+-------- 196/310  notes  notes.rpy  旁白  notes_rpy_L000866_1_78770c30 --------
+【原文】
+
+-Event room
+Sai is the only person to disappear. The Sekimeiya vanishes from Erina's purse and appears in the cabinet.
+*Event Room Positioning|bg sr5
+-Staff room
+I confirm that the Sekimeiya I hid in the new locker is not there.
+-Hallway B
+Sai appears from the lobby and Akaro from the event room. Both of them are taken aback by Shiroya's presence.
+{u}Sai's wristwatch displays {time=18:43}{/u}, which is twenty minutes behind the real time I estimate.
+Out of nowhere, Shiroya runs to the attic and tells us not to follow her.
+-Hallway C
+We wait next to the elevator.
+When {u}Sai's wristwatch displays {time=19:08}{/u}, we go to the attic. Erina and I take the elevator while Sai and Akaro go up the stairs.
+
+【译文】
+-活动室
+只有 Sai 消失了。Sekimeiya 从 Erina 的手提包里消失，出现在展示柜中。
+*Event Room Positioning|bg sr5
+-员工室
+我确认我藏在新储物柜里的 Sekimeiya 不在那里。
+-B走廊
+Sai 从大厅出现，Akaro 从活动室出现。两人看到 Shiroya 在场都吃了一惊。
+{u}Sai 的手表显示 {time=18:43}{/u}，这比我估计的真实时间慢了二十分钟。
+Shiroya 突然跑向阁楼，叫我们不要跟上去。
+-C走廊
+我们在电梯旁等待。
+当{u}Sai 的手表显示 {time=19:08}{/u}时，我们前往阁楼。Erina 和我乘电梯，Sai 和 Akaro 走楼梯。
+
+-------- 197/310  notes  notes.rpy  旁白  notes_rpy_L000886_1_50fef387 --------
+【原文】
+
+-Floor 3
+The elevator suddenly stops on the third floor. That causes us to fall to the floor, and I injure my hand on the handrail.
+-Event room
+I take the elevator down by myself and run to the event room. The Sekimeiya isn't in the cabinet.
+-Staff room
+After failing to find the Sekimeiya in the cleaning room and B6, I find it in the unknown person's locker.
+
+【译文】
+-三层
+电梯突然停在三层。我们因此摔倒在地，我的手在扶手上受伤。
+-活动室
+我独自乘电梯下去，跑到活动室。Sekimeiya 不在展示柜里。
+-员工室
+我在清洁间和 B6 展室都没找到 Sekimeiya，最后在未知人物的储物柜里找到了它。
+
+-------- 198/310  notes  notes.rpy  旁白  notes_rpy_L000900_1_388d1539 --------
+【原文】
+
+-Hallway B
+I touch the Sekimeiya and appear at the front of hallway B, looking toward hallway C. My wound has stopped bleeding, but it's still there.
+I hear voices in the event room, which lets me estimate that I appeared a couple minutes before the time only Sai traveled.
+-Security room
+The {u}computer displays {time=18:54.}{/u}
+-Hallway A
+I slam the door to the storeroom and produce a loud sound we didn't originally hear.
+-Men's bathroom (Floor 2)
+I stay in a bathroom on floor 2. Shiroya no longer seems to go to the attic.
+-Floor 3
+I wait on the third floor to find the person who intercepted Erina and me in the elevator.
+I can't find anyone, but I hear the elevator opening in the distance.
+
+【译文】
+-B走廊
+我触碰 Sekimeiya，出现在 B走廊前端，面朝 C走廊。我的伤口已经不再流血，但伤口仍然存在。
+我听到活动室里传来说话声，这让我估计，我出现的时间比只有 Sai 一人穿越的那个时间点早几分钟。
+-监控室
+{u}电脑显示 {time=18:54.}{/u}
+-A走廊
+我猛地关上储藏室的门，制造出我们原本没有听到的巨响。
+-男洗手间（二层）
+我待在二层的洗手间里。Shiroya 似乎不再去阁楼了。
+-三层
+我在三层等待，想找出那个在电梯里拦截我和 Erina 的人。
+我没能找到任何人，但听到远处电梯打开的声音。
+
+-------- 199/310  notes  notes.rpy  旁白  notes_rpy_L000920_1_e543fa38 --------
+【原文】
+
+-Floor 3
+I see my past self and Erina in the elevator. When my past self leaves, I approach Erina.
+-Crystal floor
+I go to the crystal floor once I notice that Sai and Akaro aren't coming. Sai is next to the stairs.
+I'm able to see new drops of blood on the floor of hallway C, which fell from my wound before and after my last travel.
+-Floor 3
+Sai and I meet up with Erina on the third floor, and the three of us go see if we can find Shiroya in the attic.
+-Floor 6
+The attic's door is locked. I search Sai and can't find any keys on him.
+Shiroya opens the attic from the inside.
+
+【译文】
+-三层
+我看到过去的自己和 Erina 在电梯里。等过去的我离开后，我走向 Erina。
+-水晶层
+我注意到 Sai 和 Akaro 没有过来，便前往水晶层。Sai 在楼梯旁。
+我能看到 C走廊的地板上又多了几滴血，那是我上次穿越前后从伤口滴落的。
+-三层
+我和 Sai 在三层与 Erina 会合，三人一起去阁楼看看能不能找到 Shiroya。
+-六层
+阁楼的门锁着。我搜了 Sai 的身，没在他身上找到任何钥匙。
+Shiroya 从里面打开了阁楼。
+
+-------- 200/310  notes  notes.rpy  旁白  notes_rpy_L000938_1_f4b7317a --------
+【原文】
+
+-Floor 6
+Shiroya is wearing her normal clothes again. She tells us Sai locked her in a bedroom.
+{u}Sai's watch displays {time=19:40.}{/u}
+-Floor 5
+I tell Shiroya that I changed the past.
+-Staff room
+We can't find the Sekimeiya in the locker.
+-Event room
+The Sekimeiya is not in the cabinet.
+Sai and Erina arrive. We agree to wait in the lobby until {time=21}, but Shiroya and I plan to look for the Sekimeiya before that time comes.
+-Lobby
+Sai tells us it's {time=19:50.} The four of us sit to the left of the shutter.
+Approximately half an hour later, Shiroya goes to the bathroom.
+
+【译文】
+-六层
+Shiroya 又穿回了她平常的衣服。她告诉我们，Sai 把她锁在了一间卧室里。
+{u}Sai 的手表显示 {time=19:40.}{/u}
+-五层
+我告诉 Shiroya，我改变了过去。
+-员工室
+我们在储物柜里找不到 Sekimeiya。
+-活动室
+Sekimeiya 不在展示柜里。
+Sai 和 Erina 到了。我们同意在大厅等到 {time=21}，但我和 Shiroya 打算在那之前寻找 Sekimeiya。
+-大厅
+Sai 告诉我们现在是 {time=19:50.} 我们四个人坐在卷帘门左侧。
+大约半小时后，Shiroya 去了洗手间。
+
+-------- 201/310  notes  notes.rpy  旁白  notes_rpy_L000959_1_1abc8354 --------
+【原文】
+
+-Crystal floor
+We can't find Shiroya in the women's bathroom.
+-Ashiya Tower
+We go to the attic and thoroughly search for Shiroya. We do this on every floor until only the crystal floor is left.
+-Women's bathroom
+The toilet's water tank is open. Inside, on a pipe above the water, I find the gray Sekimeiya.
+-Event room
+I put the Sekimeiya in the cabinet, and it quickly turns white.
+-Crystal floor
+I look for Shiroya throughout the rooms in hallway A.
+
+【译文】
+-水晶层
+我们在女洗手间里找不到 Shiroya。
+-芦屋塔
+我们到阁楼彻底搜寻 Shiroya。我们逐层找过，直到只剩下水晶层。
+-女洗手间
+马桶的水箱开着。我在里面的水面上方一根管道上找到了灰色 Sekimeiya。
+-活动室
+我把 Sekimeiya 放进展示柜，它很快变白了。
+-水晶层
+我在 A走廊的所有房间里寻找 Shiroya。
+
+-------- 202/310  notes  notes.rpy  旁白  notes_rpy_L000977_1_d5e5c14a --------
+【原文】
+
+-Crystal room A1
+I find Shiroya leaning against a cabinet. She says she's dizzy and doesn't remember what happened very well.
+-Hallway A
+{u}Sai's wristwatch displays {time=20:37.}{/u}
+-Hallway C
+I bring Shiroya to hallway C to present a plan to go back to the past. She says she doesn't want to touch the Sekimeiya again.
+-Lobby
+Shiroya and I wait next to the shutter. Soon, Erina comes from hallway B.
+Erina leaves to find Sai. Minutes later, she returns from hallway B.
+
+【译文】
+-水晶展室 A1
+我在水晶展室 A1 找到 Shiroya，她靠在一个展示柜上。她说自己头晕，记不太清发生了什么。
+-A走廊
+{u}Sai 的手表显示 {time=20:37.}{/u}
+-C走廊
+我把 Shiroya 带到 C走廊，向她提出回到过去的计划。她说她不想再碰 Sekimeiya。
+-大厅
+我和 Shiroya 在卷帘门旁等待。不久，Erina 从 B走廊过来。
+Erina 离开去找 Sai。几分钟后，她从 B走廊回来。
+
+-------- 203/310  notes  notes.rpy  旁白  notes_rpy_L000995_1_2721d39c --------
+【原文】
+
+-Event room
+The Sekimeiya is not in the cabinet.
+Sai appears from hallway A. {u}His wristwatch displays {time=20:51.}{/u}
+-Security room
+After searching for the Sekimeiya in every hallway A room, I find it in the security room, behind the computer tower.
+-Event room
+I lock the Sekimeiya inside the cabinet.
+-Lobby
+The four of us wait next to the shutter for {time=21.}
+
+【译文】
+-活动室
+Sekimeiya 不在展示柜里。
+Sai 从 A走廊出现。{u}他的手表显示 {time=20:51.}{/u}
+-监控室
+我搜遍 A走廊的每个房间，最后在监控室里、电脑主机后面找到了 Sekimeiya。
+-活动室
+我把 Sekimeiya 锁进展示柜。
+-大厅
+我们四个人在卷帘门旁等到 {time=21.}
+
+-------- 204/310  notes  notes.rpy  旁白  notes_rpy_L001012_1_279351b2 --------
+【原文】
+
+-Lobby
+At {time=21}, I realize that Erina isn't next to us anymore.
+Shiroya runs to hallway B and tells us not to follow her.
+The lights go out at {time=21:03.}
+We hear Erina's strained voice. She says her finger is bleeding.
+At {time=21:08}, the shutter hasn't unlocked yet.
+-Event room
+The Sekimeiya is still inside the cabinet, but the glass is open.
+-Hallway A
+The security room is locked.
+-Lobby
+At {time=21:10}, I go to the lobby and fall to my knees in defeat.
+
+【译文】
+-大厅
+到了 {time=21}，我意识到 Erina 已经不在我们身边了。
+Shiroya 跑向 B走廊，叫我们不要跟上去。
+灯在 {time=21:03.} 熄灭了。
+我们听到 Erina 紧绷的声音。她说她的手指在流血。
+到了 {time=21:08}，卷帘门还没有解锁。
+-活动室
+Sekimeiya 仍在展示柜里，但玻璃罩是打开的。
+-A走廊
+监控室锁着。
+-大厅
+到了 {time=21:10}，我回到大厅，颓然跪倒在地。
+
+-------- 205/310  notes  notes.rpy  旁白  notes_rpy_L001033_1_5cce0f43 --------
+【原文】
+
+-???
+On the {u}24th of November, 2011{/u}, a forum thread composed of two paragraphs prophesied that an attack would happen in Ashiya Tower on December 15th. It claimed that an event called "The Sekimeiya" would take place on that day, and that a group of people would get trapped inside the building.
+
+【译文】
+-???
+{u}2011 年 11 月 24 日{/u}，一个由两段文字组成的论坛帖子预言 12 月 15 日芦屋塔将发生袭击。它声称当天会举办一场名为“The Sekimeiya”的活动，并且一群人会被困在大楼里。
+
+-------- 206/310  notes  notes.rpy  旁白  notes_rpy_L001044_1_b9245e12 --------
+【原文】
+
+-Yushibana
+On the {u}29th of November{/u}, Atsuki, Shiroya, and Miiya meet up at Atsuki's house. At Miiya's suggestion, they buy three tickets for an event to be held in Ashiya Tower on December 15th, named "The Sekimeiya".
+The next day, late in the evening, an explosion takes place inside a gem shop in Yushibana after a soporific gas is released inside. The impact kills Miiya instantly and makes Shiroya fall through the floor, putting her in a temporary coma.
+After Shiroya reawakens, she and Atsuki live together until December 15th, when they go to Ashiya Tower early in the morning to attend the event.
+
+【译文】
+-丰花
+在 {u}11 月 29 日{/u}，Atsuki、Shiroya 和 Miiya 在 Atsuki 家碰面。在 Miiya 的建议下，他们买了三张票，参加 12 月 15 日在芦屋塔举办的一场名为“The Sekimeiya”的活动。
+第二天深夜，丰花的一家宝石店在内部释放出麻醉气体后发生爆炸。冲击当场杀死了 Miiya，并让 Shiroya 从地板坠落，使她陷入暂时性昏迷。
+Shiroya 苏醒后，她和 Atsuki 一起生活到 12 月 15 日；那天清晨，他们前往芦屋塔参加活动。
+
+-------- 207/310  notes  notes.rpy  旁白  notes_rpy_L001056_1_ffc6c78b --------
+【原文】
+
+-Lobby
+After a very long wait, the hallway doors open at {time=9.}
+Naomi comes from the right door and takes the first group to the event room.
+-Event room
+As Naomi is unlocking the Sekimeiya cabinet, smoke appears, and I fall to the floor.
+
+【译文】
+-大厅
+等了很久之后，走廊的门在 {time=9.} 打开了。
+Naomi 从右边的门进来，带着第一批人前往活动室。
+-活动室
+Naomi 正在打开 Sekimeiya 展示柜的锁时，烟雾出现，我倒在地上。
+
+-------- 208/310  notes  notes.rpy  旁白  notes_rpy_L001069_1_2ab15e0d --------
+【原文】
+
+-Event room
+I reawaken in the event room. Its appearance has drastically changed.
+Atsuki and Akaro are safe, but Naomi is missing.
+The Sekimeiya seems to still be in the cabinet. Akaro tells us that the attack might've been orchestrated by Ashiya.
+-Right hallway
+We meet up with the second group and Katei.
+Katei tells us that we'll be trapped in Ashiya Tower for twelve hours.
+-Lobby
+A shutter is covering the exit. No smoke was released in the lobby.
+-Ashiya Tower
+We see that the smoke was also released in room A5. Looking for Naomi, we begin to search through the upper floors. On the third one, {u}Sai's wristwatch displays {time=9:50.}{/u}
+
+【译文】
+-活动室
+我在活动室里醒来。这里的样子已经大变。
+Atsuki 和 Akaro 安然无恙，但 Naomi 不见了。
+Sekimeiya 似乎还在展示柜里。Akaro 告诉我们，这场袭击可能是芦屋策划的。
+-右侧走廊
+我们在右侧走廊与第二组人和 Katei 会合。
+Katei 告诉我们，我们会被困在芦屋塔十二个小时。
+-大厅
+一道卷帘门封住了出口。大厅里没有释放烟雾。
+-芦屋塔
+我们发现水晶展室 A5 也被释放了烟雾。为了寻找 Naomi，我们开始搜查上层楼层。到三层时，{u}Sai 的手表显示 {time=9:50.}{/u}
+
+-------- 209/310  notes  notes.rpy  旁白  notes_rpy_L001088_1_f9fbf760 --------
+【原文】
+
+-Floor 4
+Atsuki finds a silver key in the staircase between floors 3 and 4. We walk down without alerting the others.
+-Floor 2
+Erina and Isla follow us. We tell them that we want to check if the key will unlock the security room.
+-Security room
+The key we found belongs to the door, but it's already open.
+The computer enters sleep mode. We notice that one of the cameras is showing hallway B.
+-Hallway B
+The lens of the camera closest to the lobby has less smoke on it than the others.
+
+【译文】
+-四层
+在第 3 层和第 4 层之间的楼梯上，Atsuki 找到一把银色钥匙。我们没有惊动其他人，悄悄往下走。
+-二层
+Erina 和 Isla 跟了上来。我们告诉她们，我们想确认这把钥匙能不能打开监控室。
+-监控室
+我们找到的钥匙确实是这扇门的，但门已经开着。
+电脑进入睡眠模式。我们注意到其中一个摄像头正显示着 B走廊。
+-B走廊
+最靠近大厅的那个摄像头镜头上，烟雾比其他摄像头少。
+
+-------- 210/310  notes  notes.rpy  旁白  notes_rpy_L001105_1_77a492c9 --------
+【原文】
+
+-Floor 6
+We make it to the sixth floor without finding anyone. The attic door is locked.
+-Floor 4
+We go back down, inspecting the floors. On the fourth, we come across Akaro.
+-Floor 3
+We find Sai on the third floor.
+Katei appears from the partition corridor.
+We go to the security room to communicate with the outside.
+
+【译文】
+-六层
+我们到达六层，没有发现任何人。阁楼的门锁着。
+-四层
+我们往下走，逐层检查。在四层，我们遇到了 Akaro。
+-三层
+我们在三层找到 Sai。
+Katei 从隔断走廊出现。
+我们前往监控室，试图与外界联系。
+
+-------- 211/310  notes  notes.rpy  旁白  notes_rpy_L001121_1_b93114f9 --------
+【原文】
+
+-Floor 3
+Walking down the stairs to the second floor, Sai comments on the jingling coming from Katei's pocket. Sai finds a keyring on him with a piece of duct tape stuck to it.
+One of the keys is for the Sekimeiya cabinet. To test if the keys belong to Naomi, we go to the sixth floor.
+-Floor 6
+The biggest key in the set unlocks the entrance to the attic.
+-Attic's living room
+The Sekimeiya is on the sofa.
+There are recent footprints on the floor. Sai points out that their pathing is strange and that most of them fit Katei's shoes.
+-Attic
+We can't find anyone in the attic.
+Sai successfully calls the elevator.
+After the others take the elevator to the crystal floor, Atsuki, Katei, and I step out of the attic with the Sekimeiya. I lock the door behind us, and we walk all the way down.
+
+【译文】
+-三层
+下楼去二层时，Sai 对 Katei 口袋里叮当作响的声音发表了评论。Sai 在他身上找到了一串钥匙，上面粘着一块胶带。
+其中一把是 Sekimeiya 展示柜的钥匙。为了验证这些钥匙是不是 Naomi 的，我们去了六层。
+-六层
+钥匙串上最大的那把钥匙打开了阁楼入口。
+-阁楼客厅
+Sekimeiya 在沙发上。
+地板上有新鲜的脚印。Sai 指出它们的路线很奇怪，而且大部分都符合 Katei 的鞋。
+-阁楼
+我们在阁楼里找不到任何人。
+Sai 成功叫来了电梯。
+其他人乘电梯去水晶层后，Atsuki、Katei 和我带着 Sekimeiya 走出阁楼。我锁上身后的门，我们一路走下去。
+
+-------- 212/310  notes  notes.rpy  旁白  notes_rpy_L001141_1_6a26a201 --------
+【原文】
+
+-Event room
+Katei places the Sekimeiya in the cabinet, and we lock it manually.
+-Security room
+All of the monitors are turned off, and the computer doesn't start up.
+We leave Katei trying to fix the computer. Before I walk out, he tells me that Atsuki is lying.
+-Lobby
+All the lights are on again.
+
+【译文】
+-活动室
+Katei 把 Sekimeiya 放进展示柜，我们手动锁上。
+-监控室
+所有显示器都关着，电脑也开不了机。
+我们留下 Katei 试着修电脑。我走出去之前，他告诉我 Atsuki 在说谎。
+-大厅
+所有灯又亮了。
+
+-------- 213/310  notes  notes.rpy  旁白  notes_rpy_L001156_1_7845f30e --------
+【原文】
+
+-Event room
+Upon Sai's request, Atsuki unlocks the cabinet and takes the Sekimeiya out.
+Katei comes from hallway A and rushes to the Sekimeiya. When he touches it, he disappears, and the Sekimeiya turns gray.
+-Hallway A
+Katei is in hallway A and tells us he traveled to the past.
+-Event room
+When Katei puts the Sekimeiya in the cabinet, it turns white. He locks the cabinet and goes back to the security room.
+Atsuki undoes the lock with the key and takes the Sekimeiya out.
+We hear a faint sound in hallway B.
+
+【译文】
+-活动室
+应 Sai 的要求，Atsuki 打开展示柜，把 Sekimeiya 取了出来。
+Katei 从 A走廊出现，冲向 Sekimeiya。他一碰到它便消失了，Sekimeiya 也变成了灰色。
+-A走廊
+Katei 在 A走廊里，告诉我们他穿越到了过去。
+-活动室
+当 Katei 把 Sekimeiya 放回展示柜时，它变白了。他锁上展示柜，回到监控室。
+Atsuki 用钥匙解开锁，把 Sekimeiya 取出来。
+我们听到 B走廊里传来一声轻响。
+
+-------- 214/310  notes  notes.rpy  旁白  notes_rpy_L001173_1_c97aa1ca --------
+【原文】
+
+-Crystal floor
+While Atsuki stays in the event room with the Sekimeiya, the rest of us look for Naomi on the crystal floor. We are unable to find her.
+-Event room
+Atsuki touches the Sekimeiya and disappears. At that moment, I hear a sound in hallway B. It's Atsuki, who tells us he traveled to the past.
+I can't spot Sai in the room.
+Atsuki says he traveled twenty minutes to the past. With the key that was inserted in the cabinet, he locks up the Sekimeiya, making it turn white.
+-Security room
+We stay in the security room for quite a while until Sai appears from hallway A.
+
+【译文】
+-水晶层
+Atsuki 带着 Sekimeiya 留在活动室，我们其余人去水晶层寻找 Naomi。我们没能找到她。
+-活动室
+Atsuki 触碰 Sekimeiya 后消失了。就在那时，我听到 B走廊里有声音。是 Atsuki，他告诉我们他穿越到了过去。
+我在房间里看不到 Sai。
+Atsuki 说他回到了二十分钟前。他用插在展示柜上的钥匙锁好 Sekimeiya，使它变白。
+-监控室
+我们在监控室待了相当长一段时间，直到 Sai 从 A走廊出现。
+
+-------- 215/310  notes  notes.rpy  旁白  notes_rpy_L001189_1_1da8bb64 --------
+【原文】
+
+-Hallway A
+Atsuki tells me that he wants to travel through time again.
+Sai claims that Atsuki is hiding something from us.
+Everyone leaves me and Atsuki alone. We take the elevator to the attic.
+-Right bedroom
+Atsuki lies on the lower bed, so I go to the second level.
+I wake up. As I'm about to turn off the lights, I'm fairly certain that my purse has moved very slightly. Nothing has been taken.
+Atsuki is still on the bed. He says that at least two hours passed and that he slept for very little time.
+-Attic
+All the footprints in the living room are very faded. The elevator is no longer there, so we call it and take it to the crystal floor.
+
+【译文】
+-A走廊
+Atsuki 告诉我，他还想再进行一次时间穿越。
+Sai 声称 Atsuki 有事瞒着我们。
+大家都离开了，只留下我和 Atsuki。我们乘电梯去阁楼。
+-右侧卧室
+Atsuki 躺在下铺，所以我去了上一层。
+我醒来。正要关灯时，我相当确定自己的手提包轻微移动过，但没有东西被拿走。
+Atsuki 还在床上。他说至少过去了两个小时，而他只睡了很短时间。
+-阁楼
+客厅里的所有脚印都非常淡了。电梯已经不在了，于是我们叫来电梯，乘它去水晶层。
+
+-------- 216/310  notes  notes.rpy  旁白  notes_rpy_L001207_1_6b17c9fc --------
+【原文】
+
+-Security room
+All the screens are still black. I crawl under the desk and notice that a cable isn't plugged in.
+I plug it in, and we power on the computer. The screens turn on, but they quickly turn back off. 
+We're able to {u}access the BIOS and see that it's {time=13:16.}{/u}
+Atsuki hears a sound coming from the lobby.
+-Lobby
+Nobody is there. One of the reception desk's drawers isn't properly closed, but there's nothing inside. From there, I notice that the buzz coming from the mechanical room is stronger than before.
+-Mechanical room
+The door leading to the room is open. Behind a pile of chairs, Atsuki finds the Sekimeiya.
+Minutes of silence pass. Finally, Atsuki touches the Sekimeiya with the intent to change the past.
+
+【译文】
+-监控室
+所有屏幕仍然是黑的。我爬到桌子下面，注意到一根线缆没有插上。
+我把它插上，我们启动电脑。屏幕亮了，但很快又灭了。 
+我们{u}成功进入 BIOS，看到时间是 {time=13:16.}{/u}
+Atsuki 听到从大厅传来声音。
+-大厅
+那里没有人。接待台的一个抽屉没有关好，但里面什么也没有。从那里，我注意到机械室传来的嗡嗡声比以前更强。
+-机械室
+通往机械室的门开着。在一堆椅子后面，Atsuki 找到了 Sekimeiya。
+几分钟的沉默过去。最后，Atsuki 怀着改变过去的意图触碰了 Sekimeiya。
+
+-------- 217/310  notes  notes.rpy  旁白  notes_rpy_L001225_1_3749405f --------
+【原文】
+
+-Hallway A
+I appear in hallway A. Atsuki is there, and we realize that both of us traveled from the mechanical room.
+-Event room
+Sai hears us from the event room. Erina and Isla are there too, and the cabinet is empty. We tell them that we were sleeping in the attic, and we're told that Katei has been missing for hours. {u}Sai's wristwatch displays {time=13:19.}{/u}
+Akaro and Katei appear from hallway A. Katei says that he was in the tower the entire time.
+Atsuki claims to have heard a sound coming from the lobby again and rushes out of the room.
+
+【译文】
+-A走廊
+我出现在 A走廊。Atsuki 在那里，我们意识到我们俩都是从机械室穿越过来的。
+-活动室
+Sai 从活动室听到我们的声音。Erina 和 Isla 也在那里，展示柜是空的。我们告诉他们，我们之前在阁楼睡觉，并得知 Katei 已经失踪好几个小时了。{u}Sai 的手表显示 {time=13:19.}{/u}
+Akaro 和 Katei 从 A走廊出现。Katei 说他一直在大楼里。
+Atsuki 声称又听到了从大厅传来的声音，冲出了房间。
+
+-------- 218/310  notes  notes.rpy  旁白  notes_rpy_L001239_1_80c3cd6c --------
+【原文】
+
+-Lobby
+A policeman is dead on the floor. That causes Erina to yell loudly, which we didn't hear from the mechanical room.
+The policeman has a knife wound and a broken walkie-talkie. Some of us recognize him since he was in the lobby before the event.
+{u}Sai's wristwatch displays {time=13:23.}{/u} Atsuki and I reveal that we saw the lobby empty at {time=13:17}, which means that the policeman was killed while we were in the mechanical room.
+Sai and Atsuki fail to find the Sekimeiya in the mechanical room.
+
+【译文】
+-大厅
+一名警察死在大厅地板上。这导致 Erina 大声喊叫，而我们在机械室没有听到。
+这名警察身上有刀伤，对讲机也坏了。我们中有几个人认出了他，因为活动开始前他就在大厅里。
+{u}Sai 的手表显示 {time=13:23.}{/u} 我和 Atsuki 透露，我们在 {time=13:17} 看到大厅空无一人，这意味着警察是在我们待在机械室时被杀的。
+Sai 和 Atsuki 在机械室里没能找到 Sekimeiya。
+
+-------- 219/310  notes  notes.rpy  旁白  notes_rpy_L001252_1_e3ef3f7c --------
+【原文】
+
+-Crystal floor
+Atsuki begins to search through all the rooms.
+-Ashiya Tower
+Atsuki and I search through all the other remaining floors.
+-Crystal floor
+We notice that people are in the storeroom. I walk there as Atsuki goes to the bathroom.
+-Storeroom
+Everyone is inside. They found a movable wall that leads to a locked door. Sai leaves some sort of mark on the door so that if anyone enters or exits through it, he'll be able to tell.
+When Atsuki arrives, all of us go to the attic.
+-Left bedroom
+We can't find anyone in the attic, so we all go to rest in the two bedrooms. Atsuki and I stay on the lower bed of the left one.
+Sai comes in and shows us a letter that he found in the kitchen. He leaves toward the living room.
+
+【译文】
+-水晶层
+Atsuki 开始逐个搜查房间。
+-芦屋塔
+Atsuki 和我搜查了其余所有楼层。
+-水晶层
+我们注意到有人在储藏室里。Atsuki 去洗手间时，我走向那里。
+-储藏室
+所有人都在里面。他们发现了一面可移动的墙，通向一扇锁着的门。Sai 在门上留下某种标记，这样如果有人从那扇门进出，他就能看出来。
+Atsuki 到了之后，我们所有人一起去了阁楼。
+-左侧卧室
+我们在阁楼里找不到任何人，于是大家分别去两间卧室休息。Atsuki 和我留在左侧卧室的下铺。
+Sai 进来，给我们看他在地下厨房找到的一封信。随后他往客厅去了。
+
+-------- 220/310  notes  notes.rpy  旁白  notes_rpy_L001273_1_552d85eb --------
+【原文】
+
+-Ashiya Tower
+Sai wakes Shiroya and Atsuki up. In the living room, they find the Sekimeiya, which Sai claims to finally understand.
+Sai locks the Sekimeiya in the right bedroom and travels out of it. When a sound is heard, the Sekimeiya has vanished, and a note has appeared. The group moves to the event room and finds the Sekimeiya locked in the cabinet.
+Everyone claims to understand what Sai did. To shut down those explanations, Sai repeats the act with slight modifications. Once the result is the same, no one can confidently lay out how it occurred.
+Once again, the Sekimeiya is found locked up in the event room. Everyone stays and watches over it until the shutters open to prevent the possibility of Sai traveling back to the past and leaving the second note in the bedroom.
+The police enter Ashiya Tower and guide everyone out. Not long after, both Ashiya and Xyn claim to possess the Sekimeiya, but neither would ever prove it.        
+Ending: Altered Dichotomy
+
+【译文】
+-芦屋塔
+Sai 叫醒 Shiroya 和 Atsuki。他们在客厅里发现了 Sekimeiya，Sai 声称自己终于弄懂了它。
+Sai 把 Sekimeiya 锁在右侧卧室里，然后从那里穿越离开。听到一声响后，Sekimeiya 消失了，一张纸条出现了。众人前往活动室，发现 Sekimeiya 被锁在展示柜里。
+每个人都声称明白 Sai 做了什么。为了堵住这些解释，Sai 稍作修改后又重复了一遍。结果仍然相同，于是没人能自信地说出这究竟是怎么发生的。
+Sekimeiya 再次被发现锁在活动室里。所有人留下看守它，直到卷帘门打开，以防 Sai 穿越回过去并把第二张纸条留在卧室里。
+警察进入芦屋塔，引导所有人离开。不久之后，芦屋和 Xyn 都声称自己拥有 Sekimeiya，但两者都始终无法证明。        
+结局：Altered Dichotomy
+
+-------- 221/310  notes  notes.rpy  旁白  notes_rpy_L001288_1_3a4dbcff --------
+【原文】
+
+-Attic
+We all go to the crystal floor to find Sai.
+-Crystal floor
+Katei finds the Sekimeiya in room B6.
+-Event room
+We find Sai in the event room. The Sekimeiya disappears from Katei's hands.
+-Crystal floor
+The elevator button and panel have been taken off from the wall.
+-Ashiya Tower
+On every floor up to the sixth, the elevator panels have also been taken off.
+The attic door is locked. After I unlock it, we see that our footprints have disappeared from the living room. The elevator panel has been taken off in the attic as well.
+
+【译文】
+-阁楼
+我们都去水晶层找 Sai。
+-水晶层
+Katei 在 B6 室找到了 Sekimeiya。
+-活动室
+我们在活动室找到了 Sai。Sekimeiya 从 Katei 手中消失了。
+-水晶层
+电梯按钮和面板被人从墙上拆了下来。
+-芦屋塔
+一直到六楼，每一层的电梯面板也都被拆掉了。
+阁楼的门锁着。我打开锁后，发现我们在客厅里的脚印消失了。阁楼里的电梯面板也同样被拆掉了。
+
+-------- 222/310  notes  notes.rpy  旁白  notes_rpy_L001307_1_1f7c8766 --------
+【原文】
+
+-Crystal floor
+Atsuki and I walk to the crystal floor to check the BIOS's time, but the security room is locked.
+-Storeroom
+Sai comes from the stairs, and we enter the storeroom. He claims that his mark is gone and leaves a new one.
+-Crystal floor
+Akaro, Erina, and Isla come from the stairs. Atsuki begins to search through the rooms and finds the Sekimeiya in room A5.
+-Event room
+Atsuki locks the Sekimeiya in the cabinet.
+-Hallway A
+Katei comes from the stairs. {u}According to Sai's watch, it's {time=13:50.}{/u}
+-Floor 6
+The attic is locked again. This time, I'm not able to unlock it with the key.
+
+【译文】
+-水晶层
+Atsuki 和我走到水晶层查看 BIOS 的时间，但监控室锁着。
+-储藏室
+Sai 从楼梯那边过来，我们进入了储藏室。他声称自己的记号不见了，并留下了新的记号。
+-水晶层
+Akaro、Erina 和 Isla 从楼梯那边过来。Atsuki 开始逐个房间搜索，并在 A5 室找到了 Sekimeiya。
+-活动室
+Atsuki 把 Sekimeiya 锁进了展示柜。
+-A走廊
+Katei 从楼梯那边过来。{u}根据 Sai 的手表，现在是 {time=13:50.}{/u}
+-六楼
+阁楼又锁上了。这一次，我没能用钥匙打开它。
+
+-------- 223/310  notes  notes.rpy  旁白  notes_rpy_L001327_1_bf7299e6 --------
+【原文】
+
+-Floor 6
+Atsuki opens the elevator. Two bodies are inside, as well as all the elevator buttons and panels.
+-Crystal floor
+Akaro brings both bodies to the lobby. Sai and Katei take the elevator to the attic.
+-Event room
+At Atsuki's request, I unlock the cabinet. He attempts to activate the Sekimeiya, but nothing happens.
+Atsuki locks up the Sekimeiya before Sai and Katei return. When they arrive, they say that nobody was in the attic and that another key was inserted in the attic door from the inside.
+-Attic
+We walk to the attic and confirm that nobody is there. All of us end up dispersed throughout the rooms.
+
+【译文】
+-六楼
+Atsuki 打开了电梯。里面有两具尸体，还有所有电梯按钮和面板。
+-水晶层
+Akaro 把两具尸体搬到了大厅。Sai 和 Katei 乘电梯去了阁楼。
+-活动室
+在 Atsuki 的请求下，我打开了展示柜的锁。他试图启动 Sekimeiya，但什么也没发生。
+在 Sai 和 Katei 回来之前，Atsuki 把 Sekimeiya 锁了起来。他们回来后说，阁楼里没有人，而且另一把钥匙是从里面插在阁楼门上的。
+-阁楼
+我们走到阁楼，确认那里没有人。最后我们所有人都分散到了各个房间里。
+
+-------- 224/310  notes  notes.rpy  旁白  notes_rpy_L001344_1_3a907270 --------
+【原文】
+
+-Floor 3
+Atsuki appears from the second floor and makes me rush down with him.
+-Crystal floor
+Erina is dead next to the stairs.
+-Ashiya Tower
+We regroup with the others. Sai was on the fourth floor, Katei on the fifth, and Akaro on the sixth. We're unable to find Isla in the attic.
+-Crystal floor
+We all see that Erina is dead. Atsuki tells us that he heard her accusing someone of being the culprit before she died.
+-Event room
+The Sekimeiya is in the cabinet. Thanks to a thread that Atsuki left, we can tell the glass didn't open since the last time we saw it.
+-Crystal floor
+We find Isla in room A1. She was told by Erina to stay there.
+Everyone gives their version of what happened during the last several minutes.
+We realize that Erina is also in room A1. She sees her own corpse and brings Isla to the attic.
+
+【译文】
+-三楼
+Atsuki 从二楼出现，催我跟他一起冲下去。
+-水晶层
+Erina 死在楼梯旁。
+-芦屋塔
+我们和其他人重新会合。Sai 在四楼，Katei 在五楼，Akaro 在六楼。我们在阁楼里没能找到 Isla。
+-水晶层
+我们都看到 Erina 死了。Atsuki 告诉我们，他听到她在死前指控某人是凶手。
+-活动室
+Sekimeiya 在展示柜里。多亏 Atsuki 留下的一根线，我们可以判断出玻璃自上次我们看到之后没有再打开过。
+-水晶层
+我们在 A1 室找到了 Isla。Erina 让她待在那里。
+每个人都讲述了在过去几分钟里自己经历的事情。
+我们意识到 Erina 也在 A1 室里。她看到了自己的尸体，并把 Isla 带去了阁楼。
+
+-------- 225/310  notes  notes.rpy  旁白  notes_rpy_L001366_1_212f8050 --------
+【原文】
+
+-Attic
+We walk to the attic after Erina and Isla.
+Isla finds the Sekimeiya in a wardrobe and wraps it in a bed sheet.
+-Ashiya Tower
+We go downstairs, inspecting each floor in detail while transporting the Sekimeiya.
+-Floor 2
+We notice that the elevator panel has been reattached.
+-Crystal floor
+Erina's corpse and all the blood have disappeared.
+
+【译文】
+-阁楼
+我们跟着 Erina 和 Isla 走到阁楼。
+Isla 在衣柜里找到了 Sekimeiya，并用床单把它包了起来。
+-芦屋塔
+我们带着 Sekimeiya 下楼，一边走一边仔细检查每一层。
+-二楼
+我们注意到电梯面板又被装了回去。
+-水晶层
+Erina 的尸体和所有血迹都消失了。
+
+-------- 226/310  notes  notes.rpy  旁白  notes_rpy_L001383_1_61a6e569 --------
+【原文】
+
+-Event room
+The Sekimeiya is still locked in the cabinet, but Atsuki's thread is gone. Isla unwraps the bed sheet and can't find the Sekimeiya.
+I unlock the cabinet. Sai takes the Sekimeiya out and wraps the bed sheet around it again. Through the cloth, he confirms that the Sekimeiya is getting hot.
+-Hallway A
+Sai unwraps the bed sheet. As he touches the Sekimeiya in its center, both the Sekimeiya and the bed sheet disappear.
+-Crystal floor
+We begin to search the crystal floor. In room A1, I find the Sekimeiya. The security room is unlocked again, and Sai is able to power the computer on momentarily. In the lobby, one of the two bodies is gone—{i}she{/i} disappeared again. Akaro tells us that the policeman's body disappeared earlier, but it's still on the floor. We can't find anyone in the remaining rooms, and we notice that the elevator is open on the crystal floor, completely empty.
+We lock the Sekimeiya in its cabinet. Five minutes later, the {u}BIOS's time displays {time=15:45.}{/u}
+I wander around the crystal floor for over an hour. 
+Atsuki attempts to use the Sekimeiya, but it's still not working.
+-Attic
+I walk to the attic and see that all the elevator panels have been reattached.
+-Left bedroom
+I turn off the lights and fall asleep. After being continuously woken up by faint noises, I stand up.
+
+【译文】
+-活动室
+Sekimeiya 仍锁在展示柜里，但 Atsuki 留下的线不见了。Isla 解开床单，却找不到 Sekimeiya。
+我打开了展示柜。Sai 把 Sekimeiya 取出来，又用床单把它包好。隔着布，他确认 Sekimeiya 正在变热。
+-A走廊
+Sai 解开床单。当他触摸 Sekimeiya 中央时，Sekimeiya 和床单一起消失了。
+-水晶层
+我们开始搜索水晶层。在 A1 室，我找到了 Sekimeiya。监控室又没锁了，Sai 得以短暂地启动电脑。大厅里的两具尸体少了一具——{i}她{/i}又消失了。Akaro 告诉我们，警察的尸体之前就消失了，但它现在还躺在地上。我们在其余房间里找不到任何人，并注意到水晶层的电梯门开着，里面空无一人。
+我们把 Sekimeiya 锁进了它的展示柜。五分钟后，{u}BIOS 的时间显示为 {time=15:45.}{/u}
+我在水晶层徘徊了一个多小时。
+Atsuki 试图使用 Sekimeiya，但它仍然没有反应。
+-阁楼
+我走到阁楼，看到所有电梯面板都被重新装了回去。
+-左侧卧室
+我关掉灯，睡着了。在断断续续被微弱的声音吵醒后，我站了起来。
+
+-------- 227/310  notes  notes.rpy  旁白  notes_rpy_L001405_1_04c4b93f --------
+【原文】
+
+-Left bedroom
+The light turns on, and a yell comes from the hallway.
+-Crystal floor
+I walk to the crystal floor. On the stairs, where Atsuki had been sitting, there's a trail of blood.
+-Lobby
+All the bodies are gone.
+-Hallway B
+There's a trail of blood leading to the open staff room.
+-Staff room
+I find a faint glow behind the door of a locker. Through the narrow slits, I reach my fingers toward it.
+
+【译文】
+-左侧卧室
+灯亮了，走廊里传来一声喊叫。
+-水晶层
+我走到水晶层。在 Atsuki 曾坐过的楼梯上，有一道血迹。
+-大厅
+所有尸体都不见了。
+-B走廊
+有一道血迹通向敞开的员工室。
+-员工室
+我发现一个储物柜的门后透出微弱的光。透过狭窄的缝隙，我把手指伸向它。
+
+-------- 228/310  notes  notes.rpy  旁白  notes_rpy_L001423_1_db993e3e --------
+【原文】
+
+-Hallway A
+I appear in hallway A and fall to the floor, close to the staircase.
+-Security room
+Katei's dead body is on the floor. The computer is powered on, and when I press a key, the screens light up showing a message: "{time=10:04}: Camera(s) disabled and associated footage erased". The {u}time displayed is {time=18:21.}{/u}
+-Event room
+The cabinet is empty.
+-Hallway B
+Erina appears behind me. She's covered in blood and doesn't recognize me.
+-Crystal room B4
+Naomi's body is covered by a curtain on the floor. Drawn by a broken wheel, I find the Sekimeiya inside a cabinet set to 0ºC.
+
+【译文】
+-A走廊
+我出现在 A走廊，摔倒在地，靠近楼梯。
+-监控室
+Katei 的尸体躺在地上。电脑开着，我按下一个键后，屏幕亮起，显示出一条信息：“{time=10:04}: 摄像头已停用，相关录像已删除”。{u}显示的时间是 {time=18:21.}{/u}
+-活动室
+展示柜是空的。
+-B走廊
+Erina 出现在我身后。她浑身是血，认不出我。
+-水晶展室 B4
+Naomi 的尸体被地上的帘子盖着。被一个损坏的轮子吸引，我发现 Sekimeiya 在一个设定为 0ºC 的展示柜里。
+
+-------- 229/310  notes  notes.rpy  旁白  notes_rpy_L001441_1_62ed0cd6 --------
+【原文】
+
+-Event room
+We leave the Sekimeiya in the cabinet.
+-Crystal room A5
+Isla is dead inside a cabinet.
+Atsuki's yell reaches my ears. He's yelling {i}her{/i} name.
+-Crystal floor
+I run to the stairs and see Erina following the sound. I attempt to listen from hallway C.
+To hear inside the event room, I enter the staff room and place my ear against the left wall.
+-Staff room
+I make out people saying that I should be dead.
+I realize that the Sekimeiya was activated and disappeared from the event room.
+
+【译文】
+-活动室
+我们把 Sekimeiya 留在了展示柜里。
+-水晶展室 A5
+Isla 死在一个展示柜里。
+Atsuki 的喊声传到我耳中。他在喊{i}她{/i}的名字。
+-水晶层
+我跑到楼梯处，看到 Erina 正循着声音过去。我试着从 C走廊偷听。
+为了听到活动室里面的声音，我进入员工室，把耳朵贴在左侧墙上。
+-员工室
+我辨认出有人在说，我早就该死了。
+我意识到 Sekimeiya 被启动了，并从活动室里消失了。
+
+-------- 230/310  notes  notes.rpy  旁白  notes_rpy_L001460_1_a214a786 --------
+【原文】
+
+-Floor 5
+I find Atsuki as I'm running up. He tells me that he went down to look for me when he realized that I wasn't in the bedroom anymore.
+-Floor 6
+Another Atsuki appears from the partition corridor.
+He tells us that everything will turn out fine if we follow his instructions. He brings the Sekimeiya from the attic and asks us to wait in the second partition of the second floor.
+-Floor 2
+We stay in the second partition. Almost immediately, we hear the elevator twice.
+Many minutes later, we hear the elevator twice again.
+
+【译文】
+-五楼
+我往上跑时遇到了 Atsuki。他告诉我，当他发现我已经不在卧室后，就下楼来找我了。
+-六楼
+另一个 Atsuki 从隔间走廊里出现。
+他告诉我们，只要按他的指示做，一切都会好起来。他从阁楼带来了 Sekimeiya，并让我们在二楼的第二个隔间里等着。
+-二楼
+我们待在第二个隔间里。几乎立刻，我们就听到电梯响了两次。
+许多分钟之后，我们又听到电梯响了两次。
+
+-------- 231/310  notes  notes.rpy  旁白  notes_rpy_L001476_1_2cdddfdb --------
+【原文】
+
+-Floor 2
+Sai and Akaro see us as they're running up.
+We hear the elevator a fifth and sixth time. Sai chases it up and tells Akaro to wait in front of the storeroom.
+-Event room
+Following the other Atsuki's directions, we lock the Sekimeiya in the cabinet.
+-Crystal room
+Naomi's body is back in the lobby, next to the policeman. Katei is in the security room in front of the black screens. Erina and Isla are waiting in room A1.
+-Event room
+Sai returns from the stairs, claiming not to have found anyone. We go to the event room and see the Sekimeiya in the cabinet.
+{u}Sai's wristwatch displays {time=19:32.}{/u} We wait for the shutter to unlock, and Katei shortly joins us. 
+
+【译文】
+-二楼
+Sai 和 Akaro 往上跑时看到了我们。
+我们听到电梯第五次和第六次响起。Sai 追着它上去，并让 Akaro 在储藏室门前等着。
+-活动室
+按照另一个 Atsuki 的指示，我们把 Sekimeiya 锁进了展示柜。
+-水晶展室
+Naomi 的尸体回到了大厅，就在警察旁边。Katei 在监控室里，面对着黑掉的屏幕。Erina 和 Isla 在 A1 室里等着。
+-活动室
+Sai 从楼梯那边回来，声称没找到任何人。我们去了活动室，看到 Sekimeiya 在展示柜里。
+{u}Sai 的手表显示 {time=19:32.}{/u} 我们等着卷帘门解锁，Katei 不久后也加入了我们。
+
+-------- 232/310  notes  notes.rpy  旁白  notes_rpy_L001495_1_9d878f4a --------
+【原文】
+
+-Ashiya Tower
+Miiya leaves the event room and runs upstairs, claiming to want to search the entire building. Sai takes the elevator up to chase her while Atsuki, Akaro, and Katei go up the stairs.
+On the sixth floor, the three men find Miiya. She doesn't seem to remember anything, and there's blood in the staircase that seems to be hers.
+Sai's dead body is found in a bedroom. After failing to discover anyone in the attic, Akaro and Katei find Atsuki's body in a pool of blood in the living room. Miiya is gone.
+Erina and Isla's dead bodies are in the event room. Katei runs to the cabinet and unlocks it right before the hallway B door opens. A minute later, Akaro's corpse drops beside the two girls.
+{u}At {time=21}{/u}, no trace of life remains in the building. The police rush in and find all the corpses. They're able to conclude that everyone was killed by someone else, but that was as far as their investigation could go.
+Ending: Reward
+
+【译文】
+-芦屋塔
+Miiya 离开活动室往楼上跑，说要搜索整栋建筑。Sai 乘电梯上去追她，而 Atsuki、Akaro 和 Katei 走楼梯上去。
+在六楼，那三个男人找到了 Miiya。她似乎什么都不记得了，楼梯上还有像是她的血。
+Sai 的尸体在一间卧室里被发现。在阁楼里没有发现任何人后，Akaro 和 Katei 在客厅的一滩血里找到了 Atsuki 的尸体。Miiya 不见了。
+Erina 和 Isla 的尸体在活动室里。就在 B走廊的门打开之前，Katei 跑向展示柜并打开了锁。一分钟后，Akaro 的尸体落在两个女孩旁边。
+{u}到了 {time=21}{/u}，建筑里已经没有任何生命迹象。警察冲了进来，找到了所有尸体。他们能够断定每个人都是被他人杀死的，但调查也只能到此为止。
+结局：奖赏
+
+-------- 233/310  notes  notes.rpy  旁白  notes_rpy_L001510_1_2a89410f --------
+【原文】
+
+-Event room
+Five minutes after {u}Sai's wristwatch displays {time=20:43}{/u}, we hear a sound coming from the lobby.
+-Lobby
+We see the shutter rising.
+The sound wakes up Naomi, who instantly accuses one of us of being a murderer and another as the culprit behind the attack.
+
+【译文】
+-活动室
+在 {u}Sai 的手表显示 {time=20:43}{/u} 五分钟后，我们听到大厅传来一个声音。
+-大厅
+我们看到卷帘门正在升起。
+声音吵醒了 Naomi，她立刻指控我们中的一个人是杀人犯，另一个人是袭击的幕后黑手。
+
+-------- 234/310  notes  notes.rpy  旁白  notes_rpy_L001524_1_c7d23938 --------
+【原文】
+
+-Yushibana
+The police are waiting in front of Ashiya Tower for the shutter to unlock. Suripo hasn't been able to find Vaisude in a long time.
+{u}At {time=21}{/u}, the shutter rises. Nobody is in the lobby, and the police are taken aback by the smell inside the building. Viewing the hall with an optical gas imaging camera reveals that there's an invisible gas present in the tower.
+Wearing protective suits, a team of policemen rushes in. They find corpses in the security room, B4, A5, and in the men's bathroom. Above the first staircase is a girl with blue hair. Once taken outside, she reveals that her name is Shiroya.
+A second policeman returns to the lobby and reports the four deaths. Nobody else was found alive, but an egg-shaped gemstone was in the attic, and it was placed in the event room's cabinet as instructed.
+When two more policemen come back, one of them inquires about a movable wall found in the storeroom. Confused, they walk to the left side of the tower and make out a hidden door around the bricks. After picking the lock, they find themselves in the storeroom.
+The fifth and last policeman leaves the tower. His report is the same, but he's holding a note that he found on the first floor.
+
+【译文】
+-丰花
+警察在芦屋塔前等着卷帘门解锁。Suripo 已经很久没能找到 Vaisude 了。
+{u}到了 {time=21}{/u}，卷帘门升了起来。大厅里没有人，建筑里的气味让警察们吃了一惊。用光学气体成像仪查看大厅后，他们发现塔内存在一种看不见的气体。
+一队警察穿着防护服冲了进去。他们在监控室、B4、A5 和男卫生间里发现了尸体。第一段楼梯上方有一个蓝发女孩。被带到外面后，她说出了自己的名字：Shiroya。
+第二名警察回到大厅，报告了四起死亡。没有发现其他活人，但阁楼里有一颗蛋形宝石，而且它已按照指示被放进了活动室的展示柜。
+当另外两名警察回来时，其中一人问起在储藏室发现的一堵可移动的墙。他们感到困惑，走到塔的左侧，在砖块周围辨认出一道暗门。撬开锁后，他们发现自己来到了储藏室里。
+第五名、也是最后一名警察离开了塔。他的报告与前几人相同，但他手里拿着一张在一楼发现的纸条。
+
+-------- 235/310  notes  notes.rpy  旁白  notes_rpy_L001540_1_a94e4752 --------
+【原文】
+
+-Yushibana
+A girl travels from Ashiya Tower to fifteen days in the past. She appears on a street in Yushibana and rushes to a gem shop.
+She moves the body of her friend Miiya away from danger. Then, as she's lifting her own body, the lights of the shop turn on, causing an explosion and making her fall through the floor.
+
+【译文】
+-丰花
+一个女孩从芦屋塔穿越到了十五天前。她出现在丰花的一条街上，并冲向一家宝石店。
+她把朋友 Miiya 的尸体移离危险。然后，当她抬起自己的身体时，店里的灯亮了，引发了一场爆炸，使她跌穿了地板。
+
+-------- 236/310  notes  notes.rpy  旁白  notes_rpy_L001552_1_966b8a7e --------
+【原文】
+
+-Lobby
+After a very long wait, the hallway doors open at {time=9.}
+-Ashiya Tower
+A long day full of mysteries begins.
+
+【译文】
+-大厅
+经过漫长的等待，走廊的门在 {time=9.} 打开了。
+-芦屋塔
+充满谜团的漫长一天开始了。
+
+-------- 237/310  notes  notes.rpy  旁白  notes_rpy_L001564_1_8fcf11f8 --------
+【原文】
+
+-Right bedroom
+Sai and I appear in the right bedroom of the attic. Thanks to my knife, I'm able to restrain him inside.
+Sai escapes the bedroom with the key and I end up trapped.
+I hear noises outside of the bedroom. Minutes later, Sai reappears inside, and I manage to restrain him again.
+Sai escapes after I climb up the ladder in search of the key.
+I realize what Sai did and leave the bedroom.
+
+【译文】
+-右侧卧室
+Sai 和我出现在阁楼的右侧卧室里。多亏我的刀，我得以把他制伏在里面。
+Sai 带着钥匙逃出了卧室，我反而被困住了。
+我听到卧室外有动静。几分钟后，Sai 又出现在里面，我再次设法制伏了他。
+我爬上梯子找钥匙后，Sai 逃走了。
+我明白了 Sai 做了什么，然后离开了卧室。
+
+-------- 238/310  notes  notes.rpy  旁白  notes_rpy_L001578_1_89a11875 --------
+【原文】
+
+-Floor 6
+I reunite with Atsuki, Erina, and Sai on the sixth floor.
+-Floor 5
+Atsuki tells me that the past can be changed.
+-Crystal floor
+We can't find the Sekimeiya. When {u}Sai's wristwatch displays {time=19:50}{/u}, we begin to wait in the lobby, but Atsuki and I intend to find the Sekimeiya before {time=21.}
+At approximately {time=20:25} according to Sai's wristwatch, I go to the bathroom.
+-Women's bathroom
+I find the Sekimeiya inside the water tank, surrounded by a burning aura. I touch it and disappear from Ashiya Tower.
+
+【译文】
+-六楼
+我在六楼与 Atsuki、Erina 和 Sai 重新会合。
+-五楼
+Atsuki 告诉我，过去是可以改变的。
+-水晶层
+我们找不到 Sekimeiya。当 {u}Sai 的手表显示 {time=19:50}{/u} 时，我们开始在大厅里等待，但 Atsuki 和我打算在 {time=21.} 之前找到 Sekimeiya。
+根据 Sai 的手表，大约在 {time=20:25}，我去了卫生间。
+-女卫生间
+我发现 Sekimeiya 在水箱里，周围环绕着灼热的光晕。我碰了它，然后从芦屋塔消失了。
+
+-------- 239/310  notes  notes.rpy  旁白  notes_rpy_L001596_1_ae288a18 --------
+【原文】
+
+-Yushibana
+I wake up in an underground tunnel. My whole body hurts, and I'm wearing the clothes I wore on November 30th. {u}My phone displays {time=21:10}{/u}, and when {u}I check the date settings, they read November 30th{/u}. 
+I walk out of the tunnel and find myself high on a mountain in front of Yushibana.
+I wander through the dim streets and end up at Musashi Gemstones. Then, I quietly walk to my apartment.
+-Home
+Nobody is home, and everything looks like it did on November 30th.
+I quickly fall asleep in my bed. The sound of fireworks wakes me up momentarily, and I'm able to see them through my window.
+
+【译文】
+-丰花
+我在地下隧道里醒来。我全身疼痛，身上穿着我 11月30日穿的衣服。{u}我的手机显示 {time=21:10}{/u}，而当我{u}查看日期设置时，上面显示的是 11月30日{/u}。
+我走出隧道，发现自己身在丰花前方的一座高山上。
+我在昏暗的街道间游荡，最后来到了武藏宝石。然后，我悄悄走回自己的公寓。
+-家
+家里没人，一切都像 11月30日那样。
+我很快就在床上睡着了。烟花的声音短暂地把我吵醒，我透过窗户看到了它们。
+
+-------- 240/310  notes  notes.rpy  旁白  notes_rpy_L001612_1_a76af73e --------
+【原文】
+
+-Home
+I wake up. In my living room, I think in more detail about what happened to me.
+-Yushibana
+I leave my apartment and go to Ina Café.
+-Ina Café
+I talk with Darfee after a long time without seeing him. I read through a newspaper that mentions Miiya's death and a prisoner escaping from a cell.
+-Yushibana
+I end up in front of Atsuki's house.
+
+【译文】
+-家
+我醒了过来。在客厅里，我更仔细地回想发生在我身上的事。
+-丰花
+我离开公寓，去了伊娜咖啡馆。
+-伊娜咖啡馆
+我见到了很久没见的 Darfee，和他聊了聊。我翻看了一份报纸，上面提到了 Miiya 的死讯以及一名囚犯越狱的事。
+-丰花
+我最后来到了 Atsuki 的家门前。
+
+-------- 241/310  notes  notes.rpy  旁白  notes_rpy_L001629_1_22360dfa --------
+【原文】
+
+-Home
+I return home. To confirm that the past can be changed, I call my mom.
+I cook a bit of meat and spend the rest of the day in my living room, trying to sort my thoughts out.
+I go to sleep soon after {u}my phone displays {time=17:57.}{/u}
+
+【译文】
+-家
+我回到家。为了确认过去可以被改变，我给妈妈打了电话。
+我煮了一点肉，然后在客厅里度过了余下的一天，试图理清思绪。
+在 {u}我的手机显示 {time=17:57.}{/u} 之后不久，我就去睡了。
+
+-------- 242/310  notes  notes.rpy  旁白  notes_rpy_L001642_1_24bf6f00 --------
+【原文】
+
+-Bedroom
+I wake up in the morning and grab my phone. Trying to uncover the first traces of the Sekimeiya, I come across a forum thread posted on November 24th. It mentions the Sekimeiya event, and I come to the conclusion that the writer must've traveled to the past from December 15th.
+-Living room
+I think of locating the forum poster through a picture they posted.
+-Yushibana
+I reach the place where the picture might've been taken from.
+-Apartment
+I'm taken to an apartment up for sale. The tenant fits the description of the person I'm looking for.
+I don't recognize him, but as I'm leaving, his piercing look leaves me in a daze. Immediately, someone else who enters the building seems to throw me an identical glance.                   
+
+【译文】
+-卧室
+我早上醒来，拿起手机。为了找出 Sekimeiya 的最早线索，我偶然看到一个 11月24日发布的论坛帖子。帖子提到了 Sekimeiya 活动，我得出结论：发帖人一定是从 12月15日穿越到过去的。
+-客厅
+我想通过发帖人贴出的照片找到他。
+-丰花
+我来到了那张照片可能被拍下的地点。
+-公寓
+我被带去看一间待售公寓。租客符合我要找的人的描述。
+我不认识他，但就在我离开时，他那锐利的目光让我一阵恍惚。紧接着，另一个进入大楼的人似乎也向我投来了同样的目光。
+
+-------- 243/310  notes  notes.rpy  旁白  notes_rpy_L001659_1_44d71aa6 --------
+【原文】
+
+-Yushibana
+In Ramon street, I feel the same gazes all around me.
+I walk to the outskirts, trying to cool off my head, but I sense someone behind me near the park. I don't see anyone, but I spot footprints running away in the snow.
+-Living room
+I heat up precooked meat and calm myself down, focusing on my objective.
+I receive a call from Vaisude, the owner of the apartment I visited. He confirms that he wrote the forum post, and both of us tell each other that we traveled to the past.
+-Home
+I take a bath before going to sleep.
+
+【译文】
+-丰花
+在拉蒙街，我感到四周都是同样的目光。
+我走到郊区，想让头脑冷静下来，但在公园附近感觉到身后有人。我看不到任何人，却发现雪地里有跑开的脚印。
+-客厅
+我热了一些熟肉，让自己冷静下来，把注意力集中在目标上。
+我接到了 Vaisude 的电话，他是我看过的那间公寓的房东。他确认论坛帖子是他写的，我们俩都告诉对方自己穿越到了过去。
+-家
+我洗了个澡，然后去睡觉。
+
+-------- 244/310  notes  notes.rpy  旁白  notes_rpy_L001676_1_c1193c38 --------
+【原文】
+
+-Home
+{u}My phone displays {time=7:45}{/u} when I wake up.
+I eat some almonds and step out of my apartment.
+-Yushibana
+The streets of Yushibana are foggy and barren. I make my way through the town until I arrive at Ina, which I find closed for the first time in my life.
+After waiting under a stone roof for a long time, Darfee raises Ina's shutter from the inside, and I step in.
+-Ina Café
+I sit at a table until noon, when I see Isla's purse beyond the window and run out to chase it.
+
+【译文】
+-家
+我醒来时，{u}我的手机显示 {time=7:45}{/u}。
+我吃了一些杏仁，然后走出公寓。
+-丰花
+丰花的街道雾蒙蒙的，空无一人。我穿过小镇，来到伊娜咖啡馆，发现它关着门——这是我人生中第一次见到它关门。
+我在一处石屋檐下等了很久之后，Darfee 从里面拉开了伊娜咖啡馆的卷帘门，我走了进去。
+-伊娜咖啡馆
+我坐在桌边一直到中午，随后透过窗户看到了 Isla 的手提包，便跑出去追它。
+
+-------- 245/310  notes  notes.rpy  旁白  notes_rpy_L001692_1_1931a7a2 --------
+【原文】
+
+-Yushibana
+I end up at what I believe to be Isla's house after following tiny footprints.
+I'm drawn out after I feel someone near me, but I can't find anyone. I walk away until I'm on the outskirts of Yushibana, where I mindlessly take a path up a mountain.
+I see the entirety of Yushibana from farther up the path.
+
+【译文】
+-丰花
+我跟着小小的脚印，最后来到了我认为是 Isla 家的地方。
+感觉到附近有人后，我被引了出来，但我找不到任何人。我一路走开，直到来到丰花的郊外，然后漫无目的地沿着一条山路往上走。
+从更上面的小路上，我看到了丰花的全貌。
+
+-------- 246/310  notes  notes.rpy  旁白  notes_rpy_L001705_1_3e7b38c9 --------
+【原文】
+
+-Yushibana
+Shiroya's inaction alters the flow of events leading to this point. After touching the Sekimeiya in Ashiya Tower, Shiroya finds herself underground. Once she makes it out, she is able to roam free in Yushibana, and she ends up at her apartment.
+The next day, she wakes up and decides to walk to Ina Café. When she gets there, however, she finds a note regarding its temporary shutdown.
+The braking of a car startles Shiroya. When she steps to the car in the middle of the road, she finds Atsuki lying on the ground. After the police arrive on the scene, they take Shiroya away by force.
+On {u}January 11th of 2012{/u}, Shiroya is released. She walks to her apartment, having heard long ago about what had happened on December 15th: nobody had been found alive in Ashiya Tower. The corpses of Naomi Cabca and Isla Majutsu had been all the police encountered within an unidentifiable gas. In January, Sai Yomiya, Akaro Esata, and Erina Majutsu were still missing.
+The aftermath of the attack causes Ashiya Tower to remain closed until it is bought anonymously. Soon, it is announced that Ashiya Tower will be demolished.
+On October 4th at {time=12}, the long-standing building falls down. A week later, as the debris is being cleaned, the shattered bodies of the three missing people are found deep under the rubble.     
+Ending: Forsaken Relay             
+
+【译文】
+-丰花
+Shiroya 的不作为改变了导致此刻的一系列事件。在芦屋塔触碰 Sekimeiya 后，Shiroya 发现自己身处地下。等她脱身之后，她得以在丰花自由行动，最后来到了自己的公寓。
+第二天，她醒来后决定走去伊娜咖啡馆。然而到了那里，她却发现一张关于咖啡馆暂时停业的告示。
+一辆汽车的刹车声吓了 Shiroya 一跳。当她走向路中间的那辆车时，发现 Atsuki 躺在地上。警察赶到现场后，强行把 Shiroya 带走了。
+{u}2012年1月11日{/u}，Shiroya 被释放。她走回自己的公寓；她很久以前就听说过 12月15日发生的事：芦屋塔里没有发现任何活人。警察在一种无法辨认的气体中发现的全部，就是 Naomi Cabca 和 Isla Majutsu 的尸体。到了 1月，Sai Yomiya、Akaro Esata 和 Erina Majutsu 仍然下落不明。
+袭击的余波使芦屋塔一直关闭，直到它被匿名买下。不久之后，官方宣布芦屋塔将被拆除。
+10月4日 {time=12}，这座屹立已久的建筑倒塌了。一周后，在清理废墟时，那三名失踪者支离破碎的尸体在瓦砾深处被发现。
+结局：遗弃接力
+
+-------- 247/310  notes  notes.rpy  旁白  notes_rpy_L001722_1_21e3a5b5 --------
+【原文】
+
+-Yushibana
+I finally make the decision to do all I can to change the past. I decide that I will reenter the tower in two days and devise a proper plan to enact the following night.
+Walking home, I once again notice someone following me. Before I can catch a glimpse of them, a police officer arrests them.
+-Home
+After eating, I stay in the living room until the sun begins to set.
+-Yushibana
+I leave my apartment before it's too dark and walk to our local lottery place, where I ask for the winning number on December 1st.
+-Home
+Reciting the numbers in my head, I make it back home and shortly fall asleep.
+
+【译文】
+-丰花
+我终于下定决心，要尽一切努力改变过去。我决定两天后重新进入那座塔，并制定一个合适的计划，在第二天夜里实施。
+走回家的路上，我又注意到有人在跟踪我。还没等我看清对方，一名警察就逮捕了那个人。
+-家
+吃完饭后，我在客厅里待到太阳开始落山。
+-丰花
+趁天还没完全黑，我离开公寓，走到当地的彩票店，询问 12月1日的中奖号码。
+-家
+我在脑中默念着那些数字回到家，很快就睡着了。
+
+-------- 248/310  notes  notes.rpy  旁白  notes_rpy_L001740_1_f65ea28e --------
+【原文】
+
+-Home
+I wake up when {u}my phone displays {time=9:57.}{/u} To use up the last minutes that I have, I do the laundry and step outside.
+-Ina Café
+I'm welcomed by Darfee, and I sit at a table with a cup of coffee.
+
+【译文】
+-家
+{u}我的手机显示 {time=9:57.}{/u} 时，我醒了。为了用完我剩下的最后几分钟，我洗了衣服，然后出门。
+-伊娜咖啡馆
+Darfree 欢迎了我，我端着一杯咖啡坐到桌边。
+
+-------- 249/310  notes  notes.rpy  旁白  notes_rpy_L001752_1_3046251b --------
+【原文】
+
+-Ina Café
+The news on the TV says that a Xyn member was caught yesterday in Yushibana, and the screen shows an image very similar to what was in the newspaper.
+I'm not able to put together a convincing theory regarding what happened, but the main takeaway is that the past was changed.
+-Yushibana
+I leave Ina, no longer afraid of changing history.
+I decide to take Atsuki's tickets for the event, but after waiting near his house, I decide to go to Isla's first. As I'm knocking on her door, I accidentally open it and realize it isn't locked.
+I find Isla's purse. Both tickets for December 15th are inside, so I quickly take them before stepping out.
+-Home
+I make it home and cook instant noodles. Lying on the carpet of my living room, the hours quickly pass.
+
+【译文】
+-伊娜咖啡馆
+电视新闻说，昨天有一名 Xyn 成员在丰花被抓，屏幕上显示的画面和报纸上的非常相似。
+我无法对发生的事情拼凑出一个令人信服的理论，但重点是过去被改变了。
+-丰花
+我离开伊娜咖啡馆，不再害怕改变历史。
+我决定拿走 Atsuki 的活动门票，但在他家附近等了一会儿后，我决定先去 Isla 家。我敲她家门时不小心把门打开了，这才发现门没有锁。
+我找到了 Isla 的手提包。里面有两张 12月15日的门票，于是我迅速拿走它们，然后走了出去。
+-家
+我回到家，煮了方便面。躺在客厅的地毯上，几个小时很快就过去了。
+
+-------- 250/310  notes  notes.rpy  旁白  notes_rpy_L001769_1_1e5ecf48 --------
+【原文】
+
+-Living room
+With all the thoughts running through my mind, I'm not able to fall asleep. After many hours on the carpet, I {u}look at my phone and see that it's {time=5:23.}{/u}
+I decide to go to the tower before falling asleep in order to rest during the day and be awake the next night.
+-Yushibana
+I walk through the darkness until I arrive at Ashiya Tower. The entrance is closed, so I wait beside a streetlight.
+The door never opens. After two hours of standing still, the sky, the tower, and the world remain unchanged.
+I {u}look at my phone and read {time=7:35.}{/u} Realizing a potential way to enter the building, I step to its left wall in search of a hidden entrance. After shaking it, the door opens, and I find myself in the storeroom.
+
+【译文】
+-客厅
+满脑子思绪翻涌，我无法入睡。在地毯上待了许多个小时后，我{u}看了看手机，发现已经是 {time=5:23.}{/u}
+我决定在睡着之前先去塔那边，这样白天可以休息，第二天夜里保持清醒。
+-丰花
+我穿过黑暗，来到芦屋塔。入口关着，所以我在一盏路灯旁等着。
+门始终没有打开。一动不动地站了两个小时后，天空、塔和世界都没有任何变化。
+我{u}看了看手机，看到时间是 {time=7:35.}{/u} 意识到可能有一种进入建筑的方法，我走到它左侧的墙边寻找暗门。摇过之后，门开了，我发现自己来到了储藏室。
+
+-------- 251/310  notes  notes.rpy  旁白  notes_rpy_L001786_1_b5fb0c30 --------
+【原文】
+
+-Crystal floor
+I step into hallway A, filled with darkness and the same smell from the 15th. The security room is vacant, but I'm able to find the rusty key inside a drawer.
+The breakers in the mechanical room are all turned on. Above them, I find the attic key and the Sekimeiya cabinet key.
+-Event room
+I make my way to the event room, which is colder than the rest of the building. The glass of the cabinet isn't firmly shut, and the Sekimeiya is behind it, next to a strange white substance.
+I notice that the glass is cracked and stuck in place. Trying to scroll it down, I accidentally break it, triggering an alarm.
+Beside the Sekimeiya, I find a card with the word "XYN" written on it. As I'm reaching my hand toward the Sekimeiya, I notice an immensely hot aura around it despite the cold of the cabinet.
+
+【译文】
+-水晶层
+我走进 A走廊，那里一片漆黑，还弥漫着 15日那股同样的气味。监控室里空无一人，但我在一个抽屉里找到了生锈的钥匙。
+机械室里的断路器全都开着。在它们上方，我找到了阁楼钥匙和 Sekimeiya 展示柜的钥匙。
+-活动室
+我来到活动室，这里比建筑的其他地方更冷。展示柜的玻璃没有关严，Sekimeiya 就在玻璃后面，旁边有一种奇怪的白色物质。
+我注意到玻璃裂了，而且卡在原位。我试着把它往下滑，却意外把它弄碎了，触发了警报。
+在 Sekimeiya 旁边，我找到一张写有“XYN”字样的卡片。当我伸手去够 Sekimeiya 时，我注意到尽管展示柜很冷，它周围却环绕着一股极其灼热的光晕。
+
+-------- 252/310  notes  notes.rpy  旁白  notes_rpy_L001802_1_0b377f4f --------
+【原文】
+
+-Lobby
+As soon as I touch the Sekimeiya, I find myself in the lobby with the same Atsuki from that day, who tells me he just appeared here as well. I quickly notice that my clothes are different and that I'm no longer tired.
+-Hallway B
+Lingering smoke is in the air, which makes us think we're at the {u}start of December 15th{/u}. After hearing a sound in the hallway, we're drawn to room B4.
+-Crystal room B4
+The cabinet where the Sekimeiya was first hidden on that day is set to 0ºC, and the temperature wheel is not broken. Atsuki lifts the cover, and we see the Sekimeiya inside the cabinet.
+The Sekimeiya is burning hot, so we take it out of the cabinet and touch it, hoping to escape from the tower. When Atsuki makes contact with it, the Sekimeiya disappears, and I quickly realize that the cabinet closed without making a noise.
+-Hallway B
+We step out of the room when we hear someone running through the hallway. We can't see anyone, but we follow the steps up the tower.
+-Floor 6
+We hear the attic door being shut, and it's locked when we reach it. I look inside my purse and see that the attic key is still there.                   
+-Attic
+We unlock the attic and silently walk up the stairs. Through the gap of the door, I see Naomi in the living room.
+
+【译文】
+-大厅
+我一碰到 Sekimeiya，就发现自己身处大厅，和那天的 Atsuki 在一起。他告诉我他也是刚出现在这里。我很快注意到自己的衣服变了，而且不再疲惫。
+-B走廊
+空气中残留着烟雾，让我们觉得自己正处于{u}12月15日的开端{/u}。听到走廊里传来声音后，我们被吸引到了 B4 室。
+-水晶展室 B4
+那天最初藏匿 Sekimeiya 的展示柜设定为 0ºC，温度调节轮也没有损坏。Atsuki 掀开盖子，我们看到 Sekimeiya 就在展示柜里。
+Sekimeiya 滚烫，所以我们把它从展示柜里取出来触摸它，希望能逃离这座塔。当 Atsuki 碰到它时，Sekimeiya 消失了，我很快意识到展示柜在没发出任何声音的情况下关上了。
+-B走廊
+我们听到有人跑过走廊，便走出房间。我们看不到任何人，但跟着脚步声往塔上走。
+-六楼
+我们听到阁楼门被关上，等我们到达时，门已经锁了。我看了一眼自己的手提包，发现阁楼钥匙还在里面。
+-阁楼
+我们打开阁楼的锁，悄悄走上楼梯。透过门缝，我看到 Naomi 在客厅里。
+
+-------- 253/310  notes  notes.rpy  旁白  notes_rpy_L001823_1_f5d17805 --------
+【原文】
+
+-Attic
+I can't find Atsuki behind me. I walk down the stairs and find that the attic door is locked again.
+-Crystal floor
+Watching from hallway C, I witness the start of that long day unfold. Both groups meet each other, but Katei doesn't seem to be there.
+-Attic's living room
+Naomi is not in the living room anymore, but a suitcase is opened up on the sofa. Inside it are two Sekimeiya, one of which is gray.
+-Right bedroom
+I put on clothes from the wardrobe and hide the Sekimeiya under the bed.
+
+【译文】
+-阁楼
+我找不到身后的 Atsuki。我走下楼梯，发现阁楼门又锁上了。
+-水晶层
+我从 C走廊观望，目睹那个漫长一天的开端展开。两组人相遇了，但 Katei 似乎不在那里。
+-阁楼的客厅
+Naomi 已经不在客厅里了，但沙发上有一个打开的手提箱。里面有两个 Sekimeiya，其中一个是灰色的。
+-右侧卧室
+我穿上衣柜里的衣服，把 Sekimeiya 藏在床下。
+
+-------- 254/310  notes  notes.rpy  旁白  notes_rpy_L001839_1_cfcbe122 --------
+【原文】
+
+-Crystal floor
+I hide in room A5 and listen to the group going up the floors. I attempt to open the security room, but it's locked. I circle around the floor and am unable to find Atsuki.                   
+-Storeroom
+The handle of the hidden door is attached. I use it to open the door, which lets me see the white morning sky.                    
+-Event room
+A distant yell brings me to the event room, where I find my own body lying on the floor next to Naomi's.
+-Storeroom
+Back in the storeroom, I'm able to indistinctly hear the others. They don't find the bodies or the Sekimeiya in the event room and proceed to search for the missing people through the building.
+I listen to the disorder outside the storeroom. After Akaro finds the Sekimeiya on the fourth floor, Atsuki refuses to stay put anywhere until I'm found. That compels me to step out of the storeroom and show myself to them.
+-Crystal floor
+I notice that the elevator panel was taken off. When the group sees me, I lie and say that Naomi locked herself up in the attic after handing me different clothes. I'm told that she asked to talk to me and Akaro privately before the three of us walked to the crystal floor.
+
+【译文】
+-水晶层
+我躲在 A5 室里，听着那群人上楼。我试着打开监控室，但它锁着。我在这一层绕了一圈，没能找到 Atsuki。
+-储藏室
+暗门的把手装好了。我用它打开了门，这让我看到了清晨白色的天空。
+-活动室
+远处的一声喊叫把我引到活动室，我在那里发现自己的尸体躺在 Naomi 的尸体旁边。
+-储藏室
+回到储藏室后，我隐约能听到其他人的声音。他们在活动室里没有找到尸体或 Sekimeiya，于是继续在整栋建筑里寻找失踪的人。
+我听着储藏室外的混乱动静。Akaro 在四楼找到 Sekimeiya 后，Atsuki 拒绝待在任何一个地方，直到我被找到。这促使我走出储藏室，向他们现身。
+-水晶层
+我注意到电梯面板被拆掉了。当那群人看到我时，我撒谎说 Naomi 把不同的衣服交给我后，就把自己锁在了阁楼里。我被告知，她曾要求在三个人一起走到水晶层之前，先和我以及 Akaro 私下谈谈。
+
+-------- 255/310  notes  notes.rpy  旁白  notes_rpy_L001859_1_5c2dcaf1 --------
+【原文】
+
+-Crystal room B4
+Akaro suggests we stay in room B4 due to its temperature regulation cabinets. He puts the Sekimeiya into a cold one and sits next to me.  
+Around two hours later, Sai leaves the room and doesn't come back. A while later, we begin to hear faint sounds beyond the room.
+Erina goes to the bathroom. She doesn't come back either.
+-Lobby
+I leave the room and am drawn to the open lobby. Next to the hallway A door, both my own body and Naomi's are lying down next to a pool of blood.
+-Crystal floor
+Erina's corpse is in front of the staircase. I realize that Atsuki and Akaro left room B4 and hide in the women's bathroom.
+-Women's bathroom
+Minutes pass as the crystal floor remains silent.
+
+【译文】
+-水晶展室 B4
+Akaro 建议我们待在 B4 室，因为那里的展示柜可以调节温度。他把 Sekimeiya 放进一个冰冷的展示柜里，然后坐到我旁边。
+大约两个小时后，Sai 离开了房间，没有再回来。又过了一会儿，我们开始听到房间外传来微弱的声音。
+Erina 去了卫生间。她也没有回来。
+-大厅
+我离开房间，被吸引到敞开的大厅。在 A走廊门旁，我自己的尸体和 Naomi 的尸体都躺在一滩血旁边。
+-水晶层
+Erina 的尸体在楼梯前。我意识到 Atsuki 和 Akaro 离开了 B4 室，于是躲进女卫生间。
+-女卫生间
+几分钟过去了，水晶层一直很安静。
+
+-------- 256/310  notes  notes.rpy  旁白  notes_rpy_L001878_1_fcb20f2e --------
+【原文】
+
+-Crystal room B4
+Room B4 is empty, and the cabinet with the Sekimeiya is open.
+-Lobby
+As I'm bringing the Sekimeiya to the storeroom, I notice that Naomi's body has vanished from the lobby.
+-Storeroom
+I leave the Sekimeiya on the floor of the hidden passage as soon as an essential piece of the puzzle appears in my head.
+-Floor 2
+I run up, estimating it must be around {time=15.} In front of the door to the partitions, I find a Sekimeiya. It's very hot, but I'm able to bring it with me thanks to the thick clothes from the attic.
+-Attic
+I see Atsuki crying on a bed. Having failed to find Akaro and Isla confirms my belief.
+-Storeroom
+I return to the storeroom and place the Sekimeiya on the floor. As soon as I touch the one I obtained in room B4, both of them disappear.
+I dash over and confirm that the door in the back of the corridor no longer has a handle.
+
+【译文】
+-水晶展室 B4
+B4 室里空无一人，装着 Sekimeiya 的展示柜开着。
+-大厅
+当我把 Sekimeiya 带去储藏室时，我注意到 Naomi 的尸体已经从大厅消失了。
+-储藏室
+脑中刚一浮现出谜题的关键一环，我就把 Sekimeiya 留在了暗道的地上。
+-二楼
+我跑上楼，估计现在大约是 {time=15.} 在隔间门前，我找到了一个 Sekimeiya。它非常烫，但多亏从阁楼拿来的厚衣服，我才能把它带走。
+-阁楼
+我看到 Atsuki 在床上哭泣。我没能找到 Akaro 和 Isla，这证实了我的想法。
+-储藏室
+我回到储藏室，把 Sekimeiya 放在地上。我刚一碰到在 B4 室得到的那个 Sekimeiya，两个就都消失了。
+我冲过去，确认走廊尽头的那扇门已经没有把手了。
+
+-------- 257/310  notes  notes.rpy  旁白  notes_rpy_L001901_1_9eb5cfaf --------
+【原文】
+
+-Storeroom
+Minutes of silence pass while I'm in the storeroom.
+-Attic
+To confirm that I'm back in my world, I go to the attic. I can't find Isla, so I wait in the attic's storeroom for someone to leave the right bedroom, which our past selves must be locked inside.
+I finally hear sounds in the hallway. Once they fade, I step out and call the elevator, causing a dilemma to instantly arise in my mind.
+-Storeroom
+Back on the crystal floor, I hide in the storeroom and pay attention to the sounds outside. I perceive what must be our past selves, but not everything I expect to hear.
+-Lobby
+The lobby is empty, and my corpse has been replaced with a single drop of blood.
+-Event room
+The cabinet is empty.
+-Crystal room B6
+The open door lures me to room B6, where a Sekimeiya is on the floor near the door. I take it with me.
+-Crystal room B4
+Naomi is under a curtain, and the wheel of the cabinet from this morning is damaged.
+Erina suddenly enters the room and collapses on the floor. She's soaked in blood, but I recall that she's not dead.
+I wait until our past selves come in and find Erina.
+
+【译文】
+-储藏室
+我在储藏室里度过了几分钟的寂静。
+-阁楼
+为了确认自己回到了我的世界，我去了阁楼。我找不到 Isla，于是在阁楼的储藏室里等着，等有人从右侧卧室出来——我们过去的自己一定被锁在里面。
+我终于听到走廊里有声音。等声音消失后，我走出去叫了电梯，这让我脑中立刻出现了一个两难局面。
+-储藏室
+回到水晶层后，我躲在储藏室里，注意听着外面的声音。我辨认出那一定是我们过去的自己，但听到的并不全是我预期中的内容。
+-大厅
+大厅里空无一人，我的尸体被换成了一滴血。
+-活动室
+展示柜是空的。
+-水晶展室 B6
+敞开的门把我引到 B6 室，那里门附近的地上有一个 Sekimeiya。我把它带走了。
+-水晶展室 B4
+Naomi 在帘子下面，而今天早上那个展示柜的轮子已经损坏了。
+Erina 突然走进房间，倒在地上。她浑身是血，但我记得她并没有死。
+我一直等到我们过去的自己进来并发现 Erina。
+
+-------- 258/310  notes  notes.rpy  旁白  notes_rpy_L001926_1_40b442ca --------
+【原文】
+
+-Hallway B
+The moment I step out, Atsuki sees me from the event room. I keep walking to hallway C to reach the storeroom.
+-Storeroom
+I wait until our past selves go to the attic.
+-Crystal room B4
+I pick up the Sekimeiya on the floor.
+-Crystal floor
+As I'm going back to the storeroom, I find Sai coming out of it. I retreat to the lobby before he sees me, and I circle back to hallway C.
+-Cleaning room
+I hear a noise in hallway B and quickly hide in the cleaning room.
+I wait until our past selves return to the event room after being chased by Sai.
+-Crystal floor
+Looking from hallway C, I learn the way Sai avoided being found in hallway B.
+-Storeroom
+I wait until my past self travels to the attic's bedroom with Sai.
+
+【译文】
+-B走廊
+我一走出去，Atsuki 就从活动室看到了我。我继续走向 C走廊，以便到达储藏室。
+-储藏室
+我一直等到我们过去的自己去了阁楼。
+-水晶展室 B4
+我捡起地上的 Sekimeiya。
+-水晶层
+当我回储藏室时，我发现 Sai 正从里面出来。我在他看见我之前退回大厅，然后绕回 C走廊。
+-清洁间
+我听到 B走廊里有动静，便迅速躲进清洁间。
+我一直等到我们过去的自己被 Sai 追赶后回到活动室。
+-水晶层
+从 C走廊观察，我弄清了 Sai 是如何在 B走廊里避免被发现的。
+-储藏室
+我一直等到过去的自己和 Sai 一起前往阁楼的卧室。
+
+-------- 259/310  notes  notes.rpy  旁白  notes_rpy_L001949_1_b53810d8 --------
+【原文】
+
+-Event room
+The event room is empty.
+-Crystal room B4
+I put the Sekimeiya into a cold cabinet and wait by the door.
+-Lobby
+I feel as if I hear a sound from the lobby, but I can't see anyone when I open the door. From there, I clearly hear someone in hallway A and immediately in hallway B as well.
+Atsuki's piercing yells suddenly reach my ears.
+-Hallway B
+Atsuki warily walks to me. Before I can explain myself, Erina arrives from hallway C.
+
+【译文】
+-活动室
+活动室是空的。
+-水晶展室 B4
+我把 Sekimeiya 放进一个冰冷的展示柜，然后在门边等着。
+-大厅
+我好像听到大厅传来声音，但当我打开门时，却看不到任何人。从那里，我清楚地听到 A走廊里有人，紧接着 B走廊里也有人。
+Atsuki 刺耳的喊声突然传到我耳中。
+-B走廊
+Atsuki 警惕地朝我走来。还没等我解释，Erina 就从 C走廊过来了。
+
+-------- 260/310  notes  notes.rpy  旁白  notes_rpy_L001967_1_dc298ccc --------
+【原文】
+
+-Event room
+We follow Erina to the event room and find the Sekimeiya in the cabinet. Erina rolls it into her purse.
+Sai appears from hallway A.
+Erina gives a note to Atsuki, which he quickly pockets.
+Erina claims to have seen Miiya.
+After approximately fifteen minutes of charge, Erina activates the Sekimeiya. Sai is the only person to disappear. The Sekimeiya vanishes from Erina's purse and seems to reappear in the cabinet.
+-Hallway B
+Atsuki goes to the staff room, but he can't find a Sekimeiya inside it.
+Sai appears from the lobby and Akaro from the event room. Both of them are taken aback by my presence. {u}Sai's wristwatch displays {time=18:43.}{/u}
+I look around me and notice that the camera closest to the lobby has a clean lens. I ask the others not to follow me and run to the elevator in order to reach the attic.
+-Attic's living room
+Atsuki appears from the staircase and tells me that I traveled to the future instead of the past.
+
+【译文】
+-活动室
+我们跟着 Erina 来到活动室，在展示柜里找到了 Sekimeiya。Erina 把它卷进了自己的手提包。
+Sai 从 A走廊出现。
+Erina 把一张纸条交给 Atsuki，他迅速把它塞进口袋。
+Erina 声称自己看到了 Miiya。
+大约充能十五分钟后，Erina 启动了 Sekimeiya。只有 Sai 消失了。Sekimeiya 从 Erina 的手提包里消失，似乎又出现在了展示柜里。
+-B走廊
+Atsuki 去了员工室，但他在里面找不到 Sekimeiya。
+Sai 从大厅出现，Akaro 从活动室出现。两人都被我的出现吓了一跳。{u}Sai 的手表显示 {time=18:43.}{/u}
+我环顾四周，注意到离大厅最近的摄像头镜头很干净。我让其他人不要跟着我，然后跑向电梯，以便到达阁楼。
+-阁楼的客厅
+Atsuki 从楼梯出现，告诉我我穿越到了未来，而不是过去。
+
+-------- 261/310  notes  notes.rpy  旁白  notes_rpy_L001989_1_50ca90a0 --------
+【原文】
+
+-Ashiya Tower
+While Atsuki is crying on a bed, Sai steps out of room B6, confused—the Sekimeiya disappeared without him having touched them.
+As he looks through the crystal floor, he realizes it's not the place he's familiar with. The corpses he knew of have vanished, and others have appeared.
+The moment Sai shows himself to Atsuki, he is welcomed by a sudden blow that comes close to ending his life. Wielding a knife, he retaliates and chases Atsuki.
+Sai comes across a locked bathroom on floor 6, where Atsuki must've hidden. Aware of the location of two Sekimeiya, Sai runs to the crystal floor.
+Many hours later, Atsuki is still locked up inside that bathroom. When he steps out of it, nobody is in sight.
+On the crystal floor, Atsuki is drawn to the storeroom, where a glowing Sekimeiya lies in the dark. After touching it, it disappears.
+Near the stairs, Erina's corpse is no longer there. When Atsuki enters the event room, he finds the Sekimeiya on the floor. Once again, the instant he touches it, it disappears.
+Atsuki notices that the panel next to the elevator is properly attached and uses it to call the elevator.
+{u}At {time=21:04}{/u}, the police enter the building and find the corpses of Shiroya Mirana in the lobby, Erina Majutsu near the staircase, and Sai Yomiya split in half in hallway B. The Sekimeiya cabinet is empty, but two Sekimeiya are shortly found and placed inside it.
+Trying to find the missing people, a police officer inspects the elevator shaft, where Atsuki's unconscious body is found. He's taken to safety, but his account of events quickly begins to be questioned.
+Many weeks after December 15th, almost a third of Japan's population disappears forever.
+
+【译文】
+-芦屋塔
+当 Atsuki 在床上哭泣时，Sai 困惑地从 B6 室走出来——Sekimeiya 在他没有触碰的情况下消失了。
+当他查看水晶层时，他意识到这里不是他熟悉的地方。他认识的尸体消失了，而其他尸体出现了。
+Sai 一出现在 Atsuki 面前，就迎面遭到一记几乎要了他命的突然袭击。他挥着刀反击，并追赶 Atsuki。
+Sai 在六楼遇到一间锁着的卫生间，Atsuki 一定躲在那里。Sai 知道两个 Sekimeiya 的位置，便跑向水晶层。
+许多个小时后，Atsuki 仍被锁在那间卫生间里。当他走出来时，看不到任何人。
+在水晶层，Atsuki 被吸引到储藏室，那里黑暗中有个发光的 Sekimeiya。触碰之后，它消失了。
+在楼梯附近，Erina 的尸体已经不在了。当 Atsuki 进入活动室时，他发现 Sekimeiya 在地上。他刚一碰到它，它又一次消失了。
+Atsuki 注意到电梯旁的面板完好地装在上面，便用它叫了电梯。
+{u}到了 {time=21:04}{/u}，警察进入建筑，在大厅发现了 Shiroya Mirana 的尸体，在楼梯附近发现了 Erina Majutsu 的尸体，并在 B走廊发现了被劈成两半的 Sai Yomiya。Sekimeiya 展示柜是空的，但很快又找到了两个 Sekimeiya，并把它们放了进去。
+为了寻找失踪的人，一名警察检查了电梯井，并在那里发现了昏迷的 Atsuki。他被带到了安全的地方，但他对事件的描述很快开始受到质疑。
+12月15日过去许多周后，日本近三分之一的人口永远消失了。
+
+-------- 262/310  notes  notes.rpy  旁白  notes_rpy_L002010_1_876e4c4c --------
+【原文】
+
+-Yushibana
+On {u}November 27th{/u}, Gan, an owner of a gem shop, finds a peculiar gemstone on an unexplored mountain. Once he brings it home, he calls Ashiya with hopes of selling the discovery to them.
+He quickly finds out that the gem becomes hot indoors and fears Ashiya will refuse a deal due to that.
+The next day, when one of Ashiya's representatives visits the shop, Gan warns him to always keep the gemstone, named "Sekimeiya", cold.
+On {u}November 29th{/u}, Gan returns to the place where he found the gemstone and finds an identical one. Back home, he calls Ashiya again, and they are also willing to take the second one despite the Sekimeiya having already been announced for showing on the 15th of December.
+
+【译文】
+-丰花
+{u}11月27日{/u}，宝石店老板 Gan 在一座未勘探的山上发现了一颗奇特的宝石。他把宝石带回家后，打电话给芦屋，希望把这一发现卖给他们。
+他很快发现这颗宝石在室内会变热，并担心芦屋会因此拒绝交易。
+第二天，当芦屋的一名代表来到店里时，Gan 警告他要始终让这颗名为“Sekimeiya”的宝石保持低温。
+{u}11月29日{/u}，Gan 回到他发现宝石的地方，又找到了一颗一模一样的宝石。回到家后，他再次打电话给芦屋，而尽管 Sekimeiya 已经宣布将于 12月15日展出，他们也愿意收下第二颗。
+
+-------- 263/310  notes  notes.rpy  旁白  notes_rpy_L002024_1_d26266be --------
+【原文】
+
+-Town
+In a mansion on the outskirts of a small town, Kyuuka, a young boy who distanced himself from the world, finally decides to act against the malice of his older brother.               
+
+【译文】
+-小镇
+在一座小镇郊外的宅邸里，Kyuuka——一个与世隔绝的少年——终于决定反抗他哥哥的恶意。
+
+-------- 264/310  notes  notes.rpy  旁白  notes_rpy_L002035_1_b71f0d4c --------
+【原文】
+
+-Ashiya Tower
+In the security room, Katei sends himself a video recording.
+-Katei's apartment
+Katei watches the video at home. In it, he sees Ido, the janitor of Ashiya Tower, walking through hallway A during the time period from which footage was erased.    
+-Yushibana
+Early in the morning, Katei calls Lei and meets with her outside Ashiya Tower.
+Katei presents Lei with his plan to catch Xyn.
+-Ashiya Tower
+Before Katei's shift begins, he daydreams about his true intentions.
+-Katei's apartment
+The next day, Katei steps out of his apartment with something he's finally taken out of his drawer.
+-Ashiya Tower
+Katei sneaks in a spying bug and a playback device through the storeroom, and he places the bug on Ido's clothes.
+Three days later, on Monday 28th, the bug hasn't recorded anything of importance. To make sure that Ido is the mole, Katei talks to him and gives him information valuable to Xyn.
+
+【译文】
+-芦屋塔
+在监控室里，Katei 给自己发送了一段录像。
+-Katei 的公寓
+Katei 在家观看录像。在录像中，他看到了芦屋塔的清洁工 Ido 在录像被删除的那段时间里穿过 A走廊。
+-丰花
+清晨，Katei 打电话给 Lei，并在芦屋塔外与她见面。
+Katei 向 Lei 展示了他抓住 Xyn 的计划。
+-芦屋塔
+在 Katei 的轮班开始前，他幻想着自己的真实意图。
+-Katei 的公寓
+第二天，Katei 带着他终于从抽屉里取出的某样东西走出了公寓。
+-芦屋塔
+Katei 通过储藏室偷偷带进了一个窃听器和一台播放设备，并把窃听器放到了 Ido 的衣服上。
+三天后，也就是 28日星期一，窃听器没有录到任何重要的内容。为了确认 Ido 就是内鬼，Katei 和他交谈，并给了他一些对 Xyn 有价值的信息。
+
+-------- 265/310  notes  notes.rpy  旁白  notes_rpy_L002058_1_d7a2947a --------
+【原文】
+
+-???
+Atase is summoned by his boss. During their talk, Ido walks in and reports the information he was given by Katei. 
+-Ashiya Tower
+The next day, November 29th, Katei listens to Xyn's conversation. Once it ends, Lei lets him know that the primary announcements of the Sekimeiya have been made.
+-???
+Atase is summoned by his boss again. After the public announcement, Xyn designs a plan to obtain the Sekimeiya before Ashiya.
+-Yushibana
+On {u}November 30th at almost {time=21}{/u}, Atase enters Musashi Gemstones. After the owner of the shop hands him a box with a gemstone inside, Atase sets off a smoke grenade and runs out, quickly escaping by car.
+At {time=21}, Lei enters Musashi Gemstones. Taken aback by the darkness, she turns the lights off and on, causing an explosion in the back of the shop.
+Atase and Faiten are pulled over by the police due to their reckless driving. Before they're let free, the officer is told the information Lei explained to the police about the recent attack. The officer retrieves the box, but Atase and Faiten are able to escape.
+Late in the night, a forensic group is at the tunnel under Musashi Gemstones. During the explosion, one of the Sekimeiya fell through the floor alongside Shiroya Mirana, who entered a coma. Miiya Moiromo's body wasn't found in one piece, but she was confirmed to have died instantly. Atsuki Hakutoki and the owner of the shop, the last two people to have inhaled the smoke, were sent to the hospital in stable condition.
+-???
+When Atase and Faiten meet up with their boss, they're told that a girl died in the gem shop after their attack.
+-Atase's apartment
+At home, Atase reads the report of the girl's death. Ashiya and Xyn aren't mentioned in the article.
+
+【译文】
+-???
+Atase 被老板叫去。在他们谈话期间，Ido 走进来，报告了 Katei 给他的信息。
+-芦屋塔
+第二天，11月29日，Katei 偷听 Xyn 的谈话。谈话结束后，Lei 让他知道 Sekimeiya 的主要公告已经发布。
+-???
+Atase 再次被老板叫去。公开公告之后，Xyn 制定了一个计划，要在芦屋之前得到 Sekimeiya。
+-丰花
+{u}11月30日将近 {time=21}{/u} 时，Atase 进入武藏宝石。店主递给他一个装有宝石的盒子后，Atase 引爆了一枚烟雾弹，跑出去，迅速乘车逃离。
+{time=21} 时，Lei 进入武藏宝石。她被黑暗吓了一跳，把灯关掉又打开，结果店后发生了爆炸。
+Atase 和 Faiten 因鲁莽驾驶被警察拦下。在他们被放走之前，警察得知了 Lei 向警方解释的关于最近袭击的信息。警察取回了盒子，但 Atase 和 Faiten 得以逃脱。
+深夜，一个鉴证小组来到武藏宝石下方的隧道。爆炸期间，其中一个 Sekimeiya 和 Shiroya Mirana 一起穿过了地板，Shiroya 陷入了昏迷。Miiya Moiromo 的尸体被发现时并不完整，但确认她当场死亡。最后两个吸入烟雾的人——Atsuki Hakutoki 和店主——被送往医院，情况稳定。
+-???
+当 Atase 和 Faiten 与老板会合时，他们被告知在他们袭击之后，有一个女孩死在了宝石店里。
+-Atase 的公寓
+在家时，Atase 读了那个女孩死亡的报道。文章中既没有提到芦屋，也没有提到 Xyn。
+
+-------- 266/310  notes  notes.rpy  旁白  notes_rpy_L002082_1_98c6d9ea --------
+【原文】
+
+-???
+The next day, Atase, Ido, and their boss craft a plan to take advantage of Ashiya's event and steal the Sekimeiya.
+-Ashiya Tower
+Katei listens to Xyn's plan and thinks of a way to outsmart them.
+-Yushibana
+Calm days pass until December 15th, during which Xyn and Katei work hard to perfect their respective plans.
+
+【译文】
+-???
+第二天，Atase、Ido 和他们的老板制定了一个计划，想利用芦屋的活动偷走 Sekimeiya。
+-芦屋塔
+Katei 偷听了 Xyn 的计划，并想出了智取他们的办法。
+-丰花
+平静的日子一直持续到 12月15日，在此期间，Xyn 和 Katei 都在努力完善各自的计划。
+
+-------- 267/310  notes  notes.rpy  旁白  notes_rpy_L002097_1_84bfaab5 --------
+【原文】
+
+-Ashiya Tower
+Atase is the first visitor to enter the tower. Before {time=9}, he realizes that the boy next to him is someone who was in the gem shop during Xyn's attack.
+-Event room
+The first group is taken to the event room. Before the cabinet's curtain is raised, the grenade in Atase's pocket puts everyone but him to sleep.
+-Cleaning room
+Atase obtains the fake Sekimeiya in the cleaning cart.
+-Event room
+Two Sekimeiya are inside the cabinet. Severely confused, Atase is only able to replace one.
+-Cleaning room
+Atase puts a real Sekimeiya inside the cleaning cart.
+-Event room
+Atase returns to the event room and lies down, faking his unconsciousness.                   
+
+【译文】
+-芦屋塔
+Atase 是第一个进入塔的访客。在 {time=9} 之前，他意识到身旁的男孩是 Xyn 袭击期间曾在宝石店里的那个人。
+-活动室
+第一批人被带到活动室。展示柜的帘子升起之前，Atase 口袋里的手榴弹让除他以外的所有人都睡着了。
+-清洁间
+Atase 在清洁车里拿到了赝品 Sekimeiya。
+-活动室
+展示柜里有两个 Sekimeiya。Atase 非常困惑，只能替换掉其中一个。
+-清洁间
+Atase 把一个真正的 Sekimeiya 放进了清洁车里。
+-活动室
+Atase 回到活动室躺下，假装自己失去了意识。
+
+-------- 268/310  notes  notes.rpy  旁白  notes_rpy_L002119_1_585112ec --------
+【原文】
+
+-Ashiya Tower
+When the first group is brought to the event room, Katei steps out of the security room and walks to the lobby.
+The smoke is released in the hallways, making everyone hurriedly evacuate. Katei uses that moment to reenter hallway A and crawls to avoid inhaling too much of the smoke.
+From the hallway, Katei sees which of the two Sekimeiya Atase replaces. When Atase returns to the cleaning room, Katei takes the real Sekimeiya from the cabinet.
+Katei takes the other real Sekimeiya from the cleaning cart and brings them to the security room's secret corridor, where he puts them in a suitcase he had left there.
+As he's about to unlock the secret exit, Katei realizes he dropped the key while he was crawling. He returns to hallway A and is able to find it near the event room.
+Even with the key, Katei isn't able to unlock the door in the storeroom. After lamenting his defeat, he realizes the suitcase with the Sekimeiya has disappeared.
+Katei chases a sound out of the storeroom. In hallway A, he sees Naomi with the suitcase and chases after her.
+Running up the floors, Katei trips on the third set of stairs. Realizing that he will be unable to enter the attic, he returns to the crystal floor to assess the situation.
+
+【译文】
+-芦屋塔
+当第一批人被带到活动室时，Katei 走出监控室，走向大厅。
+走廊里释放了烟雾，迫使所有人匆忙撤离。Katei 利用那一刻重新进入 A走廊，并爬行以避免吸入过多烟雾。
+从走廊里，Katei 看清了 Atase 替换了两个 Sekimeiya 中的哪一个。当 Atase 回到清洁间时，Katei 从展示柜里拿走了真正的 Sekimeiya。
+Katei 从清洁车里拿走另一个真正的 Sekimeiya，把它们带到监控室的秘密走廊，放进他留在那里的一个手提箱里。
+就在他准备打开秘密出口时，Katei 意识到自己在爬行时把钥匙掉了。他回到 A走廊，在活动室附近找到了它。
+即使有钥匙，Katei 也没能打开储藏室里的门。在哀叹自己的失败后，他意识到装 Sekimeiya 的手提箱不见了。
+Katei 追着一个声音离开储藏室。在 A走廊，他看到 Naomi 拿着手提箱，便追了上去。
+往楼上跑时，Katei 在第三段楼梯上绊倒了。意识到自己无法进入阁楼后，他回到水晶层评估情况。
+
+-------- 269/310  notes  notes.rpy  旁白  notes_rpy_L002137_1_e28afdec --------
+【原文】
+
+-Event room
+Naomi is woken up by the sound of footsteps.
+-Ashiya Tower
+Naomi is drawn to the storeroom. After Katei steps out of it, Naomi walks in and sees the secret corridor. On the floor, she finds a suitcase with two Sekimeiya inside, and she takes it with her.
+Naomi sees Katei reentering the storeroom. As she's getting closer to the lobby, she hears someone running behind her.
+In the lobby, Naomi sees a shutter blocking the exit. She bolts to hallway B with the suitcase and runs up the floors until she locks herself up in the attic.
+-Attic
+Naomi opens up the suitcase on the sofa and realizes that its interior is hot.
+When she feels the surface of a Sekimeiya, both gemstones disappear. Her keys, which she'd left next to the suitcase, seem to have vanished too.
+Unable to unlock the exit, Naomi attempts to call the elevator, but it doesn't come. Out of nowhere, she finds herself trapped there.
+
+【译文】
+-活动室
+Naomi 被脚步声吵醒。
+-芦屋塔
+Naomi 被吸引到储藏室。Katei 从里面走出来后，Naomi 走了进去，看到了秘密走廊。她在地板上找到一个装有两个 Sekimeiya 的手提箱，便把它带走了。
+Naomi 看到 Katei 重新进入储藏室。当她越来越接近大厅时，她听到身后有人在跑。
+在大厅里，Naomi 看到一扇卷帘门挡住了出口。她带着手提箱冲向 B走廊，一路往楼上跑，直到把自己锁进阁楼。
+-阁楼
+Naomi 在沙发上打开手提箱，发现里面很热。
+当她触摸到一个 Sekimeiya 的表面时，两颗宝石都消失了。她留在手提箱旁边的钥匙似乎也不见了。
+Naomi 无法打开出口，便试着叫电梯，但电梯没有来。不知不觉间，她发现自己被困在了那里。
+
+-------- 270/310  notes  notes.rpy  旁白  notes_rpy_L002156_1_353b83a4 --------
+【原文】
+
+-Ashiya Tower
+Erina notices that Isla's corpse is no longer in room A5.
+We find Akaro, who tells us he just used the Sekimeiya after escaping the attic's bedroom with Sai.
+Every floor is dark, but we can power on a lamp in the attic. Akaro's clothes and hairstyle are different, and Erina's fingertip is bleeding.
+An empty glass in the kitchen makes me think that we might've traveled far to the future.
+
+【译文】
+-芦屋塔
+Erina 注意到 Isla 的尸体已经不在 A5 室里了。
+我们找到了 Akaro，他告诉我们，他和 Sai 逃出阁楼的卧室后刚使用过 Sekimeiya。
+每一层都很黑，但我们能在阁楼点亮一盏灯。Akaro 的衣服和发型都变了，Erina 的指尖在流血。
+厨房里的一个空玻璃杯让我觉得，我们可能穿越到了很远的未来。
+
+-------- 271/310  story  script.rpy  i  script_rpy_L000263_1_526c08ce --------
+【原文】
+When her scripted message was over, she relaxed her posture and directed her look at us.
+【译文】
+当她说完这段照本宣科的话后，放松了姿态，把目光转向我们。
+
+-------- 272/310  story  script.rpy  sa  script_rpy_L000264_1_c67f9e29 --------
+【原文】
+You three are the first group, correct?
+【译文】
+你们三位是第一组，对吗？
+
+-------- 273/310  story  script.rpy  i  script_rpy_L000266_1_0ca07953 --------
+【原文】
+...
+【译文】
+……
+
+-------- 274/310  story  script.rpy  i  script_rpy_L000267_1_586db140 --------
+【原文】
+Seconds later, nobody had answered. The two people at my sides had barely paid attention to her, so I spoke before she would have to ask again.
+【译文】
+过了几秒，没有人回答。我身边的两个人几乎没在听她说话，于是我趁她再问之前开了口。
+
+-------- 275/310  story  script.rpy  a  script_rpy_L000268_1_02d3c7ca --------
+【原文】
+Yes.
+【译文】
+是的。
+
+-------- 276/310  story  script.rpy  sa  script_rpy_L000269_1_ee650144 --------
+【原文】
+...All right, then. Please follow me to the event room to be the first to see the Sekimeiya.
+【译文】
+……好的，那么请跟我到活动室，你们将是第一批看到 Sekimeiya 的人。
+
+-------- 277/310  story  script.rpy  i  script_rpy_L000272_1_a1a7d477 --------
+【原文】
+I'd heard that word many times recently. As soon as she said it, she turned around and walked through the same door she'd entered from.
+【译文】
+这个词我最近已经听过很多次了。她话音刚落，就转身走进了自己来时的那扇门。
+
+-------- 278/310  story  script.rpy  i  script_rpy_L000276_1_5562bfc1 --------
+【原文】
+I looked to my right to check on Shiroya. Her demeanor hadn't changed, but she was aware of the situation.
+【译文】
+我看了看右边的 Shiroya。她的神情没有变化，但已经跟上了状况。
+
+-------- 279/310  story  script.rpy  i  script_rpy_L000279_1_93ac3aab --------
+【原文】
+By the time I turned back, the man on my left had nearly reached the door. It seemed he was taking the initiative despite his unenthused appearance.
+【译文】
+等我回过头，左边的男人已经快走到门边了。虽然他看起来兴致缺缺，却意外地主动。
+
+-------- 280/310  story  script.rpy  i  script_rpy_L000280_1_a42cb8b2 --------
+【原文】
+Rather, it was probably better to think of myself as lagging behind than him being proactive. I followed, motioning to Shiroya as I did. She approached me, still wearing her heavy-looking coat.
+【译文】
+或者说，与其说他积极，不如说是我落后了。我一边跟上去，一边向 Shiroya 招手。她朝我走来，身上还穿着那件看起来厚重的外套。
+
+-------- 281/310  story  script.rpy  i  script_rpy_L000287_1_5a3a826c --------
+【原文】
+We found ourselves in a long hallway. We could see many doors lining each wall, some opened and connected by a decorative handrail. However, there were no traces of Naomi or the man.
+【译文】
+我们来到一条长长的走廊里。两侧的墙上有许多门，其中几扇开着，旁边连着装饰性的扶手。然而，Naomi 和那个男人已经不见踪影。
+
+-------- 282/310  story  script.rpy  i  script_rpy_L000288_1_c066e2c5 --------
+【原文】
+The floor seemed pointlessly wide. Up to the end of the hall, I could see a number of security cameras hanging from the ceiling. As we started walking, unclear about where to go, I found it appropriate to try talking with Shiroya again.
+【译文】
+地面宽得有些浪费。一直到走廊尽头，我都能看到天花板上挂着好几台监控摄像头。我们不知道该往哪走，只能先迈开步子，我觉得差不多该再和 Shiroya 说说话了。
+
+-------- 283/310  story  script.rpy  a  script_rpy_L000294_1_c50542f9 --------
+【原文】
+Are you feeling better?
+【译文】
+你感觉好点了吗？
+
+-------- 284/310  story  script.rpy  s  script_rpy_L000299_1_17da12d9 --------
+【原文】
+Oh... Yeah, I'm fine. Don't worry about it.
+【译文】
+哦……嗯，我没事。别担心。
+
+-------- 285/310  story  script.rpy  i  script_rpy_L000302_1_4d938f36 --------
+【原文】
+...She continued walking, assuming that was the end of our exchange.
+【译文】
+……她继续往前走，似乎觉得我们的话说到这里就结束了。
+
+-------- 286/310  story  script.rpy  i  script_rpy_L000303_1_3d599015 --------
+【原文】
+I tried to press it a bit further.
+【译文】
+我试着再追问一下。
+
+-------- 287/310  story  script.rpy  a  script_rpy_L000306_1_8263260a --------
+【原文】
+...Do you regret coming?
+【译文】
+……你后悔来了吗？
+
+-------- 288/310  story  script.rpy  s  script_rpy_L000311_1_4ad73a35 --------
+【原文】
+...No, of course not.{w} I'm seriously glad we're here. I mean it.
+【译文】
+……不，当然没有。{w} 我们能来这里，我真的很开心。我是认真的。
+
+-------- 289/310  story  script.rpy  a  script_rpy_L000312_1_5abc92ce --------
+【原文】
+I know how you feel, okay? It's... the same for me. It doesn't help a lot to say it, but I don't want to see you sad.
+【译文】
+我懂你的感受，真的。我也……一样。虽然这么说没什么用，但我不想看到你难过。
+
+-------- 290/310  story  script.rpy  s  script_rpy_L000317_1_b0acf6f4 --------
+【原文】
+I'm here because I want to be, Atsuki. I'm okay. This is where I need to be right now. Sorry, I must look terrible.
+【译文】
+我是自己想来的，Atsuki。我没事。现在我就该待在这里。抱歉，我的样子一定很难看。
+
+-------- 291/310  story  script.rpy  i  script_rpy_L000318_1_2d99d70a --------
+【原文】
+She wasn't being very convincing.
+【译文】
+她这些话实在没什么说服力。
+
+-------- 292/310  story  script.rpy  a  script_rpy_L000319_1_87477651 --------
+【原文】
+...You know this isn't something you need to apologize for. Nothing about this is your fault.
+【译文】
+……你知道这不是你需要道歉的事。这一切都不是你的错。
+
+-------- 293/310  story  script.rpy  s  script_rpy_L000324_1_8bc4689e --------
+【原文】
+I'm... not so sure. I wish I didn't have to be a drag for you now.
+【译文】
+我……不太确定。真希望我现在没有拖累你。
+
+-------- 294/310  story  script.rpy  a  script_rpy_L000325_1_603ca667 --------
+【原文】
+H-Hey, come on. If you want to leave, we still can. Don't feel like you have to push yourself for my sake.
+【译文】
+喂、喂，别这样。如果你想回去，我们现在还能走。不用为了我勉强自己。
+
+-------- 295/310  story  script.rpy  s  script_rpy_L000331_1_8887433b --------
+【原文】
+It's all right. Thank you.{w} Let's continue, though. I was the one who wanted to do this.
+【译文】
+没关系，谢谢你。{w} 不过，我们继续吧。想来这里的是我。
+
+-------- 296/310  story  script.rpy  a  script_rpy_L000333_1_ec0dd855 --------
+【原文】
+Okay.
+【译文】
+好。
+
+-------- 297/310  story  script.rpy  i  script_rpy_L000338_1_6bd6e625 --------
+【原文】
+We'd hoped coming to the exhibition would be for the better. Once it was settled that we wouldn't back out, I looked around hesitantly until a voice calling for us came from the middle of the hallway, through an open door.
+【译文】
+我们本来希望来展览会能让情况好转。确定不会半途而废后，我犹豫地环顾四周，直到走廊中间一扇敞开的门里传来叫我们的声音。
+
+-------- 298/310  story  script.rpy  sa  script_rpy_L000342_1_7e194bb3 --------
+【原文】
+You two, hurry up! The clock is ticking.
+【译文】
+你们两个，快点！时间有限。
+
+-------- 299/310  story  script.rpy  i  script_rpy_L000343_1_ea144c00 --------
+【原文】
+Her unprofessional shout broke the silence and drew us forward.
+【译文】
+她这声不太专业的喊话打破了寂静，把我们引了过去。
+
+-------- 300/310  story  script.rpy  i  script_rpy_L000347_1_91d527a2 --------
+【原文】
+I saw her figure in a seemingly empty room. Through the other doors, there were cabinets covered by red cloths.
+【译文】
+我看到她站在一个看似空荡荡的房间里。透过其他门，可以看到一些盖着红布的展示柜。
+
+-------- 301/310  story  script.rpy  sa  script_rpy_L000354_1_f0f45f6e --------
+【原文】
+Good, we're all finally here. Now we can start.
+【译文】
+好，我们总算到齐了。现在可以开始了。
+
+-------- 302/310  story  script.rpy  i  script_rpy_L000360_1_06bb7531 --------
+【原文】
+Once I went inside, I realized my initial impression had been wrong. The room would've been barren if it weren't for a single cabinet covered by a velvet curtain.
+【译文】
+走进去后，我才发现自己刚才的印象有误。这个房间若非有一个盖着天鹅绒幕布的展示柜，会显得空无一物。
+
+-------- 303/310  story  script.rpy  i  script_rpy_L000367_1_82dfaf64 --------
+【原文】
+The black-haired man was there, yet again looking entirely aloof and fixing his eyes on the plain opposite wall.
+【译文】
+那个黑发男人也在，依旧一副完全漠不关心的样子，眼睛盯着对面素净的墙壁。
+
+-------- 304/310  story  script.rpy  sa  script_rpy_L000370_1_22c5a265 --------
+【原文】
+All right. It would be helpful if you could tell me your names since you know mine.
+【译文】
+那么，既然你们已经知道我的名字，方便的话也请告诉我你们的名字。
+
+-------- 305/310  story  script.rpy  i  script_rpy_L000373_1_86e50b32 --------
+【原文】
+While she said that, she closed the door we'd come through, and I took notice of the security camera in one of the corners, which was fitting for the place we were in. There was another closed door on the opposite wall, so we had fifteen minutes ahead of us where we would be shut inside.
+【译文】
+她一边说，一边关上了我们进来的门。我注意到角落里有台监控摄像头，放在这种地方倒也合适。对面墙上还有另一扇关着的门，看来接下来的十五分钟我们会被关在这里面。
+
+-------- 306/310  story  script.rpy  i  script_rpy_L000378_1_11e5df27 --------
+【原文】
+Naomi looked at me expectantly, probably because I'd been the one to speak earlier.
+【译文】
+Naomi 期待地看着我，大概是因为我先前开过口。
+
+-------- 307/310  story  script.rpy  a  script_rpy_L000379_1_f47a1058 --------
+【原文】
+Atsuki Hakutoki.
+【译文】
+Atsuki Hakutoki。
+
+-------- 308/310  story  script.rpy  s  script_rpy_L000384_1_77a2f21d --------
+【原文】
+Shiroya Mirana.
+【译文】
+Shiroya Mirana。
+
+-------- 309/310  story  script.rpy  i  script_rpy_L000385_1_8a62c7c8 --------
+【原文】
+Without being cajoled, Shiroya spoke her name. To my relief, she was looking directly at Naomi, and her posture was significantly less stiff than before.
+【译文】
+不用人催促，Shiroya 就说出了自己的名字。让我松了口气的是，她直视着 Naomi，姿态也比之前放松了不少。
+
+-------- 310/310  story  script.rpy  i  script_rpy_L000388_1_921ceba3 --------
+【原文】
+The black-haired man didn't respond immediately when we eyed him.
+【译文】
+当我们看向那个黑发男人时，他没有立刻回应。
