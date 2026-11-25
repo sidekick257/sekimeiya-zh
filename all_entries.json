@@ -31830,7 +31830,7 @@
     {
       "id": "script_rpy_L011224_1_408df77c",
       "text": "We all ran to room B4 except for Erina and Isla, who stayed guarding the bathrooms and in sight of the stairs. In hallway B, in front of the event room, Naomi had died. We'd left her body under a curtain to preserve her dignity...",
-      "new": "除了 Erina 和 Isla 留在洗手间旁看守、并守在能看见楼梯的地方，我们都跑去了 B4 室。Naomi 死在 B 走廊的活动室门前。为了保全她的体面，我们把尸体留在了遮布下……",
+      "new": "除了 Erina 和 Isla 留在洗手间旁看守、并守在能看见楼梯的地方，我们都跑去了 B4房间。Naomi 死在 B 走廊的活动室门前。为了保全她的体面，我们把尸体留在了遮布下……",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -38638,7 +38638,7 @@
     {
       "id": "script_rpy_L014171_1_4ea24aa6",
       "text": "...I had no idea how I was supposed to take that. I was about to travel with the Sekimeiya from room B3, so why did Sai have it? Of course, believing that he didn't know it was in his hip pack was ridiculous.",
-      "new": "……我实在不知道该怎样理解这番话。我明明马上就要从 B3 室带着 Sekimeiya 穿越，它怎么会在 Sai 手里？当然，要说他不知道自己的腰包里装着它，那也太荒唐了。",
+      "new": "……我实在不知道该怎样理解这番话。我明明马上就要从 B3房间带着 Sekimeiya 穿越，它怎么会在 Sai 手里？当然，要说他不知道自己的腰包里装着它，那也太荒唐了。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -41142,7 +41142,7 @@
     {
       "id": "script_rpy_L015064_1_5fffe788",
       "text": "But... there might be one way. According to Shiroya, she returned to room B3 and found the Sekimeiya in the cabinet where I'd activated it, and at that point, Sai had a disabled Sekimeiya in his hip pack. Was there a second Sekimeiya at the same time as another?{w} While the culprit was locked in the bathroom, could it be that someone made them escape with another Sekimeiya? ...Someone who remained in hallway B, maybe? Could it have happened from the second floor?{w} And then, did both that person and the culprit escape to the past? If so, where the hell have they been all this time? This concept of \"range\" must start to explain what happened...",
-      "new": "可是……或许还有一种可能。据 Shiroya 说，她回到 B3 室，发现 Sekimeiya 就在我启动它的那个展示柜里；而在那一刻，Sai 腰包里装着一台已经停用的 Sekimeiya。也就是说，同一时间存在两台 Sekimeiya？{w}犯人在洗手间被锁住的时候，会不会有人用另一台 Sekimeiya 把他带走了？……是某个留在 B走廊的人？还是从二楼动的手？{w}然后，那个人和犯人一起逃到了过去？若真是如此，他们这段时间究竟躲在什么地方？看来「范围」这个概念，应该能解释这一切了。",
+      "new": "可是……或许还有一种可能。据 Shiroya 说，她回到 B3房间，发现 Sekimeiya 就在我启动它的那个展示柜里；而在那一刻，Sai 腰包里装着一台已经停用的 Sekimeiya。也就是说，同一时间存在两台 Sekimeiya？{w}犯人在洗手间被锁住的时候，会不会有人用另一台 Sekimeiya 把他带走了？……是某个留在 B走廊的人？还是从二楼动的手？{w}然后，那个人和犯人一起逃到了过去？若真是如此，他们这段时间究竟躲在什么地方？看来「范围」这个概念，应该能解释这一切了。",
       "speaker": "n",
       "source_file": "script.rpy",
       "group": "story"
@@ -41494,7 +41494,7 @@
     {
       "id": "script_rpy_L015215_1_25e8c5cf",
       "text": "Forget it. When we went down, we found the Sekimeiya in room B3 after seeing that the cabinet in the event room was empty.",
-      "new": "算了。我们下楼之后，发现活动室的展示柜空了，后来在 B3 室找到了 Sekimeiya。",
+      "new": "算了。我们下楼之后，发现活动室的展示柜空了，后来在 B3房间找到了 Sekimeiya。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -52670,7 +52670,7 @@
     {
       "id": "script_rpy_L019772_1_5aef87c0",
       "text": "From room B4, I traveled twenty minutes to the past. I didn't know what had happened, so I ended up taking the elevator to the sixth floor.{w} That action made our original selves follow the elevator up, and eventually, it all led into me traveling through time.",
-      "new": "我从B4室穿越到了二十分钟前。当时我不知道发生了什么，结果乘电梯上了六楼。{w} 这个举动让原本的我们跟着电梯上了楼，而最终，这一切又让我穿越了时间。",
+      "new": "我从B4房间穿越到了二十分钟前。当时我不知道发生了什么，结果乘电梯上了六楼。{w} 这个举动让原本的我们跟着电梯上了楼，而最终，这一切又让我穿越了时间。",
       "speaker": "n",
       "source_file": "script.rpy",
       "group": "story"
@@ -92790,7 +92790,7 @@
     {
       "id": "script_rpy_L036657_1_086bd3b4",
       "text": "However, when Katei came out of room B6, I questioned my vision again.",
-      "new": "可是，当 Katei 从 B6 室走出来时，我又一次怀疑起自己的眼睛。",
+      "new": "可是，当 Katei 从 B6房间走出来时，我又一次怀疑起自己的眼睛。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -94094,7 +94094,7 @@
     {
       "id": "script_rpy_L037389_1_2b13f180",
       "text": "Atsuki entered room A4. We saw him opening up the cabinets and inspecting their interiors.",
-      "new": "Atsuki 走进了 A4 室。我们看见他打开一个个展示柜，查看里面的情况。",
+      "new": "Atsuki 走进了 A4房间。我们看见他打开一个个展示柜，查看里面的情况。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -94174,7 +94174,7 @@
     {
       "id": "script_rpy_L037426_1_292cc111",
       "text": "The second time Atsuki came out of a room, he had the Sekimeiya between his hands. It had been in room A5.",
-      "new": "Atsuki 第二次走出房间时，双手捧着 Sekimeiya。它原本在 A5 室。",
+      "new": "Atsuki 第二次走出房间时，双手捧着 Sekimeiya。它原本在 A5房间。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -99214,7 +99214,7 @@
     {
       "id": "script_rpy_L039834_1_9b37aabc",
       "text": "I was first to enter room A1. Within one of the cabinets, I found the Sekimeiya.",
-      "new": "我第一个走进A1室，在其中一个展示柜里找到了 Sekimeiya。",
+      "new": "我第一个走进A1房间，在其中一个展示柜里找到了 Sekimeiya。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -99702,7 +99702,7 @@
     {
       "id": "script_rpy_L040052_1_00e660f5",
       "text": "Despite Erina saying that she and Isla would go back to the attic after we finished searching, they were still on the crystal floor. Two corpses had disappeared, and the search indicated that one of us was likely the culprit, so Erina had no problem accepting Isla's request to stay in room A1.",
-      "new": "Erina 说过，搜查结束后就和 Isla 回阁楼，可她们仍旧待在水晶层。两具尸体凭空消失，搜查又表明凶手很可能就在我们之中，于是 Erina 便爽快地答应了 Isla 的请求，一起留在 A1 室。",
+      "new": "Erina 说过，搜查结束后就和 Isla 回阁楼，可她们仍旧待在水晶层。两具尸体凭空消失，搜查又表明凶手很可能就在我们之中，于是 Erina 便爽快地答应了 Isla 的请求，一起留在 A1房间。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -162550,7 +162550,7 @@
     {
       "id": "script_rpy_L060914_1_deddce55",
       "text": "When it happened, we found the Sekimeiya inside a cabinet in room B4. It's very possible the other one was hidden nearby.{w} That's why Naomi was running to the attic with both Sekimeiya immediately after it disappeared.{w} We chased her up, but in the attic's staircase, Shiroya disappeared.{w} When I looked at the living room, both Sekimeiya were next to each other, and one of them was gray. As a result, neither Naomi nor Shiroya are here.",
-      "new": "那件事发生时，我们在 B4 室的展示柜里发现了 Sekimeiya。另一个很可能就藏在附近。{w} 所以它一消失，Naomi 就带着两个 Sekimeiya 跑向阁楼。{w} 我们追了上去，可就在阁楼的楼梯上，Shiroya 消失了。{w} 我看向客厅时，两个 Sekimeiya 并排放在一起，其中一个已经变成灰色。结果，Naomi 和 Shiroya 都不在这里了。",
+      "new": "那件事发生时，我们在 B4房间的展示柜里发现了 Sekimeiya。另一个很可能就藏在附近。{w} 所以它一消失，Naomi 就带着两个 Sekimeiya 跑向阁楼。{w} 我们追了上去，可就在阁楼的楼梯上，Shiroya 消失了。{w} 我看向客厅时，两个 Sekimeiya 并排放在一起，其中一个已经变成灰色。结果，Naomi 和 Shiroya 都不在这里了。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -164670,7 +164670,7 @@
     {
       "id": "script_rpy_L061615_1_34ed2720",
       "text": "I went to the kitchen and briefly put the Past Sekimeiya in the refrigerator. Once it had stored energy for thirty seconds, I touched it.",
-      "new": "我去了厨房，把Past Sekimeiya放进冰箱里待了一会儿。等它蓄能三十秒后，我碰了它。",
+      "new": "我去了厨房，把过去Sekimeiya放进冰箱里待了一会儿。等它蓄能三十秒后，我碰了它。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -164702,7 +164702,7 @@
     {
       "id": "script_rpy_L061626_1_de1a0524",
       "text": "Once again, I touched the Past Sekimeiya after it had gathered energy for thirty seconds.",
-      "new": "等Past Sekimeiya完成三十秒蓄能，我再一次碰了它。",
+      "new": "等过去Sekimeiya完成三十秒蓄能，我再一次碰了它。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -164766,7 +164766,7 @@
     {
       "id": "script_rpy_L061639_1_7ff04cff",
       "text": "If I touch the Past Sekimeiya while I'm holding the pen now, I'll appear with it in the past. However, that's possible only as long as I have it in the proportional future.",
-      "new": "如果我现在拿着笔去触碰 Past Sekimeiya，我就会带着它出现在过去。但前提是：在与之对应的未来，我仍然持有它。",
+      "new": "如果我现在拿着笔去触碰 过去Sekimeiya，我就会带着它出现在过去。但前提是：在与之对应的未来，我仍然持有它。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -164926,7 +164926,7 @@
     {
       "id": "script_rpy_L061676_1_6fd03300",
       "text": "Trying it was simple. First, I used the Past Sekimeiya to travel nine seconds to the past.",
-      "new": "验证起来很简单。我先用 Past Sekimeiya 穿越到九秒之前。",
+      "new": "验证起来很简单。我先用 过去Sekimeiya 穿越到九秒之前。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -164950,7 +164950,7 @@
     {
       "id": "script_rpy_L061686_1_e63b8d59",
       "text": "I took the Future Sekimeiya out of the refrigerator and grabbed the disabled Past Sekimeiya.{w} Half a minute later, I left it on the countertop and touched the Future Sekimeiya.",
-      "new": "我从冰箱里取出 Future Sekimeiya，再拿起那台已经无法使用的 Past Sekimeiya。{w} 半分钟后，我把它放在台面上，触碰了 Future Sekimeiya。",
+      "new": "我从冰箱里取出 未来Sekimeiya，再拿起那台已经无法使用的 过去Sekimeiya。{w} 半分钟后，我把它放在台面上，触碰了 未来Sekimeiya。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -164982,7 +164982,7 @@
     {
       "id": "script_rpy_L061695_1_e805b043",
       "text": "I looked at the marble, where I'd left the Past Sekimeiya before traveling.",
-      "new": "我望向那张大理石台面——穿越之前，我把 Past Sekimeiya 放在了那里。",
+      "new": "我望向那张大理石台面——穿越之前，我把 过去Sekimeiya 放在了那里。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165006,7 +165006,7 @@
     {
       "id": "script_rpy_L061698_1_d08437cf",
       "text": "The Future Sekimeiya was where I'd touched it, and it was gray. That proved I'd traveled to the future. However, the original Past Sekimeiya was gone: I hadn't duplicated it.",
-      "new": "Future Sekimeiya 仍在我触碰它的地方，颜色是灰的。这证明我确实穿越到了未来。可是，原本那台 Past Sekimeiya 却不见了——我并没有复制成功。",
+      "new": "未来Sekimeiya 仍在我触碰它的地方，颜色是灰的。这证明我确实穿越到了未来。可是，原本那台 过去Sekimeiya 却不见了——我并没有复制成功。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165038,7 +165038,7 @@
     {
       "id": "script_rpy_L061704_1_46c321df",
       "text": "While I was thinking, the Past Sekimeiya powered on.",
-      "new": "就在我思考的时候，Past Sekimeiya 启动了。",
+      "new": "就在我思考的时候，过去Sekimeiya 启动了。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165054,7 +165054,7 @@
     {
       "id": "script_rpy_L061706_1_d3c88617",
       "text": "I repeated the same process but held the powered Past Sekimeiya with my sleeves for half a minute.{w} Then, I left it in the refrigerator to avoid overlapping ranges and went nine seconds to the future.",
-      "new": "我把同样的流程重做了一遍，只是这次隔着袖子，握了那台启动中的 Past Sekimeiya 半分钟。{w} 随后，为避开重叠范围，我把它放进冰箱，再穿越到九秒之后。",
+      "new": "我把同样的流程重做了一遍，只是这次隔着袖子，握了那台启动中的 过去Sekimeiya 半分钟。{w} 随后，为避开重叠范围，我把它放进冰箱，再穿越到九秒之后。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165070,7 +165070,7 @@
     {
       "id": "script_rpy_L061709_1_6a0253fd",
       "text": "I opened the refrigerator and saw the Past Sekimeiya where I'd just left it.",
-      "new": "我打开冰箱，看见 Past Sekimeiya 就放在我刚放下的位置。",
+      "new": "我打开冰箱，看见 过去Sekimeiya 就放在我刚放下的位置。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165086,7 +165086,7 @@
     {
       "id": "script_rpy_L061711_1_3f44b8c7",
       "text": "What would happen if I did the reverse of this? Wouldn't the past change?{w} If I go to the past holding the powered-off Future Sekimeiya, I would appear with it in the past, so the \"original\" one would disappear. That means that I couldn't hold it anymore when I'm traveling to the past, thereby changing it.",
-      "new": "如果把顺序反过来，会怎么样？过去不就会被改变吗？{w} 如果我拿着关闭状态的 Future Sekimeiya 回到过去，我就会带着它在过去出现，那么「原本」那一台就会消失。也就是说，我穿越回过去之后，就再也拿不到原本那一台了——过去便由此被改写。",
+      "new": "如果把顺序反过来，会怎么样？过去不就会被改变吗？{w} 如果我拿着关闭状态的 未来Sekimeiya 回到过去，我就会带着它在过去出现，那么「原本」那一台就会消失。也就是说，我穿越回过去之后，就再也拿不到原本那一台了——过去便由此被改写。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -165094,7 +165094,7 @@
     {
       "id": "script_rpy_L061714_1_56794bf1",
       "text": "I tried it out of curiosity. Holding the Future Sekimeiya that I'd powered off, I went nine seconds to the past.",
-      "new": "出于好奇，我试了一次。我拿着那台被我关掉的 Future Sekimeiya，穿越到九秒之前。",
+      "new": "出于好奇，我试了一次。我拿着那台被我关掉的 未来Sekimeiya，穿越到九秒之前。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165102,7 +165102,7 @@
     {
       "id": "script_rpy_L061718_1_552d6198",
       "text": "In the living room, however, I didn't have the Future Sekimeiya between my hands.",
-      "new": "然而，我人在客厅，两手之间却没有 Future Sekimeiya。",
+      "new": "然而，我人在客厅，两手之间却没有 未来Sekimeiya。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165142,7 +165142,7 @@
     {
       "id": "script_rpy_L061732_1_a91d2c9d",
       "text": "I think it's due to the infinite loop concept I thought of.{w} If I had appeared with the powered-off Future Sekimeiya in the past, eighteen seconds later, it would've been closer to powering on. Once the infinite loop is applied, the Sekimeiya could've never appeared powered off, and when it's powered on, it doesn't count as a normal object. I believe that's why it didn't travel.",
-      "new": "我想，这跟先前设想的无限循环有关。{w}如果断电的 Future Sekimeiya 随我一同出现在过去，那么十八秒之后，它就更接近通电了。一旦套用无限循环，Sekimeiya 就绝不可能以断电状态出现；而通电状态下，它又不算普通物体。我认为这就是它没有穿越的原因。",
+      "new": "我想，这跟先前设想的无限循环有关。{w}如果断电的 未来Sekimeiya 随我一同出现在过去，那么十八秒之后，它就更接近通电了。一旦套用无限循环，Sekimeiya 就绝不可能以断电状态出现；而通电状态下，它又不算普通物体。我认为这就是它没有穿越的原因。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -165198,7 +165198,7 @@
     {
       "id": "script_rpy_L061749_1_7458aa4c",
       "text": "In his world, he was the first person to leave room B4, in which everyone waited.",
-      "new": "在他的世界里，所有人都在 B4 室等待，而他是第一个离开那里的人。",
+      "new": "在他的世界里，所有人都在 B4房间等待，而他是第一个离开那里的人。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -165214,7 +165214,7 @@
     {
       "id": "script_rpy_L061753_1_a3f73dc0",
       "text": "Unaware of what awaited him, he touched the Future Sekimeiya that had been hidden in the attic.",
-      "new": "他并不知道等待自己的是什么，伸手碰了那台藏在阁楼里的 Future Sekimeiya。",
+      "new": "他并不知道等待自己的是什么，伸手碰了那台藏在阁楼里的 未来Sekimeiya。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -165494,7 +165494,7 @@
     {
       "id": "script_rpy_L061825_1_77076454",
       "text": "Let's say I take the Past Sekimeiya out of the refrigerator. Two minutes later, I touch it and go 45 seconds back. I'm not even sure if this first travel would be needed, but it might be.",
-      "new": "假设我把 Past Sekimeiya 从冰箱里拿出来。两分钟后，我碰它一下，回到 45 秒前。我还不确定这第一次穿越有没有必要，但也许有。",
+      "new": "假设我把 过去Sekimeiya 从冰箱里拿出来。两分钟后，我碰它一下，回到 45 秒前。我还不确定这第一次穿越有没有必要，但也许有。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -165518,7 +165518,7 @@
     {
       "id": "script_rpy_L061828_1_abbff1dc",
       "text": "There was no point in assuming an answer because it was easy to test. I readied myself to perform the loop and started to store time with the Past Sekimeiya.{w} However, when I looked at the drawer where I wanted the note to be hidden, it was empty.",
-      "new": "空想答案没有意义，因为这件事一试便知。我做好准备，要执行这个循环，便用 Past Sekimeiya 开始蓄能。{w}然而，当我看向那个打算藏纸条的抽屉时，里面空无一物。",
+      "new": "空想答案没有意义，因为这件事一试便知。我做好准备，要执行这个循环，便用 过去Sekimeiya 开始蓄能。{w}然而，当我看向那个打算藏纸条的抽屉时，里面空无一物。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165590,7 +165590,7 @@
     {
       "id": "script_rpy_L061842_1_e189e78c",
       "text": "I took the Past Sekimeiya out and pressed \"play\" on the recorder. Following that, I went to the living room with the Past Sekimeiya and the recorder and closed the door to the kitchen.",
-      "new": "我取出 Past Sekimeiya，按下录音笔的播放键。随后，我带着 Past Sekimeiya 和录音笔去了客厅，关上了通往厨房的门。",
+      "new": "我取出 过去Sekimeiya，按下录音笔的播放键。随后，我带着 过去Sekimeiya 和录音笔去了客厅，关上了通往厨房的门。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165622,7 +165622,7 @@
     {
       "id": "script_rpy_L061853_1_5fdb2a50",
       "text": "2: If I don't find a notepad, I'll go twenty minutes to the past, and using the Future Sekimeiya in the kitchen, I'll start to work toward finding the formula. Before twenty minutes pass, I'll obtain a notepad from the bedrooms, and in the top left corner of the first page, I'll write a \"1\" along with the progress I made in those twenty minutes. Then, I'll leave it in the hallway.",
-      "new": "二：如果没找到笔记本，我就回到二十分钟前，用厨房里的 Future Sekimeiya 开始推算公式。二十分钟结束前，我从卧室取来一本笔记本，在第一页左上角写上一个“1”，再写下这二十分钟里取得的进展，然后把笔记本留在走廊。",
+      "new": "二：如果没找到笔记本，我就回到二十分钟前，用厨房里的 未来Sekimeiya 开始推算公式。二十分钟结束前，我从卧室取来一本笔记本，在第一页左上角写上一个“1”，再写下这二十分钟里取得的进展，然后把笔记本留在走廊。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -165750,7 +165750,7 @@
     {
       "id": "script_rpy_L061889_1_1f45eaf0",
       "text": "Before that, though, I had to travel to the past. Less than twenty seconds remained until the fifteen-minute mark. When the timer hit it, I touched the Past Sekimeiya.",
-      "new": "不过在那之前，我得先回到过去。距离十五分钟还差不到二十秒。计时一到，我便碰了 Past Sekimeiya。",
+      "new": "不过在那之前，我得先回到过去。距离十五分钟还差不到二十秒。计时一到，我便碰了 过去Sekimeiya。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165758,7 +165758,7 @@
     {
       "id": "script_rpy_L061894_1_a4e9675d",
       "text": "As expected, I appeared in the hallway, right next to the kitchen, which was closed. I had gone twenty minutes back, but the Past Sekimeiya had only stored energy for fifteen. During the first five minutes, I had no access to the kitchen because my past self was there. In the hypothetical loops, that time would've been used to check the progress made until the previous iteration.",
-      "new": "不出所料，我出现在走廊上，就在关着门的厨房旁边。我回到了二十分钟前，可 Past Sekimeiya 只蓄了十五分钟的能量。最初五分钟里我进不了厨房，因为过去的我还在里面。在假想的循环中，这段时间本该用来查看截至上一轮取得的进展。",
+      "new": "不出所料，我出现在走廊上，就在关着门的厨房旁边。我回到了二十分钟前，可 过去Sekimeiya 只蓄了十五分钟的能量。最初五分钟里我进不了厨房，因为过去的我还在里面。在假想的循环中，这段时间本该用来查看截至上一轮取得的进展。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165798,7 +165798,7 @@
     {
       "id": "script_rpy_L061910_1_687edbff",
       "text": "The Future Sekimeiya's in the refrigerator...",
-      "new": "Future Sekimeiya 在冰箱里……",
+      "new": "未来Sekimeiya 在冰箱里……",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -165822,7 +165822,7 @@
     {
       "id": "script_rpy_L061913_1_ef88065b",
       "text": "I stepped over to the sink and set the plug for the drain. Then, I filled it with water very slowly so that I didn't make noise. Once it reached the top, I took the Future Sekimeiya out and put it in the water.",
-      "new": "我走到水槽边，堵好排水口，然后极慢地放水，以免发出声响。等水满到边缘，我取出 Future Sekimeiya，把它放进水里。",
+      "new": "我走到水槽边，堵好排水口，然后极慢地放水，以免发出声响。等水满到边缘，我取出 未来Sekimeiya，把它放进水里。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165838,7 +165838,7 @@
     {
       "id": "script_rpy_L061915_1_1cbe5a88",
       "text": "I appeared in the kitchen and immediately saw the disabled Future Sekimeiya under the water. Then I looked at the oven and saw the amount of time I'd gone to the future.{w} The timer was at 4:31, immediately ticking down to 4:30.",
-      "new": "我出现在厨房，立刻看见水里那台已经停摆的 Future Sekimeiya。接着我看向烤箱，确认自己去了多久的未来。{w}计时器显示 4:31，转眼就跳成了 4:30。",
+      "new": "我出现在厨房，立刻看见水里那台已经停摆的 未来Sekimeiya。接着我看向烤箱，确认自己去了多久的未来。{w}计时器显示 4:31，转眼就跳成了 4:30。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165958,7 +165958,7 @@
     {
       "id": "script_rpy_L061964_1_9a5c6300",
       "text": "I retrieved the Past Sekimeiya and the recorder, then stepped back into the kitchen.",
-      "new": "我取回 Past Sekimeiya 和录音笔，随后走回厨房。",
+      "new": "我取回 过去Sekimeiya 和录音笔，随后走回厨房。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165966,7 +165966,7 @@
     {
       "id": "script_rpy_L061968_1_95031118",
       "text": "I put both Sekimeiya in the refrigerator and took out the Past Sekimeiya as I began a new recording.",
-      "new": "我把两块 Sekimeiya 都放进冰箱，又取出 Past Sekimeiya，开始新一轮录音。",
+      "new": "我把两块 Sekimeiya 都放进冰箱，又取出 过去Sekimeiya，开始新一轮录音。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -165974,7 +165974,7 @@
     {
       "id": "script_rpy_L061972_1_cb8ad483",
       "text": "I moved to the hallway; I had appeared right outside the kitchen, so I had to be there in twenty minutes. By leaving the door open, I could make sure the Future Sekimeiya was safe in the refrigerator.",
-      "new": "我走向走廊。我出现的位置就在厨房门外，所以二十分钟后我必须待在那里。只要把门敞着，我就能确认 Future Sekimeiya 在冰箱里安然无恙。",
+      "new": "我走向走廊。我出现的位置就在厨房门外，所以二十分钟后我必须待在那里。只要把门敞着，我就能确认 未来Sekimeiya 在冰箱里安然无恙。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -166006,7 +166006,7 @@
     {
       "id": "script_rpy_L061990_1_41e63a70",
       "text": "While we were asleep, someone hid the Sekimeiya in room B4 and turned on the temperature regulation.{w} Was it Naomi? In this world, she ran up to the attic with them.",
-      "new": "我们睡着的时候，有人把 Sekimeiya 藏进了 B4 室，还打开了温度调节。{w}是 Naomi 吗？在这个世界里，是她带着它们跑上了阁楼。",
+      "new": "我们睡着的时候，有人把 Sekimeiya 藏进了 B4房间，还打开了温度调节。{w}是 Naomi 吗？在这个世界里，是她带着它们跑上了阁楼。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166198,7 +166198,7 @@
     {
       "id": "script_rpy_L062074_1_944a3f43",
       "text": "Making sure nobody could leave, room B4 was eventually looked into. That's where we found her corpse.",
-      "new": "为了确保没人能离开，我们最终查看了 B4 室，发现她的尸体就在那里。",
+      "new": "为了确保没人能离开，我们最终查看了 B4房间，发现她的尸体就在那里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166390,7 +166390,7 @@
     {
       "id": "script_rpy_L062190_1_2d9d68d5",
       "text": "It wasn't the same Sekimeiya. The first mystery regarding its whereabouts already pointed at the truth that more than one Sekimeiya existed.{w} ...After all, when Sai left the storeroom, he made me touch it, and nothing happened.{w} It was definitely the third Sekimeiya—the one that had disappeared from the event room the first time. The Past Sekimeiya was in room B4 since we'd regained consciousness, so we never actually found the one that disappeared first.",
-      "new": "那不是同一块 Sekimeiya。最初关于它下落的谜团，其实早已指向一个事实：Sekimeiya 不止一块。{w} ……毕竟，Sai 离开储藏室时让我碰过它，却什么也没发生。{w} 那肯定就是第三块 Sekimeiya——最初从活动室消失的那一块。自我们醒来后，Past Sekimeiya 就一直在 B4 房间里；也就是说，我们从未真正找到最初消失的那一块。",
+      "new": "那不是同一块 Sekimeiya。最初关于它下落的谜团，其实早已指向一个事实：Sekimeiya 不止一块。{w} ……毕竟，Sai 离开储藏室时让我碰过它，却什么也没发生。{w} 那肯定就是第三块 Sekimeiya——最初从活动室消失的那一块。自我们醒来后，过去Sekimeiya 就一直在 B4 房间里；也就是说，我们从未真正找到最初消失的那一块。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166462,7 +166462,7 @@
     {
       "id": "script_rpy_L062224_1_376dc957",
       "text": "So, going back a little, when we found the Past Sekimeiya in room B4, we thought it was the one that disappeared from the event room. After putting it in the cabinet, we split up and searched both hallways for the person who'd made a sound. During that time, the Past Sekimeiya was hidden somewhere else while the third Sekimeiya was in the storeroom.",
-      "new": "那么，稍微往前回溯一下：我们在 B4 房间发现 Past Sekimeiya 时，还以为它就是活动室里消失的那一块。把它放回展示柜后，我们分头去两条走廊寻找发出声响的人。就在那段时间里，Past Sekimeiya 被藏到了别处，而第三块 Sekimeiya 则躺在储藏室里。",
+      "new": "那么，稍微往前回溯一下：我们在 B4 房间发现 过去Sekimeiya 时，还以为它就是活动室里消失的那一块。把它放回展示柜后，我们分头去两条走廊寻找发出声响的人。就在那段时间里，过去Sekimeiya 被藏到了别处，而第三块 Sekimeiya 则躺在储藏室里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166670,7 +166670,7 @@
     {
       "id": "script_rpy_L062314_1_d06de74c",
       "text": "He took the Future Sekimeiya out of the cabinet. When he did, it turned gray immediately, but nothing happened to him. Did it really have time travel powers? He had a hard time believing that, but it had just changed colors before him.",
-      "new": "他把 Future Sekimeiya 从展示柜里取了出来。刚一拿出，它就立刻变成了灰色，可他身上什么也没发生。它真的拥有时间穿越的力量吗？他实在难以相信，可它刚刚就在他眼前变了颜色。",
+      "new": "他把 未来Sekimeiya 从展示柜里取了出来。刚一拿出，它就立刻变成了灰色，可他身上什么也没发生。它真的拥有时间穿越的力量吗？他实在难以相信，可它刚刚就在他眼前变了颜色。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -166798,7 +166798,7 @@
     {
       "id": "script_rpy_L062367_1_87f2ef66",
       "text": "They traveled to the future. After all, I'm pretty sure the Past Sekimeiya was in one of hallway B's crystal rooms, which is where Shiroya and I later traveled from.{w} Maybe I should've pieced together the reason why no Sekimeiya was found in the bathroom...",
-      "new": "凶手穿越到了未来。毕竟，我很确定 Past Sekimeiya 就在 B 走廊的某间水晶展室里，而我和 Shiroya 后来正是从那里出发穿越的。{w}或许我早该想到，为什么洗手间里找不到任何 Sekimeiya……",
+      "new": "凶手穿越到了未来。毕竟，我很确定 过去Sekimeiya 就在 B 走廊的某间水晶展室里，而我和 Shiroya 后来正是从那里出发穿越的。{w}或许我早该想到，为什么洗手间里找不到任何 Sekimeiya……",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166822,7 +166822,7 @@
     {
       "id": "script_rpy_L062379_1_d504007e",
       "text": "He appeared with it—if that was the Future Sekimeiya, the one in the bathroom would've disappeared! It would have instantly teleported. I should've made that connection.",
-      "new": "他是带着它出现的——如果那就是 Future Sekimeiya，洗手间里的那台应该已经消失了！它会在瞬间传送走。我早该把这两件事联系起来。",
+      "new": "他是带着它出现的——如果那就是 未来Sekimeiya，洗手间里的那台应该已经消失了！它会在瞬间传送走。我早该把这两件事联系起来。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166902,7 +166902,7 @@
     {
       "id": "script_rpy_L062411_1_42cdef91",
       "text": "That makes me think that Akaro saw through Sai. Maybe he was aware that more than one Sekimeiya existed.{w} If that was the case, from his point of view, only Sai could've hidden the Past Sekimeiya. He knew the one we found in the storeroom wasn't the same one, so it wouldn't have been too hard to find out where it was. I remember that Shiroya found it quickly because she noticed a slight bump in one of the gem cabinets.",
-      "new": "这让我觉得，Akaro 看穿了 Sai。也许他知道 Sekimeiya 不止一台。{w}若果真如此，在他看来，能藏起 Past Sekimeiya 的人就只有 Sai。他知道我们在储藏室找到的那台并不是同一台，因此要查出它藏在哪里并不算难。我记得 Shiroya 很快就找到了它，因为她注意到其中一个宝石展示柜有轻微的凸起。",
+      "new": "这让我觉得，Akaro 看穿了 Sai。也许他知道 Sekimeiya 不止一台。{w}若果真如此，在他看来，能藏起 过去Sekimeiya 的人就只有 Sai。他知道我们在储藏室找到的那台并不是同一台，因此要查出它藏在哪里并不算难。我记得 Shiroya 很快就找到了它，因为她注意到其中一个宝石展示柜有轻微的凸起。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166926,7 +166926,7 @@
     {
       "id": "script_rpy_L062423_1_923120ec",
       "text": "Specifically, when we went up the floors and the three elevator trips happened. It's also the time where he I think he stored the Future Sekimeiya in the bathroom, so seeing his past self might have drawn him there.",
-      "new": "具体来说，就是我们逐层上楼、电梯往返三次的那段时间。我想，他也是在那个时候把 Future Sekimeiya 藏进了洗手间；所以看见过去的自己，也许把他引到了那里。",
+      "new": "具体来说，就是我们逐层上楼、电梯往返三次的那段时间。我想，他也是在那个时候把 未来Sekimeiya 藏进了洗手间；所以看见过去的自己，也许把他引到了那里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167182,7 +167182,7 @@
     {
       "id": "script_rpy_L062536_1_dac02f11",
       "text": "Shiroya and I found the Past Sekimeiya in a hallway B crystal room, unaware that it wasn't the same one that had just disappeared. That's most likely where Sai chose to hide it a while earlier.{w} What stands out to me is that he chose a room with functional cameras after previously leaving it in the storeroom. I wonder if he was forced to or if he had a reason, because it happened when we were searching both hallways...",
-      "new": "我和 Shiroya 在 B走廊的一间水晶展室里找到了 Past Sekimeiya，却不知道它并非刚刚消失的那一件。那多半是 Sai 早些时候选择的藏匿之处。{w} 让我在意的是，他先前把东西留在储藏室，这次却选了一间监控仍在运作的展室。我不知道他是迫不得已，还是另有理由——毕竟那件事发生在我们同时搜索两条走廊的时候……",
+      "new": "我和 Shiroya 在 B走廊的一间水晶展室里找到了 过去Sekimeiya，却不知道它并非刚刚消失的那一件。那多半是 Sai 早些时候选择的藏匿之处。{w} 让我在意的是，他先前把东西留在储藏室，这次却选了一间监控仍在运作的展室。我不知道他是迫不得已，还是另有理由——毕竟那件事发生在我们同时搜索两条走廊的时候……",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167310,7 +167310,7 @@
     {
       "id": "script_rpy_L062587_1_d92033b3",
       "text": "That was all Sai needed to trick the others.{w} Everyone went to the bathroom, so when it was his turn, he could've gone to the crystal floor. He had hidden the Past Sekimeiya, so he traveled after us when it had already gathered a lot of energy.{w} There was something curious about Sai's behavior. He kept insisting that he hadn't traveled to the past, and he was in a rush. He tried to run away from me twice.{w} That's probably because he had to be ready to go back to the attic. As soon as his past self \"went to the bathroom\", he returned as if nothing had happened, which made the others say that he never left the attic.",
-      "new": "对 Sai 来说，骗过其他人只需要做到这一点。{w} 所有人都去了洗手间，所以轮到他时，他就能去水晶层。他事先藏好了 Past Sekimeiya，所以等到它积蓄起大量能量后，才在我们之后穿越了。{w} Sai 的行为有一点奇怪。他一直坚称自己没有回到过去，而且显得很匆忙。他两次想从我面前逃走。{w} 这大概是因为他必须准备好回到阁楼。等他过去的自己一“去洗手间”，他便若无其事地回来了，所以其他人才会说，他从没离开过阁楼。",
+      "new": "对 Sai 来说，骗过其他人只需要做到这一点。{w} 所有人都去了洗手间，所以轮到他时，他就能去水晶层。他事先藏好了 过去Sekimeiya，所以等到它积蓄起大量能量后，才在我们之后穿越了。{w} Sai 的行为有一点奇怪。他一直坚称自己没有回到过去，而且显得很匆忙。他两次想从我面前逃走。{w} 这大概是因为他必须准备好回到阁楼。等他过去的自己一“去洗手间”，他便若无其事地回来了，所以其他人才会说，他从没离开过阁楼。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167358,7 +167358,7 @@
     {
       "id": "script_rpy_L062598_1_c1f6996f",
       "text": "And the Future Sekimeiya... He appeared with it in his hip pack. I think he was genuinely surprised about that.",
-      "new": "还有 Future Sekimeiya……他出现时，它就在他的腰包里。我想他对此是真的感到意外。",
+      "new": "还有 未来Sekimeiya……他出现时，它就在他的腰包里。我想他对此是真的感到意外。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167366,7 +167366,7 @@
     {
       "id": "script_rpy_L062599_1_13b7d156",
       "text": "Then, when he ran away from me, he hid the Past Sekimeiya somewhere else. He knew I'd traveled through time, meaning that I was aware of its whereabouts.",
-      "new": "后来他从我面前逃走时，把 Past Sekimeiya 藏到了别处。他知道我穿越过时间，也就明白我清楚它被藏在哪里。",
+      "new": "后来他从我面前逃走时，把 过去Sekimeiya 藏到了别处。他知道我穿越过时间，也就明白我清楚它被藏在哪里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167654,7 +167654,7 @@
     {
       "id": "script_rpy_L062712_1_64b1c550",
       "text": "When we came down, we saw that the cleaning cart had disappeared. What was strange was that the Sekimeiya was in one of the buckets which had been below it.{w} But that wasn't the Future Sekimeiya; it wasn't working.{w} Why was the third Sekimeiya there? Had it also been in the cart when we'd traveled? Shiroya said something else was there, but would the third Sekimeiya not have disappeared with the cart? ...And she said it was a dark object.{w} I'm not sure, but I think I can guess what happened to the Future Sekimeiya.",
-      "new": "下楼时，我们发现清洁车不见了。奇怪的是，Sekimeiya 就搁在原本放在车下的一只水桶里。{w}可那不是未来 Sekimeiya，它没在工作。{w}第三台 Sekimeiya 怎么会在这儿？我们穿越时它也在车上吗？Shiroya 说当时那里还有别的什么，可第三台 Sekimeiya 不是该跟车一起消失吗？……而且她说那是个深色的东西。{w}我没有把握，不过未来 Sekimeiya 的去向，我大概猜得到。",
+      "new": "下楼时，我们发现清洁车不见了。奇怪的是，Sekimeiya 就搁在原本放在车下的一只水桶里。{w}可那不是未来Sekimeiya，它没在工作。{w}第三台 Sekimeiya 怎么会在这儿？我们穿越时它也在车上吗？Shiroya 说当时那里还有别的什么，可第三台 Sekimeiya 不是该跟车一起消失吗？……而且她说那是个深色的东西。{w}我没有把握，不过未来Sekimeiya 的去向，我大概猜得到。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167662,7 +167662,7 @@
     {
       "id": "script_rpy_L062720_1_ef942139",
       "text": "When Shiroya used it, the Future Sekimeiya remained in the cleaning room, but we only found the third Sekimeiya, which we decided to leave in Naomi's locker before going to the lobby.",
-      "new": "Shiroya 使用它的时候，未来 Sekimeiya 留在了清洁间，可我们只找到了第三台；我们决定把它放进 Naomi 的储物柜，然后去大厅。",
+      "new": "Shiroya 使用它的时候，未来Sekimeiya 留在了清洁间，可我们只找到了第三台；我们决定把它放进 Naomi 的储物柜，然后去大厅。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167694,7 +167694,7 @@
     {
       "id": "script_rpy_L062743_1_f7cfa38d",
       "text": "The powered-off Sekimeiya was there, and he put it in his hip pack. That's why he had appeared with it in the past...{w} In the cleaning room, the others were distracted by the missing cart, and Sai pointed out the third Sekimeiya in the bucket.{w} I'm still having trouble understanding the cause behind some of these details, though. He was only able to obtain the Future Sekimeiya like that because he had appeared with it and had hidden it in the cleaning room... This seems to be an event with no origin, so perhaps it's an indication that something else happened on top of it.",
-      "new": "那台已经断电的 Sekimeiya 就在里面，他把它收进了腰包。所以他才会带着它出现在过去……{w}在清洁间里，其他人都在为不见的清洁车分神，Sai 则指出了水桶里的第三台 Sekimeiya。{w}不过这些细节背后的原因，我到现在还是没想明白。他能那样拿到未来 Sekimeiya，是因为他曾带着它出现，并把它藏在了清洁间……这件事似乎没有起因，或许说明还有别的事情叠在它上面。",
+      "new": "那台已经断电的 Sekimeiya 就在里面，他把它收进了腰包。所以他才会带着它出现在过去……{w}在清洁间里，其他人都在为不见的清洁车分神，Sai 则指出了水桶里的第三台 Sekimeiya。{w}不过这些细节背后的原因，我到现在还是没想明白。他能那样拿到未来Sekimeiya，是因为他曾带着它出现，并把它藏在了清洁间……这件事似乎没有起因，或许说明还有别的事情叠在它上面。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167726,7 +167726,7 @@
     {
       "id": "script_rpy_L062761_1_71d7b34f",
       "text": "...I wonder what happened.{w} The cabinet she looked into is one that can be seen from the stairs, where she and Erina were waiting.{w} During the period Sai and Akaro investigated the rooms, I'm sure Sai quickly disposed of the Future Sekimeiya. That makes me think Isla saw him do that through the door's gap...",
-      "new": "……她身上到底发生了什么？{w}她看的那台展示柜，从楼梯那边正好看得见，而她和 Erina 当时就在楼梯那儿等着。{w}在 Sai 和 Akaro 查看房间的那段时间里，Sai 肯定很快就把未来 Sekimeiya 处理掉了。这么一想，Isla 会不会是透过门缝看见了……",
+      "new": "……她身上到底发生了什么？{w}她看的那台展示柜，从楼梯那边正好看得见，而她和 Erina 当时就在楼梯那儿等着。{w}在 Sai 和 Akaro 查看房间的那段时间里，Sai 肯定很快就把未来Sekimeiya 处理掉了。这么一想，Isla 会不会是透过门缝看见了……",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167942,7 +167942,7 @@
     {
       "id": "script_rpy_L062859_1_69f346c2",
       "text": "Isla disappeared from the cabinet, but how? Did she go to the future? ...The Future Sekimeiya should've been powered off since we had just used it.{w} Even if that happened, did she reappear in that same cabinet, where she'd gone to look?{w} Why, though? She wasn't there in the past, was she? And why did she die?",
-      "new": "Isla 从展示柜里消失了，可这是怎么做到的？她去了未来吗？……Future Sekimeiya 应该已经断电了，因为我们刚用过它。{w} 就算真是那样，她难道会重新出现在她刚才查看的那个展示柜里吗？{w} 可为什么？过去那里并没有她，对吧？而且她为什么会死？",
+      "new": "Isla 从展示柜里消失了，可这是怎么做到的？她去了未来吗？……未来Sekimeiya 应该已经断电了，因为我们刚用过它。{w} 就算真是那样，她难道会重新出现在她刚才查看的那个展示柜里吗？{w} 可为什么？过去那里并没有她，对吧？而且她为什么会死？",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167950,7 +167950,7 @@
     {
       "id": "script_rpy_L062860_1_2447426e",
       "text": "Right, she yelled before falling in. What the hell does that mean? Did she go to the past?{w} Before, Sai had kept walking toward hallway A—perhaps he put the Future Sekimeiya where he had the past one, for whatever reason. Since the future one should've been powered off, Isla would've actually traveled back in time and not changed worlds. I can't know if the search took long enough for it to power back on, though.",
-      "new": "对，她掉进去之前喊了一声。那到底是什么意思？她去了过去吗？{w} 之前 Sai 一直朝 A走廊 走去——也许他不知出于什么原因，把 Future Sekimeiya 放到了原先放 Past Sekimeiya 的地方。既然 Future Sekimeiya 应该已经断电，Isla 就应该是穿越回了过去，而不是发生了世界切换。不过，我没法确定那场搜索持续的时间是否足够让它重新启动。",
+      "new": "对，她掉进去之前喊了一声。那到底是什么意思？她去了过去吗？{w} 之前 Sai 一直朝 A走廊 走去——也许他不知出于什么原因，把 未来Sekimeiya 放到了原先放 过去Sekimeiya 的地方。既然 未来Sekimeiya 应该已经断电，Isla 就应该是穿越回了过去，而不是发生了世界切换。不过，我没法确定那场搜索持续的时间是否足够让它重新启动。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -167974,7 +167974,7 @@
     {
       "id": "script_rpy_L062870_1_71e2dc36",
       "text": "It's possible someone killed her, but who? Who would've had a motive to do that? Who could've done that?{w} There was a whole search, and the Future Sekimeiya had just been used. It's possible a killer with an elaborate plan carried this out, but that's completely out of place.",
-      "new": "也许有人杀了她，可那个人是谁？谁会有这种动机？又有谁能做到？{w} 当时我们展开了全面搜索，而 Future Sekimeiya 也刚被用过。一个精心谋划的凶手或许能办到，但这完全不合常理。",
+      "new": "也许有人杀了她，可那个人是谁？谁会有这种动机？又有谁能做到？{w} 当时我们展开了全面搜索，而 未来Sekimeiya 也刚被用过。一个精心谋划的凶手或许能办到，但这完全不合常理。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168102,7 +168102,7 @@
     {
       "id": "script_rpy_L062913_1_fa0a5767",
       "text": "I think it was the Past Sekimeiya.",
-      "new": "我想那是 Past Sekimeiya。",
+      "new": "我想那是 过去Sekimeiya。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168118,7 +168118,7 @@
     {
       "id": "script_rpy_L062918_1_63e22b30",
       "text": "We were told that when Sai and Akaro escaped, Akaro forced Sai to tell him where he'd stashed one of the Sekimeiya. At that point, he touched it and appeared in January, meaning that the one in the event room was the Past Sekimeiya.",
-      "new": "我们听说，Sai 和 Akaro 逃跑时，Akaro 逼 Sai 说出他把其中一台 Sekimeiya 藏在了哪里。随后他碰了那台 Sekimeiya，出现在了一月，也就是说活动室里的那台是 Past Sekimeiya。",
+      "new": "我们听说，Sai 和 Akaro 逃跑时，Akaro 逼 Sai 说出他把其中一台 Sekimeiya 藏在了哪里。随后他碰了那台 Sekimeiya，出现在了一月，也就是说活动室里的那台是 过去Sekimeiya。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168126,7 +168126,7 @@
     {
       "id": "script_rpy_L062919_1_139c7839",
       "text": "And there is something strange about this. If I'm right, Sai hid the Future Sekimeiya immediately after Isla's disappearance. This means that when Akaro touched it, it had already gathered energy for a ridiculously long time. A lot more than what I believe he needed to travel 21 days.",
-      "new": "这里有一点很奇怪。如果我没猜错，Isla 消失后，Sai 立刻就把 Future Sekimeiya 藏了起来。也就是说，Akaro 碰到它时，它积蓄能量的时间已经长得离谱，比我估计他穿越 21 天所需的能量多出太多了。",
+      "new": "这里有一点很奇怪。如果我没猜错，Isla 消失后，Sai 立刻就把 未来Sekimeiya 藏了起来。也就是说，Akaro 碰到它时，它积蓄能量的时间已经长得离谱，比我估计他穿越 21 天所需的能量多出太多了。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168190,7 +168190,7 @@
     {
       "id": "script_rpy_L062944_1_5e807368",
       "text": "And immediately after that, Erina proposed that we confine ourselves. That's what led us to wait in the attic's bedroom, leaving the Past Sekimeiya behind in the event room.",
-      "new": "紧接着，Erina 提议我们把自己关起来。于是我们便在阁楼的卧室里等待，把 Past Sekimeiya 留在了活动室。",
+      "new": "紧接着，Erina 提议我们把自己关起来。于是我们便在阁楼的卧室里等待，把 过去Sekimeiya 留在了活动室。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168390,7 +168390,7 @@
     {
       "id": "script_rpy_L063003_1_4869bcb5",
       "text": "One of the Sekimeiya was kept cold in the event room, which means that it was likely the Past Sekimeiya. The Future Sekimeiya must have been somewhere else, and it made us travel through time.",
-      "new": "其中一台 Sekimeiya 被冷藏保存在活动室，所以它很可能是 Past Sekimeiya。Future Sekimeiya 想必在别处，正是它让我们穿越了时间。",
+      "new": "其中一台 Sekimeiya 被冷藏保存在活动室，所以它很可能是 过去Sekimeiya。未来Sekimeiya 想必在别处，正是它让我们穿越了时间。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168566,7 +168566,7 @@
     {
       "id": "script_rpy_L063081_1_780cc12c",
       "text": "If the Future Sekimeiya was put in a hot place during those minutes, it could've gathered enough energy. However, that wouldn't explain the replicated location: I wasn't in the tower on November 24th.{w} So there is necessarily an answer that explains both mysteries at once.",
-      "new": "如果 Future Sekimeiya 在那几分钟里被放到高温处，它或许能积攒足够的能量。可那解释不了被复制的地点：11月24日我并不在塔里。{w}因此，一定存在一个能同时解释这两个谜团的答案。",
+      "new": "如果 未来Sekimeiya 在那几分钟里被放到高温处，它或许能积攒足够的能量。可那解释不了被复制的地点：11月24日我并不在塔里。{w}因此，一定存在一个能同时解释这两个谜团的答案。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168574,7 +168574,7 @@
     {
       "id": "script_rpy_L063082_1_1d889306",
       "text": "Could it really be what I'm imagining...?{w} Before the exit unlocked, the Future Sekimeiya was activated. I believe the location where that happened is a very important detail.",
-      "new": "难道真如我所想……？{w}出口解锁前，Future Sekimeiya 被启动了。我认为，它被启动的地点是个非常关键的细节。",
+      "new": "难道真如我所想……？{w}出口解锁前，未来Sekimeiya 被启动了。我认为，它被启动的地点是个非常关键的细节。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168582,7 +168582,7 @@
     {
       "id": "script_rpy_L063090_1_036b99c9",
       "text": "It was in the mechanical room. That's where the Future Sekimeiya was at {time=21.}{w} And it was Erina who activated it. She was in the mechanical room when the lights went off.",
-      "new": "它就在机械室。{time=21.} 时，Future Sekimeiya 正是在那里。{w}而启动它的正是 Erina。灯灭的时候，她就在机械室里。",
+      "new": "它就在机械室。{time=21.} 时，未来Sekimeiya 正是在那里。{w}而启动它的正是 Erina。灯灭的时候，她就在机械室里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168590,7 +168590,7 @@
     {
       "id": "script_rpy_L063094_1_1b0c140d",
       "text": "She still wanted to go to the past; she never stopped saying that. It was her last chance to do so.{w} Before then, she used the Sekimeiya we left in the cabinet. However, when she came back to the lobby and asked us the time, she had gone to the future instead. Based on what happened later, that had to be the Future Sekimeiya.",
-      "new": "她仍想回到过去，这话她一直挂在嘴边。那是她最后的机会。{w}在此之前，她用过了我们留在展示柜里的那台 Sekimeiya。可当她回到大堂、问我们时间时，她其实是去了未来。结合后来发生的事，那台必定是 Future Sekimeiya。",
+      "new": "她仍想回到过去，这话她一直挂在嘴边。那是她最后的机会。{w}在此之前，她用过了我们留在展示柜里的那台 Sekimeiya。可当她回到大堂、问我们时间时，她其实是去了未来。结合后来发生的事，那台必定是 未来Sekimeiya。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168646,7 +168646,7 @@
     {
       "id": "script_rpy_L063113_1_08d55284",
       "text": "...What she saw was Sai going through the mechanical room. That's where he left the Future Sekimeiya.",
-      "new": "「……她看到的是 Sai 穿过机械室的身影。他就是把 Future Sekimeiya 留在了那里。」",
+      "new": "「……她看到的是 Sai 穿过机械室的身影。他就是把 未来Sekimeiya 留在了那里。」",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168694,7 +168694,7 @@
     {
       "id": "script_rpy_L063146_1_5dfd3ffb",
       "text": "Once I put the Past Sekimeiya in the cabinet, all of us, including Shiroya, went back to the lobby and kept waiting where we'd been before.",
-      "new": "「我把 Past Sekimeiya 放进展示柜后，我们所有人——包括 Shiroya——都回到大堂，继续在原先的位置等待。」",
+      "new": "「我把 过去Sekimeiya 放进展示柜后，我们所有人——包括 Shiroya——都回到大堂，继续在原先的位置等待。」",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168878,7 +168878,7 @@
     {
       "id": "script_rpy_L063219_1_26349e93",
       "text": "If I'm right, and the version of Isla who was there ended up being the \"friend\", she likely traveled before we left the bedroom. We weren't there for too long of a time, though, and we'd left the Past Sekimeiya in the cabinet.",
-      "new": "如果我没猜错，当时在场的那个 Isla 后来成了那位「朋友」，那她很可能是在我们离开卧室之前就穿越了。可我们在那里待的时间并不长，而且我们把 Past Sekimeiya 留在了展示柜里。",
+      "new": "如果我没猜错，当时在场的那个 Isla 后来成了那位「朋友」，那她很可能是在我们离开卧室之前就穿越了。可我们在那里待的时间并不长，而且我们把 过去Sekimeiya 留在了展示柜里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -168902,7 +168902,7 @@
     {
       "id": "script_rpy_L063233_1_88b19838",
       "text": "Actually, yes. It was due to a bed sheet that the world C group had obtained in world A. When it was brought to world B, they wrapped it around the Past Sekimeiya and world switched back to world C. However, the sheet remained around the Sekimeiya in world B.{w} When it powered back on, the sheet was still very hot. That's why it took a short time to reach the needed amount of energy.",
-      "new": "没错，那是因为 C世界那组人在 A世界拿到了一条床单。他们把床单带到 B世界，裹在 Past Sekimeiya 上，然后世界切换回 C世界。然而，那条床单留在了 B世界的 Sekimeiya 上。{w}当它重新启动时，床单还很烫。所以它才在很短的时间里蓄够了所需的能量。",
+      "new": "没错，那是因为 C世界那组人在 A世界拿到了一条床单。他们把床单带到 B世界，裹在 过去Sekimeiya 上，然后世界切换回 C世界。然而，那条床单留在了 B世界的 Sekimeiya 上。{w}当它重新启动时，床单还很烫。所以它才在很短的时间里蓄够了所需的能量。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -168910,7 +168910,7 @@
     {
       "id": "script_rpy_L063235_1_df09deed",
       "text": "That's wrong. It was due to a bed sheet that the world C group had obtained in world A. When it was brought to world B, they wrapped it around the Past Sekimeiya and world switched back to world C. However, the sheet remained around the Sekimeiya in world B.{w} When it powered back on, the sheet was still very hot. That's why it took a short time to reach the needed amount of energy.",
-      "new": "不对。那是因为 C世界那组人在 A世界拿到了一条床单。他们把床单带到 B世界，裹在 Past Sekimeiya 上，然后世界切换回 C世界。然而，那条床单留在了 B世界的 Sekimeiya 上。{w}当它重新启动时，床单还很烫。所以它才在很短的时间里蓄够了所需的能量。",
+      "new": "不对。那是因为 C世界那组人在 A世界拿到了一条床单。他们把床单带到 B世界，裹在 过去Sekimeiya 上，然后世界切换回 C世界。然而，那条床单留在了 B世界的 Sekimeiya 上。{w}当它重新启动时，床单还很烫。所以它才在很短的时间里蓄够了所需的能量。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -168918,7 +168918,7 @@
     {
       "id": "script_rpy_L063245_1_d1d6ccd3",
       "text": "When Akaro and Sai escaped from the bedroom, Sai was forced to reveal the location of the Future Sekimeiya and was immediately knocked out.",
-      "new": "Akaro 和 Sai 从卧室逃出时，Sai 被迫说出了 Future Sekimeiya 的位置，随即被打晕。",
+      "new": "Akaro 和 Sai 从卧室逃出时，Sai 被迫说出了 未来Sekimeiya 的位置，随即被打晕。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -169190,7 +169190,7 @@
     {
       "id": "script_rpy_L063357_1_a11b9a5b",
       "text": "When we returned to room B6, the Sekimeiya we used wasn't there. Since we'd gone to the future, someone had time to take it away.",
-      "new": "我们回到 B6 室时，用过的那台 Sekimeiya 已经不见了。既然我们去了未来，就有人趁这段时间把它拿走了。",
+      "new": "我们回到 B6房间时，用过的那台 Sekimeiya 已经不见了。既然我们去了未来，就有人趁这段时间把它拿走了。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -169270,7 +169270,7 @@
     {
       "id": "script_rpy_L063389_1_9964c811",
       "text": "The last person was Erina. She had been alive in room B4 next to Atsuki and Shiroya and appeared in the mechanical room.",
-      "new": "最后一个人是 Erina。她原本在 Atsuki 和 Shiroya 隔壁的 B4 室里，之后出现在了机械室。",
+      "new": "最后一个人是 Erina。她原本在 Atsuki 和 Shiroya 隔壁的 B4房间里，之后出现在了机械室。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -169302,7 +169302,7 @@
     {
       "id": "script_rpy_L063403_1_21a0db27",
       "text": "There should've been a world switch, but this is tied to the butterfly effect. After all, the Future Sekimeiya was between another Shiroya's hands, and that version of Shiroya couldn't have existed if they had gone to the past.",
-      "new": "本来应该发生世界切换，但这与蝴蝶效应相关。毕竟，Future Sekimeiya 在另一个 Shiroya 手里，而如果他们去了过去，那个 Shiroya 就不可能存在。",
+      "new": "本来应该发生世界切换，但这与蝴蝶效应相关。毕竟，未来Sekimeiya 在另一个 Shiroya 手里，而如果他们去了过去，那个 Shiroya 就不可能存在。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -169982,7 +169982,7 @@
     {
       "id": "script_rpy_L063718_1_a9cf5b05",
       "text": "Sai began to think about what he'd experienced. The Sekimeiya had disappeared from room B6, where Atsuki and Shiroya had found one...",
-      "new": "Sai 开始回想自己的经历。Sekimeiya 是从 B6 室消失的，Atsuki 和 Shiroya 正是在那里找到了一台……",
+      "new": "Sai 开始回想自己的经历。Sekimeiya 是从 B6房间消失的，Atsuki 和 Shiroya 正是在那里找到了一台……",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -169990,7 +169990,7 @@
     {
       "id": "script_rpy_L063719_1_b648bc27",
       "text": "They hadn't known yet that two existed: they thought the Sekimeiya had teleported to a drawer, meaning they might've missed that the Future Sekimeiya was still in that room.",
-      "new": "他们当时还不知道存在两台：他们以为 Sekimeiya 是传送到了某个抽屉里，因此很可能没有注意到 Future Sekimeiya 仍留在那个房间。",
+      "new": "他们当时还不知道存在两台：他们以为 Sekimeiya 是传送到了某个抽屉里，因此很可能没有注意到 未来Sekimeiya 仍留在那个房间。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -170334,7 +170334,7 @@
     {
       "id": "script_rpy_L063842_1_e4728d24",
       "text": "Atsuki had hidden the Past Sekimeiya in Ido's locker, so Sai went to the future.",
-      "new": "Atsuki 把 Past Sekimeiya 藏进了 Ido 的储物柜，所以 Sai 去了未来。",
+      "new": "Atsuki 把 过去Sekimeiya 藏进了 Ido 的储物柜，所以 Sai 去了未来。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -170454,7 +170454,7 @@
     {
       "id": "script_rpy_L063891_1_a3cff67d",
       "text": "She didn't tell me exactly what she did, but I know she was in the mechanical room. She told me that she found the attic key there.{w} So she was looking for something, and without realizing it, she moved the Future Sekimeiya in the mechanical room. The next time that all of us appeared, nobody instantly activated the next travel, so we stopped on the 5th. That has to be it!",
-      "new": "她没细说自己做了什么，但我知道她去过机械室。她说过，阁楼的钥匙就是在那儿找到的。{w} 也就是说，她当时在找东西，却无意间挪动了机械室里的 Future Sekimeiya。等我们所有人下一次现身时，没有人立刻启动下一段穿越，所以我们才停在了5日。一定是这样！",
+      "new": "她没细说自己做了什么，但我知道她去过机械室。她说过，阁楼的钥匙就是在那儿找到的。{w} 也就是说，她当时在找东西，却无意间挪动了机械室里的 未来Sekimeiya。等我们所有人下一次现身时，没有人立刻启动下一段穿越，所以我们才停在了5日。一定是这样！",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -170710,7 +170710,7 @@
     {
       "id": "script_rpy_L063949_1_58236a9e",
       "text": "The time on the screen was 62:37. I'd taken the Past Sekimeiya out of the refrigerator as I'd pressed record, so I didn't have a lot of time to waste.",
-      "new": "屏幕上的时间是62分37秒。按下录音键时，我已经把 Past Sekimeiya 从冰箱里取了出来，剩下的时间并不多。",
+      "new": "屏幕上的时间是62分37秒。按下录音键时，我已经把 过去Sekimeiya 从冰箱里取了出来，剩下的时间并不多。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -171398,7 +171398,7 @@
     {
       "id": "script_rpy_L064139_1_ca1dd778",
       "text": "I took the Future Sekimeiya back out and waited a few seconds. Subsequently, I left the money on the floor and felt the surface of the gemstone.",
-      "new": "我把 Future Sekimeiya 重新取出来，等了几秒，随后把钱放在地板上，伸手触碰宝石表面。",
+      "new": "我把 未来Sekimeiya 重新取出来，等了几秒，随后把钱放在地板上，伸手触碰宝石表面。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -171422,7 +171422,7 @@
     {
       "id": "script_rpy_L064147_1_790394f7",
       "text": "The Future Sekimeiya was still powered off. I reset it to repeat the process, and once I'd duplicated the full amount of money, I left both Sekimeiya in the refrigerator again.",
-      "new": "Future Sekimeiya 仍处于关闭状态。我重置了它，重复同样的步骤，等整笔钱都复制好，又把两块 Sekimeiya 一起放回冰箱。",
+      "new": "未来Sekimeiya 仍处于关闭状态。我重置了它，重复同样的步骤，等整笔钱都复制好，又把两块 Sekimeiya 一起放回冰箱。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -172118,7 +172118,7 @@
     {
       "id": "script_rpy_L064399_1_189206cb",
       "text": "And that was the exact world we'd been in before: the Past Sekimeiya was back in the staff room, where I'd hidden it. It didn't teleport back there.{w} Akaro was gone, and Sai was once again the person we'd been with in the event room. Also, the blood I would leave on the staircase was surely already there.",
-      "new": "而那正是我们先前待过的世界：Past Sekimeiya回到了员工室，就在我藏它的地方。它不是被传送回去的。{w}Akaro不见了，活动室里和我们在一起的又变回了Sai。还有，我之后会留在楼梯上的血迹，那时想必已经在那里了。",
+      "new": "而那正是我们先前待过的世界：过去Sekimeiya回到了员工室，就在我藏它的地方。它不是被传送回去的。{w}Akaro不见了，活动室里和我们在一起的又变回了Sai。还有，我之后会留在楼梯上的血迹，那时想必已经在那里了。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -172806,7 +172806,7 @@
     {
       "id": "script_rpy_L064619_1_e2a48162",
       "text": "There was another assumption I had to make: that I was no longer in possession of the Future Sekimeiya.",
-      "new": "我还得作出另一个假设：Future Sekimeiya 已经不在我手里了。",
+      "new": "我还得作出另一个假设：未来Sekimeiya 已经不在我手里了。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -172830,7 +172830,7 @@
     {
       "id": "script_rpy_L064630_1_64ba2751",
       "text": "It's the Past Sekimeiya. This is all I can do to fix my mistake.",
-      "new": "是 Past Sekimeiya。为了弥补我的过错，我只能做到这一步。",
+      "new": "是 过去Sekimeiya。为了弥补我的过错，我只能做到这一步。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -172854,7 +172854,7 @@
     {
       "id": "script_rpy_L064635_1_ea3a0c1d",
       "text": "Once there, I had to take the Future Sekimeiya out of the refrigerator and bring it to the mountain so that it'd be found on that day.",
-      "new": "到了那里，我得把 Future Sekimeiya 从冰箱里取出来，带到山上，让它在那天被人发现。",
+      "new": "到了那里，我得把 未来Sekimeiya 从冰箱里取出来，带到山上，让它在那天被人发现。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -172862,7 +172862,7 @@
     {
       "id": "script_rpy_L064636_1_e89a1f96",
       "text": "Then, after the point I travel, the Past Sekimeiya will have to be left there too. It'll be found after the 27th, but that doesn't contradict anything that we were told.",
-      "new": "然后，我还得把 Past Sekimeiya 留在那里，留在我穿越到的时间点之后。它会在 27 日以后被发现，这跟我们听过的说法并不矛盾。",
+      "new": "然后，我还得把 过去Sekimeiya 留在那里，留在我穿越到的时间点之后。它会在 27 日以后被发现，这跟我们听过的说法并不矛盾。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -172870,7 +172870,7 @@
     {
       "id": "script_rpy_L064639_1_402abbbc",
       "text": "The temperature in the motel wasn't the same as the tower's, so the amount of time I had to store was different.",
-      "new": "然后，在我穿越到的时间点之后，Past Sekimeiya 也必须留在那里。它会在 27 日以后被发现，这跟我们听过的说法并不矛盾。",
+      "new": "然后，在我穿越到的时间点之后，过去Sekimeiya 也必须留在那里。它会在 27 日以后被发现，这跟我们听过的说法并不矛盾。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -173150,7 +173150,7 @@
     {
       "id": "script_rpy_L064722_1_543061ee",
       "text": "I'd held them when I touched the Sekimeiya so that they wouldn't remain on the field. Only the Past Sekimeiya had been left there so that it was found later.",
-      "new": "触碰 Sekimeiya 的时候，我把这些东西都握在手里，免得它们留在空地上。我只把 Past Sekimeiya 留在了那里，好让后来的人发现它。",
+      "new": "触碰 Sekimeiya 的时候，我把这些东西都握在手里，免得它们留在空地上。我只把 过去Sekimeiya 留在了那里，好让后来的人发现它。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -173166,7 +173166,7 @@
     {
       "id": "script_rpy_L064729_1_56005f56",
       "text": "I grabbed the one on the left—the Future Sekimeiya.",
-      "new": "我拿起左边的那件——Future Sekimeiya。",
+      "new": "我拿起左边的那件——未来Sekimeiya。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -173174,7 +173174,7 @@
     {
       "id": "script_rpy_L064730_1_9196468e",
       "text": "...I suppose I have to hurry. I didn't see the Future Sekimeiya in the field, which means that it'll be taken today.",
-      "new": "……看来我得抓紧了。空地上没有 Future Sekimeiya，也就是说，它今天就会被人取走。",
+      "new": "……看来我得抓紧了。空地上没有 未来Sekimeiya，也就是说，它今天就会被人取走。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -176294,7 +176294,7 @@
     {
       "id": "script_rpy_L065723_1_59abbcde",
       "text": "I could see the cabinet in the event room from where I was. What was inside it at that moment was the Future Sekimeiya.",
-      "new": "从我站的位置能看见活动室里的展示柜。那一刻放在里面的，是 Future Sekimeiya。",
+      "new": "从我站的位置能看见活动室里的展示柜。那一刻放在里面的，是 未来Sekimeiya。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -176710,7 +176710,7 @@
     {
       "id": "script_rpy_L065881_1_59acd3a5",
       "text": "I saw it with my own eyes. When Katei thought no one was watching, he took the Future Sekimeiya. The cabinet was locked, so he had a spare key.",
-      "new": "我亲眼看见了。Katei 趁没人注意，取走了 Future Sekimeiya。展示柜是锁着的，说明他另有一把钥匙。",
+      "new": "我亲眼看见了。Katei 趁没人注意，取走了 未来Sekimeiya。展示柜是锁着的，说明他另有一把钥匙。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -176782,7 +176782,7 @@
     {
       "id": "script_rpy_L065903_1_62a9ffc6",
       "text": "It appeared Katei was out of the picture, but Sai and Akaro were still around. When I saw them, they were looking for Katei, but they located the Future Sekimeiya instead.",
-      "new": "看来 Katei 已经出局了，但 Sai 和 Akaro 还在。我看见他们时，他们正在找 Katei，结果却找到了 Future Sekimeiya。",
+      "new": "看来 Katei 已经出局了，但 Sai 和 Akaro 还在。我看见他们时，他们正在找 Katei，结果却找到了 未来Sekimeiya。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -177334,7 +177334,7 @@
     {
       "id": "script_rpy_L066042_1_0481a3d6",
       "text": "They were in the security room earlier, though. They weren't seen because they traveled to the future. The Future Sekimeiya was brought to the lobby, and they activated it. They just appeared in front of the security room, where they were in the past.",
-      "new": "不过他们之前确实在监控室。之所以没人看见，是因为他们穿越到了未来。未来 Sekimeiya 被带到了大厅，他们启动了它。于是他们直接出现在监控室门前——过去他们就在那里。",
+      "new": "不过他们之前确实在监控室。之所以没人看见，是因为他们穿越到了未来。未来Sekimeiya 被带到了大厅，他们启动了它。于是他们直接出现在监控室门前——过去他们就在那里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -177750,7 +177750,7 @@
     {
       "id": "script_rpy_L066122_1_71aa5320",
       "text": "More than twenty minutes have passed since I saw them in the security room, which was right after the Future Sekimeiya was taken out of the cabinet. Since they reappeared in hallway A, they went ten minutes to the future once the Sekimeiya had gathered power for ten minutes. Something like that.",
-      "new": "我在监控室看到他们，是在 Future Sekimeiya 刚被从展示柜取出之后；从那之后已经过了二十多分钟。既然他们重新出现在 A走廊，那就是 Sekimeiya 蓄能十分钟后，他们往前跳了十分钟。大概是这么回事。",
+      "new": "我在监控室看到他们，是在 未来Sekimeiya 刚被从展示柜取出之后；从那之后已经过了二十多分钟。既然他们重新出现在 A走廊，那就是 Sekimeiya 蓄能十分钟后，他们往前跳了十分钟。大概是这么回事。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -177782,7 +177782,7 @@
     {
       "id": "script_rpy_L066130_1_da6dff1d",
       "text": "Sai went to the mechanical room, where he was told the Future Sekimeiya was. However, he came back claiming he hadn't found it.",
-      "new": "Sai 去了机械室——据说 Future Sekimeiya 就在那里。可他回来说没找到。",
+      "new": "Sai 去了机械室——据说 未来Sekimeiya 就在那里。可他回来说没找到。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -177798,7 +177798,7 @@
     {
       "id": "script_rpy_L066132_1_0929b42c",
       "text": "I see. They said that the point they traveled to the past just happened. That means the Future Sekimeiya should've still been there.",
-      "new": "原来如此。他们说自己穿越回过去的那个时间点刚刚才发生。那就是说，Future Sekimeiya 当时应该还在那里。",
+      "new": "原来如此。他们说自己穿越回过去的那个时间点刚刚才发生。那就是说，未来Sekimeiya 当时应该还在那里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -178238,7 +178238,7 @@
     {
       "id": "script_rpy_L066253_1_51e9bce3",
       "text": "This is the Future Sekimeiya.{w} When I was in the other crystal room, I heard someone here. After killing Suripo, this is where his killer left the Future Sekimeiya.",
-      "new": "这是未来 Sekimeiya。{w}我在另一间水晶展室时，听见这边有人。杀了 Suripo 之后，凶手就把未来 Sekimeiya 留在了这里。",
+      "new": "这是未来Sekimeiya。{w}我在另一间水晶展室时，听见这边有人。杀了 Suripo 之后，凶手就把未来Sekimeiya 留在了这里。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -178246,7 +178246,7 @@
     {
       "id": "script_rpy_L066261_1_c94c503d",
       "text": "It wasn't until I entered the very last crystal room, B6, that I found the Past Sekimeiya. I had to quickly withdraw my hand. The air surrounding it was even hotter.",
-      "new": "直到走进最后一间水晶展室B6，我才找到过去的 Sekimeiya。我不得不赶紧把手缩回来——它周围的热气更烫。",
+      "new": "直到走进最后一间水晶展室B6，我才找到过去Sekimeiya。我不得不赶紧把手缩回来——它周围的热气更烫。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -179038,7 +179038,7 @@
     {
       "id": "script_rpy_L066526_1_7787547f",
       "text": "I just had to wait.{w} Sai would find the Future Sekimeiya and bring it to the event room. Then, the others would find the Past Sekimeiya and walk to the event room.",
-      "new": "我只需要等着。{w}Sai 会找到 Future Sekimeiya，把它带到活动室。随后，其他人会找到 Past Sekimeiya，走进活动室。",
+      "new": "我只需要等着。{w}Sai 会找到 未来Sekimeiya，把它带到活动室。随后，其他人会找到 过去Sekimeiya，走进活动室。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -179046,7 +179046,7 @@
     {
       "id": "script_rpy_L066527_1_8fd35e12",
       "text": "The Future Sekimeiya would be activated in the event room—it was the one that had been gray, and I was far enough from its range. That would leave me alone in the tower with my past self.",
-      "new": "Future Sekimeiya 会在活动室启动——那正是先前呈灰色的那一个，而我所处的位置离它的覆盖范围足够远。这样一来，塔里就只剩我和过去的我。",
+      "new": "未来Sekimeiya 会在活动室启动——那正是先前呈灰色的那一个，而我所处的位置离它的覆盖范围足够远。这样一来，塔里就只剩我和过去的我。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -179318,7 +179318,7 @@
     {
       "id": "script_rpy_L066673_1_85b147aa",
       "text": "When everyone entered the attic, they saw the strange footprints on the floor. They led to the sofa, where the Future Sekimeiya was.",
-      "new": "众人进入阁楼时，看见地板上有奇怪的脚印，一路延伸到沙发——Future Sekimeiya 就放在那里。",
+      "new": "众人进入阁楼时，看见地板上有奇怪的脚印，一路延伸到沙发——未来Sekimeiya 就放在那里。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -179614,7 +179614,7 @@
     {
       "id": "script_rpy_L066813_1_874c202b",
       "text": "In reality, Atsuki and Miiya brought everyone to the crystal floor in an attempt to find Sai. Before he was seen, the Past Sekimeiya was found in room B6.{w} Sai was in the event room, and he suddenly heard people approaching. Hoping it would let him escape, he touched the Future Sekimeiya.",
-      "new": "实际上，Atsuki 和 Miiya 为了寻找 Sai，把大家带到了水晶层。还没等人看见他，Past Sekimeiya 就在水晶展室 B6 被发现了。{w} 当时 Sai 正在活动室，忽然听见有人靠近。他指望借此脱身，便碰了 Future Sekimeiya。",
+      "new": "实际上，Atsuki 和 Miiya 为了寻找 Sai，把大家带到了水晶层。还没等人看见他，过去Sekimeiya 就在水晶展室 B6 被发现了。{w} 当时 Sai 正在活动室，忽然听见有人靠近。他指望借此脱身，便碰了 未来Sekimeiya。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -179622,7 +179622,7 @@
     {
       "id": "script_rpy_L066815_1_a22530a8",
       "text": "Atsuki and Miiya brought everyone to the crystal floor in an attempt to find him. Before he was seen, the Past Sekimeiya was found in room B6.{w} Sai was in the event room, and he suddenly heard people approaching. Hoping it would let him escape, he touched the Future Sekimeiya.",
-      "new": "Atsuki 和 Miiya 为了找他，把大家带到了水晶层。还没等人看见他，Past Sekimeiya 就在水晶展室 B6 被发现了。{w} Sai 当时在活动室，忽然听见有人靠近。他指望借此脱身，便碰了 Future Sekimeiya。",
+      "new": "Atsuki 和 Miiya 为了找他，把大家带到了水晶层。还没等人看见他，过去Sekimeiya 就在水晶展室 B6 被发现了。{w} Sai 当时在活动室，忽然听见有人靠近。他指望借此脱身，便碰了 未来Sekimeiya。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -179790,7 +179790,7 @@
     {
       "id": "script_rpy_L066904_1_82fc0a5a",
       "text": "And Katei was the lucky person who found the Future Sekimeiya in the open refrigerator. ...Opening it had been the last thing Sai A would ever do.",
-      "new": "而 Katei 就是那个幸运儿，在敞开的冰箱里发现了 Future Sekimeiya。……打开冰箱，成了 Sai A 此生做的最后一件事。",
+      "new": "而 Katei 就是那个幸运儿，在敞开的冰箱里发现了 未来Sekimeiya。……打开冰箱，成了 Sai A 此生做的最后一件事。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -179990,7 +179990,7 @@
     {
       "id": "script_rpy_L066991_1_a624261c",
       "text": "You know what happened in that world. The Past Sekimeiya was in room B4 with the world A group.{w} It was in the cabinet where Akaro had put it, and it wasn't activated until he and Isla world switched to world B.",
-      "new": "你知道那个世界发生了什么。Past Sekimeiya 和 A世界的人一起留在 B4 展室。{w}它就在 Akaro 放进去的那个展示柜里，直到他和 Isla 世界切换到 B世界，它才被启动。",
+      "new": "你知道那个世界发生了什么。过去Sekimeiya 和 A世界的人一起留在 B4 展室。{w}它就在 Akaro 放进去的那个展示柜里，直到他和 Isla 世界切换到 B世界，它才被启动。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180006,7 +180006,7 @@
     {
       "id": "script_rpy_L067001_1_e9cb1061",
       "text": "That was it. The Past Sekimeiya from world A wasn't activated ever again.",
-      "new": "到此为止。A世界的 Past Sekimeiya 再也没有被启动过。",
+      "new": "到此为止。A世界的 过去Sekimeiya 再也没有被启动过。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180030,7 +180030,7 @@
     {
       "id": "script_rpy_L067012_1_ed959c0f",
       "text": "The Past Sekimeiya couldn't have been used to carry out her murder. The key to solving it was the Future Sekimeiya.",
-      "new": "这场谋杀不可能借助 Past Sekimeiya 完成。解谜的关键在于 Future Sekimeiya。",
+      "new": "这场谋杀不可能借助 过去Sekimeiya 完成。解谜的关键在于 未来Sekimeiya。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180046,7 +180046,7 @@
     {
       "id": "script_rpy_L067016_1_97d28d93",
       "text": "Before the world C group arrived in world A, only one person had touched the Future Sekimeiya: Sai A. However, he immediately died where he arrived. In other words, nobody from world A could've killed Erina.",
-      "new": "在 C世界的人抵达 A世界之前，只有一个人碰过 Future Sekimeiya：Sai A。可他一到就死了。换言之，A世界的人不可能杀死 Erina。",
+      "new": "在 C世界的人抵达 A世界之前，只有一个人碰过 未来Sekimeiya：Sai A。可他一到就死了。换言之，A世界的人不可能杀死 Erina。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180462,7 +180462,7 @@
     {
       "id": "script_rpy_L067197_1_9eeb8995",
       "text": "In any case, they found out that Erina was still alive. She and Isla had been in room A1 since they'd taken the elevator down.",
-      "new": "总之，他们得知 Erina 还活着。她和 Isla 乘电梯下去之后，就一直待在 A1 室。",
+      "new": "总之，他们得知 Erina 还活着。她和 Isla 乘电梯下去之后，就一直待在 A1房间。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180518,7 +180518,7 @@
     {
       "id": "script_rpy_L067221_1_32a8ee73",
       "text": "It was the Future Sekimeiya that Miiya had activated. Within the sheet, it gathered energy very quickly.{w} The killer could've been hiding somewhere, so starting with the attic, they searched every floor. Since they had the Sekimeiya, they figured nobody could use it to hide from them.",
-      "new": "那是 Miiya 启动过的 Future Sekimeiya。它在床单里蓄能极快。{w} 凶手可能藏在某处，于是他们从阁楼开始，逐层搜查。既然 Sekimeiya 在他们手上，他们便认为谁也没法借它躲过搜查。",
+      "new": "那是 Miiya 启动过的 未来Sekimeiya。它在床单里蓄能极快。{w} 凶手可能藏在某处，于是他们从阁楼开始，逐层搜查。既然 Sekimeiya 在他们手上，他们便认为谁也没法借它躲过搜查。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180534,7 +180534,7 @@
     {
       "id": "script_rpy_L067233_1_8a4cb177",
       "text": "The world A group was in room B4, but they weren't found.",
-      "new": "A世界的一组人就在 B4 室，却始终没被找到。",
+      "new": "A世界的一组人就在 B4房间，却始终没被找到。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180574,7 +180574,7 @@
     {
       "id": "script_rpy_L067246_1_6c08c003",
       "text": "Isla A touched the Past Sekimeiya in the cabinet. Akaro had set it to 5 °C, so it had slowly gathered energy. Since the Future Sekimeiya was on the second floor, the overlapping ranges created a world switch.",
-      "new": "Isla A 碰了展示柜里的 Past Sekimeiya。Akaro 把它设成了 5 °C，所以它一直在缓慢蓄能。由于 Future Sekimeiya 就在二楼，两者的重叠范围引发了世界切换。",
+      "new": "Isla A 碰了展示柜里的 过去Sekimeiya。Akaro 把它设成了 5 °C，所以它一直在缓慢蓄能。由于 未来Sekimeiya 就在二楼，两者的重叠范围引发了世界切换。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180606,7 +180606,7 @@
     {
       "id": "script_rpy_L067269_1_584dced1",
       "text": "When Isla A touched the Past Sekimeiya, the Future Sekimeiya was just outside the partitions on the second floor.",
-      "new": "Isla A 碰到 Past Sekimeiya 时，Future Sekimeiya 恰在二楼隔断之外。",
+      "new": "Isla A 碰到 过去Sekimeiya 时，未来Sekimeiya 恰在二楼隔断之外。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180622,7 +180622,7 @@
     {
       "id": "script_rpy_L067284_1_c16496db",
       "text": "When the world switch happened, Isla C had the Future Sekimeiya wrapped up deep inside the bed sheet. She didn't immediately notice its disappearance.",
-      "new": "世界切换发生时，Isla C 把 Future Sekimeiya 裹在床单深处，并没有立刻察觉它不见了。",
+      "new": "世界切换发生时，Isla C 把 未来Sekimeiya 裹在床单深处，并没有立刻察觉它不见了。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180654,7 +180654,7 @@
     {
       "id": "script_rpy_L067303_1_c9ada8aa",
       "text": "And when the world C group saw the Sekimeiya in the cabinet, Isla unwrapped the bed sheet and saw that hers had disappeared. The Sekimeiya behind the glass was the Past Sekimeiya, which the world B group had left locked in the cabinet before going to the attic.",
-      "new": "而当 C 世界那组人看到展示柜里的 Sekimeiya 时，Isla 解开了床单，发现自己的那台已经不见了。玻璃后面那台是 Past Sekimeiya，是 B 世界那组人去阁楼前锁进展示柜里的。",
+      "new": "而当 C 世界那组人看到展示柜里的 Sekimeiya 时，Isla 解开了床单，发现自己的那台已经不见了。玻璃后面那台是 过去Sekimeiya，是 B 世界那组人去阁楼前锁进展示柜里的。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180798,7 +180798,7 @@
     {
       "id": "script_rpy_L067402_1_5403e97e",
       "text": "Inside the wrapped sheet, the Past Sekimeiya quickly gathered energy. When Sai touched it in hallway A, they world switched to world C, leaving the sheet behind. The Future Sekimeiya had been very close, and its range was considerable, as it would soon make Akaro travel weeks to the future.",
-      "new": "裹在布里的 Past Sekimeiya 很快积蓄了能量。Sai 在 A 走廊碰到它时，众人切换到了 C 世界，那块布被留在了原地。Future Sekimeiya 就在不远处，作用范围也相当大——很快，它就会让 Akaro 穿越到数周之后的未来。",
+      "new": "裹在布里的 过去Sekimeiya 很快积蓄了能量。Sai 在 A 走廊碰到它时，众人切换到了 C 世界，那块布被留在了原地。未来Sekimeiya 就在不远处，作用范围也相当大——很快，它就会让 Akaro 穿越到数周之后的未来。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180878,7 +180878,7 @@
     {
       "id": "script_rpy_L067427_1_20cb2e57",
       "text": "That time, Miiya had found it in room A1. It was the fake Sekimeiya, which they decided to leave in the event room for good.",
-      "new": "那一次，是 Miiya 在 A1 室找到了它。那是赝品 Sekimeiya，他们决定就把它留在活动室，不再理会。",
+      "new": "那一次，是 Miiya 在 A1房间找到了它。那是赝品 Sekimeiya，他们决定就把它留在活动室，不再理会。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -181198,7 +181198,7 @@
     {
       "id": "script_rpy_L067579_1_db225322",
       "text": "In world B, he saw the Future Sekimeiya on the floor of the event room, which Erina had activated. He touched it, and as the Past Sekimeiya was still active in Ido's locker, he world switched to world C.",
-      "new": "在 B世界，他看见活动室的地板上放着 Future Sekimeiya——那是 Erina 启动过的。他伸手碰了它；由于 Ido 储物柜里的 Past Sekimeiya 仍处于启动状态，他切换到了 C世界。",
+      "new": "在 B世界，他看见活动室的地板上放着 未来Sekimeiya——那是 Erina 启动过的。他伸手碰了它；由于 Ido 储物柜里的 过去Sekimeiya 仍处于启动状态，他切换到了 C世界。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -181238,7 +181238,7 @@
     {
       "id": "script_rpy_L067601_1_c6ff69e6",
       "text": "On the crystal floor, she found the Past Sekimeiya in Ido's locker, where Atsuki had kept it.",
-      "new": "她在水晶层找到了 Ido 储物柜里的 Past Sekimeiya——那是 Atsuki 先前放在那里的。",
+      "new": "她在水晶层找到了 Ido 储物柜里的 过去Sekimeiya——那是 Atsuki 先前放在那里的。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -181254,7 +181254,7 @@
     {
       "id": "script_rpy_L067603_1_4054df44",
       "text": "After what had happened with Erina, Miiya had learned that traveling to the future with the Sekimeiya was possible. She wanted to be brought to {time=21}, out of the tower.{w} Through the slits in the locker, she activated it, and as Erina had just triggered the world switch, the Future Sekimeiya was powered off. Miiya went more than half an hour to the past and reset the Sekimeiya. When Atsuki B, who had originally hidden it there, later activated it, he only went forty minutes back in time.",
-      "new": "经历了 Erina 那件事后，Miiya 明白用 Sekimeiya 穿越到未来是可行的。她希望自己被送到 {time=21} 的塔外。{w} 她透过储物柜的缝隙启动了它；而由于 Erina 刚触发过世界切换，Future Sekimeiya 已处于关闭状态。Miiya 回到了半个多小时前的过去，并重置了 Sekimeiya。后来，原本把它藏在那里的 Atsuki B 再次启动它时，只回到了四十分钟前。",
+      "new": "经历了 Erina 那件事后，Miiya 明白用 Sekimeiya 穿越到未来是可行的。她希望自己被送到 {time=21} 的塔外。{w} 她透过储物柜的缝隙启动了它；而由于 Erina 刚触发过世界切换，未来Sekimeiya 已处于关闭状态。Miiya 回到了半个多小时前的过去，并重置了 Sekimeiya。后来，原本把它藏在那里的 Atsuki B 再次启动它时，只回到了四十分钟前。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -181294,7 +181294,7 @@
     {
       "id": "script_rpy_L067629_1_bb53780f",
       "text": "Then, in hallway B, she was found by Erina B, who didn't recognize her. They entered room B4 and found the Sekimeiya that Shiroya had left in a cabinet, which they brought to the event room.",
-      "new": "随后，Erina B 在 B走廊发现了她，却没有认出她。两人进入 B4室，在展示柜里找到了 Shiroya 留下的 Sekimeiya，并将它带到了活动室。",
+      "new": "随后，Erina B 在 B走廊发现了她，却没有认出她。两人进入 B4房间，在展示柜里找到了 Shiroya 留下的 Sekimeiya，并将它带到了活动室。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -181878,7 +181878,7 @@
     {
       "id": "script_rpy_L067853_1_15f5ede3",
       "text": "The Past Sekimeiya was on the marble countertop, already white again. By its side was the voice recorder with numbers on its screen.{w} 81:04.",
-      "new": "Past Sekimeiya 就放在大理石台面上，已经重新变回白色。它旁边是录音笔，屏幕上显示着数字。{w} 81:04。",
+      "new": "过去Sekimeiya 就放在大理石台面上，已经重新变回白色。它旁边是录音笔，屏幕上显示着数字。{w} 81:04。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -181886,7 +181886,7 @@
     {
       "id": "script_rpy_L067854_1_140a2a25",
       "text": "The Future Sekimeiya was still in the refrigerator, so I put the past one inside too.",
-      "new": "Future Sekimeiya 还在冰箱里，我便把 Past Sekimeiya 也放了进去。",
+      "new": "未来Sekimeiya 还在冰箱里，我便把 过去Sekimeiya 也放了进去。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -181902,7 +181902,7 @@
     {
       "id": "script_rpy_L067860_1_02985a80",
       "text": "I was about to take the Past Sekimeiya back out, but my arm stopped itself.",
-      "new": "我正要把 Past Sekimeiya 取出来，手却停住了。",
+      "new": "我正要把 过去Sekimeiya 取出来，手却停住了。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -181942,7 +181942,7 @@
     {
       "id": "script_rpy_L067870_1_da2ebb86",
       "text": "My plan had been to use the Past Sekimeiya one more time after my past self's disappearance.",
-      "new": "我的计划，是在过去的我消失之后，再用一次 Past Sekimeiya。",
+      "new": "我的计划，是在过去的我消失之后，再用一次 过去Sekimeiya。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -182086,7 +182086,7 @@
     {
       "id": "script_rpy_L067903_1_816b9f1a",
       "text": "When could I have used the Future Sekimeiya to not be present at {time=14}?",
-      "new": "我能在什么时候用上 Future Sekimeiya，好让自己在{time=14}不在场？",
+      "new": "我能在什么时候用上 未来Sekimeiya，好让自己在{time=14}不在场？",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -182126,7 +182126,7 @@
     {
       "id": "script_rpy_L067908_1_b6fc2bcf",
       "text": "I could explain Katei's face in a different way: I could leave the Sekimeiya in a hot place as I touch it. However, both Sekimeiya were in the attic. I would have to find out which was which, keep the past one in the refrigerator due to its large range, and travel to the future.",
-      "new": "Katei 的表情也可以有另一种解释：我可以在触碰 Sekimeiya 的同时，把它留在高温的地方。可两台 Sekimeiya 都在阁楼里。我得先弄清楚哪台是哪台，把范围大的那台——也就是过去的 Sekimeiya——放进冰箱，然后再穿越到未来。",
+      "new": "Katei 的表情也可以有另一种解释：我可以在触碰 Sekimeiya 的同时，把它留在高温的地方。可两台 Sekimeiya 都在阁楼里。我得先弄清楚哪台是哪台，把范围大的那台——也就是过去Sekimeiya——放进冰箱，然后再穿越到未来。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -182142,7 +182142,7 @@
     {
       "id": "script_rpy_L067914_1_80ad2682",
       "text": "At the time, I'd also come up with another concept in the form of thought-up loops, which were fundamentally similar to the way the Past Sekimeiya worked.",
-      "new": "当时，我还想到过另一个概念——凭空设想的循环，它与 Past Sekimeiya 的运作方式在根本上相似。",
+      "new": "当时，我还想到过另一个概念——凭空设想的循环，它与 过去Sekimeiya 的运作方式在根本上相似。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -182158,7 +182158,7 @@
     {
       "id": "script_rpy_L067916_1_75988f61",
       "text": "A cue.{w} If I had a loop in my head, I could know whether it could be completed. If I thought about everything that I would do after touching the Past Sekimeiya, I could observe whether a cue I intended to leave would exist.",
-      "new": "一个提示。{w}只要脑中存着一个循环，我就能知道它能否成立。若我把触碰 Past Sekimeiya 之后要做的每一件事都想清楚，便能观察自己打算留下的那个提示是否存在。",
+      "new": "一个提示。{w}只要脑中存着一个循环，我就能知道它能否成立。若我把触碰 过去Sekimeiya 之后要做的每一件事都想清楚，便能观察自己打算留下的那个提示是否存在。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -182246,7 +182246,7 @@
     {
       "id": "script_rpy_L067952_1_58659468",
       "text": "When the Future Sekimeiya was brought down from the attic, Katei used it. Then, the other Atsuki and Sai traveled minutes forward as well. There's no way I could travel before then.",
-      "new": "Future Sekimeiya 被从阁楼带下来时，Katei 用了它。随后，另一个 Atsuki 和 Sai 也向前穿越了几分钟。在那之前，我不可能穿越。",
+      "new": "未来Sekimeiya 被从阁楼带下来时，Katei 用了它。随后，另一个 Atsuki 和 Sai 也向前穿越了几分钟。在那之前，我不可能穿越。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -182254,7 +182254,7 @@
     {
       "id": "script_rpy_L067953_1_e7857a94",
       "text": "But... the situation is the same later. I saw what happened to the Sekimeiya.{w} Sai, Akaro, and Katei moved them back and forth, but I remember it clearly—no place where the Future Sekimeiya was hidden was accessed by a future self of mine. My line of sight unconsciously blocked myself.",
-      "new": "可是……之后的情形也一样。Sekimeiya 的遭遇我都看在眼里。{w}Sai、Akaro 和 Katei 把两台 Sekimeiya 搬来搬去，可我记得很清楚——Future Sekimeiya 藏身过的任何一处，都不曾被未来的我碰过。我的视线在不知不觉间，把自己挡在了外面。",
+      "new": "可是……之后的情形也一样。Sekimeiya 的遭遇我都看在眼里。{w}Sai、Akaro 和 Katei 把两台 Sekimeiya 搬来搬去，可我记得很清楚——未来Sekimeiya 藏身过的任何一处，都不曾被未来的我碰过。我的视线在不知不觉间，把自己挡在了外面。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -182270,7 +182270,7 @@
     {
       "id": "script_rpy_L067959_1_d4734cbe",
       "text": "There's no way a future self of mine was on the crystal floor and wasn't seen by me or anyone who was there. The Future Sekimeiya wasn't activated, and neither was the past one.",
-      "new": "未来的我若在水晶层，绝不可能不被我或在场的任何人看见。Future Sekimeiya 没有被启动，过去的那台也一样。",
+      "new": "未来的我若在水晶层，绝不可能不被我或在场的任何人看见。未来Sekimeiya 没有被启动，过去的那台也一样。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -182286,7 +182286,7 @@
     {
       "id": "script_rpy_L067961_1_2795e778",
       "text": "And when the Future Sekimeiya was hidden in the mechanical room, the other Atsuki and Miiya used it to go to the future.",
-      "new": "而当 Future Sekimeiya 被藏进机械室时，另一个 Atsuki 和 Miiya 用它去了未来。",
+      "new": "而当 未来Sekimeiya 被藏进机械室时，另一个 Atsuki 和 Miiya 用它去了未来。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -182318,7 +182318,7 @@
     {
       "id": "script_rpy_L067965_1_ed769b1e",
       "text": "I thought of using the Past Sekimeiya instead. Its only use would've been to travel seconds back to a room that had just been inspected. However, I'd also felt the air around it during the search, and it had been even hotter... That path was blocked too.",
-      "new": "我转而想到用 Past Sekimeiya。它唯一的用处，不过是穿越回几秒之前，回到一间刚刚搜查过的房间。可搜查时我也感觉到了它周围的空气，而且还要更烫……这条路同样被堵死了。",
+      "new": "我转而想到用 过去Sekimeiya。它唯一的用处，不过是穿越回几秒之前，回到一间刚刚搜查过的房间。可搜查时我也感觉到了它周围的空气，而且还要更烫……这条路同样被堵死了。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -182710,7 +182710,7 @@
     {
       "id": "script_rpy_L068072_1_e4c222b2",
       "text": "What if I let the Past Sekimeiya gather energy right now and I bring it somewhere so that its range reaches behind the tower?",
-      "new": "如果我现在就让过去的 Sekimeiya 蓄能，再把它带到某个地方，让它的范围延伸到塔后方呢？",
+      "new": "如果我现在就让过去Sekimeiya 蓄能，再把它带到某个地方，让它的范围延伸到塔后方呢？",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -183326,7 +183326,7 @@
     {
       "id": "script_rpy_L068235_1_c4c66ad4",
       "text": "If one of the Sekimeiya is activated before then for some reason, that'll cause the world change that could still happen. Since I know we'll return at {time=19:30}, though, I have a pretty strong guarantee that the Past Sekimeiya won't be the one activated.",
-      "new": "如果在那之前，其中一个 Sekimeiya 因某种原因被激活，就会引发那场仍可能发生的世界变化。不过，既然我知道我们会在 {time=19:30} 回去，我就能相当肯定，被激活的不会是 Past Sekimeiya。",
+      "new": "如果在那之前，其中一个 Sekimeiya 因某种原因被激活，就会引发那场仍可能发生的世界变化。不过，既然我知道我们会在 {time=19:30} 回去，我就能相当肯定，被激活的不会是 过去Sekimeiya。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -183734,7 +183734,7 @@
     {
       "id": "script_rpy_L068362_1_b57cf9cf",
       "text": "There was no time to wonder. After I grabbed the Future Sekimeiya, I dashed back out.",
-      "new": "没空多想。我抓起 Future Sekimeiya，转身冲了出去。",
+      "new": "没空多想。我抓起 未来Sekimeiya，转身冲了出去。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -184166,7 +184166,7 @@
     {
       "id": "script_rpy_L068516_1_d97ce9da",
       "text": "I am. I've been able to understand the Sekimeiya.{w} The Future Sekimeiya made us appear where we were in the past; I believe that could be part of your confusion. The Past Sekimeiya made us appear where we would be in the future.{w} ...And, if both ranges overlapped, the world around us would change instead.",
-      "new": "是真的。我已经能理解 Sekimeiya 了。{w}Future Sekimeiya 会把我们送到过去我们所在的位置——我想，这可能是让你困惑的原因之一。Past Sekimeiya 则会把我们送到未来我们会在的位置。{w}……而一旦两者的范围重叠，被改变的就会是我们周围的世界。",
+      "new": "是真的。我已经能理解 Sekimeiya 了。{w}未来Sekimeiya 会把我们送到过去我们所在的位置——我想，这可能是让你困惑的原因之一。过去Sekimeiya 则会把我们送到未来我们会在的位置。{w}……而一旦两者的范围重叠，被改变的就会是我们周围的世界。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -184294,7 +184294,7 @@
     {
       "id": "script_rpy_L068568_1_b0baad6a",
       "text": "That is the Past Sekimeiya. If you activate it when the timer reaches 63:14, you'll appear on November 30th. If you're there, Miiya will not die.{w} I can't come with you, though. If you activate it, anyone in the center of the building will go back to our world. If I travel to the past too, I won't be able to be there.{w} But, if it's you who does this, you will be. When December 15th comes, you'll be able to enter through the storeroom, and if you stay in the third partition on the fourth floor, you'll make it back to this point.",
-      "new": "那就是 Past Sekimeiya。等计时走到 63:14 时启动它，你就会出现在 11 月 30 日。只要你在那里，Miiya 就不会死。{w}不过我没办法跟你一起去。你一旦启动它，位于大楼中心的所有人都会回到我们原本的世界。如果我也穿越回过去，我就没法待在那里了。{w}但换成你去做这件事，你就能留在那里。等到 12 月 15 日，你可以从储藏室进来；只要待在四楼第三间隔间里，你就能回到这个时间点。",
+      "new": "那就是 过去Sekimeiya。等计时走到 63:14 时启动它，你就会出现在 11 月 30 日。只要你在那里，Miiya 就不会死。{w}不过我没办法跟你一起去。你一旦启动它，位于大楼中心的所有人都会回到我们原本的世界。如果我也穿越回过去，我就没法待在那里了。{w}但换成你去做这件事，你就能留在那里。等到 12 月 15 日，你可以从储藏室进来；只要待在四楼第三间隔间里，你就能回到这个时间点。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -184590,7 +184590,7 @@
     {
       "id": "script_rpy_L068659_1_8d591580",
       "text": "I grabbed the Past Sekimeiya and left it on the highest cabinet shelf, where it wasn't easy to see.",
-      "new": "我拿起 Past Sekimeiya，把它放到展示柜最高一层的架子上，那个位置不容易被看见。",
+      "new": "我拿起 过去Sekimeiya，把它放到展示柜最高一层的架子上，那个位置不容易被看见。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -185294,7 +185294,7 @@
     {
       "id": "script_rpy_L068949_1_d5350cc3",
       "text": "This is the Past Sekimeiya. My past self traveled with it very recently in the staff room, and Sai brought it here. It doesn't have a lot of power right now.",
-      "new": "这是 Past Sekimeiya。不久之前，过去的我刚在员工室里用它穿越，随后是 Sai 把它带到了这里。它现在的能量不多了。",
+      "new": "这是 过去Sekimeiya。不久之前，过去的我刚在员工室里用它穿越，随后是 Sai 把它带到了这里。它现在的能量不多了。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -185534,7 +185534,7 @@
     {
       "id": "script_rpy_L069059_1_7dfe3360",
       "text": "No. If my past self saw me, that'd be a paradox.{w} But there's no simple way out of this. The Future Sekimeiya will be powered off and Sai will stay next to it when it repowers, and the Past Sekimeiya will send us too far to hide us since it'll build up energy until your past self leaves. I doubt touching it twice would work due to the powered-off time.",
-      "new": "不会。如果过去的我看到我，就会形成悖论。{w}但这事没那么容易解决。Future Sekimeiya 会被断电，等它重新通电时，Sai 会守在旁边；而 Past Sekimeiya 会一直蓄能，直到过去的你离开，然后把我们送得太远，根本藏不住。考虑到它断电的那段时间，再碰一次恐怕行不通。",
+      "new": "不会。如果过去的我看到我，就会形成悖论。{w}但这事没那么容易解决。未来Sekimeiya 会被断电，等它重新通电时，Sai 会守在旁边；而 过去Sekimeiya 会一直蓄能，直到过去的你离开，然后把我们送得太远，根本藏不住。考虑到它断电的那段时间，再碰一次恐怕行不通。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -185622,7 +185622,7 @@
     {
       "id": "script_rpy_L069087_1_1582e2d2",
       "text": "Here. Just before {time=21:05}, Erina is going to activate it. The Future Sekimeiya has yet to be brought here.{w} It won't be a normal travel, though. When she touches it, she'll trigger a chain reaction that will bring us to January 5th. We'll go twenty minutes to the future repeatedly. Akaro will appear a bit later because he traveled directly from today to January 5th after escaping from the bedroom with Sai.",
-      "new": "就在这里。{time=21:05} 之前，Erina 会启动它。Future Sekimeiya 那时还没被带到这里。{w}不过，那不会是一次普通的穿越。她一碰它，就会引发连锁反应，把我们带到 1 月 5 日。我们会反复向前跳二十分钟。Akaro 会稍晚出现，因为他是和 Sai 一起逃出卧室后，直接从今天穿越到了 1 月 5 日。",
+      "new": "就在这里。{time=21:05} 之前，Erina 会启动它。未来Sekimeiya 那时还没被带到这里。{w}不过，那不会是一次普通的穿越。她一碰它，就会引发连锁反应，把我们带到 1 月 5 日。我们会反复向前跳二十分钟。Akaro 会稍晚出现，因为他是和 Sai 一起逃出卧室后，直接从今天穿越到了 1 月 5 日。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -185998,7 +185998,7 @@
     {
       "id": "script_rpy_L069196_1_5aeb3f6b",
       "text": "...{w}Now, my past self will find the Past Sekimeiya in the security room, and we'll all wait out the last few minutes in the lobby.",
-      "new": "……{w}接下来，过去的我会在监控室找到 Past Sekimeiya，然后我们所有人就在大厅里熬过最后这几分钟。",
+      "new": "……{w}接下来，过去的我会在监控室找到 过去Sekimeiya，然后我们所有人就在大厅里熬过最后这几分钟。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -186126,7 +186126,7 @@
     {
       "id": "script_rpy_L069233_1_08027479",
       "text": "I grabbed the Future Sekimeiya and stepped up the stairs. I could no longer see the walls of the lobby, but unfortunately, I knew I'd have to see them once more in the future.",
-      "new": "我拿起 Future Sekimeiya，登上楼梯。大厅的墙壁已经看不见了，可惜我知道，将来我还得再看它们一次。",
+      "new": "我拿起 未来Sekimeiya，登上楼梯。大厅的墙壁已经看不见了，可惜我知道，将来我还得再看它们一次。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -186142,7 +186142,7 @@
     {
       "id": "script_rpy_L069238_1_fc433d3a",
       "text": "I walked to the crystal room the past me had traveled from, B5. After feeling the floor, I realized that the powered-off Past Sekimeiya was there.{w} For the time being, I went to the crystal room at my right and put both inside a temperature regulation cabinet, setting it to where I believed 0 °C was. It seemed the curtains were all still raised.",
-      "new": "我走向过去的我穿越离开的那间水晶展室 B5。伸手一探地板，便发现断电的 Past Sekimeiya 在那里。{w}我暂且走进右边那间水晶展室，把两枚都放进温控柜，把温度调到我估计是 0 °C 的位置。看来所有遮布都仍然卷着。",
+      "new": "我走向过去的我穿越离开的那间水晶展室 B5。伸手一探地板，便发现断电的 过去Sekimeiya 在那里。{w}我暂且走进右边那间水晶展室，把两枚都放进温控柜，把温度调到我估计是 0 °C 的位置。看来所有遮布都仍然卷着。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"

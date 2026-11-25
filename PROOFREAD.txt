@@ -57,7 +57,8 @@
 5. 不要加原文没有的细节或力度。
 
 【术语】
-- Sekimeiya、Past Sekimeiya、Future Sekimeiya、Spun Glass、以及完整英文标题，全部保持英文，不要缩写成「石」
+- Sekimeiya、Spun Glass、以及完整英文标题，全部保持英文，不要缩写成「石」
+- Past Sekimeiya 译「过去Sekimeiya」，Future Sekimeiya 译「未来Sekimeiya」。只译 Past/Future，Sekimeiya 本身仍保留英文；中间不要空格，也不要写成「过去的Sekimeiya」
 - Xyn / XYN 保持英文
 - Sai 的角色符号是 Ψ，保留 Ψ
 - Ashiya 作为机构简称译「芦屋」；作为家族或家庭时译「芦屋家」或「芦屋家族」（见上面的好例子）；Ashiya Tower 译「芦屋塔」
@@ -65,6 +66,7 @@
 - Ina Café 译「伊娜咖啡馆」
 - velvet curtain，以及罩在展示柜上、可掀开、也可取下盖人的 curtain，一律译「遮布」，不要用「幕布」
 - crystal room / crystal rooms 译「水晶展室」，编号保留，如「水晶展室 A5」；名称不要写成展厅或展览室
+- 仅将带字母数字编号的「室」改成「房间」，如 B4室、A1室、C3室 → B4房间、A1房间、C3房间。活动室、储藏室、监控室、机械室、员工室、水晶展室、清洁间等专有房间名不要改
 - cabinet 译「展示柜」
 - attic 阁楼；hallway A/B/C 为 A/B/C走廊；event room 活动室；storeroom 储藏室；security room 监控室；crystal floor 水晶层；mechanical room 机械室；cleaning room 清洁间；staff room 员工室；hidden door 暗门
 - Airun 艾伦山；Musashi Gemstones 武藏宝石；Eagle Motel 鹰旅馆；Akashic Park 阿卡西公园；town hall 市政厅
