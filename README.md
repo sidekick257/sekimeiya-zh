@@ -61,7 +61,15 @@ python proofread_batch.py --provider deepseek --model deepseek-v4-pro --only sto
 python proofread_batch.py --dry-run --redo --only story --limit 1
 ```
 
-常用参数：`--rag-k 6`（相近句条数）、`--context-radius 5`、`--no-sentence-rag`、`--no-term-rag`。
+通过 OpenAI 兼容中转站使用 Gemini（例如 laozhang.ai）。`--dry-run` 不需要密钥；密钥用 `YOUR_KEY` 或环境变量，不要写进文件：
+
+```bat
+python proofread_batch.py --provider openai --model gemini-3.8-flash --base-url https://api.laozhang.ai/v1 --api-key YOUR_KEY --only story --batch-size 20 --workers 4
+```
+
+也可设置 `OPENAI_API_KEY` 和 `OPENAI_BASE_URL`。`--provider gemini` 同样走 OpenAI 兼容接口，需提供 `--base-url`。
+
+常用参数：`--rag-k 6`（相近句条数）、`--context-radius 5`、`--no-sentence-rag`、`--no-term-rag`、`--base-url`、`--api-key`。
 
 ### 4. 统一引用
 ```bat

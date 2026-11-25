@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-proofread_batch.py — DeepSeek second-pass proofreading for Sekimeiya localization.
+proofread_batch.py — second-pass proofreading for Sekimeiya localization.
 
 Supports concurrent batches for speed.
 
@@ -16,19 +16,33 @@ Build a vector index first when you can:
   python build_index.py
   python build_index.py --backend bm25          # no sentence-transformers
 
-Use --dry-run to print a sample payload without calling the API.
+Use --dry-run to print a sample payload without calling the API. No API key
+is required for --dry-run.
 
 Usage:
-  set DEEPSEEK_API_KEY=sk-...
+  set DEEPSEEK_API_KEY=YOUR_KEY
   python proofread_batch.py --provider deepseek --model deepseek-v4-pro --batch-size 20 --workers 4 --only story
+
+  OpenAI-compatible relay (e.g. Gemini 3.8 Flash via laozhang.ai):
+  python proofread_batch.py --provider openai --model gemini-3.8-flash --base-url https://api.laozhang.ai/v1 --api-key YOUR_KEY --only story
+
+  Same via environment variables:
+  set OPENAI_API_KEY=YOUR_KEY
+  set OPENAI_BASE_URL=https://api.laozhang.ai/v1
+  python proofread_batch.py --provider openai --model gemini-3.8-flash --only story
+
+  --provider gemini also uses the OpenAI-compatible relay path (not the Google SDK):
+  python proofread_batch.py --provider gemini --model gemini-3.8-flash --base-url https://api.laozhang.ai/v1 --api-key YOUR_KEY --only story
 """
 
 import argparse
 import json
 import os
+import re
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+from urllib.parse import urlparse
 
 try:
     from openai import OpenAI
@@ -46,6 +60,14 @@ from proofread_rag import (
     match_terms,
     neighbor_ids,
 )
+
+DEFAULT_DEEPSEEK_BASE_URL = "https://api.deepseek.com"
+VALID_PROVIDERS = ("deepseek", "openai", "gemini")
+PROVIDER_KEY_ENV = {
+    "deepseek": "DEEPSEEK_API_KEY",
+    "openai": "OPENAI_API_KEY",
+    "gemini": "GEMINI_API_KEY",
+}
 
 
 def load_prompt(path: Path) -> str:
@@ -71,6 +93,153 @@ def load_done(path: Path) -> set:
 
 def save_done(path: Path, done: set):
     path.write_text("\n".join(sorted(done)) + "\n", encoding="utf-8")
+
+
+def is_gemini_model(model: str) -> bool:
+    return (model or "").strip().lower().startswith("gemini")
+
+
+def normalize_provider(name: str) -> str:
+    return (name or "deepseek").strip().lower() or "deepseek"
+
+
+def normalize_openai_base_url(url: str) -> str:
+    """Strip trailing slashes; append /v1 only when the URL has no version path."""
+    url = (url or "").strip()
+    if not url:
+        return ""
+    stripped = url.rstrip("/")
+    path = urlparse(stripped).path or ""
+    if re.search(r"/v\d+[a-z0-9]*$", path, re.I):
+        return stripped
+    if path in ("", "/"):
+        return stripped + "/v1"
+    return stripped
+
+
+def resolve_base_url(provider: str, model: str, cli_base_url: str) -> str:
+    """CLI --base-url wins, then OPENAI_BASE_URL for openai/gemini (and gemini models).
+
+    Default DeepSeek keeps the official URL and does not silently pick up
+    OPENAI_BASE_URL.
+    """
+    cli = (cli_base_url or "").strip()
+    env = (os.environ.get("OPENAI_BASE_URL") or "").strip()
+    provider = normalize_provider(provider)
+    gemini_like = provider == "gemini" or is_gemini_model(model)
+
+    if cli:
+        return normalize_openai_base_url(cli)
+    if gemini_like or provider == "openai":
+        if env:
+            return normalize_openai_base_url(env)
+        return ""
+    return DEFAULT_DEEPSEEK_BASE_URL
+
+
+def resolve_api_key(provider: str, model: str, cli_key: str):
+    """Return (api_key, source_label). CLI --api-key wins over env vars."""
+    if (cli_key or "").strip():
+        return cli_key.strip(), "--api-key"
+    provider = normalize_provider(provider)
+    env_order = []
+    primary = PROVIDER_KEY_ENV.get(provider)
+    if primary:
+        env_order.append(primary)
+    if provider == "deepseek":
+        env_order.append("OPENAI_API_KEY")
+    elif provider == "gemini":
+        env_order.append("OPENAI_API_KEY")
+    if is_gemini_model(model):
+        for name in ("GEMINI_API_KEY", "OPENAI_API_KEY"):
+            if name not in env_order:
+                env_order.append(name)
+    for name in env_order:
+        key = (os.environ.get(name) or "").strip()
+        if key:
+            return key, name
+    return "", (env_order[0] if env_order else "OPENAI_API_KEY")
+
+
+def should_use_json_object(provider: str, model: str, base_url: str) -> bool:
+    """Keep json_object on the official DeepSeek (and official OpenAI) path.
+
+    Relays and Gemini models often reject or ignore response_format, so those
+    paths omit it and parse JSON more defensively instead.
+    """
+    if normalize_provider(provider) == "gemini" or is_gemini_model(model):
+        return False
+    if not base_url:
+        return True
+    host = base_url.rstrip("/")
+    return host in {
+        DEFAULT_DEEPSEEK_BASE_URL,
+        DEFAULT_DEEPSEEK_BASE_URL + "/v1",
+        "https://api.openai.com",
+        "https://api.openai.com/v1",
+    }
+
+
+def needs_relay_base_url(provider: str, model: str, base_url: str) -> bool:
+    return (normalize_provider(provider) == "gemini" or is_gemini_model(model)) and not base_url
+
+
+def parse_model_json(raw) -> list:
+    text = (raw or "").strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\s*", "", text)
+        text = re.sub(r"\s*```$", "", text)
+        text = text.strip()
+    try:
+        result = json.loads(text)
+    except json.JSONDecodeError:
+        start = text.find("{")
+        end = text.rfind("}") + 1
+        start_arr = text.find("[")
+        end_arr = text.rfind("]") + 1
+        # Prefer whichever JSON construct appears first, so a leading
+        # [{...}] is not sliced down to the first object.
+        candidates = []
+        if start_arr >= 0 and end_arr > start_arr and (start < 0 or start_arr < start):
+            candidates.append(text[start_arr:end_arr])
+            if start >= 0 and end > start:
+                candidates.append(text[start:end])
+        else:
+            if start >= 0 and end > start:
+                candidates.append(text[start:end])
+            if start_arr >= 0 and end_arr > start_arr:
+                candidates.append(text[start_arr:end_arr])
+        last_err = None
+        result = None
+        for cand in candidates:
+            try:
+                result = json.loads(cand)
+                last_err = None
+                break
+            except json.JSONDecodeError as exc:
+                last_err = exc
+        if result is None:
+            if last_err is not None:
+                raise last_err
+            raise
+    if isinstance(result, list):
+        return result
+    if isinstance(result, dict):
+        for key in ("results", "entries", "data"):
+            if key in result and isinstance(result[key], list):
+                return result[key]
+        return [{"id": k, "new": v} for k, v in result.items() if isinstance(v, str)]
+    return []
+
+
+def make_client(api_key: str, base_url: str):
+    if OpenAI is None:
+        print("Please install: pip install openai")
+        sys.exit(1)
+    kwargs = {"api_key": api_key}
+    if base_url:
+        kwargs["base_url"] = base_url
+    return OpenAI(**kwargs)
 
 
 def build_file_index(entries):
@@ -157,39 +326,25 @@ def retrieve_for_batch(batch, index, retriever, rag_k, radius, st_model=None):
     return {e["id"]: ex for e, ex in zip(batch, examples_list)}
 
 
-def call_deepseek(client, model, system_prompt, user_msg):
-    resp = client.chat.completions.create(
-        model=model,
-        messages=[
+def call_chat(client, model, system_prompt, user_msg, use_json_object=True):
+    kwargs = {
+        "model": model,
+        "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_msg},
         ],
-        temperature=0.3,
-        response_format={"type": "json_object"},
-    )
+        "temperature": 0.3,
+    }
+    if use_json_object:
+        kwargs["response_format"] = {"type": "json_object"}
+    resp = client.chat.completions.create(**kwargs)
     raw = resp.choices[0].message.content
-    try:
-        result = json.loads(raw)
-    except json.JSONDecodeError:
-        start = raw.find("{")
-        end = raw.rfind("}") + 1
-        if start >= 0 and end > start:
-            result = json.loads(raw[start:end])
-        else:
-            raise
-    if isinstance(result, list):
-        return result
-    if isinstance(result, dict):
-        for key in ("results", "entries", "data"):
-            if key in result and isinstance(result[key], list):
-                return result[key]
-        return [{"id": k, "new": v} for k, v in result.items() if isinstance(v, str)]
-    return []
+    return parse_model_json(raw)
 
 
 def process_batch(args_tuple):
     (client, model, system_prompt, batch, idx, total, file_index,
-     radius, terms, retriever, rag_k, use_term_rag, st_model) = args_tuple
+     radius, terms, retriever, rag_k, use_term_rag, st_model, use_json_object) = args_tuple
     print(f"[send] batch {idx}/{total}  ({len(batch)} entries)")
     try:
         retrieved_map = retrieve_for_batch(batch, file_index, retriever, rag_k, radius, st_model)
@@ -203,16 +358,43 @@ def process_batch(args_tuple):
             retrieved_map=retrieved_map,
         )
         user_msg = json.dumps(payload, ensure_ascii=False, indent=2)
-        results = call_deepseek(client, model, system_prompt, user_msg)
+        results = call_chat(client, model, system_prompt, user_msg, use_json_object=use_json_object)
         return idx, batch, results, None
     except Exception as ex:
         return idx, batch, None, str(ex)
 
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--provider", default="deepseek")
+    ap = argparse.ArgumentParser(
+        description="Proofread all_entries.json with DeepSeek or an OpenAI-compatible relay (e.g. Gemini).",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=(
+            "Examples:\n"
+            "  python proofread_batch.py --provider deepseek --model deepseek-v4-pro --only story\n"
+            "  python proofread_batch.py --provider openai --model gemini-3.8-flash "
+            "--base-url https://api.laozhang.ai/v1 --api-key YOUR_KEY --only story\n"
+            "  OPENAI_API_KEY / OPENAI_BASE_URL can be used instead of --api-key / --base-url.\n"
+            "  --dry-run does not need an API key.\n"
+        ),
+    )
+    ap.add_argument(
+        "--provider",
+        default="deepseek",
+        help="deepseek (default), openai, or gemini. gemini uses an OpenAI-compatible relay, not the Google SDK.",
+    )
     ap.add_argument("--model", default="deepseek-chat")
+    ap.add_argument(
+        "--base-url",
+        default="",
+        help="OpenAI-compatible API base URL (overrides OPENAI_BASE_URL). "
+        "If the URL has no path, /v1 is appended. "
+        "Default: official DeepSeek when --provider deepseek.",
+    )
+    ap.add_argument(
+        "--api-key",
+        default="",
+        help="API key (overrides OPENAI_API_KEY / DEEPSEEK_API_KEY / GEMINI_API_KEY). Not required with --dry-run.",
+    )
     ap.add_argument("--batch-size", type=int, default=20)
     ap.add_argument("--workers", type=int, default=1, help="concurrent batches")
     ap.add_argument("--limit", type=int, default=0, help="max batches to process (0=all)")
@@ -242,6 +424,11 @@ def main():
     ap.add_argument("--no-sentence-rag", action="store_true", help="disable similar-sentence retrieval")
     ap.add_argument("--no-term-rag", action="store_true", help="disable term keyword retrieval")
     args = ap.parse_args()
+
+    provider = normalize_provider(args.provider)
+    if provider not in VALID_PROVIDERS:
+        print(f"ERROR: --provider must be one of: {', '.join(VALID_PROVIDERS)}")
+        sys.exit(1)
 
     entries_path = Path(args.entries)
     if not entries_path.exists():
@@ -303,7 +490,12 @@ def main():
     batches = [pending[i:i + args.batch_size] for i in range(0, len(pending), args.batch_size)]
     if args.limit:
         batches = batches[:args.limit]
-    print(f"{len(batches)} batch(es) of up to {args.batch_size}. workers={args.workers} model={args.model}")
+    base_url = resolve_base_url(provider, args.model, args.base_url)
+    use_json_object = should_use_json_object(provider, args.model, base_url)
+    print(
+        f"{len(batches)} batch(es) of up to {args.batch_size}. "
+        f"workers={args.workers} provider={provider} model={args.model}"
+    )
     print(f"Context: {radius} sentence(s) before and after each entry (same source_file).")
 
     if args.dry_run:
@@ -322,20 +514,29 @@ def main():
         print(json.dumps(sample, ensure_ascii=False, indent=2))
         return
 
-    if OpenAI is None:
-        print("Please install: pip install openai")
+    if needs_relay_base_url(provider, args.model, base_url):
+        print(
+            "ERROR: Gemini models need an OpenAI-compatible --base-url or OPENAI_BASE_URL "
+            "(for example https://api.laozhang.ai/v1)."
+        )
         sys.exit(1)
-    api_key = os.environ.get("DEEPSEEK_API_KEY") or os.environ.get("OPENAI_API_KEY")
+
+    api_key, key_source = resolve_api_key(provider, args.model, args.api_key)
     if not api_key:
-        print("ERROR: set DEEPSEEK_API_KEY environment variable")
+        print(
+            f"ERROR: set --api-key or the {key_source} environment variable. "
+            "OPENAI_API_KEY / DEEPSEEK_API_KEY / GEMINI_API_KEY are also accepted where relevant."
+        )
         sys.exit(1)
-    client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
+    client = make_client(api_key, base_url)
+    endpoint = base_url or "https://api.openai.com/v1"
+    print(f"API: {endpoint}  (key from {key_source})")
 
     polished = 0
     tasks = [
         (
             client, args.model, system_prompt, batch, i + 1, len(batches), file_index,
-            radius, terms, retriever, rag_k, use_term_rag, st_model,
+            radius, terms, retriever, rag_k, use_term_rag, st_model, use_json_object,
         )
         for i, batch in enumerate(batches)
     ]
