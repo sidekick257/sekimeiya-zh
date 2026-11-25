@@ -11254,7 +11254,7 @@
     {
       "id": "script_rpy_L002259_1_3ea588fb",
       "text": "I'm sure the Ashiya family will be glad to hear that. I'll tell them immediately. However, that is as expected, seeing as all that was stolen were a few gemstones of little value.",
-      "new": "Ashiya 家听到这个消息一定会安心。我这就去通知他们。不过，这也是意料之中的事——被偷走的只是几颗不值钱的宝石。",
+      "new": "芦屋家听到这个消息一定会安心。我这就去通知他们。不过，这也是意料之中的事——被偷走的只是几颗不值钱的宝石。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11262,7 +11262,7 @@
     {
       "id": "script_rpy_L002261_1_e0fb736d",
       "text": "Everyone had a hard time processing that last sentence. Meanwhile, Suripo looked to be sending a text message, most likely to Ashiya, assuring the well-being of the Sekimeiya.",
-      "new": "最后那句话，让所有人都一时没反应过来。与此同时，Suripo 似乎在发短信，多半是发给 Ashiya 家，告知 Sekimeiya 安然无恙。",
+      "new": "最后那句话，让所有人都一时没反应过来。与此同时，Suripo 似乎在发短信，多半是发给芦屋家，告知 Sekimeiya 安然无恙。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -11278,7 +11278,7 @@
     {
       "id": "script_rpy_L002265_1_1aab4a5c",
       "text": "Well, naturally, after the alarm went off, it took a while to confine everyone who had evacuated. A young individual carrying a black suitcase dashed off, so they were pulled aside. Inside it, we found various gemstones that belonged to Ashiya.",
-      "new": "这个嘛，警报响起之后，把疏散的人群全部控制住花了些时间。有个年轻人提着黑色手提箱想溜，被我们拦了下来。箱子里装的是 Ashiya 家的各种宝石。",
+      "new": "这个嘛，警报响起之后，把疏散的人群全部控制住花了些时间。有个年轻人提着黑色手提箱想溜，被我们拦了下来。箱子里装的是芦屋家的各种宝石。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11350,7 +11350,7 @@
     {
       "id": "script_rpy_L002289_1_71179662",
       "text": "Exactly. The Ashiya family and Xyn have a history together. Even though Ashiya are perceived as a major influence around here, when they attracted people interested in their business, they inevitably drew in competition and enemies too.",
-      "new": "正是。Ashiya 家和 Xyn 之间积怨已久。Ashiya 在这一带被视为极有势力的一方，可一旦有人盯上他们的生意，竞争者和仇敌也就不可避免地随之而来。",
+      "new": "正是。芦屋家和 Xyn 之间积怨已久。芦屋在这一带被视为极有势力的一方，可一旦有人盯上他们的生意，竞争者和仇敌也就不可避免地随之而来。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11358,7 +11358,7 @@
     {
       "id": "script_rpy_L002290_1_d3687aae",
       "text": "That's when Xyn started moving in. They're a long-running group that specializes in robberies of valuable objects, alongside similar criminal activities. When the Ashiya family became an established and wealthy entity, they also became a perfect target for Xyn. The fact they had developed in such a calm environment meant their security measures weren't adequate.",
-      "new": "Xyn 就是那时开始插手的。这是个活动多年的团伙，专门盗取贵重物品，也干其他类似的勾当。Ashiya 家一旦成了根基稳固的豪门，也就成了 Xyn 再合适不过的目标。他们是在这样安稳的环境里发展起来的，安保自然谈不上充分。",
+      "new": "Xyn 就是那时开始插手的。这是个活动多年的团伙，专门盗取贵重物品，也干其他类似的勾当。芦屋家一旦成了根基稳固的豪门，也就成了 Xyn 再合适不过的目标。他们是在这样安稳的环境里发展起来的，安保自然谈不上充分。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11374,7 +11374,7 @@
     {
       "id": "script_rpy_L002294_1_58bea562",
       "text": "While the Ashiya family might look like an almighty entity for Yushibana residents, they're not one at all in the bigger picture. This led to them focusing on expanding themselves before even foreseeing or trying to prevent these attacks, which have only been getting bolder.",
-      "new": "在丰花居民眼里，Ashiya 家或许无所不能，可放到更大的格局里，他们远没有那么强大。结果他们把心思都放在扩张上，连这些袭击都未能预见，更谈不上防范，而对方的行动也一次比一次大胆。",
+      "new": "在丰花居民眼里，芦屋家或许无所不能，可放到更大的格局里，他们远没有那么强大。结果他们把心思都放在扩张上，连这些袭击都未能预见，更谈不上防范，而对方的行动也一次比一次大胆。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11390,7 +11390,7 @@
     {
       "id": "script_rpy_L002296_1_93911ee8",
       "text": "However, since then, the attacks increased in both scale and frequency. I couldn't tell you how big this group calling itself Xyn really is, but they've been tormenting Ashiya for a while now.",
-      "new": "然而从那以后，袭击的规模和次数都在增加。自称 Xyn 的这个团伙究竟有多大，我说不准，但他们已经折腾 Ashiya 很久了。",
+      "new": "然而从那以后，袭击的规模和次数都在增加。自称 Xyn 的这个团伙究竟有多大，我说不准，但他们已经折腾芦屋很久了。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11406,7 +11406,7 @@
     {
       "id": "script_rpy_L002301_1_ce695c66",
       "text": "...{w}Had such a battle actually been happening in the town I'd always lived in? I'd purposely avoided anything to do with that aspect of Yushibana, but I hadn't heard of Xyn even once. I could vaguely recall hearing about Ashiya Tower being robbed, but I'd never imagined the situation was so large scale.{w} No one I frequently talked to had an interest in the topic, so if it was common knowledge, I'd never been told. Ashiya had always felt like a taboo, and I'd never personally researched them.",
-      "new": "……{w}这样的争斗，真的一直发生在我生活了这么多年的镇子上吗？关于丰花的这一面，我一向刻意回避，可即便如此，Xyn 这个名字我竟一次也没听过。芦屋塔遭劫的事，我隐约有些印象，却从没想过规模如此之大。{w}常和我来往的人里没人关心这类话题，所以就算这早已人尽皆知，也从来没人跟我提起。Ashiya 对我而言一直像个禁忌，我也从未主动去了解过他们。",
+      "new": "……{w}这样的争斗，真的一直发生在我生活了这么多年的镇子上吗？关于丰花的这一面，我一向刻意回避，可即便如此，Xyn 这个名字我竟一次也没听过。芦屋塔遭劫的事，我隐约有些印象，却从没想过规模如此之大。{w}常和我来往的人里没人关心这类话题，所以就算这早已人尽皆知，也从来没人跟我提起。芦屋对我而言一直像个禁忌，我也从未主动去了解过他们。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -11422,7 +11422,7 @@
     {
       "id": "script_rpy_L002307_1_3236fb88",
       "text": "Yes. On the 24th of November, 21 days ago, Xyn attacked again. Ignoring the latest security upgrades, they made their way in during the night and stole a lot of valuable gems. It was one of the worst blows Ashiya's taken.",
-      "new": "对。11 月 24 日，也就是 21 天前，Xyn 又一次动手。他们无视最新的安保升级，趁夜潜入，盗走了大量贵重宝石。那是 Ashiya 遭受过的最沉重的打击之一。",
+      "new": "对。11 月 24 日，也就是 21 天前，Xyn 又一次动手。他们无视最新的安保升级，趁夜潜入，盗走了大量贵重宝石。那是芦屋遭受过的最沉重的打击之一。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -11430,7 +11430,7 @@
     {
       "id": "script_rpy_L002308_1_9ef5ff25",
       "text": "Correct. Nothing actually indicates Xyn were the ones involved, and in fact, nothing ever does. However, the way everything goes smoothly and all of Ashiya's efforts are proven futile screams \"Xyn\" to everyone.",
-      "new": "没错。其实没有任何证据表明是 Xyn 干的，事实上从来都没有过。可每次行动都顺顺当当，Ashiya 的所有努力全成徒劳，任谁看了都只会觉得是 Xyn。",
+      "new": "没错。其实没有任何证据表明是 Xyn 干的，事实上从来都没有过。可每次行动都顺顺当当，芦屋的所有努力全成徒劳，任谁看了都只会觉得是 Xyn。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11438,7 +11438,7 @@
     {
       "id": "script_rpy_L002313_1_3fd48bfc",
       "text": "So this time, Ashiya took it a step further, right?",
-      "new": "所以这一次，Ashiya 又往前迈了一步，是吗？",
+      "new": "所以这一次，芦屋又往前迈了一步，是吗？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -11446,7 +11446,7 @@
     {
       "id": "script_rpy_L002314_1_ce48d610",
       "text": "Perhaps we'd all been thinking that. It looked like we had simply been caught in the middle of a rivalry, and Ashiya's latest move had imprisoned us.",
-      "new": "也许我们都是这么想的。看起来，我们只是被卷进了两方的争斗之中，而 Ashiya 最新的这步棋，反倒把我们关在了里面。",
+      "new": "也许我们都是这么想的。看起来，我们只是被卷进了两方的争斗之中，而芦屋最新的这步棋，反倒把我们关在了里面。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -11462,7 +11462,7 @@
     {
       "id": "script_rpy_L002320_1_b730bf26",
       "text": "What closed the exit was the alarm, which had never gone off in the past. While Ashiya are denying it, malfunctions are a possibility.{w} The alarm was supposed to only go off whenever the Sekimeiya cabinet was forced open. If stealing the gems we found was what triggered it, it doesn't make sense that they were brought outside. And on top of that, you're telling me the Sekimeiya and the cabinet are completely fine...",
-      "new": "封死出口的是警报，而这种警报过去从未响过。Ashiya 家否认存在故障，但也不能排除这种可能。{w}按设计，只有 Sekimeiya 的展示柜被强行打开时，警报才会响。如果真是因为偷走那些宝石才触发的警报，那宝石被带到外面就说不通了。更何况，你们还说 Sekimeiya 和展示柜都完好无损……",
+      "new": "封死出口的是警报，而这种警报过去从未响过。芦屋家否认存在故障，但也不能排除这种可能。{w}按设计，只有 Sekimeiya 的展示柜被强行打开时，警报才会响。如果真是因为偷走那些宝石才触发的警报，那宝石被带到外面就说不通了。更何况，你们还说 Sekimeiya 和展示柜都完好无损……",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11478,7 +11478,7 @@
     {
       "id": "script_rpy_L002322_1_c614d65f",
       "text": "I've been given authority to tell you about Ashiya's latest move against Xyn, which led to this incident.",
-      "new": "我已经获准向你们说明 Ashiya 为对付 Xyn 采取的最新举措——也正是这次事件的起因。",
+      "new": "我已经获准向你们说明芦屋为对付 Xyn 采取的最新举措——也正是这次事件的起因。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11510,7 +11510,7 @@
     {
       "id": "script_rpy_L002328_1_0cb2b19d",
       "text": "Since Xyn bypassed anything Ashiya did without an issue, they recently put their full effort into a way to eliminate the threat.",
-      "new": "既然 Ashiya 做的任何防备都被 Xyn 轻易绕过，他们最近便倾尽全力，想找出一个根除威胁的办法。",
+      "new": "既然芦屋做的任何防备都被 Xyn 轻易绕过，他们最近便倾尽全力，想找出一个根除威胁的办法。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11518,7 +11518,7 @@
     {
       "id": "script_rpy_L002329_1_c05a1bb8",
       "text": "The Sekimeiya exhibition... was no more than bait they put out to lure in Xyn. That, and the alarm they secretly designed, were the main two factors of their plan.{w} The tower is equipped with cameras and security. However, Ashiya hoped Xyn wouldn't anticipate such an abrupt jump in their measures.",
-      "new": "Sekimeiya 的展览……不过是他们放出的诱饵，用来引 Xyn 上钩。这场展览，加上他们暗中设计的警报，就是整个计划的两大支柱。{w}塔内装有监控和安保人员。不过 Ashiya 希望 Xyn 料想不到他们的手段会如此突然地加强。",
+      "new": "Sekimeiya 的展览……不过是他们放出的诱饵，用来引 Xyn 上钩。这场展览，加上他们暗中设计的警报，就是整个计划的两大支柱。{w}塔内装有监控和安保人员。不过芦屋希望 Xyn 料想不到他们的手段会如此突然地加强。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11526,7 +11526,7 @@
     {
       "id": "script_rpy_L002330_1_c64b12d3",
       "text": "There was so much advertising done for this particular showing that everyone in town bought into it. That was the goal. But, on the side, Ashiya secretly designed the alarm.",
-      "new": "这次展出宣传得铺天盖地，镇上的人全被吸引来了——这正是他们的目的。不过与此同时，Ashiya 还暗中设计了那套警报。",
+      "new": "这次展出宣传得铺天盖地，镇上的人全被吸引来了——这正是他们的目的。不过与此同时，芦屋还暗中设计了那套警报。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -11638,7 +11638,7 @@
     {
       "id": "script_rpy_L002363_1_16df1427",
       "text": "Once it was all over, the security staff would be able to unlock the exit before twelve hours had passed. To ultimately ensure nothing funny occurred, that request would have to be approved by the Ashiya family themselves. Only then would the exit be opened before the maximum time.",
-      "new": "等一切结束，保安人员就能在十二个小时之内解除出口的封锁。为了确保不出岔子，这个请求必须由 Ashiya 家的人亲自批准。只有得到批准，出口才会提前打开。",
+      "new": "等一切结束，保安人员就能在十二个小时之内解除出口的封锁。为了确保不出岔子，这个请求必须由芦屋家的人亲自批准。只有得到批准，出口才会提前打开。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"
@@ -13046,7 +13046,7 @@
     {
       "id": "script_rpy_L002920_1_918de076",
       "text": "\"I guarantee you that everything he's said has been a lie. Don't trust anything he says.\"",
-      "new": "我可以打包票，他说的话全是假的。一个字都别信。",
+      "new": "「我可以打包票，他说的话全是假的。一个字都别信。」",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -13822,7 +13822,7 @@
     {
       "id": "script_rpy_L003256_1_7d51225b",
       "text": "\"I guarantee you that everything he's said has been a lie. Don't trust anything he says.\"",
-      "new": "「我向你保证，他说的一切都是谎话。别信他说的任何一句。」",
+      "new": "「我可以打包票，他说的话全是假的。一个字都别信。」",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -13990,7 +13990,7 @@
     {
       "id": "script_rpy_L003299_1_0832374f",
       "text": "And... it is very possible his authority as a security member has been revoked. The timing was too precise to be a coincidence. It could be that Ashiya and the police figured something out about him and removed his privilege as a security member. However, they'd know that doing so would also prevent us from contacting them again, so they must've had a very good reason.",
-      "new": "还有……他作为安保人员的权限，很可能已经被取消了。时机太巧，不像是偶然。也许是 Ashiya 和警方查出了他的什么问题，才剥夺了他安保成员的特权。不过他们应该清楚，这么做同时也等于让我们再也联系不上他们——所以他们必然有充分的理由。",
+      "new": "还有……他作为安保人员的权限，很可能已经被取消了。时机太巧，不像是偶然。也许是芦屋和警方查出了他的什么问题，才剥夺了他安保成员的特权。不过他们应该清楚，这么做同时也等于让我们再也联系不上他们——所以他们必然有充分的理由。",
       "speaker": "n",
       "source_file": "script.rpy",
       "group": "story"
@@ -15838,7 +15838,7 @@
     {
       "id": "script_rpy_L004092_1_8e542523",
       "text": "You're right... I'd forgotten about that, but it still sounds very weird to me. What do these gems have to do with anything? It sounded like Ashiya have already assumed those gems were the target, which feels off considering nobody even knows how they were brought outside.",
-      "new": "你说得对……我都忘了这回事，不过我还是觉得很奇怪。那些宝石和整件事到底有什么关系？听上去 Ashiya 已经认定宝石就是目标，可没人知道它们是怎么被带出去的，这一点实在说不通。",
+      "new": "你说得对……我都忘了这回事，不过我还是觉得很奇怪。那些宝石和整件事到底有什么关系？听上去芦屋已经认定宝石就是目标，可没人知道它们是怎么被带出去的，这一点实在说不通。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -15854,7 +15854,7 @@
     {
       "id": "script_rpy_L004102_1_5dad6f71",
       "text": "I agree. If this supposed theft is over or already failed, it could be that some kind of trick was used to get the gems outside and make Ashiya think they were the goal. Once their guard is lowered, steal the actual target: the Sekimeiya.",
-      "new": "我同意。如果这场所谓的失窃已经结束，或者本来就失败了，那也许是有人用了某种手法，把宝石弄到外面，让 Ashiya 以为宝石才是目标。等他们放松警惕，再偷走真正的目标——Sekimeiya。",
+      "new": "我同意。如果这场所谓的失窃已经结束，或者本来就失败了，那也许是有人用了某种手法，把宝石弄到外面，让芦屋以为宝石才是目标。等他们放松警惕，再偷走真正的目标——Sekimeiya。",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -16614,7 +16614,7 @@
     {
       "id": "script_rpy_L004380_1_2d8e5125",
       "text": "But what I think he did was change his own perspective. I'm telling you this in case you think I'm missing something, but I think all he did was merge his version with what Suripo told us to form an accurate story and pass it off as something Ashiya told him.",
-      "new": "但我认为，他只是换了个角度。我提前说明，是怕你觉得我漏掉了什么——我觉得他做的只是把自己的说法和 Suripo 告诉我们的内容拼在一起，凑成一个准确的故事，然后说成是 Ashiya 告诉他的。",
+      "new": "但我认为，他只是换了个角度。我提前说明，是怕你觉得我漏掉了什么——我觉得他做的只是把自己的说法和 Suripo 告诉我们的内容拼在一起，凑成一个准确的故事，然后说成是芦屋告诉他的。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -16702,7 +16702,7 @@
     {
       "id": "script_rpy_L004403_1_e4132ece",
       "text": "The person claiming to be called Katei found the Sekimeiya a couple weeks ago. He contacted the Ashiya family, and given their interest, they bought it from him.",
-      "new": "那个自称 Katei 的人，在两三周前发现了 Sekimeiya。他联系了 Ashiya 家，对方正有兴趣，便从他手里买下了。",
+      "new": "那个自称 Katei 的人，在两三周前发现了 Sekimeiya。他联系了芦屋家，对方正有兴趣，便从他手里买下了。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -16710,7 +16710,7 @@
     {
       "id": "script_rpy_L004404_1_44976d05",
       "text": "At no point did he expect they'd set up so much advertisement for his own find. It's possible Ashiya said things that were wrong only to draw people in, and perhaps not being credited with the discovery bothered him.",
-      "new": "他万万没想到，他们会为他发现的这东西大张旗鼓地宣传。Ashiya 说不定故意说了些不实之词来招揽人群；而发现者的名分没落到自己头上，或许也让他心里不快。",
+      "new": "他万万没想到，他们会为他发现的这东西大张旗鼓地宣传。芦屋说不定故意说了些不实之词来招揽人群；而发现者的名分没落到自己头上，或许也让他心里不快。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -16790,7 +16790,7 @@
     {
       "id": "script_rpy_L004426_1_48ef992f",
       "text": "I don't know why he let us talk to the outside, but it's possible he had something to gain from that. Maybe he wanted everyone outside to think that Katei Kuiji really is in the tower and that everything here is going well.{w} Maybe he wanted to make sure the bait gemstones worked and tricked Ashiya. This is so messy that it almost feels unrelated to what he did, but that can't be it.",
-      "new": "我不知道他为什么让我们和外界通话，但也许他能从中得到什么好处。也许他想让外面的人都相信 Katei Kuiji 确实在塔里，这里一切顺利。{w} 也许他想确认那些诱饵宝石起了作用，骗过了 Ashiya。整件事太乱了，简直像跟他做的事无关，但不可能只是这样。",
+      "new": "我不知道他为什么让我们和外界通话，但也许他能从中得到什么好处。也许他想让外面的人都相信 Katei Kuiji 确实在塔里，这里一切顺利。{w} 也许他想确认那些诱饵宝石起了作用，骗过了芦屋。整件事太乱了，简直像跟他做的事无关，但不可能只是这样。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -16934,7 +16934,7 @@
     {
       "id": "script_rpy_L004477_1_4fd31262",
       "text": "Of course, I can rule myself and Shiroya out. We've come here innocently and never expected anything like this to happen. Shiroya and I have spent our entire lives together, and I know she'd never think of doing such a thing, not even with her being less than fond of Ashiya.",
-      "new": "当然，我和 Shiroya 可以排除。我们来这里问心无愧，从没料到会发生这种事。Shiroya 和我从小到大都在一起，我知道她绝不会动这种念头——哪怕她对 Ashiya 没什么好感。",
+      "new": "当然，我和 Shiroya 可以排除。我们来这里问心无愧，从没料到会发生这种事。Shiroya 和我从小到大都在一起，我知道她绝不会动这种念头——哪怕她对芦屋没什么好感。",
       "speaker": "n",
       "source_file": "script.rpy",
       "group": "story"
@@ -17214,7 +17214,7 @@
     {
       "id": "script_rpy_L004579_1_1979cb4e",
       "text": "That program hidden deep within the computer's folders could've been another factor of this plan designed by Xyn. They knew Ashiya were working on a mechanism to defeat them, so they created this plan to keep their superiority. Assuming part of what he told us was the truth.",
-      "new": "藏在电脑文件夹深处的那段程序，也许就是 Xyn 设计的这个计划里的另一环。他们知道 Ashiya 正在研制对付他们的手段，于是布下这个计划来保住优势。前提是他告诉我们的话里有一部分是真的。",
+      "new": "藏在电脑文件夹深处的那段程序，也许就是 Xyn 设计的这个计划里的另一环。他们知道芦屋正在研制对付他们的手段，于是布下这个计划来保住优势。前提是他告诉我们的话里有一部分是真的。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -17238,7 +17238,7 @@
     {
       "id": "script_rpy_L004584_1_3a36074b",
       "text": "And after he was done, the power conveniently went out. Not only that, but Katei was unable to contact him again. How believable is that, really? Did the Ashiya family really revoke his authority, knowing they'd leave us incommunicado for twelve hours?",
-      "new": "而且他说完话，电就恰好断了。不止如此，Katei 还再也联系不上他。这种事真有那么可信吗？Ashiya 家真的会在明知会让我们失联十二小时的情况下，撤掉他的权限？",
+      "new": "而且他说完话，电就恰好断了。不止如此，Katei 还再也联系不上他。这种事真有那么可信吗？芦屋家真的会在明知会让我们失联十二小时的情况下，撤掉他的权限？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -17278,7 +17278,7 @@
     {
       "id": "script_rpy_L004597_1_173b5a12",
       "text": "I suppose so, but if this is an ongoing plan, they won't make it obvious. If they're trying to trick the Ashiya family, we might get tricked too. I'm just not going to get fooled so easily.",
-      "new": "话是这么说，可如果这个计划还在继续，他们不会做得那么明显。他们要是想骗 Ashiya 家，我们说不定也会被骗。只不过我没那么容易被糊弄。",
+      "new": "话是这么说，可如果这个计划还在继续，他们不会做得那么明显。他们要是想骗芦屋家，我们说不定也会被骗。只不过我没那么容易被糊弄。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -17302,7 +17302,7 @@
     {
       "id": "script_rpy_L004605_1_e8f45475",
       "text": "In our situation, there was no reason for us to be in danger. It was something between Ashiya and Xyn, and we'd just been caught up in the middle of it. Letting everything happen without giving our own input to strangers seemed like the smarter course of action.",
-      "new": "以我们的处境，根本没有理由让自己陷入危险。这是 Ashiya 和 Xyn 之间的事，我们只是被卷了进来。顺其自然，不主动跟陌生人说什么，似乎是更明智的做法。",
+      "new": "以我们的处境，根本没有理由让自己陷入危险。这是芦屋和 Xyn 之间的事，我们只是被卷了进来。顺其自然，不主动跟陌生人说什么，似乎是更明智的做法。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -17326,7 +17326,7 @@
     {
       "id": "script_rpy_L004610_1_2b884287",
       "text": "The first thing he'd said was that Ashiya instructed the police to talk to us, but he'd never proven that at all. It hadn't sounded all that strange, but instead of telling the police what to let us know, Ashiya could've said everything directly.",
-      "new": "他开口第一句就说，是 Ashiya 让警方来跟我们通话的，可这一点他从未证实过。这话听着倒也不算太奇怪，但 Ashiya 与其让警方转告我们，本可以直接把一切告诉我们。",
+      "new": "他开口第一句就说，是芦屋让警方来跟我们通话的，可这一点他从未证实过。这话听着倒也不算太奇怪，但芦屋与其让警方转告我们，本可以直接把一切告诉我们。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -17334,7 +17334,7 @@
     {
       "id": "script_rpy_L004611_1_0c8c4142",
       "text": "Suripo also said that Ashiya told them about the communication method. Initially, the other side should've been picked up by Ashiya, who'd supposedly passed it off to the police...",
-      "new": "Suripo 还说，通信方式也是 Ashiya 告诉他们的。最初本该是 Ashiya 接到另一头的信号，然后他又把它转交给了警方……",
+      "new": "Suripo 还说，通信方式也是芦屋告诉他们的。最初本该是芦屋接到另一头的信号，然后他又把它转交给了警方……",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -19334,7 +19334,7 @@
     {
       "id": "script_rpy_L005516_1_4d899ee3",
       "text": "What? No, please don't think about that. There are no tools to do it with, the lockers are quite sturdy, and I'm sure Ashiya would not be happy about it.",
-      "new": "什么？不行，请别打这个主意。这里没有能用的工具，柜子也很结实，而且我敢肯定 Ashiya 不会乐意看到这种事。",
+      "new": "什么？不行，请别打这个主意。这里没有能用的工具，柜子也很结实，而且我敢肯定芦屋不会乐意看到这种事。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -19470,7 +19470,7 @@
     {
       "id": "script_rpy_L005592_1_62ad31c4",
       "text": "When the structure of the building was first expanded, it served the purpose of containing many offices that worked for Ashiya. This was before they thought of using the lowest floor as a sort of museum.",
-      "new": "这栋楼最初扩建时，就是为了容纳许多为 Ashiya 服务的办公部门。那时他们还没想到把最底层改成类似博物馆的地方。",
+      "new": "这栋楼最初扩建时，就是为了容纳许多为芦屋服务的办公部门。那时他们还没想到把最底层改成类似博物馆的地方。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -19478,7 +19478,7 @@
     {
       "id": "script_rpy_L005597_1_35545778",
       "text": "That was the case for a while, until the perception people had of this place shifted to what it is now: the single remaining entity of Ashiya in Yushibana and a tourist attraction point.",
-      "new": "这种情况持续了一段时间，直到人们对这里的印象逐渐变成了如今的模样：Ashiya 在丰花唯一留存的设施，也是一处旅游景点。",
+      "new": "这种情况持续了一段时间，直到人们对这里的印象逐渐变成了如今的模样：芦屋在丰花唯一留存的设施，也是一处旅游景点。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -19486,7 +19486,7 @@
     {
       "id": "script_rpy_L005598_1_319d6e77",
       "text": "Nowadays, not many people who work in the offices remain, and they closed entirely just this December. Ashiya doesn't make much use of them anymore, so they might disappear and be reworked eventually.",
-      "new": "如今在办公室工作的人已经不多，而且这些办公室今年十二月刚刚全部关闭。Ashiya 已经不怎么使用它们，所以它们说不定迟早会被撤掉、重新改造。",
+      "new": "如今在办公室工作的人已经不多，而且这些办公室今年十二月刚刚全部关闭。芦屋已经不怎么使用它们，所以它们说不定迟早会被撤掉、重新改造。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -19494,7 +19494,7 @@
     {
       "id": "script_rpy_L005599_1_1bd143bc",
       "text": "The seventh floor is the Ashiya floor, also called the attic. I explained that one earlier.",
-      "new": "七楼是 Ashiya 层，也叫阁楼。那一层我之前解释过了。",
+      "new": "七楼是芦屋层，也叫阁楼。那一层我之前解释过了。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -19510,7 +19510,7 @@
     {
       "id": "script_rpy_L005609_1_1f9aff59",
       "text": "There's no way. As I said, I've never entered it, and only a handful of people who remain here have. Ashiya are very fond of it since it's where they once lived, or at least that's what they claim. Regardless of the reason, they want to preserve it well.",
-      "new": "不行。我说过了，我从没进去过，留在这里的人里也只有少数几个进去过。Ashiya 非常珍视那里，因为那里曾是他们的住处——至少他们是这么说的。不管出于什么原因，他们都想把它妥善保存下来。",
+      "new": "不行。我说过了，我从没进去过，留在这里的人里也只有少数几个进去过。芦屋非常珍视那里，因为那里曾是他们的住处——至少他们是这么说的。不管出于什么原因，他们都想把它妥善保存下来。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -32974,7 +32974,7 @@
     {
       "id": "script_rpy_L011762_1_e5be1b74",
       "text": "We might. I'm advising you all not to keep going.{w} It's a restricted area, and I doubt Ashiya will be understanding even if our circumstances require this.",
-      "new": "也许会。我是在劝你们别再往前了。{w} 那是禁区，就算我们是迫不得已，恐怕 Ashiya 也不会通融。",
+      "new": "也许会。我是在劝你们别再往前了。{w} 那是禁区，就算我们是迫不得已，恐怕芦屋也不会通融。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -33710,7 +33710,7 @@
     {
       "id": "script_rpy_L012105_1_e0363419",
       "text": "Another bedroom like this one. These were used as double rooms back in the day, so Ashiya specified that the higher ones shouldn't be demolished.",
-      "new": "和这间一样的另一间卧室。当年这里是双人房，所以 Ashiya 特别交代过，楼上那几间不能拆。",
+      "new": "和这间一样的另一间卧室。当年这里是双人房，所以芦屋特别交代过，楼上那几间不能拆。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -35302,7 +35302,7 @@
     {
       "id": "script_rpy_L012891_1_0e28da3a",
       "text": "I don't get it. What the hell happened? Did Ashiya just abandon their own building with us inside...? And we thought we'd be free after twelve hours...",
-      "new": "我不明白。到底出了什么事？Ashiya 就这么把自己楼里的人丢下不管了……？我们还以为熬过十二小时就能出去……",
+      "new": "我不明白。到底出了什么事？芦屋就这么把自己楼里的人丢下不管了……？我们还以为熬过十二小时就能出去……",
       "speaker": "ak2",
       "source_file": "script.rpy",
       "group": "story"
@@ -40198,7 +40198,7 @@
     {
       "id": "script_rpy_L014742_1_50b64226",
       "text": "I really don't get what happened, but I'm glad I won't have to get rid of it. I'll make sure to thank Ashiya for the new battery too.",
-      "new": "我还是搞不懂到底怎么回事，不过不用把它丢掉就好。新电池的事，也得好好谢谢 Ashiya。",
+      "new": "我还是搞不懂到底怎么回事，不过不用把它丢掉就好。新电池的事，也得好好谢谢芦屋。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -41750,7 +41750,7 @@
     {
       "id": "script_rpy_L015335_1_0701df29",
       "text": "At one point earlier, two copies of the Sekimeiya might've existed at once. I'm not sure how that came to happen, but by hiding only one, you could lead Ashiya to believe the Sekimeiya hadn't been stolen while keeping the other one hidden to retrieve it later.",
-      "new": "先前有一段时间，可能同时存在过两件 Sekimeiya。我不清楚这是怎么发生的，但你只要藏起其中一件，就能让 Ashiya 以为 Sekimeiya 没被偷走，同时把另一件藏好，日后再取回。",
+      "new": "先前有一段时间，可能同时存在过两件 Sekimeiya。我不清楚这是怎么发生的，但你只要藏起其中一件，就能让芦屋以为 Sekimeiya 没被偷走，同时把另一件藏好，日后再取回。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -41878,7 +41878,7 @@
     {
       "id": "script_rpy_L015402_1_1d5b5182",
       "text": "...Atsuki, be aware that if this is your doing, Ashiya will figure it out.",
-      "new": "……Atsuki，你最好明白，如果这是你干的，Ashiya 迟早会查出来。",
+      "new": "……Atsuki，你最好明白，如果这是你干的，芦屋迟早会查出来。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -59510,7 +59510,7 @@
     {
       "id": "script_rpy_L022629_1_59e58998",
       "text": "The world froze.{w} However, strangely, movement was still within.",
-      "new": "世界静止了。{w}然而奇怪的是，静止之中仍有动静。",
+      "new": "世界静止了。{w} 然而奇怪的是，静止之中仍有东西在动。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -59518,7 +59518,7 @@
     {
       "id": "script_rpy_L022633_1_532dfe1e",
       "text": "Atsuki and Shiroya lived in a delicate universe. A single modification could collapse the complex structure they were climbing.",
-      "new": "Atsuki和Shiroya生活在一个精密的宇宙里。只需一处改动，他们正在攀爬的复杂结构就可能崩塌。",
+      "new": "Atsuki 和 Shiroya 身处一个脆弱的宇宙。哪怕只改动一处，也可能让他们正在攀爬的复杂结构彻底崩塌。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -59526,7 +59526,7 @@
     {
       "id": "script_rpy_L022634_1_abc19636",
       "text": "...However, the structure could be partially frozen and then changed.",
-      "new": "……不过，那结构可以先冻结一部分，然后再改变。",
+      "new": "……不过，只要先让结构的一部分冻结，再加以改动，便仍有可为。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -59542,7 +59542,7 @@
     {
       "id": "script_rpy_L022636_1_fc166e61",
       "text": "Rules have to be bent abstractly—the flow must stop. Only that will allow an impossibility.",
-      "new": "规则必须从抽象层面扭曲——流动必须停下。唯有如此，才容得下不可能之事。",
+      "new": "必须抽象地扭曲规则——让流动停下来。唯有如此，才容得下一件不可能之事。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -67814,7 +67814,7 @@
     {
       "id": "script_rpy_L025759_1_4ff3828b",
       "text": "\"I need to say it. I've always wanted to, and I can't believe I never will. I love you.\"",
-      "new": "「这句话我必须说出口。我一直都想说，却不敢相信自己再也没有机会。我爱你。」",
+      "new": "「我必须说出来。{w}我一直都想说，怎么也想不到竟会再没有机会。{w}我爱你。」",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -74862,7 +74862,7 @@
     {
       "id": "script_rpy_L028475_1_bfa64201",
       "text": "No sound was coming through the shutter, but many people were surely on the other side of it. Police, Ashiya, and even townspeople. As soon as they saw Erina's bloody clothes, they would begin to understand what we had gone through.",
-      "new": "卷帘门那边没有传来任何声响，但门外一定挤着不少人。警察、Ashiya，甚至镇上的居民。只要他们看到 Erina 那身血衣，就会渐渐明白我们经历了什么。",
+      "new": "卷帘门那边没有传来任何声响，但门外一定挤着不少人。警察、芦屋，甚至镇上的居民。只要他们看到 Erina 那身血衣，就会渐渐明白我们经历了什么。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -78766,7 +78766,7 @@
     {
       "id": "script_rpy_L029853_1_f12af60c",
       "text": "See what I told you two? He already believes Xyn are behind this. That could very well be Ashiya's intention.",
-      "new": "看吧，我不是跟你们俩说过吗？他已经认定这事是 Xyn 干的。这说不定正是 Ashiya 的用意。",
+      "new": "看吧，我不是跟你们俩说过吗？他已经认定这事是 Xyn 干的。这说不定正是芦屋的用意。",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -79118,7 +79118,7 @@
     {
       "id": "script_rpy_L030056_1_7513da14",
       "text": "...There's a reason why I believe Naomi hid upstairs if she's part of this, like I suspect. Above us are five desolate floors full of offices. However, there's a seventh floor that we call the attic, or the Ashiya floor.",
-      "new": "……我怀疑 Naomi 也牵涉其中，而她若真牵涉其中，我认为她藏在楼上是有原因的。我们头顶上有五层空荡荡的楼层，全是办公室。不过还有第七层，我们称之为阁楼，也叫 Ashiya 层。",
+      "new": "……我怀疑 Naomi 也牵涉其中，而她若真牵涉其中，我认为她藏在楼上是有原因的。我们头顶上有五层空荡荡的楼层，全是办公室。不过还有第七层，我们称之为阁楼，也叫芦屋层。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -92374,7 +92374,7 @@
     {
       "id": "script_rpy_L036447_1_8c0f049a",
       "text": "Without hesitation, Ashiya released a public statement.",
-      "new": "Ashiya 毫不犹豫地发布了公开声明。",
+      "new": "芦屋毫不犹豫地发布了公开声明。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -92398,7 +92398,7 @@
     {
       "id": "script_rpy_L036457_1_a26f46a9",
       "text": "Ashiya are lying. They do not have the Sekimeiya. We do.",
-      "new": "Ashiya 在撒谎。Sekimeiya 不在他们手上，在我们手上。",
+      "new": "芦屋在撒谎。Sekimeiya 不在他们手上，在我们手上。",
       "speaker": "c5",
       "source_file": "script.rpy",
       "group": "story"
@@ -92422,7 +92422,7 @@
     {
       "id": "script_rpy_L036460_1_9bc549af",
       "text": "The general consensus of the appearance is right: pure white and shaped like an egg. However, notice that Ashiya haven't shown the Sekimeiya since the incident. Why do you think they haven't?",
-      "new": "对它的外形，公认的说法并没有错：通体纯白，形状如蛋。不过请注意，自那次事件以后，Ashiya 就再没展示过 Sekimeiya。各位想想，他们为什么不展示？",
+      "new": "对它的外形，公认的说法并没有错：通体纯白，形状如蛋。不过请注意，自那次事件以后，芦屋就再没展示过 Sekimeiya。各位想想，他们为什么不展示？",
       "speaker": "c5",
       "source_file": "script.rpy",
       "group": "story"
@@ -92430,7 +92430,7 @@
     {
       "id": "script_rpy_L036462_1_888f583b",
       "text": "It was a very fair question, which led everyone to be certain that, once again, Xyn had outsmarted Ashiya.",
-      "new": "这个问题问得很有道理，众人因此更加确信：Xyn 又一次棋高一着，把 Ashiya 压了下去。",
+      "new": "这个问题问得很有道理，众人因此更加确信：Xyn 又一次棋高一着，把芦屋压了下去。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -92454,7 +92454,7 @@
     {
       "id": "script_rpy_L036469_1_5f3aec2d",
       "text": "Weeks had gone by. Petitions to show the Sekimeiya bombarded Ashiya, but reaching Xyn wasn't as simple. Yet, after the initial statements, neither party had proven their ownership of the Sekimeiya.",
-      "new": "几周过去。要求展示 Sekimeiya 的呼声铺天盖地地涌向 Ashiya，可要联系上 Xyn 却没那么容易。而自最初的声明之后，双方都没能证明自己拥有 Sekimeiya。",
+      "new": "几周过去。要求展示 Sekimeiya 的呼声铺天盖地地涌向芦屋，可要联系上 Xyn 却没那么容易。而自最初的声明之后，双方都没能证明自己拥有 Sekimeiya。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -92462,7 +92462,7 @@
     {
       "id": "script_rpy_L036470_1_bb24fa54",
       "text": "And, from one point onward, the Sekimeiya had become a myth. Neither Ashiya nor Xyn spoke again about the incredibly valuable gemstone they'd once claimed to possess.",
-      "new": "而从某一刻起，Sekimeiya 成了一个传说。无论 Ashiya 还是 Xyn，都不再提起那颗他们曾声称拥有的无价宝石。",
+      "new": "而从某一刻起，Sekimeiya 成了一个传说。无论芦屋还是 Xyn，都不再提起那颗他们曾声称拥有的无价宝石。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -99990,7 +99990,7 @@
     {
       "id": "script_rpy_L040188_1_31768e52",
       "text": "I had no sense of space, but it wasn't unpleasant. It couldn't be too late in the day either—it was likely Atsuki or someone would come get me before the deadline, and Katei probably wouldn't be a fan of Ashiya entering the tower and finding someone sleeping in the attic.",
-      "new": "我分不清方位，却并不觉得难受。时间应该也不算太晚——Atsuki 或别人多半会在期限前就来接我；而要是 Ashiya 进了塔，发现有人睡在阁楼里，Katei 大概不会乐意。",
+      "new": "我分不清方位，却并不觉得难受。时间应该也不算太晚——Atsuki 或别人多半会在期限前就来接我；而要是芦屋进了塔，发现有人睡在阁楼里，Katei 大概不会乐意。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -101398,7 +101398,7 @@
     {
       "id": "script_rpy_L040761_1_87290100",
       "text": "Who the hell are you? Or even you... How can you two exist!?",
-      "new": "你他妈到底是谁？还有你……你们两个怎么可能同时存在！？",
+      "new": "你到底是什么人？还有你……你们俩怎么可能存在！？",
       "speaker": "a4",
       "source_file": "script.rpy",
       "group": "story"
@@ -101462,7 +101462,7 @@
     {
       "id": "script_rpy_L040771_1_44c199e3",
       "text": "I'm not sure... I remember I was drawn to this room, and then I think I blacked out.",
-      "new": "我不太确定……我记得自己被这个房间吸引，然后好像就昏过去了。",
+      "new": "我也说不清……我记得自己像是被什么引到了这个房间，然后就没了意识。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -101502,7 +101502,7 @@
     {
       "id": "script_rpy_L040776_1_e5a50ce7",
       "text": "Wh-What's with those clothes, then? Why is the cross not on them? Why did you ignore me when we saw each other in the event room and when I kept shouting your name?",
-      "new": "那、那这身衣服是怎么回事？为什么上面没有十字架？在活动室碰面的时候，还有我一路喊你名字的时候，你为什么都不理我？",
+      "new": "那、那你这身衣服又是怎么回事？为什么上面没有十字？在活动室碰面的时候，还有我拼命喊你名字的时候，你为什么都不理我？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -101558,7 +101558,7 @@
     {
       "id": "script_rpy_L040786_1_8e31a09b",
       "text": "Um...{w} I guess it couldn't have been anyone else.{w} ...It must have been Shiroya.",
-      "new": "那个……{w}除了她，我想不到别人。{w}……一定是 Shiroya。",
+      "new": "嗯……{w}我想那也不可能是别人。{w}……一定是 Shiroya。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -101574,7 +101574,7 @@
     {
       "id": "script_rpy_L040789_1_b85ee59f",
       "text": "That's not it at all... Remember that Sai and Akaro took the cabinet key. They probably have the Sekimeiya.",
-      "new": "根本不是这么回事……你忘了，展示柜的钥匙是 Sai 和 Akaro 拿走的。Sekimeiya 多半在他们手上。",
+      "new": "根本不是这样……你忘了，展示柜的钥匙是 Sai 和 Akaro 拿走的。Sekimeiya 多半在他们手上。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -101750,7 +101750,7 @@
     {
       "id": "script_rpy_L040839_1_95911ed5",
       "text": "You don't know her, right? I... I knew I wasn't going insane.",
-      "new": "你们不认识她，对吧？我……我就知道，不是我的幻觉。",
+      "new": "你们不认识她吧？我……我就知道我没疯。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -101774,7 +101774,7 @@
     {
       "id": "script_rpy_L040843_1_43cd9468",
       "text": "She's the person I was with earlier, before I saw you two... It just came back to me. I don't know where she went, though.",
-      "new": "刚才——在遇见你们俩之前，我一直和她在一起……我这才想起来。不过她后来去了哪儿，我不知道。",
+      "new": "她就是刚才和我在一起的人，在我看见你们俩之前……我刚刚才想起来。不过我不知道她去了哪里。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -101814,7 +101814,7 @@
     {
       "id": "script_rpy_L040848_1_25508348",
       "text": "...We do, but Erina couldn't have seen her. She couldn't be here.",
-      "new": "……我们认识。可 Erina 不可能见过她。她不可能在这里。",
+      "new": "……认识。可 Erina 不可能见到她。她不可能在这里。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -101878,7 +101878,7 @@
     {
       "id": "script_rpy_L040859_1_f3b26e80",
       "text": "Sai, shut the fuck up. If it was, I promise you that we would've done it.",
-      "new": "Sai，给我闭上嘴。如果真能那样，我保证我们早就做了。",
+      "new": "Sai，你他妈给我闭嘴。要是能救，我保证我们早就做了。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -101982,7 +101982,7 @@
     {
       "id": "script_rpy_L040881_1_cf272489",
       "text": "Why didn't it work!? Did Sai disappear?{w} Was everything that he said a lie...?",
-      "new": "为什么没有用！？Sai 消失了？{w} 他说的那些难道全是谎话……？",
+      "new": "为什么没有生效！？Sai 消失了吗？{w} 难道他说的一切都是谎话……？",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -102006,7 +102006,7 @@
     {
       "id": "script_rpy_L040884_1_37b491b8",
       "text": "You're wrong. We don't know how the Sekimeiya works, but this shouldn't have happened...",
-      "new": "你弄错了。我们虽然不清楚 Sekimeiya 的运作原理，但这种事本不该发生……",
+      "new": "你错了。我们确实不知道 Sekimeiya 的原理，但这种事本不该发生……",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -102086,7 +102086,7 @@
     {
       "id": "script_rpy_L040898_1_0c39f025",
       "text": "Exactly what Sai and I told you. I don't know why it didn't work just now.",
-      "new": "就是我和 Sai 告诉你的那些。刚才为什么没成，我也不知道。",
+      "new": "就像我和 Sai 告诉你的那样。刚才为什么没生效，我也不知道。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -107662,7 +107662,7 @@
     {
       "id": "script_rpy_L043134_1_d45ef544",
       "text": "One of them had been given that key after pressuring Ashiya. Once the highest level of the tower was unlocked, they rushed inside.",
-      "new": "其中一人向 Ashiya 施压，才拿到了那把钥匙。塔顶层的门一开，他们便冲了进去。",
+      "new": "其中一人向芦屋施压，才拿到了那把钥匙。塔顶层的门一开，他们便冲了进去。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -108662,7 +108662,7 @@
     {
       "id": "script_rpy_L043499_1_05ede000",
       "text": "...No, of course not.{w} I'm seriously glad we're here. I mean it.",
-      "new": "……不，当然不后悔。{w} 我真的很庆幸我们来了。我说真的。",
+      "new": "……不，当然不后悔。{w}能来这里，我真的很高兴。我是认真的。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112390,7 +112390,7 @@
     {
       "id": "script_rpy_L044849_1_654b181c",
       "text": "Me? That's funny. I locked you in, but the key's in the keyhole, right?",
-      "new": "我？真是好笑。就算是我把你锁进去的，钥匙不还插在锁孔上吗？",
+      "new": "我？真有意思。是我把你锁进去的——可钥匙不就插在锁孔里吗？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112398,7 +112398,7 @@
     {
       "id": "script_rpy_L044852_1_db0830dd",
       "text": "Was he acting like he wanted to find me? He locked me in the bedroom!",
-      "new": "他像是想找我吗？他把我关在卧室里了！",
+      "new": "他装得像是要来找我？明明是他把我锁在卧室里的！",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112422,7 +112422,7 @@
     {
       "id": "script_rpy_L044859_1_dc693a41",
       "text": "So you chose to hole up in the attic and want to blame me for it... why, exactly?",
-      "new": "所以你就自己躲进阁楼，还想把这笔账算到我头上……到底是为什么？",
+      "new": "也就是说，你自己躲进阁楼里，还想把账算在我头上……这又是为什么？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112462,7 +112462,7 @@
     {
       "id": "script_rpy_L044872_1_89b27e6f",
       "text": "Let's pretend I locked you in a bedroom. I'm not sure why I'd even do that, but how did you leave?",
-      "new": "就当是我把你锁在卧室里好了。我自己都想不通为什么要那么做，不过你是怎么出来的？",
+      "new": "就当是我把你锁在卧室里好了。我也不清楚自己为什么要那么做，不过你是怎么出来的？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112494,7 +112494,7 @@
     {
       "id": "script_rpy_L044880_1_a4221024",
       "text": "I became a witch and learned magic, huh? We can go with that if you don't want to tell the truth.",
-      "new": "我变成女巫学会魔法了，是吗？你要是不肯说实话，那就当是这样吧。",
+      "new": "我成了魔女，还学会了魔法，是吧？你要是不想说真话，那就当是这么回事好了。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112542,7 +112542,7 @@
     {
       "id": "script_rpy_L044898_1_db99f7bc",
       "text": "I'm sorry if this sounds strange, but are you the same Shiroya who disappeared from the event room with Sai?",
-      "new": "这话可能听着奇怪，不过你就是和 Sai 一起从活动室消失的那个 Shiroya 吗？",
+      "new": "这话问出来或许有些奇怪，不过……你就是和 Sai 一起从活动室消失的那个 Shiroya 吗？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112590,7 +112590,7 @@
     {
       "id": "script_rpy_L044915_1_76308606",
       "text": "I don't know. I got hit in the head, so my memories are a little fuzzy.",
-      "new": "我不知道。我头被砸过，记忆有点模糊。",
+      "new": "我不知道。我头被撞了一下，记忆有些模糊。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -112614,7 +112614,7 @@
     {
       "id": "script_rpy_L044922_1_6b81b6ed",
       "text": "It's so late... What happened while I was here? And your watch is working again?",
-      "new": "都这么晚了……我待在这里的时候发生了什么？还有，你的手表又走起来了？",
+      "new": "都这么晚了……我在这里的时候都发生了什么？还有，你的表又能正常走了？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112630,7 +112630,7 @@
     {
       "id": "script_rpy_L044928_1_c3eaaa58",
       "text": "Wait, what's with your clothes? You were wearing different ones.",
-      "new": "等等，你的衣服怎么换了？你之前穿的不是这身。",
+      "new": "等等，你的衣服怎么回事？刚才穿的不是这一身吧。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -112638,7 +112638,7 @@
     {
       "id": "script_rpy_L044929_1_423fd0d5",
       "text": "Right. When we went to the past, we lost track of that Shiroya, but she still has to be around. I'm confused, though. Where did she come from?",
-      "new": "对。我们去到过去的时候，那个 Shiroya 就不见了踪影，可她一定还在某处。不过我也糊涂了——她究竟是从哪儿来的？",
+      "new": "对。我们去到过去之后，就跟那个 Shiroya 断了线索，可她一定还在某处。不过我还是想不通——她究竟是从哪里来的？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112694,7 +112694,7 @@
     {
       "id": "script_rpy_L044958_1_6315fe29",
       "text": "You know Sai's lying, right? He really locked me in a bedroom and told me you died...! I was so worried.",
-      "new": "你知道 Sai 在撒谎吧？他真的把我关在卧室里，还说你死了……！我担心死了。",
+      "new": "你知道 Sai 在撒谎吧？他真的把我锁在卧室里，还说你死了……！我担心得要命。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112702,7 +112702,7 @@
     {
       "id": "script_rpy_L044963_1_beb2785c",
       "text": "What...? Don't worry, I believe you, even though I still don't understand Sai very much. I wanted to tell you about what just happened.",
-      "new": "什么……？别担心，我相信你——虽然我还是不太了解 Sai。我是想跟你说说刚才发生的事。",
+      "new": "什么……？放心吧，我相信你——虽然我到现在还是不太懂 Sai。我想跟你说说刚才发生的事。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112766,7 +112766,7 @@
     {
       "id": "script_rpy_L044985_1_cc6853e7",
       "text": "If we go to the past, I'm pretty sure we could drastically change the way things played out. It's possible some people would still remember this reality, but the change should persist.{w} It's possible two realities just converged, but the real one comes from my change. It overlapped the last one despite some people potentially still remembering it.",
-      "new": "只要回到过去，我确信我们能让事情的走向彻底改变。也许有些人还会记得这个现实，但改变应该会保留下来。{w} 也可能只是两个现实汇合了，而真正成立的那个来自我的改动。它覆盖了上一个现实，尽管有些人可能仍然记得先前那个。",
+      "new": "只要回到过去，我们肯定能大幅改变事情的走向。也许有些人仍会记得这个现实，但改动本身应该会保留下来。{w}两个现实也可能就这样汇合了，但真正的那个，来自我的改动。它覆盖了上一个现实，尽管有些人可能还记得那一个。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112854,7 +112854,7 @@
     {
       "id": "script_rpy_L045007_1_224a802e",
       "text": "It's mine. As you can see, I hurt my hand in the elevator. I don't even know why it stopped bleeding.",
-      "new": "是我的。如你所见，我在电梯里弄伤了手。连我自己都不知道它为什么就不流血了。",
+      "new": "是我的。如你所见，我在电梯里弄伤了手。连我自己都不知道它为什么止住了血。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112902,7 +112902,7 @@
     {
       "id": "script_rpy_L045034_1_e9c4611a",
       "text": "I found the key in the cleaning room. I know how that sounds, but I guess no one needed a key to get it. I touched it with the locker open.",
-      "new": "钥匙是我在清洁间找到的。我知道这话听起来很怪，不过大概没人需要钥匙就能拿到它吧。我碰它的时候，柜子正开着。",
+      "new": "钥匙是我在清洁间找到的。我知道这话听着离谱，但估计谁都不需要钥匙就能拿到它。我碰它的时候，柜门是开着的。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112918,7 +112918,7 @@
     {
       "id": "script_rpy_L045040_1_7a4bfaab",
       "text": "It would've been easy, but I'm not completely sure. The door doesn't look like it moved, so it also could've teleported.{w} While you were in the attic, we saw that happen. I definitely witnessed the Sekimeiya teleport to its cabinet.{w} But Sai could've easily grabbed it. Akaro as well. I saw him, and he should still be here somewhere. It was before I changed the past, but all I did was draw attention to hallway A. There's no way that was enough to overwrite Akaro's existence.",
-      "new": "要拿走它并不难，但我也不敢肯定。柜门看起来没被动过，所以也可能是传送走了。{w} 你们在阁楼的时候，我们就见过这种事。我确实亲眼看见 Sekimeiya 传送回它的展示柜里。{w} 不过 Sai 想拿走它也很容易。Akaro 也一样。我见过他，他应该还在楼里某处。那是在我改变过去之前，可我做的只是把注意力引到 A 走廊。仅凭那点事，根本不足以抹掉 Akaro 的存在。",
+      "new": "那本来很容易得手，但我也说不准。柜门看上去不像动过，所以它也可能是自己传送走的。{w}你在阁楼那会儿，我们见过这种事。我确实亲眼看见 Sekimeiya 传送进了它的展示柜。{w}但 Sai 完全可以顺手把它拿走，Akaro 也一样。我见过他，他应该还在这栋楼的某处。那是在我改变过去之前，可我只是把注意力引到了 A走廊。那点影响绝不可能抹掉 Akaro 的存在。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112958,7 +112958,7 @@
     {
       "id": "script_rpy_L045051_1_58e4517a",
       "text": "Like always, whether it teleported or someone hid it, it has to be nearby and in a place we can access. We can find it.",
-      "new": "和往常一样，不管是它自己传送走的还是被人藏起来的，它一定就在附近，而且在我们能到的地方。我们找得到。",
+      "new": "和之前一样，不管它是自己传送走了，还是被人藏了起来，它一定就在附近，而且在我们进得去的地方。我们找得到。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112998,7 +112998,7 @@
     {
       "id": "script_rpy_L045063_1_2dc35dca",
       "text": "Oh, yeah, the Sekimeiya's gone. I was searching for it before we went up.",
-      "new": "哦，对，Sekimeiya 不见了。上楼之前我一直在找它。",
+      "new": "哦，对，Sekimeiya 不见了。我们上楼之前，我就在找它。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -113014,7 +113014,7 @@
     {
       "id": "script_rpy_L045069_1_666b7c64",
       "text": "There's not much time left... Let's wait for the shutter to open.",
-      "new": "时间不多了……等卷帘门打开吧。",
+      "new": "没多少时间了……等卷帘门打开吧。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -113070,7 +113070,7 @@
     {
       "id": "script_rpy_L045100_1_825f5055",
       "text": "Then none of us do. If it was deliberately hidden, I don't see the point in searching for it anymore.",
-      "new": "那我们谁都不知道。如果是有人刻意藏的，我看再找下去也没什么意义。",
+      "new": "那就是谁都不知道了。如果它是被人故意藏起来的，我看再找下去也没有意义。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -113110,7 +113110,7 @@
     {
       "id": "script_rpy_L045115_1_2a03ff7e",
       "text": "You say that, but it's been happening since this morning, and it was never hidden in a place the police wouldn't have inspected.",
-      "new": "话是这么说，可从今天早上起它就一直这样，而且它从来没被藏到警察不会检查的地方。",
+      "new": "话是这么说，可这种事从今早就一直在发生，而它从来没被藏到警察不会去查的地方。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -113126,7 +113126,7 @@
     {
       "id": "script_rpy_L045129_1_ee22cf0e",
       "text": "You could have a plan, too. When the police enter, as soon as they find the Sekimeiya, they'll activate it. That'll make everyone around it disappear, leaving a free path for you to retrieve it.",
-      "new": "你也可以有自己的计划。等警察进来，他们一找到 Sekimeiya 就会启动它，让周围的人全部消失，给你留出一条畅通无阻的路去取回它。",
+      "new": "你也可能另有打算。警察一进来，只要找到 Sekimeiya，就会触发它。它周围的人都会消失，正好给你让出一条路，让你把它拿走。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -113134,7 +113134,7 @@
     {
       "id": "script_rpy_L045134_1_e3249c98",
       "text": "Are you even listening to yourself? You think I want to steal the Sekimeiya? Sure, I wouldn't say no to having it, but that's not gonna work out.{w} First of all, they'd simply appear in the past. If a bunch of people time travel, the panic would ruin any kind of plan like that. At least a few people have to know what the Sekimeiya is capable of too, right? Why would they send the police to grab it if they know what touching it would do?",
-      "new": "你听听你自己在说什么？你觉得我想偷 Sekimeiya？行吧，真要给我，我也不推辞，可这根本行不通。{w}首先，他们只会在过去出现。一群人搞时间穿越，光是恐慌就能把这种计划搅得一团糟。总该有几个人知道 Sekimeiya 有什么能耐吧？既然知道碰到它会怎样，他们为什么还要派警察去拿？",
+      "new": "你自己听听这话像话吗？你觉得我想偷 Sekimeiya？是，我不介意把它弄到手，可那根本行不通。{w}首先，他们只会出现在过去。那么多人一起时间穿越，引发的恐慌足以毁掉这种计划。再说，总该有几个人知道 Sekimeiya 有什么能耐吧？他们若知道一碰它会发生什么，又怎么会派警察去拿？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -113150,7 +113150,7 @@
     {
       "id": "script_rpy_L045144_1_b885e410",
       "text": "Hiding the Sekimeiya is pointless, that's a fact. Incidentally, there's no place the police would ignore. What that means is that if the Sekimeiya's here, there's no reason to search for it. What I find most likely is that it's already outside, though.",
-      "new": "把 Sekimeiya 藏起来毫无意义，这是事实。再说了，这塔里也没有哪个角落是警察会放过的。也就是说，只要 Sekimeiya 还在这里，就没有必要专门去找它。不过，我倒觉得它很可能已经在外面了。",
+      "new": "藏起 Sekimeiya 没有意义，这是事实。再说，这楼里没有哪个地方会被警察漏掉。也就是说，如果 Sekimeiya 还在这里，我们根本没必要去找。不过，我认为最可能的情况是它已经被带到外面去了。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -113182,7 +113182,7 @@
     {
       "id": "script_rpy_L045164_1_c4aaf8d9",
       "text": "Perfect. We've had enough headaches, so let's go to the lobby.",
-      "new": "很好。头疼的事已经够多了，去大厅吧。",
+      "new": "很好。头疼的事已经够多了，我们去大厅吧。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -113238,7 +113238,7 @@
     {
       "id": "script_rpy_L045184_1_ad34f3af",
       "text": "No... I still don't understand it either. Both of us appeared in the attic, and I already had it. I'd forgotten to mention it, but yeah, that doesn't make sense with how we thought the Sekimeiya worked.",
-      "new": "不是……这件事我也一直没弄明白。我们俩一起出现在阁楼时，我手上就已经拿着它了。我忘了提，但这确实和我们原先设想的 Sekimeiya 运作方式对不上。",
+      "new": "不是……我自己也一直没想通。我们两个都出现在阁楼，而那时刀已经在我身上了。我忘了提这件事，不过确实，这和我们原先理解的 Sekimeiya 运作方式对不上。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -113254,7 +113254,7 @@
     {
       "id": "script_rpy_L045203_1_a147923e",
       "text": "Okay, let's sit around and wait. I'm exhausted and just want to get out, so I hope nothing else happens. Whatever Xyn or the culprit are up to is no concern of ours anymore...{w} I have no idea what happened to Akaro, but I don't care. If he's behind this whole mess, he'll face the consequences.",
-      "new": "行了，就在这儿坐着等吧。我累坏了，只想赶紧出去，但愿别再出什么事。Xyn 也好，犯人也罢，想干什么都跟我们无关了……{w}Akaro 出了什么事我不知道，也不关心。这一摊子要是他搞出来的，后果他自己担着。",
+      "new": "好了，我们就坐着等吧。我已经累坏了，只想出去，所以希望别再出什么事。Xyn 或者真凶想做什么，都跟我们无关了……{w}我不知道 Akaro 出了什么事，也不在乎。如果这一团乱麻是他搞出来的，他自会承担后果。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -113262,7 +113262,7 @@
     {
       "id": "script_rpy_L045208_1_47d8cae9",
       "text": "Exactly one hour and ten minutes. That's all we have to get through to reclaim our freedom.",
-      "new": "正好一小时十分钟。熬过这段时间，我们就能重获自由。",
+      "new": "整整一小时十分钟。只要熬过这段时间，我们就能重获自由。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -114374,7 +114374,7 @@
     {
       "id": "script_rpy_L045496_1_aea98630",
       "text": "...{w}The darkness had become absolute. On that day, the Sekimeiya must've been somewhere. As Ashiya's announcement had already been made public, they were probably keeping it somewhere in the tower.",
-      "new": "……{w}黑暗已彻底吞没了一切。那一天，Sekimeiya 一定就在某处。既然 Ashiya 的声明早已公开，他们多半把它存放在塔内的某个地方。",
+      "new": "……{w}黑暗已彻底吞没了一切。那一天，Sekimeiya 一定就在某处。既然芦屋的声明早已公开，他们多半把它存放在塔内的某个地方。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -114822,7 +114822,7 @@
     {
       "id": "script_rpy_L045631_1_58c7dbe9",
       "text": "...How is that actually possible? The Sekimeiya has already been announced as a discovery, so why will they let the public touch it with what it can do? Did Ashiya not know about that? I have no idea where it even came from.",
-      "new": "……这怎么可能？Sekimeiya 已经作为一项发现公开了，可它有这样的力量，他们怎么还让公众碰它？难道 Ashiya 并不知道这件事？我连它究竟从哪来都毫无头绪。",
+      "new": "……这怎么可能？Sekimeiya 已经作为一项发现公开了，可它有这样的力量，他们怎么还让公众碰它？难道芦屋并不知道这件事？我连它究竟从哪来都毫无头绪。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -118630,7 +118630,7 @@
     {
       "id": "script_rpy_L046613_1_5d9ea3aa",
       "text": "The results all appeared at once. I glanced at all of them hastily, reading common page titles in blue reporting Ashiya's announcement on the 29th.",
-      "new": "结果一下子全冒了出来。我匆匆扫过，蓝色的标题大同小异，都是报道芦屋 29 号那场公告的页面。",
+      "new": "结果一下子全冒了出来。我匆匆扫过，蓝色的标题大同小异，都是报道芦屋29 号那场公告的页面。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -121862,7 +121862,7 @@
     {
       "id": "script_rpy_L047413_1_f0ff4c08",
       "text": "However, even though we had to spend twelve hours inside, that wouldn't necessarily repeat. They explained to us that there was a way to open the exit before the maximum time. Both the security member and Ashiya can work together to remove the shutter.",
-      "new": "不过，就算我们必须在里面待满十二个小时，那种情况也未必会重演。他们跟我们解释过，在达到最长时间之前，有办法打开出口。监控室的人和 Ashiya 可以合力拆下卷帘门。",
+      "new": "不过，就算我们必须在里面待满十二个小时，那种情况也未必会重演。他们跟我们解释过，在达到最长时间之前，有办法打开出口。监控室的人和芦屋可以合力拆下卷帘门。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -121942,7 +121942,7 @@
     {
       "id": "script_rpy_L047426_1_c36cdb3f",
       "text": "Why does the hidden area in the storeroom even exist? It's possible Katei lied when he said he didn't know about it. If Ashiya were completely aware of it, there's no way they'll allow it to be opened.",
-      "new": "储藏室里为什么会有那样一块隐蔽区域？Katei 说自己不知道，也许是在撒谎。要是 Ashiya 那边完全知情，他们绝不可能允许那地方被打开。",
+      "new": "储藏室里为什么会有那样一块隐蔽区域？Katei 说自己不知道，也许是在撒谎。要是芦屋那边完全知情，他们绝不可能允许那地方被打开。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -128062,7 +128062,7 @@
     {
       "id": "script_rpy_L049262_1_baa4304e",
       "text": "But if Atsuki, Isla, Erina, and I don't go to the event, it will all be considerably different.{w} What if something causes the attack to fail?{w} What if Katei and Ashiya are able to unlock the exit this time?",
-      "new": "可要是 Atsuki、Isla、Erina 和我都不去参加活动，一切就会大不相同。{w} 万一某个变故让袭击失败了呢？{w} 万一这次 Katei 和 Ashiya 能打开出口呢？",
+      "new": "可要是 Atsuki、Isla、Erina 和我都不去参加活动，一切就会大不相同。{w} 万一某个变故让袭击失败了呢？{w} 万一这次 Katei 和芦屋能打开出口呢？",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -132846,7 +132846,7 @@
     {
       "id": "script_rpy_L050660_1_9ae29f75",
       "text": "I had to see it with my own eyes. Was nobody on the other side? It couldn't be. Ashiya had been anticipating Xyn's attack, so why would nobody be stationed at the cameras?",
-      "new": "我必须亲眼确认。门后真的没有人吗？不可能。Ashiya 早已料到 Xyn 会袭击，又怎会不在监控前留人？",
+      "new": "我必须亲眼确认。门后真的没有人吗？不可能。芦屋早已料到 Xyn 会袭击，又怎会不在监控前留人？",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -133094,7 +133094,7 @@
     {
       "id": "script_rpy_L050749_1_7a66ecc2",
       "text": "Disoriented, I walked across the smooth floor with my arm out. Where was the Sekimeiya? If Ashiya's intent was to make Xyn break open the cabinet, it couldn't be well-hidden.",
-      "new": "我失去方向感，伸着手臂走过光滑的地面。Sekimeiya 在哪里？如果 Ashiya 的本意是让 Xyn 撬开展示柜，那它不可能藏得太深。",
+      "new": "我失去方向感，伸着手臂走过光滑的地面。Sekimeiya 在哪里？如果芦屋的本意是让 Xyn 撬开展示柜，那它不可能藏得太深。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -145174,7 +145174,7 @@
     {
       "id": "script_rpy_L054674_1_c178770c",
       "text": "\"Sorting something out\". I couldn't help but react, as I knew he had just locked my past self in the attic.",
-      "new": "原来如此，穿在你身上确实算进步了。{w}别管我，Atsuki，我刚才正忙着处理点事情。",
+      "new": "“处理点事情”。听他这么说，我忍不住起了反应——他明明才把过去的我锁进阁楼，这事我再清楚不过。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -145222,7 +145222,7 @@
     {
       "id": "script_rpy_L054708_1_14a602b8",
       "text": "Don't mind me, like you said.",
-      "new": "原来如此，穿在你身上确实顺眼多了。{w}还有，别管我，Atsuki。我刚才正忙着理清一些事。",
+      "new": "你不是说了吗，别管我。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -146886,7 +146886,7 @@
     {
       "id": "script_rpy_L055409_1_37449ad3",
       "text": "That was due to her narrow field of view. Just like her, depending on the way things were looked at, you would've been told an entirely different story.",
-      "new": "这是因为她的视野太窄了。和你一样，看待事情的角度不同，听到的就会是完全不同的另一个故事。",
+      "new": "这是因为她视野狭窄。就像她一样，看待事情的角度不同，你也会听到一个截然不同的故事。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -146910,7 +146910,7 @@
     {
       "id": "script_rpy_L055415_1_a8e50b22",
       "text": "There have been countless keys, but some of them have been much smaller than you might think. However, know they're there and hunt for them. The time where your success will be measured will come, and now it is very close.",
-      "new": "钥匙数不胜数，其中有些远比你想象的要细小。但只要知道它们就在那里，就去把它们找出来。决定你成败的时刻终将到来，而如今已近在眼前。",
+      "new": "钥匙数不胜数，其中有些远比你想象的要细小。但只要知道它们就在那里，就去把它们找出来。检验你成败的时刻终将到来，而如今已近在眼前。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -147102,7 +147102,7 @@
     {
       "id": "script_rpy_L055455_1_1c63849e",
       "text": "{cps=80}It seemed impossible at first,{w=0.3} but she soon realized it wasn't.{w=0.7} Even if that was the case, {w=0.2}though,{w=0.2} there were many questions to answer.{nw}",
-      "new": "{cps=80}起初看来不可能，{w=0.3}但她很快明白并非如此。{w=0.7}不过，{w=0.2}纵然如此，{w=0.2}仍有太多疑问需要解答。{nw}",
+      "new": "{cps=80}起初看来不可能，{w=0.3}但她很快明白并非如此。{w=0.7}不过，{w=0.2}即便如此，{w=0.2}仍有很多疑问需要解答。{nw}",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -147126,7 +147126,7 @@
     {
       "id": "script_rpy_L055461_1_781e549b",
       "text": "{cps=80}Finally,{w=0.3} Shiroya breathed a sigh of relief,{w=0.4} but it was cut short by words she didn't expect.{nw}",
-      "new": "{cps=80}总算，{w=0.3} Shiroya 松了一口气，{w=0.4}却被一句意料之外的话打断了。{nw}",
+      "new": "{cps=80}终于，{w=0.3}Shiroya 松了口气，{w=0.4}却被一句意料之外的话打断了。{nw}",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -147166,7 +147166,7 @@
     {
       "id": "script_rpy_L055476_1_836b5bb5",
       "text": "That wasn't the end for them.\nBut only the final step was left.",
-      "new": "对他们来说，这还不是终点。\n剩下的，只有最后一步。",
+      "new": "对他们来说，这还不是终点。\n{color=#000}剩下的，只有最后一步。{/color}",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -147182,7 +147182,7 @@
     {
       "id": "script_rpy_L055484_1_86bc0698",
       "text": "How could that goal be achieved?\nShiroya wondered that as she awaited Atsuki's next words.\n{color=#000}Miiya, who had been seen in the tower... How would she be saved?{/color}",
-      "new": "那个目标要如何才能实现？\nShiroya 一面等着 Atsuki 开口，一面思索着。\n{color=#000}那个在塔里被人看到的 Miiya……她究竟要怎么救？{/color}",
+      "new": "那个目标要如何才能实现？\n{color=#000}Shiroya 一面等着 Atsuki 开口，一面思索着。\n那个在塔里被人看到的 Miiya……她究竟要怎么救？{/color}",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -147190,7 +147190,7 @@
     {
       "id": "script_rpy_L055486_1_7abbe280",
       "text": "How could that goal be achieved?\nShiroya wondered that as she awaited Atsuki's next words.\nMiiya, who had been seen in the tower... How would she be saved?",
-      "new": "那个目标要如何才能实现？\nShiroya 一面等着 Atsuki 开口，一面思索着。\n那个在塔里被人看到的 Miiya……她究竟要怎么救？",
+      "new": "那个目标要如何才能实现？\n{color=#000}Shiroya 一面等着 Atsuki 开口，一面思索着。\n那个在塔里被人看到的 Miiya……她究竟要怎么救？{/color}",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -147206,7 +147206,7 @@
     {
       "id": "script_rpy_L055495_1_a9f18899",
       "text": "Shiroya had thought about it for countless hours.\nBut a way to save Miiya had always meant her own death.\n{color=#000}She'd never believed it had been possible... to truly decide between the two worlds.{/color}",
-      "new": "这件事，Shiroya 已经想了无数个钟头。\n可要救 Miiya，代价从来都是她自己的性命。\n{color=#000}在两个世界之间真正做出抉择……她从不相信这能做到。{/color}",
+      "new": "这件事，Shiroya 已经想了无数个钟头。\n{color=#000}可要救 Miiya，代价从来都是她自己的性命。\n在两个世界之间真正做出抉择……她从不相信这能做到。{/color}",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -147214,7 +147214,7 @@
     {
       "id": "script_rpy_L055497_1_2db609e8",
       "text": "Shiroya had thought about it for countless hours.\nBut a way to save Miiya had always meant her own death.\nShe'd never believed it had been possible... to truly decide between the two worlds.",
-      "new": "这件事，Shiroya 已经想了无数个钟头。\n可要救 Miiya，代价从来都是她自己的性命。\n在两个世界之间真正做出抉择……她从不相信这能做到。",
+      "new": "这件事，Shiroya 已经想了无数个钟头。\n{color=#000}可要救 Miiya，代价从来都是她自己的性命。\n在两个世界之间真正做出抉择……她从不相信这能做到。{/color}",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -147230,7 +147230,7 @@
     {
       "id": "script_rpy_L055505_1_cd67ca6c",
       "text": "Would Atsuki come with her?\nIf they abandoned their world together, maybe it would be bearable.\n{color=#000}But she soon learned that he wouldn't.\nAnd that, though it had seemed impossible, there had always been a path toward a desirable outcome.{/color}",
-      "new": "Atsuki 会和她一起走吗？\n倘若两人一同舍弃这个世界，或许还能承受。\n{color=#000}但她很快便知道，他不会。\n而她也明白了，尽管看似毫无可能，通往理想结局的路其实一直都在。{/color}",
+      "new": "Atsuki 会和她一起走吗？\n{color=#000}倘若两人一同舍弃这个世界，或许还能承受。\n但她很快便知道，他不会。\n而她也明白了，尽管看似毫无可能，通往理想结局的路其实一直都在。{/color}",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -147238,7 +147238,7 @@
     {
       "id": "script_rpy_L055507_1_3023a8a9",
       "text": "Would Atsuki come with her?\nIf they abandoned their world together, maybe it would be bearable.\nBut she soon learned that he wouldn't.\n{color=#000}And that, though it had seemed impossible, there had always been a path toward a desirable outcome.{/color}",
-      "new": "Atsuki 会和她一起走吗？\n倘若两人一同舍弃这个世界，或许还能承受。\n但她很快便知道，他不会。\n{color=#000}而她也明白了，尽管看似毫无可能，通往理想结局的路其实一直都在。{/color}",
+      "new": "Atsuki 会和她一起走吗？\n{color=#000}倘若两人一同舍弃这个世界，或许还能承受。\n但她很快便知道，他不会。\n而她也明白了，尽管看似毫无可能，通往理想结局的路其实一直都在。{/color}",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -147246,7 +147246,7 @@
     {
       "id": "script_rpy_L055509_1_ebf6dbec",
       "text": "Would Atsuki come with her?\nIf they abandoned their world together, maybe it would be bearable.\nBut she soon learned that he wouldn't.\nAnd that, though it had seemed impossible, there had always been a path toward a desirable outcome.",
-      "new": "Atsuki 会和她一起走吗？\n倘若两人一同舍弃这个世界，或许还能承受。\n但她很快便知道，他不会。\n而她也明白了，尽管看似毫无可能，通往理想结局的路其实一直都在。",
+      "new": "Atsuki 会和她一起走吗？\n{color=#000}倘若两人一同舍弃这个世界，或许还能承受。\n但她很快便知道，他不会。\n而她也明白了，尽管看似毫无可能，通往理想结局的路其实一直都在。{/color}",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -148006,7 +148006,7 @@
     {
       "id": "script_rpy_L055888_1_e760b1a9",
       "text": "They raised the curtain to the Sekimeiya cabinet. As Ashiya had feared, it was empty.",
-      "new": "他们拉开 Sekimeiya 展示柜的遮布。正如 Ashiya 所担心的，柜中空空如也。",
+      "new": "他们拉开 Sekimeiya 展示柜的遮布。正如芦屋所担心的，柜中空空如也。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148062,7 +148062,7 @@
     {
       "id": "script_rpy_L055906_1_637fe0ec",
       "text": "There was a secret corridor in the storeroom that Ashiya didn't know about. When the police learned it led outside, a single conclusion was drawn: the missing people had left through it minutes after the attack. Since then, all sides of the tower had been observed.",
-      "new": "储藏室里有一条连 Ashiya 也不知道的暗道。警方查明它通往塔外后，只得出一个结论：失踪的人在袭击发生几分钟后便从那里离开了。自那以后，塔的四面都处于监视之下。",
+      "new": "储藏室里有一条连芦屋也不知道的暗道。警方查明它通往塔外后，只得出一个结论：失踪的人在袭击发生几分钟后便从那里离开了。自那以后，塔的四面都处于监视之下。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148166,7 +148166,7 @@
     {
       "id": "script_rpy_L055947_1_7a6c6938",
       "text": "The backlash Ashiya received was immense. They had allowed a tragedy to unfold on their own property.",
-      "new": "Ashiya 承受的责难铺天盖地。一场惨剧竟在他们自己的地盘上上演。",
+      "new": "芦屋承受的责难铺天盖地。一场惨剧竟在他们自己的地盘上上演。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148182,7 +148182,7 @@
     {
       "id": "script_rpy_L055949_1_7220cdea",
       "text": "And eventually, Ashiya's voice faded. There was nothing they could do anymore.",
-      "new": "最终，Ashiya 的声音也沉寂了下去。他们再也无能为力。",
+      "new": "最终，芦屋的声音也沉寂了下去。他们再也无能为力。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148758,7 +148758,7 @@
     {
       "id": "script_rpy_L056129_1_ac2f676a",
       "text": "It was bizarre, but Gan's mind went again to Ashiya. What would they say about something so peculiar...?",
-      "new": "事情实在离奇，可 Gan 又想起了 Ashiya。碰上这么古怪的东西，他们会怎么说呢……？",
+      "new": "事情实在离奇，可 Gan 又想起了芦屋。碰上这么古怪的东西，他们会怎么说呢……？",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148798,7 +148798,7 @@
     {
       "id": "script_rpy_L056146_1_a941b9ab",
       "text": "As soon as Lei saw it, she let him know Ashiya were interested in buying it. It had taken a lot less convincing than Gan had expected.",
-      "new": "Lei 一看到它，便告诉他 Ashiya 有意买下。要说服她，比他预想的容易得多。",
+      "new": "Lei 一看到它，便告诉他芦屋有意买下。要说服她，比他预想的容易得多。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148806,7 +148806,7 @@
     {
       "id": "script_rpy_L056147_1_b176f51c",
       "text": "Lei let him know the reason. Ashiya had been searching for a unique gemstone, and the one he'd found would serve that purpose well.",
-      "new": "Lei 说明了缘由。Ashiya 一直在寻找一颗独一无二的宝石，而他找到的这颗正好合用。",
+      "new": "Lei 说明了缘由。芦屋一直在寻找一颗独一无二的宝石，而他找到的这颗正好合用。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148862,7 +148862,7 @@
     {
       "id": "script_rpy_L056157_1_3694d0e8",
       "text": "Lei silently nodded.{w} Gan took a deep breath. If Ashiya did what he had instructed, there would be no problem.",
-      "new": "Lei 默默点了点头。{w}Gan 深吸一口气。只要 Ashiya 照他说的做，就不会出问题。",
+      "new": "Lei 默默点了点头。{w}Gan 深吸一口气。只要芦屋照他说的做，就不会出问题。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148918,7 +148918,7 @@
     {
       "id": "script_rpy_L056178_1_461fbcef",
       "text": "Ashiya paid well, so Gan hadn't stopped thinking about going back to that grassy field... Was it possible he had missed something?",
-      "new": "Ashiya 出手阔绰，Gan 一直在琢磨要不要再回那片草地……会不会自己漏掉了什么？",
+      "new": "芦屋出手阔绰，Gan 一直在琢磨要不要再回那片草地……会不会自己漏掉了什么？",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148982,7 +148982,7 @@
     {
       "id": "script_rpy_L056205_1_64c9ff52",
       "text": "However, there was an issue: Ashiya had already revealed the Sekimeiya's existence. On that day, the primary announcements had been made.",
-      "new": "但有个问题：Ashiya 已经公开了 Sekimeiya 的存在。就在那天，主要的公告已经发出去了。",
+      "new": "但有个问题：芦屋已经公开了 Sekimeiya 的存在。就在那天，主要的公告已经发出去了。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -148998,7 +148998,7 @@
     {
       "id": "script_rpy_L056207_1_63969886",
       "text": "There were many things Lei hadn't told Gan, but that was the truth. If Xyn didn't make their move before the 15th, Ashiya could justify part of the build-up on the existence of two identical, paired gemstones.",
-      "new": "Lei 有很多事没告诉 Gan，但这句话是真的。只要 Xyn 在15号之前没有动作，Ashiya 就可以拿两颗一模一样的成对宝石，为部分铺垫增加合理性。",
+      "new": "Lei 有很多事没告诉 Gan，但这句话是真的。只要 Xyn 在15号之前没有动作，芦屋就可以拿两颗一模一样的成对宝石，为部分铺垫增加合理性。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -151206,7 +151206,7 @@
     {
       "id": "script_rpy_L057012_1_61493974",
       "text": "I have been told Ashiya will pick up a... notable gem this Wednesday.",
-      "new": "有人告诉我，Ashiya 这周三会去取一颗……很了不得的宝石。",
+      "new": "有人告诉我，芦屋这周三会去取一颗……很了不得的宝石。",
       "speaker": "ido",
       "source_file": "script.rpy",
       "group": "story"
@@ -151318,7 +151318,7 @@
     {
       "id": "script_rpy_L057034_1_48abfdce",
       "text": "After Ido left the room, Atase's boss looked pensive for some time before inquiring what Atase's thoughts were.{w} Atase had been the most involved in Ashiya-related manners; as such, his superior was curious to know his thoughts on what they'd heard.",
-      "new": "Ido 离开房间后，Atase 的上司沉思了片刻，才问他有什么想法。{w}与 Ashiya 相关的事务，Atase 一向参与最多，因此上司很想听听他对刚才那番话的看法。",
+      "new": "Ido 离开房间后，Atase 的上司沉思了片刻，才问他有什么想法。{w}与芦屋相关的事务，Atase 一向参与最多，因此上司很想听听他对刚才那番话的看法。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -151350,7 +151350,7 @@
     {
       "id": "script_rpy_L057040_1_87091b67",
       "text": "What? That would be disastrous.{w} Did you not listen to Ido? He was told they're handling the situation extremely carefully. And he was told about a few key details.{w} Ashiya are hunting for a spy. If we take advantage of the information Ido was given, we're handing them his identity.",
-      "new": "什么？那会闯下大祸。{w}你没听 Ido 说吗？对方告诉过他，这件事他们处理得极为谨慎，还透了几处关键细节。{w}Ashiya 正在清查内鬼。我们要是利用 Ido 得到的情报，就等于把他的身份拱手送出去。",
+      "new": "什么？那会闯下大祸。{w}你没听 Ido 说吗？对方告诉过他，这件事他们处理得极为谨慎，还透了几处关键细节。{w}芦屋正在清查内鬼。我们要是利用 Ido 得到的情报，就等于把他的身份拱手送出去。",
       "speaker": "kr",
       "source_file": "script.rpy",
       "group": "story"
@@ -151398,7 +151398,7 @@
     {
       "id": "script_rpy_L057055_1_64cc6415",
       "text": "I don't know. I think he was venting, honestly. I've worked there since years before the first attack, so I believe I'm considered trustworthy. We had a brief conversation this morning.",
-      "new": "我不知道。老实说，我觉得他只是在发牢骚。我早在第一次袭击前好几年就在那里做事了，大概因此才被当成信得过的人。今天早上我们聊了几句。",
+      "new": "我不知道。老实说，我觉得他只是在发牢骚。第一次袭击的好几年前我就在那里做事了，大概因此才被当成信得过的人。今天早上我们聊了几句。",
       "speaker": "ido",
       "source_file": "script.rpy",
       "group": "story"
@@ -151438,7 +151438,7 @@
     {
       "id": "script_rpy_L057062_1_d7f73e8a",
       "text": "Ido was part of Xyn, and Ashiya's bait had sunk into their pond. Shaking, Katei combed through the rest of the recording, but it didn't contain anything else of relevance.",
-      "new": "Ido 是 Xyn 的人，Ashiya 抛下的诱饵已经沉进了他们的水塘。Katei 双手发颤，把余下的录音逐一听完，却再没发现任何有用的内容。",
+      "new": "Ido 是 Xyn 的人，芦屋抛下的诱饵已经沉进了他们的水塘。Katei 双手发颤，把余下的录音逐一听完，却再没发现任何有用的内容。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -151486,7 +151486,7 @@
     {
       "id": "script_rpy_L057083_1_9cdc477d",
       "text": "Ashiya's announcement?",
-      "new": "Ashiya 的公告？",
+      "new": "芦屋的公告？",
       "speaker": "ta",
       "source_file": "script.rpy",
       "group": "story"
@@ -151510,7 +151510,7 @@
     {
       "id": "script_rpy_L057086_1_3f2cffe3",
       "text": "They think we'll attack the tower as usual. As you said, they cleaned up their computer, so what they're preparing has to entail the building.{w} We know Ashiya will obtain the Sekimeiya tomorrow, but we could've investigated for this information after the announcement.",
-      "new": "他们认为我们会照旧袭击那座塔。正如你所说，他们清理了电脑，那么他们准备的事必然与这栋楼有关。{w}Ashiya 明天就会拿到 Sekimeiya，其实这些信息，等公告出来后再查也能查到。",
+      "new": "他们认为我们会照旧袭击那座塔。正如你所说，他们清理了电脑，那么他们准备的事必然与这栋楼有关。{w}芦屋明天就会拿到 Sekimeiya，其实这些信息，等公告出来后再查也能查到。",
       "speaker": "kr",
       "source_file": "script.rpy",
       "group": "story"
@@ -152294,7 +152294,7 @@
     {
       "id": "script_rpy_L057353_1_777f8912",
       "text": "When a woman from the forensic team felt the gem for the first time, she was taken aback. ...It was very hot.{w} Ashiya had quickly learned that only one of the Sekimeiya had been taken and asked the investigation team to return the fallen one. However, as it was related to the incident, it had to be inspected by them first.",
-      "new": "鉴识小组的一名女成员第一次摸到那颗宝石时，吃了一惊。……它烫得厉害。{w} 芦屋很快得知只有一颗 Sekimeiya 被拿走，便要求调查组归还掉落的那颗。可由于它与案件有关，必须先由调查组检查。",
+      "new": "鉴识小组的一名女成员第一次摸到那颗宝石时，吃了一惊。……它烫得厉害。{w}芦屋很快得知只有一颗 Sekimeiya 被拿走，便要求调查组归还掉落的那颗。可由于它与案件有关，必须先由调查组检查。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -153566,7 +153566,7 @@
     {
       "id": "script_rpy_L057700_1_12ea9f0b",
       "text": "Everything was finally in motion, and the long wait for the day of the event began.{w} Ashiya, Xyn, and Katei. Each of those three parties had their own unique agenda.",
-      "new": "一切终于开始运转，接下来便是对活动当日的漫长等待。{w} 芦屋、Xyn、Katei——三方各有各的盘算。",
+      "new": "一切终于开始运转，接下来便是对活动当日的漫长等待。{w}芦屋、Xyn、Katei——三方各有各的盘算。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -153590,7 +153590,7 @@
     {
       "id": "script_rpy_L057707_1_dc6296e2",
       "text": "As the days approached, Ashiya realized Xyn were likely to not fall for their trap, and as Xyn had predicted, the Sekimeiya continued to grow more valuable in the eyes of the world.{w} Ashiya hadn't fully prepared the event yet, so a trusted employee of theirs was chosen to plan out the guided visits.",
-      "new": "随着日期临近，芦屋意识到 Xyn 很可能不会中自己布下的圈套；而正如 Xyn 所料，Sekimeiya 在世人心中的价值持续攀升。{w} 芦屋尚未完全准备好活动，于是选了一名信得过的员工来筹划导览参观。",
+      "new": "随着日期临近，芦屋意识到 Xyn 很可能不会中自己布下的圈套；而正如 Xyn 所料，Sekimeiya 在世人心中的价值持续攀升。{w}芦屋尚未完全准备好活动，于是选了一名信得过的员工来筹划导览参观。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -153878,7 +153878,7 @@
     {
       "id": "script_rpy_L057885_1_72bcc518",
       "text": "Perfect. Please follow me to the event room to be the first to see the Sekimeiya.",
-      "new": "很好。请随我去活动室，你们会是第一批见到 Sekimeiya 的人。",
+      "new": "很好。请随我去活动室，成为第一批见到 Sekimeiya 的人。",
       "speaker": "sann",
       "source_file": "script.rpy",
       "group": "story"
@@ -153950,7 +153950,7 @@
     {
       "id": "script_rpy_L057927_1_daae02f7",
       "text": "Part of the experience is the touch, so I will open the glass and let you experience it yourselves. However, I must insist that you be gentle and keep your hands inside the cabinet at all times.",
-      "new": "「亲身体验，有一半就在这触感上，所以我会打开玻璃，让各位自己感受。不过，我必须提醒一句：请务必放轻动作，手也不要伸到展示柜外面。」",
+      "new": "体验的一部分在于触摸，所以我会打开玻璃罩，让你们亲自感受。不过我必须强调，请务必轻柔，且始终将手放在展示柜内。",
       "speaker": "sann",
       "source_file": "script.rpy",
       "group": "story"
@@ -153998,7 +153998,7 @@
     {
       "id": "script_rpy_L057939_1_c5780309",
       "text": "You keep mentioning how valuable the Sekimeiya is, but is there proof of that? The way you're explaining it, you don't even say what kind of gem it is, only that it's \"rare\".",
-      "new": "「你一直强调 Sekimeiya 有多贵重，可有什么凭据？照你这样说，连它是什么宝石都没讲清，只说它『稀有』。」",
+      "new": "你一直说 Sekimeiya 有多珍贵，可有什么证据？照你的说法，你连它是什么宝石都没讲，只说是「罕见」而已。",
       "speaker": "ta",
       "source_file": "script.rpy",
       "group": "story"
@@ -154006,7 +154006,7 @@
     {
       "id": "script_rpy_L057940_1_1e1816d8",
       "text": "But the value could've been arbitrarily created by Ashiya, as it's not being officially recognized as anything more than an unusual discovery.",
-      "new": "「可这价值很可能是芦屋随意定出来的，毕竟官方对它的认定，也不过是『一次罕见的发现』罢了。」",
+      "new": "但这价值也可能是芦屋随意定出来的——官方至今只把它当作一件不寻常的发现而已。",
       "speaker": "ta",
       "source_file": "script.rpy",
       "group": "story"
@@ -154014,7 +154014,7 @@
     {
       "id": "script_rpy_L057941_1_94d53b80",
       "text": "Well, I will let you decide that for yourself. As you said, it's not categorized because nobody was able to properly appraise it. That's all you need to be assured of its value.",
-      "new": "「这一点，就请各位自行判断吧。正如你所说，它之所以没有分类，是因为没人能对它做出恰当的鉴定。单凭这一点，就足以让人确信它的价值了。」",
+      "new": "这个嘛，就请你自己判断吧。正如你所说，它之所以没有被归类，是因为没人能对它作出恰当的鉴定。你只需知道这一点，就足以相信它的价值了。",
       "speaker": "sann",
       "source_file": "script.rpy",
       "group": "story"
@@ -154022,7 +154022,7 @@
     {
       "id": "script_rpy_L057942_1_107b66aa",
       "text": "I apologize for being skeptical, but you must be aware that Ashiya aren't exactly recognized for their fairness.",
-      "new": "「恕我多疑，不过你应该也清楚，芦屋的名声可谈不上公正。」",
+      "new": "恕我直言，我确实心存疑虑，但你想必也清楚，芦屋可并不以公正著称。",
       "speaker": "ta",
       "source_file": "script.rpy",
       "group": "story"
@@ -154038,7 +154038,7 @@
     {
       "id": "script_rpy_L057948_1_da139795",
       "text": "Yes, that everyone in the lobby sounded as skeptical as I am.",
-      "new": "「有。大厅里每个人听上去都和我一样怀疑。」",
+      "new": "有。大厅里那些人，听起来都跟我一样怀疑。",
       "speaker": "ta",
       "source_file": "script.rpy",
       "group": "story"
@@ -157574,7 +157574,7 @@
     {
       "id": "script_rpy_L059136_1_b74e5677",
       "text": "I don't get it. What the hell happened? Did Ashiya just abandon their own building with us inside...? And we thought we'd be free after twelve hours...",
-      "new": "我不明白。到底出了什么事？Ashiya 就这么把自己楼里的人丢下不管了……？我们还以为熬过十二小时就能出去……",
+      "new": "我不明白。到底出了什么事？芦屋就这么把自己楼里的人丢下不管了……？我们还以为熬过十二小时就能出去……",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -159142,7 +159142,7 @@
     {
       "id": "script_rpy_L059764_1_5641d17f",
       "text": "W-Wait, that's all...? What about appearing after you'd gone to the bathroom? Do you remember that?",
-      "new": "等、等等，就这些……？那你上完洗手间之后出现的那一次呢？你记得吗？",
+      "new": "等、等等，就这些……？那你上完洗手间之后突然现身那件事呢？你记得吗？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159150,7 +159150,7 @@
     {
       "id": "script_rpy_L059769_1_9a75de5f",
       "text": "What? N-No...? I found the Sekimeiya in the toilet's water tank and went a long way into the past.",
-      "new": "什么？没、没有……？我是在马桶水箱里找到 Sekimeiya 的，然后就回到了很久以前的过去。",
+      "new": "什么？不、不记得……？我在马桶的水箱里找到了 Sekimeiya，然后回到了很久以前。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159158,7 +159158,7 @@
     {
       "id": "script_rpy_L059770_1_248ca17f",
       "text": "...{w}Are you really... the real Shiroya? I don't really understand what you're telling me.",
-      "new": "……{w}你真的是……真正的 Shiroya 吗？你说的这些，我实在听不明白。",
+      "new": "……{w}你真的是……Shiroya本人吗？你说的话我实在听不明白。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159174,7 +159174,7 @@
     {
       "id": "script_rpy_L059776_1_316ba3a0",
       "text": "Wait a second. That sound from before was a door, right? It sounded like it came from the right wall.",
-      "new": "等一下。刚才那个声音是门吧？听起来像是从右边那面墙传来的。",
+      "new": "等一下。刚才那声响是门吧？听起来是从右边那面墙传来的。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159206,7 +159206,7 @@
     {
       "id": "script_rpy_L059789_1_d46fd021",
       "text": "I think we just heard the culprit. I have no idea why we're here, but only a few people should be conscious at this time.",
-      "new": "我想我们刚才听到的就是犯人。我不知道我们为什么会在这里，但这个时间点还醒着的人应该没几个。",
+      "new": "我想，我们刚才听到的就是犯人。为什么会在这里，我完全不清楚，但这个时间还醒着的人应该没几个。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159262,7 +159262,7 @@
     {
       "id": "script_rpy_L059811_1_098d920a",
       "text": "You remember, right? When we met everyone else, Sai pointed out that it was open, and Katei said he did that. I'm pretty sure it looked exactly the way we just left it.",
-      "new": "你记得吧？我们和其他人会合的时候，Sai 指出那扇门开着，Katei 说是他开的。我敢肯定，当时那扇门的样子和我们刚离开时一模一样。",
+      "new": "你还记得吧？我们和其他人会合时，Sai 说那扇门开着，Katei 则说那是他弄的。我敢肯定，当时那扇门的样子和我们刚才离开时一模一样。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159286,7 +159286,7 @@
     {
       "id": "script_rpy_L059820_1_97c5b191",
       "text": "Are you telling me the truth? Do you not know what happened after?",
-      "new": "你说的是真的吗？后面发生了什么，你真的不知道？",
+      "new": "你说的是真话？之后发生了什么，你真的不知道？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159294,7 +159294,7 @@
     {
       "id": "script_rpy_L059825_1_3555dca4",
       "text": "I don't...! I just told you. I appeared on the 30th of November.{w} I stayed at my apartment while my past self was in the hospital, and a few days later, I entered the tower.{w} I have no idea what happened there, though. The Sekimeiya was already in the cabinet, and I touched it since nobody was in the security room. After that, I appeared in the lobby with you. Now we're here.",
-      "new": "我真的不知道……！我刚才不是说了吗。我出现在 11 月 30 日。{w}过去的我住院期间，我一直待在自己的公寓里，几天后才进塔。{w}可塔里发生了什么，我完全不知道。Sekimeiya 已经放在展示柜里了，监控室里没人，我就碰了它。之后，我就和你一起出现在大厅了。然后就是现在这里。",
+      "new": "我不知道……！我不是刚说了吗。我是在11月30日出现的。{w}过去的我住院时，我一直待在自己的公寓里；几天后，我进了芦屋塔。{w}不过塔里发生了什么，我完全不清楚。Sekimeiya 那时已经在展示柜里了，我见监控室里没人，就伸手碰了它。之后，我便和你一起出现在大厅里。再然后，就是现在这里。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159318,7 +159318,7 @@
     {
       "id": "script_rpy_L059830_1_bf78ae36",
       "text": "Wait, you said you traveled to the 30th? Did you try to save Miiya?",
-      "new": "等等，你说你穿越到了 30 日？你有没有试着去救 Miiya？",
+      "new": "等等，你说你时间穿越到了30日？你试过去救 Miiya 吗？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159326,7 +159326,7 @@
     {
       "id": "script_rpy_L059835_1_a75497f3",
       "text": "I couldn't... I appeared too late for that, but I did change the past—",
-      "new": "我救不了……我出现得太晚了，不过我确实改变了过去——",
+      "new": "我没能……我出现得太晚，已经来不及了，但我确实改变了过去——",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159350,7 +159350,7 @@
     {
       "id": "script_rpy_L059838_1_8d821cd9",
       "text": "Don't worry, even I don't understand anything of what I lived through. I'm not lying, though.",
-      "new": "别在意，连我自己都弄不懂我经历的那些事。不过我没有说谎。",
+      "new": "别担心，连我自己都搞不懂我经历的那些事。不过我没有撒谎。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159358,7 +159358,7 @@
     {
       "id": "script_rpy_L059839_1_88cc88d6",
       "text": "...Then I'm not sure it would help if I told you what happened after you left.{w} Another version of you was there, but it wasn't you, right?",
-      "new": "……那就算我把你离开之后发生的事告诉你，也未必有用。{w}当时那里有另一个你，可那不是你，对吧？",
+      "new": "……那我不确定，告诉你你离开之后发生了什么，会不会有帮助。{w}当时还有另一个你也在场，但那不是你，对吧？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159374,7 +159374,7 @@
     {
       "id": "script_rpy_L059845_1_5ca0fadb",
       "text": "Well, we weren't able to leave when the time came. I'm not sure what happened, why, or how, but the lights went off, and we couldn't get out.{w} ...You remember the recording, right?{w} It was real.",
-      "new": "总之，到了该离开的时候，我们没能出去。我不知道发生了什么、为什么、又是怎么发生的，但灯灭了，我们出不去。{w}……你还记得那段录音吧？{w}那是真的。",
+      "new": "结果，时间一到，我们却没能离开。发生了什么、为什么会这样、又到底是怎么发生的，我都不清楚，但灯灭了，我们也出不去。{w}……你还记得那段录音吧？{w}那是真的。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159414,7 +159414,7 @@
     {
       "id": "script_rpy_L059860_1_fe83dfdb",
       "text": "I see. What the fuck, then...? I don't get anything.{w} I thought I got caught up in your travel and both of us appeared in front of the hallway B door, the location where we were on the morning of the 15th.",
-      "new": "原来如此。那他妈的到底是怎么回事……？我完全搞不懂。{w}我本以为自己是卷进了你的时间穿越，我们两个一起出现在 B 走廊门口——也就是 15 日早上我们所在的位置。",
+      "new": "我明白了。那他妈到底是怎么回事……？我完全搞不懂。{w}我本来以为，自己被卷进了你的时间穿越，两个人才会一起出现在B走廊门前——也就是15日早上我们所在的地方。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159422,7 +159422,7 @@
     {
       "id": "script_rpy_L059861_1_026587ca",
       "text": "But that makes no sense...! And look at my clothes, I wasn't wearing these on the 15th!",
-      "new": "可这根本说不通……！你看看我的衣服，15 日那天我穿的不是这身！",
+      "new": "但这根本说不通……！而且你看看我的衣服，15日那天我穿的可不是这身！",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159430,7 +159430,7 @@
     {
       "id": "script_rpy_L059862_1_465603a1",
       "text": "You're right, actually. Were you wearing them when you touched the Sekimeiya?",
-      "new": "说得也是。你碰 Sekimeiya 的时候，穿的是这身吗？",
+      "new": "说起来，你说得对。你碰 Sekimeiya 的时候，穿的就是这些吗？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159462,7 +159462,7 @@
     {
       "id": "script_rpy_L059883_1_6df66820",
       "text": "It's set to be cold... Oh, and it's not damaged yet. Wasn't this the one with a crack?",
-      "new": "档位设在低温……哦，而且它还没坏。这不是那个有裂缝的吗？",
+      "new": "温度设得很低……哦，而且它还没损坏。这个不就是有裂痕的那个吗？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159510,7 +159510,7 @@
     {
       "id": "script_rpy_L059893_1_75839f32",
       "text": "Yes, which is what I don't get. When we woke up, it was in the event room, still in its cabinet.",
-      "new": "对，这就是我想不通的地方。我们醒来的时候，它在活动室，还好好地放在展示柜里。",
+      "new": "对，这正是我想不通的地方。我们醒来的时候，它明明还在活动室的展示柜里。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159542,7 +159542,7 @@
     {
       "id": "script_rpy_L059903_1_0352f27e",
       "text": "It could've been set just now, so it didn't have enough time to cool off.",
-      "new": "也许才刚设定好，还没来得及降温。",
+      "new": "也可能是刚刚才设好的，所以还没来得及变冷。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159566,7 +159566,7 @@
     {
       "id": "script_rpy_L059910_1_ae054abc",
       "text": "Sorry, when I touched it in the bathroom, its surroundings were incredibly hot. ...I can feel the heat, but it's nothing like then.{w} Do you know more about how the Sekimeiya works?",
-      "new": "抱歉，我在洗手间碰它的时候，它周围烫得惊人。……现在也能感觉到热，但完全不能和那时相比。{w} 你对 Sekimeiya 的原理了解得更多吗？",
+      "new": "抱歉，我在浴室里碰到它的时候，它周围烫得吓人。……现在也能感觉到热，但和那时完全不能比。{w} 关于 Sekimeiya 的原理，你还知道些什么吗？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159582,7 +159582,7 @@
     {
       "id": "script_rpy_L059916_1_88b5adaa",
       "text": "It's working, so if we're really at the start of the incident, wouldn't touching it put us outside?",
-      "new": "它现在是启动状态。如果我们真的处在事件的开端，碰它一下，不就能把我们送到外面去吗？",
+      "new": "它现在有反应了。如果我们真的回到了事件刚开始的时候，碰它一下，不就能把我们送到外面去吗？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159590,7 +159590,7 @@
     {
       "id": "script_rpy_L059917_1_af34ae5e",
       "text": "M-Maybe. That's what I was thinking. It should be hot enough for that.",
-      "new": "也、也许吧。我也是这么想的。热度应该够了吧。",
+      "new": "也、也许吧。我也是这么想的。热度应该够得上。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159638,7 +159638,7 @@
     {
       "id": "script_rpy_L059932_1_3a0dfeac",
       "text": "Th-This is what happened before. It teleported, and we didn't travel.",
-      "new": "之、之前也是这样。它被传送走了，我们却没有穿越。",
+      "new": "这、这就是之前发生过的事。它传送走了，我们却没有穿越。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159774,7 +159774,7 @@
     {
       "id": "script_rpy_L059999_1_a54fc0e5",
       "text": "I... don't know... I found it when I entered the tower, in the mechanical room. I found the rusty key in a drawer in the security room as well, but... how is it possible I still have them when my clothes completely changed?",
-      "new": "我……不知道……我进塔的时候，在机械室找到的。生锈的钥匙也是在监控室的抽屉里找到的，可是……我的衣服都彻底换了一身，这两把钥匙怎么还会在我身上？",
+      "new": "我……不知道……这是我进塔的时候，在机械室里找到的。生锈的钥匙也是在监控室的抽屉里找到的，可是……我的衣服明明全变了，这两样东西怎么还会在我身上？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -162190,7 +162190,7 @@
     {
       "id": "script_rpy_L060792_1_e0e85b06",
       "text": "Not gonna keep trying to clear your name? I suppose it'd be futile with how obvious it is that this is your doing.",
-      "new": "不打算继续替自己洗清嫌疑了？这么明显是你干的，再怎么辩解也是白费。",
+      "new": "不打算继续证明清白了？事情明摆着是你干的，再挣扎也是白费。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -163166,7 +163166,7 @@
     {
       "id": "script_rpy_L061143_1_5d228e15",
       "text": "He had independently learned that Ashiya had two identical Sekimeiya, but it wasn't public knowledge. Hence, abusing Xyn's plan still seemed feasible: he could keep a Sekimeiya for himself as long as Ashiya found Xyn's fake in the cabinet. That was why he left each Sekimeiya inside different cabinets in room B4.",
-      "new": "他私下打听到，Ashiya 手上有两个一模一样的 Sekimeiya，但这件事并未公开。因此，他觉得仍可把 Xyn 的计划反过来利用：只要 Ashiya 在展示柜里找到 Xyn 的赝品，他就能私吞一个 Sekimeiya。正因如此，他把两个 Sekimeiya 分别放进了水晶展室 B4 的两个展示柜。",
+      "new": "他私下打听到，芦屋手上有两个一模一样的 Sekimeiya，但这件事并未公开。因此，他觉得仍可把 Xyn 的计划反过来利用：只要芦屋在展示柜里找到 Xyn 的赝品，他就能私吞一个 Sekimeiya。正因如此，他把两个 Sekimeiya 分别放进了水晶展室 B4 的两个展示柜。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -163270,7 +163270,7 @@
     {
       "id": "script_rpy_L061193_1_29e111f1",
       "text": "In that world, he was surprised to find out the attic was unlocked, and even more so to see that everyone was taking shelter inside a bedroom.{w} There, he learned about two things: Katei's presence in the tower and the existence of the storeroom's secret.{w} Naturally, he knew who Katei Kuiji was, but he shouldn't have been there. Akaro had suspected someone from Ashiya had hindered their plan, so he was internally taken aback when he heard details about that world's events.",
-      "new": "在那个世界，他惊讶地发现阁楼没有上锁，更惊讶的是所有人都躲在某间卧室里避难。{w}在那里，他得知了两件事：Katei 就在塔里，以及储藏室藏有暗门。{w}他自然知道 Katei Kuiji 是什么人，但那人本不该出现在这里。Akaro 一直怀疑是 Ashiya 的人妨碍了他们的计划，所以听到那个世界事件的细节时，他心里暗自震惊。",
+      "new": "在那个世界，他惊讶地发现阁楼没有上锁，更惊讶的是所有人都躲在某间卧室里避难。{w}在那里，他得知了两件事：Katei 就在塔里，以及储藏室藏有暗门。{w}他自然知道 Katei Kuiji 是什么人，但那人本不该出现在这里。Akaro 一直怀疑是芦屋的人妨碍了他们的计划，所以听到那个世界事件的细节时，他心里暗自震惊。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -164822,7 +164822,7 @@
     {
       "id": "script_rpy_L061653_1_b91b9490",
       "text": "Why?{w} She appeared in the lobby of the tower, and the future coordinate was January 26th. I'm sure you haven't forgotten that phones are strictly prohibited in the tower: she couldn't have been there with it in the future, so she appeared without it in the past.",
-      "new": "为什么？{w} 她出现在塔的大厅，而未来的坐标是1月26日。你应该还记得，塔内严禁携带手机。她在未来不可能带着手机出现在那里，所以她在过去出现时，手机也就不在了。",
+      "new": "为什么？{w} 她出现在塔的大厅，而未来坐标是1月26日。想必你还记得，塔内严禁携带手机：在未来，她不可能带着手机待在那里，所以她在过去出现时，手机也就不在了。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -164846,7 +164846,7 @@
     {
       "id": "script_rpy_L061657_1_a90c1bb6",
       "text": "Why?{w} She appeared in the lobby of the tower, and the future coordinate was January 26th. I'm sure you haven't forgotten that phones are strictly prohibited in the tower: she couldn't have been there with it in the future, so she appeared without it in the past.",
-      "new": "为什么？{w} 她出现在塔的大厅，而未来的坐标是1月26日。你应该还记得，塔内严禁携带手机。她在未来不可能带着手机出现在那里，所以她在过去出现时，手机也就不在了。",
+      "new": "为什么？{w} 她出现在塔的大厅，而未来坐标是1月26日。想必你还记得，塔内严禁携带手机：在未来，她不可能带着手机待在那里，所以她在过去出现时，手机也就不在了。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -166022,7 +166022,7 @@
     {
       "id": "script_rpy_L061995_1_87046c14",
       "text": "We went to the security room and contacted the outside. That's when we had the call with Suripo, who told us about the story behind Ashiya and Xyn.",
-      "new": "我们去了监控室，与外界取得联系。就是那时和 Suripo 通了话，他告诉了我们 Ashiya 与 Xyn 之间的往事。",
+      "new": "我们去了监控室，与外界取得联系。就是那时和 Suripo 通了话，他告诉了我们芦屋与 Xyn 之间的往事。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166086,7 +166086,7 @@
     {
       "id": "script_rpy_L062014_1_c3f57fe0",
       "text": "And even that wasn't all. We tried to communicate with the outside a second time, but upon inputting his credentials, an \"Access Denied\" message appeared.{w} Why? I'm not completely sure why he would've done that, but he could've purposely entered an incorrect password to prompt that message. Perhaps there was a reason why he couldn't allow a second call, but he must've done that. After all, there's no way Ashiya would've been the ones to cut our single method of communication.",
-      "new": "而且事情还不止这些。我们第二次尝试与外界联络，输入他的账号信息后，却弹出了「拒绝访问」的提示。{w}为什么？我并不能完全确定他这样做的理由，但他很可能故意输错密码，好让那行提示出现。也许出于某种原因，他不能让第二次通话打通，而这事一定是他做的。毕竟，Ashiya 那边绝不可能自己切断我们唯一的联络方式。",
+      "new": "而且事情还不止这些。我们第二次尝试与外界联络，输入他的账号信息后，却弹出了「拒绝访问」的提示。{w}为什么？我并不能完全确定他这样做的理由，但他很可能故意输错密码，好让那行提示出现。也许出于某种原因，他不能让第二次通话打通，而这事一定是他做的。毕竟，芦屋那边绝不可能自己切断我们唯一的联络方式。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166094,7 +166094,7 @@
     {
       "id": "script_rpy_L062015_1_d8c827fe",
       "text": "...He wasn't in the security room when the smoke went off, but one of the things he said was that he'd tried to do his part of removing the shutter and that the system hadn't let him.{w} That didn't actually happen, but Suripo told us that a similar error was affecting Ashiya. Since Katei knew or lied about it without experiencing it, it follows he was probably the cause behind it. He didn't want the exit to open before the time limit.{w} Therefore, there was something he had to do before the time expired, and deleting the saved footage was likely part of that.{w} When we were done, we left him alone in the security room. That was the time we later learned footage had been erased; he used it to briefly reconnect the system and delete what he didn't want us to see.",
-      "new": "……烟雾弥漫的时候，他并不在监控室，但他说过一句话：他试过拆下自己负责的那部分卷帘门，系统却没让他操作。{w}这件事其实并没有发生，可 Suripo 告诉过我们，Ashiya 那边也出现了类似的故障。既然 Katei 没亲身经历却能知道这件事，或者干脆是在撒谎，那么他很可能就是造成这起故障的人。他不想让出口在时限之前打开。{w}也就是说，在时限结束前，他有非做不可的事，而删除已存的录像多半就是其中一环。{w}我们办完事之后，把他一个人留在了监控室。后来我们才知道，录像正是在那段时间被抹掉的——他利用那段时间短暂地接回系统，删掉了他不想让我们看到的东西。",
+      "new": "……烟雾弥漫的时候，他并不在监控室，但他说过一句话：他试过拆下自己负责的那部分卷帘门，系统却没让他操作。{w}这件事其实并没有发生，可 Suripo 告诉过我们，芦屋那边也出现了类似的故障。既然 Katei 没亲身经历却能知道这件事，或者干脆是在撒谎，那么他很可能就是造成这起故障的人。他不想让出口在时限之前打开。{w}也就是说，在时限结束前，他有非做不可的事，而删除已存的录像多半就是其中一环。{w}我们办完事之后，把他一个人留在了监控室。后来我们才知道，录像正是在那段时间被抹掉的——他利用那段时间短暂地接回系统，删掉了他不想让我们看到的东西。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -166222,7 +166222,7 @@
     {
       "id": "script_rpy_L062096_1_73c342be",
       "text": "She requested to talk to Katei privately; she represented Ashiya, so she couldn't let the others hear such a bold accusation against one of their workers if it was possible an explanation existed. However, she knew Katei had taken the Sekimeiya out of the cabinet.",
-      "new": "她要求和 Katei 单独谈谈。她代表的是 Ashiya，只要事情还有解释的余地，就不能让旁人听见她对公司员工做出这样大胆的指控。然而，她清楚 Katei 把 Sekimeiya 从展示柜里取了出来。",
+      "new": "她要求和 Katei 单独谈谈。她代表的是芦屋，只要事情还有解释的余地，就不能让旁人听见她对公司员工做出这样大胆的指控。然而，她清楚 Katei 把 Sekimeiya 从展示柜里取了出来。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -166270,7 +166270,7 @@
     {
       "id": "script_rpy_L062124_1_f08b3bfc",
       "text": "The truth was out, so Katei attempted a bribe. If they obtained the Sekimeiya, both of them could work together to trade it off.{w} Immediately, Naomi refused—she was Ashiya's most trusted employee.{w} The third step was a threat. With a calm voice, Katei let her pick between Ashiya or her own safety. He needed her to stay quiet, and starting immediately; she knew two real Sekimeiya existed.{w} However, as Katei's words were dismissed again, he finally wavered. He had been acting stern, but that was far from reality. Inwardly, Katei burned with rage toward Naomi.",
-      "new": "真相已经败露，Katei 便试着收买她。只要拿到 Sekimeiya，两人就能联手把它转手卖掉。{w}Naomi 当即拒绝——她可是 Ashiya 最受信任的员工。{w}第三步，他改用威胁。Katei 用平静的语气让她在 Ashiya 和自己的安危之间做选择。他必须让她立刻保持沉默；她已经知道有两块真正的 Sekimeiya。{w}然而，她再次拒绝，他终于动摇了。他一直摆出强硬的样子，可那与事实相去甚远。内心深处，Katei 对 Naomi 已是怒火中烧。",
+      "new": "真相已经败露，Katei 便试着收买她。只要拿到 Sekimeiya，两人就能联手把它转手卖掉。{w}Naomi 当即拒绝——她可是芦屋最受信任的员工。{w}第三步，他改用威胁。Katei 用平静的语气让她在芦屋和自己的安危之间做选择。他必须让她立刻保持沉默；她已经知道有两块真正的 Sekimeiya。{w}然而，她再次拒绝，他终于动摇了。他一直摆出强硬的样子，可那与事实相去甚远。内心深处，Katei 对 Naomi 已是怒火中烧。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -167438,7 +167438,7 @@
     {
       "id": "script_rpy_L062620_1_d49917b1",
       "text": "Now that I think more about it, it could be due to the lithium battery itself.{w} It was in the attic, a place that's been abandoned for many years. It was, I have to assume, a battery that the Ashiya family had when they lived there.",
-      "new": "再仔细想想，问题也许出在锂电池本身。{w} 它一直放在阁楼里，那地方已经废弃多年。我只能推测，那是芦屋一家还住在这里时留下的电池。",
+      "new": "再仔细想想，问题也许出在锂电池本身。{w} 它一直放在阁楼里，那地方已经废弃多年。我只能推测，那是芦屋家还住在这里时留下的电池。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -173622,7 +173622,7 @@
     {
       "id": "script_rpy_L064885_1_1f964125",
       "text": "The Sekimeiya have to be inside. Ashiya are waiting for Xyn's attack.",
-      "new": "Sekimeiya 一定在里面。芦屋一家正等着 Xyn 来袭。",
+      "new": "Sekimeiya 一定在里面。芦屋家正等着 Xyn 来袭。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -174982,7 +174982,7 @@
     {
       "id": "script_rpy_L065264_1_d850e34b",
       "text": "...ou okay? I'm so—",
-      "new": "你还好吗？抱歉，是我把你叫到这儿来的。",
+      "new": "……你还好吗？我真是太——",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -174990,7 +174990,7 @@
     {
       "id": "script_rpy_L065268_1_e8acc695",
       "text": "Don't worry. No— ...our fault.",
-      "new": "不……别在意。这些都不是你的错。",
+      "new": "别担心。不——……是我们的错。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -175046,7 +175046,7 @@
     {
       "id": "script_rpy_L065287_1_d501586c",
       "text": "...There's a reason why I believe Naomi hid upstairs if she's part of this, like I suspect. Above us are five desolate floors full of offices. However, there's a seventh floor that we call the attic, or the Ashiya floor.",
-      "new": "……如果 Naomi 真如我怀疑的那样参与其中，我认为她躲到楼上是有原因的。我们上方是五层空荡荡的办公楼层。不过还有第七层，我们称它为阁楼，也叫芦屋层。",
+      "new": "……我怀疑 Naomi 也牵涉其中，而她若真牵涉其中，我认为她藏在楼上是有原因的。我们头顶上有五层空荡荡的楼层，全是办公室。不过还有第七层，我们称之为阁楼，也叫芦屋层。",
       "speaker": "k4",
       "source_file": "script.rpy",
       "group": "story"
@@ -175422,7 +175422,7 @@
     {
       "id": "script_rpy_L065418_1_465ba2ae",
       "text": "Because I didn't feel like humoring your condescending attitude. Are you satisfied now?",
-      "new": "因为我不想迁就你那副高高在上的态度。现在满意了？",
+      "new": "因为我不想惯着你那副居高临下的样子。现在满意了？",
       "speaker": "k4",
       "source_file": "script.rpy",
       "group": "story"
@@ -175974,7 +175974,7 @@
     {
       "id": "script_rpy_L065591_1_691353c6",
       "text": "How is this possible...? I don't get it, but if you went to the past, why didn't you appear in this room? That's what happened to Katei.",
-      "new": "这怎么可能……？我实在不明白。可如果你回到过去，为什么没有出现在这个房间？Katei 可就是这样啊。",
+      "new": "这怎么可能……？我实在想不通。可如果你真回到了过去，为什么没在这个房间里出现？Katei 当时就是这样。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -176054,7 +176054,7 @@
     {
       "id": "script_rpy_L065611_1_0e9da2c7",
       "text": "It's not doing anything, and it's cold. ...It must do nothing when it's this color.{w} It's just a thought, but maybe I traveled farther because it spent more time out of the cabinet. When Katei touched it, it had barely been out for any time at all.",
-      "new": "它一点反应都没有，而且冰凉。……这种颜色的时候，它应该什么都不会做。{w}只是我的猜测——也许它离开展示柜的时间越长，我穿越得就越远。Katei 碰到它的时候，它才刚被拿出来没多久。",
+      "new": "它毫无反应，还是凉的。……变成这种颜色时，它应该就什么也做不了。{w}只是我的猜测——也许是因为它在展示柜外放的时间更长，我才穿越得更远。Katei 碰它的时候，它才刚从柜子里拿出来没多久。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -176086,7 +176086,7 @@
     {
       "id": "script_rpy_L065631_1_dccac2bc",
       "text": "...I still can't believe what just happened to me, but I think we should go along with what Katei said and leave this in the cabinet until we can leave.",
-      "new": "……我到现在也不敢相信刚才发生在我身上的事。不过我看，还是照 Katei 说的办，在能离开之前，就把它留在展示柜里吧。",
+      "new": "……我到现在还是不敢相信刚才发生在我身上的事。不过我觉得，还是照 Katei 说的做，在能离开之前把它留在柜子里吧。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -176126,7 +176126,7 @@
     {
       "id": "script_rpy_L065645_1_bcf7aed3",
       "text": "Oh, yeah, I did. That was when I realized I had really traveled through time. I moved to the second floor fast enough to stay out of sight.",
-      "new": "哦，对，是我。那时我才意识到自己真的穿越了时间。我赶紧躲上二楼，没让他们看见。",
+      "new": "哦，对，是我。那时我才意识到自己真的穿越了时间。我及时跑上二楼，才没被你们看见。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -176134,7 +176134,7 @@
     {
       "id": "script_rpy_L065650_1_cc57fb20",
       "text": "That's just insane. ...Were we actually searching for you? Where the hell is Naomi, then?",
-      "new": "这也太离谱了。……那我们当时真的是在找你吗？Naomi 又到底在哪儿？",
+      "new": "这也太荒唐了。……那我们刚才找的人，难道是你？Naomi 到底跑哪儿去了？",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176182,7 +176182,7 @@
     {
       "id": "script_rpy_L065682_1_1ac1911f",
       "text": "...No. I was on the second floor, so all I know is that he didn't go up.",
-      "new": "……没有。我在二楼，只知道他没有上楼。",
+      "new": "……没有。我一直在二楼，只知道他没有往上走。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -176246,7 +176246,7 @@
     {
       "id": "script_rpy_L065706_1_0addb235",
       "text": "And you still haven't found Naomi... You were inspecting this floor just now, right?",
-      "new": "而你们还是没找到 Naomi……刚才你们搜的就是这一层，对吧？",
+      "new": "那 Naomi 还是没找到……你们刚才是在查这一层吧？",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176262,7 +176262,7 @@
     {
       "id": "script_rpy_L065712_1_765765b3",
       "text": "That's very strange. She might have been able to keep dodging us, but there's no way that'll work for too long. There's no place where she could hide forever.",
-      "new": "这就很奇怪了。她也许能一直躲着我们，可那样撑不了太久。这里没有能让她永远藏身的地方。",
+      "new": "这就怪了。她或许能一直躲着我们，可这样撑不了太久。这楼里没有哪处能让她永远藏下去。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176350,7 +176350,7 @@
     {
       "id": "script_rpy_L065743_1_3a74f947",
       "text": "Oh, it's been like that for a while. I noticed it when we walked down from the attic and figured the others purposely left it like that.",
-      "new": "哦，那样有一阵子了。我们从阁楼下来的时候我就注意到了，还以为是其他人故意留着的。",
+      "new": "哦，那样有一阵子了。我们从阁楼下来时就看见了，还以为是其他人故意留着的。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176366,7 +176366,7 @@
     {
       "id": "script_rpy_L065749_1_b143834b",
       "text": "It must not have closed properly when you got off, then. I've seen it happen in the past.",
-      "new": "那就是你们下电梯的时候没关严。以前也出过这种事。",
+      "new": "那多半是你们下电梯时没关严。以前也出现过这种情况。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176526,7 +176526,7 @@
     {
       "id": "script_rpy_L065821_1_b707685c",
       "text": "...{w}The duct tape, remember? Sai took out my keyring, and it had a piece of duct tape attached to it. That piece had smoke residue on it.",
-      "new": "……{w}胶带啊，记得吗？Sai 把我的钥匙串掏了出来，上面粘着一块胶带，那块胶带上沾着烟熏的痕迹。",
+      "new": "……{w}胶带，记得吗？Sai 拿出我的钥匙串时，上面粘着一截胶带。那截胶带上留着烟熏的痕迹。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176534,7 +176534,7 @@
     {
       "id": "script_rpy_L065826_1_0538937b",
       "text": "I know it was duct tape because one side was still sticky, which means that it was only hit on the front side. In other words, it was stuck somewhere when the smoke was released.",
-      "new": "我能确定那是胶带，是因为有一面还带着黏性，说明只有正面被烟熏到。换句话说，放烟的时候，它正贴在什么地方。",
+      "new": "我知道那是胶带，因为它有一面还带着黏性，说明只有正面被烟熏到。也就是说，烟散出来的时候，它正贴在某个地方。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176550,7 +176550,7 @@
     {
       "id": "script_rpy_L065832_1_e69ace15",
       "text": "...{w}When I walked down to the crystal floor, searching for you, I found it hidden behind a handrail and put it in my pocket to inquire about it. That's when it got stuck to the keyring.",
-      "new": "……{w}我下到水晶层找你们的时候，发现它藏在扶手后面，就揣进口袋想回头问问。就是那时候它粘到了钥匙串上。",
+      "new": "……{w}我下到水晶层找你们的时候，发现它被藏在扶手后面，就收进了口袋，打算之后再问；就是那时粘到钥匙串上的。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176598,7 +176598,7 @@
     {
       "id": "script_rpy_L065844_1_03b9a28b",
       "text": "What the hell is Naomi doing...? We can't even use the computer to figure anything out.{w} Do you all think Sai ran away on his own? Now we need to find both of them.",
-      "new": "Naomi 到底在搞什么……？电脑也用不了，什么都查不出来。{w}你们觉得 Sai 是自己跑掉的吗？现在得找他们两个了。",
+      "new": "Naomi 到底在搞什么……？连电脑都用不了，什么都查不出来。{w}你们真觉得 Sai 是自己跑掉的？现在倒好，两个人全得找。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176606,7 +176606,7 @@
     {
       "id": "script_rpy_L065845_1_542b1ceb",
       "text": "We lost track of him when we were searching this hallway, which would've been a good opportunity to sneak away. I have no idea why he'd do that, though.",
-      "new": "我们搜这条走廊的时候没看住他，那确实是个溜走的好机会。不过他为什么这么做，我一点头绪都没有。",
+      "new": "我们在这条走廊里搜寻的时候跟丢了他，那确实是个溜走的好机会。不过，我想不通他为什么要这么做。",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176622,7 +176622,7 @@
     {
       "id": "script_rpy_L065848_1_f65ed2f2",
       "text": "Maybe now you can believe that he was the one up to something. I'm just trying to do my job.",
-      "new": "这下你们总该信了吧，捣鬼的人是他。我只是想做好分内的事。",
+      "new": "也许现在你们该相信，真正有鬼的人是他。我只是想做好分内的事。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -177270,7 +177270,7 @@
     {
       "id": "script_rpy_L066032_1_70689003",
       "text": "I showed up here as soon as you did that. Are we in the past...?",
-      "new": "你一动它，我就出现在这里了。我们是在过去……？",
+      "new": "你刚碰完，我就出现在这里了。我们是在过去吗……？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177318,7 +177318,7 @@
     {
       "id": "script_rpy_L066040_1_8bc7ed89",
       "text": "What...!? You've been gone for over two hours! Answer the question!",
-      "new": "什么……！？你们俩已经失踪两个多小时了！先回答我的问题！",
+      "new": "什么……！？你们已经消失两个多小时了！回答我的问题！",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177534,7 +177534,7 @@
     {
       "id": "script_rpy_L066081_1_405e5c34",
       "text": "Y-Yes... That's where I s-saw him, while we were waiting. Fuck.",
-      "new": "对、对……就是在那儿，我们等着的时候，我、我见过他。该死。",
+      "new": "对、对……我们等着的时候，我就是在那里看、看见他的。妈的。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177606,7 +177606,7 @@
     {
       "id": "script_rpy_L066095_1_0ebac8fb",
       "text": "What the hell are you talking about? How would I have left!?",
-      "new": "你在胡说什么？我怎么可能出得去！？",
+      "new": "你在胡说些什么？我怎么可能出得去！？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177878,7 +177878,7 @@
     {
       "id": "script_rpy_L066145_1_3f9f05af",
       "text": "If not, then one of you did this. Naomi's disappearance should be enough proof that we're missing something, though.",
-      "new": "如果不是这样，那就是你们其中一个干的。不过，Naomi 的失踪应该足以证明我们漏了什么。",
+      "new": "若不是这样，那就是你们当中有人下的手。不过，Naomi 的失踪已经足以证明我们漏掉了什么。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177910,7 +177910,7 @@
     {
       "id": "script_rpy_L066150_1_4859ca8e",
       "text": "We'll look everywhere. Not only could people still be hiding, but the Sekimeiya has to be somewhere too. I can't imagine the real person responsible doesn't know where.",
-      "new": "我们会把每个角落都找一遍。不但可能还有人藏着，Sekimeiya 也一定在什么地方。我不信真正的凶手会不知道它在哪。",
+      "new": "每个地方都要搜。不仅可能还有人藏着，Sekimeiya 也一定在某处。我不信真正的凶手会不知道它在哪儿。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178254,7 +178254,7 @@
     {
       "id": "script_rpy_L066274_1_fc46f773",
       "text": "There's nobody here. I didn't find the Sekimeiya or any potential hiding spot we don't know of. If Naomi's here, she's somehow above us.",
-      "new": "这里没有人。Sekimeiya 没找到，也没发现任何我们不知道的藏身处。如果 Naomi 真在这里，那她就在我们头顶上。",
+      "new": "这里没有人。我没找到 Sekimeiya，也没发现任何我们不知道的藏身之处。如果 Naomi 在这里，那她一定是躲在我们上面的哪一层。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178262,7 +178262,7 @@
     {
       "id": "script_rpy_L066275_1_d801d7a4",
       "text": "...Are you sure you were thorough? Do you know some cabinets have compartments inside? The Sekimeiya could be there.",
-      "new": "……你确定查仔细了吗？你知道有些展示柜里面有隔层吧？Sekimeiya 可能就在那儿。",
+      "new": "……你确定都仔细查过了？有些展示柜里面还有暗格，这你知道吗？Sekimeiya 说不定就藏在那里。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -178278,7 +178278,7 @@
     {
       "id": "script_rpy_L066277_1_e4c8e09b",
       "text": "Even the ones with temperature regulation? Did you make sure to close them?",
-      "new": "连带温控的那些也查了？你确定都关好了？",
+      "new": "连那些带温控的也查了？都关严了吧？",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -178286,7 +178286,7 @@
     {
       "id": "script_rpy_L066278_1_26b7057b",
       "text": "Those too, yeah. It took me a bit to figure out how to open them.",
-      "new": "那些也查了。我花了点时间才弄明白怎么打开。",
+      "new": "也查了。我还花了一会儿才弄明白怎么打开。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178406,7 +178406,7 @@
     {
       "id": "script_rpy_L066332_1_ad24578a",
       "text": "I think they stayed on the crystal floor and let us go by ourselves.",
-      "new": "他们大概留在水晶层了，让我们自己上去。",
+      "new": "他们大概留在水晶层了，让我们自己上来。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178422,7 +178422,7 @@
     {
       "id": "script_rpy_L066338_1_a43bb8e4",
       "text": "Yes, and we should continue. We have to find something. Be it Naomi or the Sekimeiya.",
-      "new": "嗯，我们继续吧。总得找到点什么——不管是 Naomi，还是 Sekimeiya。",
+      "new": "嗯，我们继续吧。总得找到点什么，不管是 Naomi 还是 Sekimeiya。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178470,7 +178470,7 @@
     {
       "id": "script_rpy_L066358_1_0423eeb5",
       "text": "If she's in the attic, she won't be able to take the elevator down, but this is very strange.",
-      "new": "如果她在阁楼，就没法坐电梯下来，可这也太奇怪了。",
+      "new": "要是她在阁楼，就没法坐电梯下来。可这也太奇怪了。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178598,7 +178598,7 @@
     {
       "id": "script_rpy_L066419_1_49597f79",
       "text": "...{w}I don't get it. Was Naomi never with us?{w} How is this possible? I know we've already been here for a long time, but that doesn't make it any less confusing. Where the hell is the Sekimeiya, also?",
-      "new": "……{w}我不明白。Naomi 难道从来没有跟我们在一起过？{w} 这怎么可能？我知道我们在这里已经待了很久，可照样想不通。还有，Sekimeiya 到底在哪儿？",
+      "new": "……{w}我搞不懂了。Naomi 难道从来就没跟我们在一起？{w}这怎么可能？我知道我们在这儿已经待了很久，可我还是一样摸不着头脑。还有，Sekimeiya 又到底在哪儿？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178614,7 +178614,7 @@
     {
       "id": "script_rpy_L066421_1_5b29017a",
       "text": "Let's just go back down. I hope they trust what we tell them.{w} ...We can't even take the elevator, damn it.",
-      "new": "算了，先下楼吧。希望他们会相信我们的话。{w} ……偏偏连电梯都坐不了。",
+      "new": "先下去吧。希望他们会相信我们说的话。{w}……该死，连电梯都坐不了。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178734,7 +178734,7 @@
     {
       "id": "script_rpy_L066476_1_accafa42",
       "text": "What I think is that this door leads outside. The storeroom now stretches farther out than the crystal rooms, and it's a hidden locked door that would explain the policeman's appearance and Naomi's vanishing.",
-      "new": "我的猜想是，这扇门通向外边。现在的储藏室比水晶展室更靠外，而一扇锁着的暗门，正好能解释那名警察的出现和 Naomi 的消失。",
+      "new": "我的判断是，这扇门通向外面。储藏室现在比水晶展室延伸得更靠外，而这扇上锁的暗门正好能解释警察为什么会出现在这里，以及 Naomi 为什么消失不见。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178742,7 +178742,7 @@
     {
       "id": "script_rpy_L066477_1_c4b3b78c",
       "text": "W-Wait, really...? If a policeman entered, why did nobody else?",
-      "new": "等、等一下，真的吗……？既然有警察进来过，为什么别人没进来？",
+      "new": "等、等等，真的吗……？既然警察能进来，为什么没有别的人进来？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178806,7 +178806,7 @@
     {
       "id": "script_rpy_L066487_1_6df768a0",
       "text": "I promise I didn't. I also don't think this door leads outside. There's no way I wouldn't have ever noticed it.",
-      "new": "我发誓我不知道。我也不觉得这扇门通向外边。我怎么可能一直没注意到它。",
+      "new": "我保证我不知道。我也不认为这扇门通向外面。若真有这回事，我不可能始终没发现。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178814,7 +178814,7 @@
     {
       "id": "script_rpy_L066488_1_255dceb5",
       "text": "And it makes sense that you didn't know about it if it doesn't lead outside?",
-      "new": "所以，正因为这扇门不通外面，你不知道也说得通了？",
+      "new": "那么，如果这扇门不通向外面，你不知道它倒也说得通？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178822,7 +178822,7 @@
     {
       "id": "script_rpy_L066489_1_26e8e9c3",
       "text": "...I'm just speechless. This room is practically unused, but I can't believe this existed.",
-      "new": "……我实在无话可说。这房间几乎没人用过，可我真不敢相信这里还有这种东西。",
+      "new": "……我只是无话可说。这个房间几乎没人用过，可我实在难以相信这里会有这种东西。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178830,7 +178830,7 @@
     {
       "id": "script_rpy_L066490_1_24dacd0f",
       "text": "...{w}Now a few things make sense, at least. As you said, nobody was found, so Naomi must've been here at some point.",
-      "new": "……{w}至少现在有些事说得通了。就像你说的，谁都没被找到，所以 Naomi 一定在某个时候来过这里。",
+      "new": "……{w}至少现在有几件事说得通了。就像你说的，到处都没找到人影，所以 Naomi 一定来过这里。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178870,7 +178870,7 @@
     {
       "id": "script_rpy_L066495_1_9499d60e",
       "text": "I'm not telling you that. One of you could potentially manage to open this, so I'd rather not give you any indication of what I've done.",
-      "new": "这我不会说。你们当中说不定有人能打开它，所以我不想透露自己做了什么。",
+      "new": "这我可不会说。你们之中说不定有人能打开这扇门，所以我不想透露自己做了什么。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178886,7 +178886,7 @@
     {
       "id": "script_rpy_L066499_1_b80589b7",
       "text": "...I think that's fair. It wouldn't be wise to demand that you tell us.",
-      "new": "……我觉得这很合理。硬要你说出来并不明智。",
+      "new": "……我觉得这样很合理。硬要你说出来，并不是明智之举。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178894,7 +178894,7 @@
     {
       "id": "script_rpy_L066500_1_e08540b2",
       "text": "Just trust me. I will know if the door opens. However, it's possible it won't and that the plan already finished after the Sekimeiya was brought outside.",
-      "new": "相信我吧。门一开，我就会知道。不过也有可能它不会再开——Sekimeiya 被带到外面之后，计划就已经完成了。",
+      "new": "相信我就好。门一旦打开，我会知道。不过，也可能它不会再开——Sekimeiya 被带到外面之后，计划就已经结束了。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178926,7 +178926,7 @@
     {
       "id": "script_rpy_L066504_1_7d6972a3",
       "text": "Do you think I'll believe you were walking around for hours and we didn't see you? You either went through this door or were in the attic.",
-      "new": "你以为我会相信你在外面转了几个小时，我们却谁都没看见你？你要么是从这扇门出去的，要么就待在阁楼里。",
+      "new": "你觉得我会相信你转了几个小时，而我们却一次都没见到你？你要么穿过这扇门出去了，要么就待在阁楼里。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178950,7 +178950,7 @@
     {
       "id": "script_rpy_L066507_1_39491ba1",
       "text": "How do you intend to know whether I was there? I won't allow anyone in lightly.",
-      "new": "你打算怎么确认我在不在那里？我不会随便让人进去。",
+      "new": "你打算怎么确认我有没有去过那里？我不会随随便便让任何人进去。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -179286,7 +179286,7 @@
     {
       "id": "script_rpy_L066656_1_27557270",
       "text": "...The elevator was disabled. That's much more unlikely to have gone wrong. If it was working for some reason, the button would light up when it arrived.",
-      "new": "……电梯当时是停用的。这件事出问题的可能性要小得多。如果它出于某种原因还能运行，那电梯一到，按钮就会亮起。",
+      "new": "……电梯处于停用状态。那种东西出故障的可能性要小得多。要是它不知为何还能运行，到的时候按钮会亮起来。",
       "speaker": "knn",
       "source_file": "script.rpy",
       "group": "story"
@@ -179630,7 +179630,7 @@
     {
       "id": "script_rpy_L066822_1_9676b9a6",
       "text": "Y—! You scared the fuck out of me!{w} Holy shit! What the fuck are you doing!? You almost hit me with the door!",
-      "new": "哇——！你他妈吓死我了！{w} 我操！你他妈到底在干什么！？门差点撞到我身上！",
+      "new": "哇——！吓死我了！{w} 搞什么啊！你到底在干什么！？门差点砸到我身上！",
       "speaker": "sainn",
       "source_file": "script.rpy",
       "group": "story"
@@ -179646,7 +179646,7 @@
     {
       "id": "script_rpy_L066828_1_e1716480",
       "text": "Don't you think that's a better question for you? What are you doing!?",
-      "new": "你不觉得这话该我问你吗？你到底在干什么！？",
+      "new": "这话不是该我问你吗？你在干什么！？",
       "speaker": "aknn",
       "source_file": "script.rpy",
       "group": "story"
@@ -179766,7 +179766,7 @@
     {
       "id": "script_rpy_L066889_1_7768c8bb",
       "text": "You're right... I forgot to tell you to lock it because I was annoyed that Sai left.",
-      "new": "你说得对……我因为 Sai 离开而心烦，忘了提醒你们锁门。",
+      "new": "说得对……我因为 Sai 走了而心烦，忘了提醒你们锁门。",
       "speaker": "knn",
       "source_file": "script.rpy",
       "group": "story"
@@ -179774,7 +179774,7 @@
     {
       "id": "script_rpy_L066894_1_0dc9821a",
       "text": "Whoa, then someone's definitely in here. Is it time to have a talk with Naomi? I wonder if she knows we can enter.",
-      "new": "嚯，那这里面肯定有人。该去和 Naomi 谈谈了吧？不知道她是否清楚我们能进来。",
+      "new": "这么说，里面肯定有人。是不是该和 Naomi 谈谈了？不知道她知不知道我们能进来。",
       "speaker": "sainn",
       "source_file": "script.rpy",
       "group": "story"
@@ -179830,7 +179830,7 @@
     {
       "id": "script_rpy_L066918_1_3ab21aa6",
       "text": "Someone else is certainly in this building. I left the attic just now.",
-      "new": "这栋楼里肯定还有别人。我刚刚才离开阁楼。",
+      "new": "这栋楼里肯定还有别人。我刚从阁楼出来。",
       "speaker": "knn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180142,7 +180142,7 @@
     {
       "id": "script_rpy_L067060_1_17c44f27",
       "text": "I-I think someone was on the floor above me at some point. Were you alone when you found her?",
-      "new": "我、我觉得刚才有一阵，楼上有人。你发现她的时候，是一个人吗？",
+      "new": "我、我好像有段时间感觉楼上有动静。你发现她的时候是一个人吗？",
       "speaker": "mnn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180158,7 +180158,7 @@
     {
       "id": "script_rpy_L067066_1_e5b84ea8",
       "text": "It's not possible for us to take the elevator, so let's walk up. We should come across someone.",
-      "new": "我们没法坐电梯，那就走上去吧。总能碰上人的。",
+      "new": "电梯是坐不成了，我们走上去吧。总会碰上人的。",
       "speaker": "mnn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180366,7 +180366,7 @@
     {
       "id": "script_rpy_L067167_1_d672b92a",
       "text": "So she's with the others. Sorry, that was stupid of me. This time, this is actually where she died.",
-      "new": "这样她就和大家在一起了。抱歉，是我犯傻。这一次，她确实是死在这里。",
+      "new": "这样她就能和其他人在一起了。抱歉，是我糊涂了。这次，她确实是死在这里的。",
       "speaker": "aknn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180438,7 +180438,7 @@
     {
       "id": "script_rpy_L067187_1_7793449d",
       "text": "It's not possible for us to take the elevator, so let's walk up. We should come across someone.",
-      "new": "我们坐不了电梯，就走上去吧。路上应该会碰见人。",
+      "new": "电梯是坐不成了，我们走上去吧。总会碰上人的。",
       "speaker": "mnn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180710,7 +180710,7 @@
     {
       "id": "script_rpy_L067352_1_d5b2b5ff",
       "text": "Because the last time it wasn't working, remember? I can test if it is now without activating it.",
-      "new": "因为上次它用不了，记得吗？我可以在不启动它的情况下，试出它现在能不能用。",
+      "new": "因为上次它没起作用，还记得吧？现在不用启动它，我也能试出它是否恢复正常。",
       "speaker": "sainn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180766,7 +180766,7 @@
     {
       "id": "script_rpy_L067384_1_cff62690",
       "text": "Back then, you said it was burning and you could hardly hold it. Is it possible it teleports when it gets too hot?",
-      "new": "那时候你说它烫得几乎拿不住。会不会是热过头了，它就会传送？",
+      "new": "当时你说它烫得几乎拿不住。会不会是热到一定程度，它就会传送？",
       "speaker": "aknn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180774,7 +180774,7 @@
     {
       "id": "script_rpy_L067389_1_c345d6c6",
       "text": "And the next time we found it, it wasn't working. It could be that...",
-      "new": "而下次我们找到它时，它已经不动了。说不定是因为……",
+      "new": "而下一次我们找到它时，它已经失灵了。会不会是因为……",
       "speaker": "ann",
       "source_file": "script.rpy",
       "group": "story"
@@ -180782,7 +180782,7 @@
     {
       "id": "script_rpy_L067394_1_343548d1",
       "text": "It's working now, but we can test it. If the outer layer of the sheet felt hot for Isla, it's possible that it making the sheet hot made it heat up even more quickly.",
-      "new": "它现在确实能用，不过我们可以验证一下。要是 Isla 摸到的布外层是烫的，那说不定它把布烤热的同时，自己也升温得更快了。",
+      "new": "它现在还能用，不过我们可以试一下。Isla 隔着布都能摸到烫，那也许是布被加热后反过来让它升温更快。",
       "speaker": "sainn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180846,7 +180846,7 @@
     {
       "id": "script_rpy_L067413_1_89266c50",
       "text": "And it seems like it started just now, right? Otherwise, the pool on the floor would be much bigger.",
-      "new": "而且像是刚刚才开始流的吧？不然地上那摊血会大得多。",
+      "new": "而且看起来是刚刚才开始流的，对吧？否则地上的血泊会大得多。",
       "speaker": "sainn",
       "source_file": "script.rpy",
       "group": "story"
@@ -181550,7 +181550,7 @@
     {
       "id": "script_rpy_L067744_1_14ae1ef8",
       "text": "That's false. Since she seems to be with you, I really doubt you were stupid enough to make her enter through the storeroom. That's what's strange, but perhaps you did.{w} Let me see.",
-      "new": "不对。既然她看起来和你们在一起，我不认为你会蠢到让她从储藏室进来。奇怪就奇怪在这里——不过，也许你真这么做了。{w} 让我看看。",
+      "new": "不对。她看起来是和你一起的，所以我实在不觉得你会蠢到让她从储藏室进来。奇怪就奇怪在这里，不过也许你真这么做了。{w}让我看看。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -181582,7 +181582,7 @@
     {
       "id": "script_rpy_L067760_1_7768549d",
       "text": "I just wanted to verify that she hasn't entered through the storeroom yet.",
-      "new": "我只是想确认，她还没有从储藏室进来。",
+      "new": "我只是想确认她还没有从储藏室进来。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -181726,7 +181726,7 @@
     {
       "id": "script_rpy_L067811_1_3f405a5c",
       "text": "Fuck... Let's hurry. The Sekimeiya might've appeared on this floor.{w} I didn't think this through. If someone's actually here, there's a chance it'll allow them to escape.",
-      "new": "该死……动作快。Sekimeiya 可能已经出现在这一层了。{w} 我没考虑到这点。要是真有人在这里，它说不定会给他们逃走的机会。",
+      "new": "妈的……动作快点。Sekimeiya 可能已经出现在这层了。{w}是我考虑不周。要是真有人在这儿，说不定反而会让对方有机会逃走。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -182486,7 +182486,7 @@
     {
       "id": "script_rpy_L068008_1_9dce86bf",
       "text": "This is very important. Stay here until the search is finished.",
-      "new": "这件事非常重要。待在这里，直到搜查结束。",
+      "new": "这件事非常重要。待在这里，等搜查结束。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183438,7 +183438,7 @@
     {
       "id": "script_rpy_L068274_1_79d9f7cb",
       "text": "Hey, answer me! You really were here... Are you really me? What the fuck is going on!?",
-      "new": "喂，回答我！你真的在这里……你真的是我吗？这他妈到底怎么回事！？",
+      "new": "喂，回答我！你真的在这里……你真的是我吗？这到底是怎么回事！？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183478,7 +183478,7 @@
     {
       "id": "script_rpy_L068289_1_5b27f8ad",
       "text": "What the fuck is happening, then!? I thought it was impossible that we'd see each other. Was that wrong?",
-      "new": "那这他妈到底怎么回事！？我以为我们不可能见面。难道我想错了？",
+      "new": "那这到底是怎么回事！？我原以为我们不可能碰面。难道我想错了？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183494,7 +183494,7 @@
     {
       "id": "script_rpy_L068292_1_567bfabf",
       "text": "What the fuck...? Tell me, then! What's going on!? How the fuck can you even exist!?",
-      "new": "这他妈……？那就告诉我！到底怎么回事！？你他妈怎么可能存在！？",
+      "new": "搞什么啊……？那就告诉我！到底发生了什么！？你到底是怎么存在的！？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183518,7 +183518,7 @@
     {
       "id": "script_rpy_L068295_1_5a9d0419",
       "text": "I know exactly how you feel, I promise. I will tell you one thing, though, since we've already met: you shouldn't worry about anything.",
-      "new": "我保证，我完全明白你的感受。不过，既然我们已经见面了，我就告诉你一件事：你什么都不用担心。",
+      "new": "我完全明白你现在的感受，真的。不过既然我们已经碰上了，我就告诉你一件事：你什么都不用担心。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183534,7 +183534,7 @@
     {
       "id": "script_rpy_L068301_1_61469c01",
       "text": "I shouldn't worry? There's no way you're actually me, right?",
-      "new": "不用担心？你根本不可能是真的我吧？",
+      "new": "不用担心？你根本不可能是真正的我吧？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183550,7 +183550,7 @@
     {
       "id": "script_rpy_L068307_1_85924226",
       "text": "Wh-What...? How can you tell? And how would that even be possible!?",
-      "new": "什、什么……？你怎么知道？这又怎么可能啊！？",
+      "new": "什、什么……？你怎么知道？而且这怎么可能！？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183574,7 +183574,7 @@
     {
       "id": "script_rpy_L068314_1_22b37aac",
       "text": "Look, we're the same person. Just trust me, or yourself, on this. Sincerely, everything should turn out fine.",
-      "new": "听着，我们就是同一个人。这件事上，相信我，就等于相信你自己。我是认真的，一切都会好起来的。",
+      "new": "听着，我们是同一个人。这件事，你就信我，也就是信你自己。我说真的，一切都会顺利的。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183622,7 +183622,7 @@
     {
       "id": "script_rpy_L068330_1_9d66aa1a",
       "text": "Do you not know that? She was killed here, and her body disappeared from the lobby!",
-      "new": "你不知道吗？她在这里被人杀了，尸体从大堂消失了！",
+      "new": "你不知道吗？她在这里被杀了，尸体却从大厅里消失了！",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183654,7 +183654,7 @@
     {
       "id": "script_rpy_L068334_1_a992d496",
       "text": "You should believe what I say. I still don't fully understand how that works, but you have to trust me.",
-      "new": "你该相信我说的话。我自己也还没完全弄明白这是怎么回事，但你必须相信我。",
+      "new": "你该相信我说的话。这到底是怎么回事，我还没完全弄明白，但你得信我。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183662,7 +183662,7 @@
     {
       "id": "script_rpy_L068339_1_253f75bc",
       "text": "...You can't explain it? Then there's no way you're actually telling the truth, right?",
-      "new": "……你解释不了？那你说的根本不可能是实话吧？",
+      "new": "……你解释不了？那你说的就不可能是真的吧？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183670,7 +183670,7 @@
     {
       "id": "script_rpy_L068340_1_d6f9d7bb",
       "text": "I am. While I can't be fully confident about what I'm saying, I'll just ask you to believe me.",
-      "new": "我说的就是实话。虽然我自己也不敢完全肯定，但也只能请你相信我。",
+      "new": "是真的。虽然我对自己的话也没有十足把握，但我只能请你相信我。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183766,7 +183766,7 @@
     {
       "id": "script_rpy_L068373_1_522f3194",
       "text": "You two should hurry back down. On the second floor, enter the second partition, leave the Sekimeiya on the floor, and wait there.",
-      "new": "你们俩赶紧下去。到二楼，进第二个隔间，把 Sekimeiya 放在地上，就在那里等着。",
+      "new": "你们俩赶紧下楼去。到二楼，进第二间隔间，把 Sekimeiya 放在{tip=floor}地上{/tip}，就在那儿等着。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183782,7 +183782,7 @@
     {
       "id": "script_rpy_L068379_1_44d5341b",
       "text": "Yes. From there, if anyone passes by, you should hear them. If you hear the elevator four times, you can go back down and place the Sekimeiya in its cabinet. Make sure that it isn't activated again.",
-      "new": "对。待在那儿，要是有人经过，你们应该能听见。如果听到电梯响四次，就可以下去，把 Sekimeiya 放回展示柜。千万别让它再次启动。",
+      "new": "对。待在那里，只要有人经过，你们应该都能听见。要是听到电梯响四次，就可以下楼，把 Sekimeiya 放回它的展示柜里。务必确保它不会再被启动。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183790,7 +183790,7 @@
     {
       "id": "script_rpy_L068380_1_a496ffc9",
       "text": "However, it's possible that the first time, instead of hearing the elevator, you'll hear someone running up. If that happens, once you hear the elevator two times, you can go down and place the Sekimeiya in the cabinet.",
-      "new": "不过，第一次响的可能不是电梯，而是有人跑上楼的脚步声。要是这样，等电梯响过两次，你们就下去，把 Sekimeiya 放回展示柜。",
+      "new": "不过，第一次你听到的可能不是电梯，而是有人跑上楼的脚步声。若是那样，等电梯响过两次，你们就可以下楼，把 Sekimeiya 放回展示柜。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183806,7 +183806,7 @@
     {
       "id": "script_rpy_L068391_1_ebd5de99",
       "text": "O-Okay, and... after that, you're saying everything will be fine, right?",
-      "new": "好、好的，那……之后你就能保证一切都没事，对吧？",
+      "new": "好、好的，那……之后，你是说一切都会没事，对吧？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183814,7 +183814,7 @@
     {
       "id": "script_rpy_L068392_1_d2e518b7",
       "text": "Yes. Wait patiently with everyone on the crystal floor and make sure to get out safely. I'll pray with you for what will happen after that.",
-      "new": "嗯。在水晶层和大家一起耐心等着，务必平安离开。之后的事，我会和你们一同祈祷。",
+      "new": "对。和大家一起在水晶层耐心等着，务必平安离开。至于之后会发生什么，我会和你们一同祈祷。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -184030,7 +184030,7 @@
     {
       "id": "script_rpy_L068472_1_792060a3",
       "text": "I remember what you told me. You said you traveled to the 30th of November, and that a few days later, you touched the Sekimeiya in the tower. Is that right?",
-      "new": "啊？很、很多事！你全都记得吗？那天很晚了，我们在大厅，我去了洗手间。就在那儿，我启动了 Sekimeiya，出现在11月30日，那家宝石店的下方。{w}然后……过了几天，我进了塔，碰到了 Sekimeiya。于是就到了这里。",
+      "new": "我记得你跟我说过的话。你说你穿越到了 11 月 30 日，几天之后，在塔里碰了 Sekimeiya。是这样吧？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
