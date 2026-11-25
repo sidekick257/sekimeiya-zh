@@ -5942,7 +5942,7 @@
     {
       "id": "script_rpy_L000095_1_fd17de67",
       "text": "I'd always thought I'd be quick at adapting to sudden changes, but I'd recently realized how mistaken that was. Still unable to process everything, my brain continually struggled to accept that the previous few days had really happened.",
-      "new": "我一直以为自己面对突发变故总能很快适应，最近才发现根本不是这样。那几天经历的一切，我至今仍消化不了，脑子里怎么也接受不了那是真的。",
+      "new": "我一直以为自己面对突发变故总能很快适应，最近才发现根本不是这样。那几天的事，我至今还回不过神来，脑子里怎么也接受不了那是真的。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -8414,7 +8414,7 @@
     {
       "id": "script_rpy_L001001_1_4c64a3ea",
       "text": "Isla processed that information in silence for a minute. I didn't expect she'd take it well.",
-      "new": "Isla 沉默了一阵，慢慢消化着这些话。我本以为她会承受不住。",
+      "new": "Isla 沉默了一阵，把这些话在心里慢慢过了一遍。我本以为她会承受不住。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -15334,7 +15334,7 @@
     {
       "id": "script_rpy_L003825_1_1ce1eef4",
       "text": "Sai said that, but it didn't look like he disbelieved Katei's explanation. He was most likely referring to everything else Katei said previously with the sole intention to provoke him.",
-      "new": "",
+      "new": "Sai 虽然这么说，但看起来他并不是不信 Katei 的解释。他多半指的是 Katei 先前说的那些话——那些话本来就是为了激怒他。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -27070,7 +27070,7 @@
     {
       "id": "script_rpy_L008956_1_4ddcc7df",
       "text": "...Isla, still between Erina's arms, looked the least dubious of me, but she still seemed to be trying to process that her friend's prediction hadn't come true.",
-      "new": "……Isla 仍被 Erina 搂在怀里，在众人当中，她看起来最不怀疑我，但似乎仍在消化她朋友的预言没有应验这件事。",
+      "new": "……Isla 仍被 Erina 搂在怀里，在众人当中，她看起来最不怀疑我，但似乎仍在想着，她朋友的预言竟没有应验。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -27366,7 +27366,7 @@
     {
       "id": "script_rpy_L009066_1_eb6892af",
       "text": "Oh, you're here. I found something.",
-      "new": "哦，你在这儿。我发现了点东西。",
+      "new": "哦，你在这儿啊。我发现了点东西。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -37678,7 +37678,7 @@
     {
       "id": "script_rpy_L013833_1_478f4c00",
       "text": "Out of nowhere, Naomi's body was pulled from the inside.{w} I felt as if my heart was pulled along with her. I couldn't see her anymore, and two people were in the bathroom, their figures hidden from me.",
-      "new": "她的身影消失了；洗手间里有两个人，而我一个也看不见。",
+      "new": "冷不丁地，Naomi 的身体被从里面拽了进去。{w}我的心仿佛也跟着被拽走了。她的身影消失了，洗手间里有两个人，我却一个也看不见。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -44678,7 +44678,7 @@
     {
       "id": "script_rpy_L016490_1_b2d1c679",
       "text": "Once they finished, the result took a bit of time to sink in. Not only had they not found Isla, but Katei, Shiroya, and Atsuki hadn't been drawn to their yells either.",
-      "new": "搜完之后，这个结果好一会儿才被消化。他们不但没找到 Isla，就连 Katei、Shiroya 和 Atsuki 也没被喊声引来。",
+      "new": "搜完之后，好一会儿他们才回过神来。他们不但没找到 Isla，就连 Katei、Shiroya 和 Atsuki 也没被喊声引来。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -44958,7 +44958,7 @@
     {
       "id": "script_rpy_L016601_1_fa4c1376",
       "text": "Even though she couldn't begin to take in what had happened, she understood that her life had warped into something terrible, regret her only companion. She took advantage of the last amount of strength she had within herself and used it while adrenaline still let her.",
-      "new": "尽管她根本无从消化发生的一切，却明白自己的人生已经扭曲成了可怕的模样，只剩下悔恨相伴。她用尽体内最后一点力气，趁着肾上腺素还未退去。",
+      "new": "尽管她一时还理解不了发生的一切，却明白自己的人生已经扭曲成了可怕的模样，只剩下悔恨相伴。她用尽体内最后一点力气，趁着肾上腺素还未退去。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -45014,7 +45014,7 @@
     {
       "id": "script_rpy_L016644_1_24f86656",
       "text": "Sai finished summarizing what had happened, avoiding explicit words that would've hurt Erina even more. It was way too much to take in, and it revealed that we'd slept for longer than we'd thought.",
-      "new": "Sai 把经过讲完了，措辞避开了那些会更深地刺痛 Erina 的字眼。信息量太大，一时难以消化，也说明我们睡的时间比以为的要长。",
+      "new": "Sai 把经过讲完了，措辞避开了那些会更深地刺痛 Erina 的字眼。信息量太大，一时难以接受，也说明我们睡的时间比以为的要长。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -49822,7 +49822,7 @@
     {
       "id": "script_rpy_L018647_1_e54e0444",
       "text": "\"...What happened to me? Where am I?\" I remembered the agonizing way that sounded.",
-      "new": "不，我知道。我是说……我到底怎么了？我在哪儿？",
+      "new": "『……我出了什么事？我到底在哪儿？』我记得那声音听起来有多么痛苦。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -63486,7 +63486,7 @@
     {
       "id": "script_rpy_L024109_1_38361cb9",
       "text": "I walked out to hallway B and began to take automatic steps toward the lobby. I'd been trying not to leave the Sekimeiya behind, but since I hadn't been able to let the proposition of being alone sink in, I succumbed to the need to wander around.",
-      "new": "我走到 B走廊，脚步不由自主地朝大厅而去。我本想尽量不要把 Sekimeiya 留在身后，可「只剩我一人」这个念头始终无法消化，终究还是忍不住四处走动。",
+      "new": "我走到 B走廊，脚步不由自主地朝大厅而去。我本想尽量不要把 Sekimeiya 留在身后，可「只剩我一人」这个念头始终压在心里，终究还是忍不住四处走动。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -67806,7 +67806,7 @@
     {
       "id": "script_rpy_L025756_1_ebd2c898",
       "text": "\"Shiroya's fate is death.\"",
-      "new": "「Shiroya 的宿命是死亡。」",
+      "new": "「Shiroya 的命运是死亡。」{w=2.8}{nw}",
       "speaker": "n",
       "source_file": "script.rpy",
       "group": "story"
@@ -68398,7 +68398,7 @@
     {
       "id": "script_rpy_L026017_1_df6266cc",
       "text": "What are you doing!?",
-      "new": "你在干什么！？",
+      "new": "你干什么！？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -75670,7 +75670,7 @@
     {
       "id": "script_rpy_L028675_1_74a5af90",
       "text": "Shiroya's words played back in my head. \"Don't forget what I said... I meant all of it.\"",
-      "new": "别忘了我刚才说的话……每一句我都是认真的。{w}现在待在这里，别跟过来。",
+      "new": "Shiroya 的话在脑中回响。『别忘了我说过的话……每一句都是真心的。』",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -84750,7 +84750,7 @@
     {
       "id": "script_rpy_L032899_1_2bffa792",
       "text": "...Well, what do we do?",
-      "new": "……那，我们怎么办？",
+      "new": "……那么，我们接下来怎么办？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -85502,7 +85502,7 @@
     {
       "id": "script_rpy_L033223_1_c9d7ba56",
       "text": "...A-Are you serious?",
-      "new": "……真、真的假的？",
+      "new": "……你、你是认真的？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -85662,7 +85662,7 @@
     {
       "id": "script_rpy_L033286_1_91dc08c7",
       "text": "Hm? I didn't hear anything.",
-      "new": "「嗯？我什么都没听见。」",
+      "new": "嗯？我什么都没听见。",
       "speaker": "c2s",
       "source_file": "script.rpy",
       "group": "story"
@@ -89822,7 +89822,7 @@
     {
       "id": "script_rpy_L035227_1_5ecb0370",
       "text": "What are you doing...?",
-      "new": "你这是做什么……？",
+      "new": "你在做什么……？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -90310,7 +90310,7 @@
     {
       "id": "script_rpy_L035424_1_8ec59003",
       "text": "\"Hm...\" As Atsuki tried to process the almost surreal way in which Sai had shown up, Shiroya's moaning made him turn to her waking face.",
-      "new": "「嗯……」Atsuki 还来不及消化 Sai 那像梦一样不真实的出现，Shiroya 的一声轻哼便让他转头看向她初醒的脸。",
+      "new": "「嗯……」Atsuki 还没从 Sai 那近乎梦幻的出现里回过神来，Shiroya 的一声轻哼便让他转头看向她初醒的脸。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -92510,7 +92510,7 @@
     {
       "id": "script_rpy_L036499_1_96171f22",
       "text": "Ten Interloping Eyes",
-      "new": "十道窥探的目光",
+      "new": "十双窥伺之眼",
       "speaker": null,
       "source_file": "script.rpy",
       "group": "story"
@@ -97134,7 +97134,7 @@
     {
       "id": "script_rpy_L038809_1_255858d7",
       "text": "Atsuki began.",
-      "new": "",
+      "new": "Atsuki 开口了。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -101310,7 +101310,7 @@
     {
       "id": "script_rpy_L040731_1_65f9ceb2",
       "text": "Shiroya! Can you hear me!?",
-      "new": "Shiroya！你听得见吗！？",
+      "new": "Shiroya！听得见吗！？",
       "speaker": "a4",
       "source_file": "script.rpy",
       "group": "story"
@@ -101438,7 +101438,7 @@
     {
       "id": "script_rpy_L040766_1_a5b71153",
       "text": "About Erina, I think what happened isn't what you think.",
-      "new": "关于 Erina，我想事情的经过和你想的不一样。",
+      "new": "关于 Erina，我想事情并不像你想的那样。",
       "speaker": "s4",
       "source_file": "script.rpy",
       "group": "story"
@@ -101518,7 +101518,7 @@
     {
       "id": "script_rpy_L040780_1_ccf64c10",
       "text": "Hey... I'm still confused, but I have a question.",
-      "new": "喂……我还是没理清头绪，不过我有个问题。",
+      "new": "那个……我还是没搞明白，不过我有个问题。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -101550,7 +101550,7 @@
     {
       "id": "script_rpy_L040785_1_c110c16c",
       "text": "...A girl? You saw Shiroya?",
-      "new": "……女孩？你见到 Shiroya 了？",
+      "new": "……女孩？你看见 Shiroya 了？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -101702,7 +101702,7 @@
     {
       "id": "script_rpy_L040827_1_d9c5822b",
       "text": "Don't mind me, like you said.",
-      "new": "照你说的，别管我。",
+      "new": "就像你说的，别管我。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -101734,7 +101734,7 @@
     {
       "id": "script_rpy_L040836_1_aa85e6dc",
       "text": "So, did any of you see Miiya...?",
-      "new": "那么，你们有谁见过 Miiya……？",
+      "new": "那么，你们有谁看见 Miiya 了吗……？",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -101758,7 +101758,7 @@
     {
       "id": "script_rpy_L040840_1_390f0adb",
       "text": "H-How do you know that name?",
-      "new": "你、你怎么会知道这个名字？",
+      "new": "你、你怎么会知道那个名字？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -101830,7 +101830,7 @@
     {
       "id": "script_rpy_L040852_1_0d785c3b",
       "text": "That's not what she means... She's not anywhere right now.",
-      "new": "她不是那个意思……现在哪里都找不到她。",
+      "new": "她不是这个意思……她现在不在任何地方。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -101918,7 +101918,7 @@
     {
       "id": "script_rpy_L040865_1_d2426af7",
       "text": "Are you sure I'll go far enough back?",
-      "new": "你确定我能回到足够早的时候吗？",
+      "new": "你确定我能回到足够早的时间？",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -107862,7 +107862,7 @@
     {
       "id": "script_rpy_L043201_1_fba93837",
       "text": "What the hell are you talking about?",
-      "new": "你在胡说些什么？",
+      "new": "你到底在说什么？",
       "speaker": "lei",
       "source_file": "script.rpy",
       "group": "story"
@@ -110070,7 +110070,7 @@
     {
       "id": "script_rpy_L044064_1_cc4f19ff",
       "text": "What are you doing...?",
-      "new": "你要干什么……？",
+      "new": "你在做什么……？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -110958,7 +110958,7 @@
     {
       "id": "script_rpy_L044377_1_0a067553",
       "text": "I just heard you! Please, open the door!",
-      "new": "我刚刚听到你了！求求你，开门！",
+      "new": "我刚刚听到你的声音了！求你，把门打开！",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -110990,7 +110990,7 @@
     {
       "id": "script_rpy_L044384_1_1218120c",
       "text": "...You're still here, right? What are you planning?",
-      "new": "……你还在吧？你到底在打什么主意？",
+      "new": "……你还在那儿吧？你到底想干什么？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -111014,7 +111014,7 @@
     {
       "id": "script_rpy_L044389_1_17643b07",
       "text": "I know you're here! At least answer!",
-      "new": "我知道你在！至少应一声！",
+      "new": "我知道你在里面！至少应一声啊！",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112342,7 +112342,7 @@
     {
       "id": "script_rpy_L044831_1_6ce051a2",
       "text": "...!{w} You're all right!",
-      "new": "……！{w}你没事！",
+      "new": "……！{w}你们没事！",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112366,7 +112366,7 @@
     {
       "id": "script_rpy_L044838_1_96f09cf7",
       "text": "...Oh, she was actually inside. I'm glad we found you.",
-      "new": "……哦，原来她真的在里面。能找到你就好。",
+      "new": "……哦，原来她真在里面。能找到你真是太好了。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112374,7 +112374,7 @@
     {
       "id": "script_rpy_L044839_1_5a49a9c8",
       "text": "Wh-What!? He locked me in here!",
-      "new": "什、什么！？是他把我锁在这里的！",
+      "new": "什、什么！？是他把我锁在里面的！",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112414,7 +112414,7 @@
     {
       "id": "script_rpy_L044858_1_8b23e475",
       "text": "I've been here for almost two hours! He shut me in!",
-      "new": "我在这里待了快两个小时！是他把我关起来的！",
+      "new": "我在这里困了快两个小时了！是他把我关起来的！",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112454,7 +112454,7 @@
     {
       "id": "script_rpy_L044867_1_a37cc4d0",
       "text": "Yes... I just ran from the bedroom. I'm fine.",
-      "new": "嗯……我只是从卧室一路跑过来。我没事。",
+      "new": "嗯……我刚从卧室一路跑过来。我没事。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112478,7 +112478,7 @@
     {
       "id": "script_rpy_L044874_1_871e4a18",
       "text": "But I thought I trapped you there?",
-      "new": "可我以为已经把你困在里面了？",
+      "new": "可我不是把你困在里面了吗？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112486,7 +112486,7 @@
     {
       "id": "script_rpy_L044875_1_11a75fea",
       "text": "Yes, but not with the key! I know what you did!",
-      "new": "对，但不是用钥匙锁的！我知道你干了什么！",
+      "new": "是困住了，可你没用钥匙！你干了什么，我心里清楚！",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112550,7 +112550,7 @@
     {
       "id": "script_rpy_L044899_1_0236f265",
       "text": "Hm? Yes, I've been here since then.",
-      "new": "嗯？是啊，我从那之后就一直在这里。",
+      "new": "嗯？是啊，从那之后我就一直待在这儿。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112558,7 +112558,7 @@
     {
       "id": "script_rpy_L044904_1_63595643",
       "text": "I... see.{w} We didn't check Erina's pulse, remember...?",
-      "new": "我们没确认过 Erina 的脉搏，记得吧……？",
+      "new": "原来……如此。{w}我们当时没确认 Erina 的脉搏，你还记得吧……？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112598,7 +112598,7 @@
     {
       "id": "script_rpy_L044916_1_ace98957",
       "text": "Oh. ...What time is it?",
-      "new": "这样啊。……现在几点了？",
+      "new": "哦。……现在几点了？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112622,7 +112622,7 @@
     {
       "id": "script_rpy_L044927_1_f2673b1a",
       "text": "Huh? Yes, of course.",
-      "new": "嗯？当然。",
+      "new": "嗯？是啊，当然。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112678,7 +112678,7 @@
     {
       "id": "script_rpy_L044942_1_d0067703",
       "text": "Can't you just talk openly here?",
-      "new": "有什么话不能就在这里说？",
+      "new": "在这儿不能直接说吗？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -112718,7 +112718,7 @@
     {
       "id": "script_rpy_L044969_1_14fcd0f0",
       "text": "I think... the past can be changed somehow.",
-      "new": "我觉得……过去似乎是可以被改变的。",
+      "new": "我觉得……过去似乎是可以改变的。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112726,7 +112726,7 @@
     {
       "id": "script_rpy_L044970_1_95c709ab",
       "text": "It can...? Did you try it?",
-      "new": "可以吗……？你试过了？",
+      "new": "真的能……？你试过了？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112734,7 +112734,7 @@
     {
       "id": "script_rpy_L044975_1_340fcf47",
       "text": "I did, but I'm not sure what to make of the results.",
-      "new": "试了。不过结果该怎么看，我也说不准。",
+      "new": "试过了，可结果让我有些拿不准。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112862,7 +112862,7 @@
     {
       "id": "script_rpy_L045011_1_c6468487",
       "text": "Does it hurt? That's kind of a lot.",
-      "new": "疼吗？这血可不少。",
+      "new": "疼吗？流得还挺多的。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112870,7 +112870,7 @@
     {
       "id": "script_rpy_L045016_1_0f99c546",
       "text": "Don't worry, it's fine...",
-      "new": "别担心，没事……",
+      "new": "别担心，没事的……",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -112894,7 +112894,7 @@
     {
       "id": "script_rpy_L045029_1_6a983e73",
       "text": "Did you leave it in this locker? How?",
-      "new": "你把它放在这个储物柜里了？怎么可能？",
+      "new": "你是把它留在这个储物柜里了？怎么会？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -112910,7 +112910,7 @@
     {
       "id": "script_rpy_L045035_1_d9cd91a1",
       "text": "Oh... Could anyone have taken it, then?",
-      "new": "哦……那会不会是有人把它拿走了？",
+      "new": "哦……那有没有可能被别人拿走了？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -113006,7 +113006,7 @@
     {
       "id": "script_rpy_L045064_1_f46c0896",
       "text": "...I'm sure you were.",
-      "new": "……那当然了。",
+      "new": "……你当然找过了。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -113078,7 +113078,7 @@
     {
       "id": "script_rpy_L045103_1_65ecf50d",
       "text": "You know where it is, right?",
-      "new": "你知道它在哪儿吧？",
+      "new": "你知道它在哪儿，对吧？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -113142,7 +113142,7 @@
     {
       "id": "script_rpy_L045139_1_e7446507",
       "text": "I think I agree with him... That wouldn't work.",
-      "new": "我也觉得他说得对……那样行不通。",
+      "new": "我觉得他说得有道理……那样行不通。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -113230,7 +113230,7 @@
     {
       "id": "script_rpy_L045183_1_477c2223",
       "text": "Did you get it from Sai after you two appeared somewhere?",
-      "new": "是你们俩出现在某个地方之后，从 Sai 那里拿到的吗？",
+      "new": "你们俩后来在某个地方出现时，是从 Sai 那里拿到刀的吗？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -113398,7 +113398,7 @@
     {
       "id": "script_rpy_L045240_1_67d012ec",
       "text": "...Wait here. I'm going to the bathroom.",
-      "new": "……在这儿等一下。我去趟洗手间。",
+      "new": "……在这儿等着。我去趟洗手间。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -113430,7 +113430,7 @@
     {
       "id": "script_rpy_L045244_1_2ddd6ab0",
       "text": "No. Don't worry, though, I won't go anywhere else.",
-      "new": "不能。不过放心，我哪儿也不去。",
+      "new": "忍不了。不过放心，我哪儿也不会去。",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -119526,7 +119526,7 @@
     {
       "id": "script_rpy_L046816_1_944d4e38",
       "text": "All right, thank you.",
-      "new": "好的，谢谢。",
+      "new": "好，谢谢。",
       "speaker": "ns",
       "source_file": "script.rpy",
       "group": "story"
@@ -128110,7 +128110,7 @@
     {
       "id": "script_rpy_L049270_1_983d4990",
       "text": "Even though everyone close to the building will know that someone with my name is inside, would they recognize my face? All I'd have to do would be spot Vaisude and get very close to him at {time=16.}",
-      "new": "虽说靠近大楼的人都会知道有个和我同名的人在里面，可他们认得我的脸吗？我只需找到 Vaisude，在 {time=16} 时贴近他就行了。",
+      "new": "虽说靠近大楼的人都会知道有个和我同名的人在里面，可他们认得我的脸吗？我只需找到 Vaisude，在 {time=16.} 时贴近他就行了。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -130022,7 +130022,7 @@
     {
       "id": "script_rpy_L049808_1_3b6842e9",
       "text": "30-05-12-31-15-26--24...",
-      "new": "30-05-12-31-15-26--24...",
+      "new": "30-05-12-31-15-26--24……",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -142686,7 +142686,7 @@
     {
       "id": "script_rpy_L053808_1_1de37e05",
       "text": "That's it... I can't look at her. Let's go...",
-      "new": "够了……我实在看不下去了。走吧……",
+      "new": "够了……我实在看不下去。走吧……",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -143046,7 +143046,7 @@
     {
       "id": "script_rpy_L053881_1_f845bc9d",
       "text": "But didn't that mean Sai would still manage to hide anyway? After all, I wouldn't {i}not{/i} be doing it to change the past; disregarding my own interests purely to be consistent with what I'd already experienced wasn't how everything had worked so far.{w} That was what I was curious about and what I wanted to observe from a distance. How was Sai going to escape detection?",
-      "new": "可这不就说明，Sai 到头来还是会藏起来吗？毕竟，我可不是为了不改变过去才这么做；只是为了和已经经历过的事保持一致就不顾自己的利益，事情到目前并不是这样运作的。{w}这正是我好奇、也想从远处观察的地方。Sai 究竟要怎么逃过搜查？",
+      "new": "可这不就说明，Sai 到头来还是会藏起来吗？毕竟，我可不是为了{i}不{/i}改变过去才这么做；只是为了和已经经历过的事保持一致就不顾自己的利益，事情到目前并不是这样运作的。{w}这正是我好奇、也想从远处观察的地方。Sai 究竟要怎么逃过搜查？",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -145222,7 +145222,7 @@
     {
       "id": "script_rpy_L054708_1_14a602b8",
       "text": "Don't mind me, like you said.",
-      "new": "你不是说了吗，别管我。",
+      "new": "就像你说的，别管我。",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -145246,7 +145246,7 @@
     {
       "id": "script_rpy_L054723_1_ec8ffd02",
       "text": "Very intriguing, then.",
-      "new": "那就更让人好奇了。",
+      "new": "那就更耐人寻味了。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -145334,7 +145334,7 @@
     {
       "id": "script_rpy_L054762_1_8ab36947",
       "text": "What...? What just happened?",
-      "new": "这……{w}他妈到底是怎么回事？",
+      "new": "什么……？刚才发生什么了？",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -145838,7 +145838,7 @@
     {
       "id": "script_rpy_L054992_1_e524bcf1",
       "text": "...Did it disappear?",
-      "new": "……不见了吗？",
+      "new": "……它不见了吗？",
       "speaker": "c3s",
       "source_file": "script.rpy",
       "group": "story"
@@ -145926,7 +145926,7 @@
     {
       "id": "script_rpy_L055035_1_ff48666a",
       "text": "Wh...? What the fuck?",
-      "new": "什……？这他妈什么情况？",
+      "new": "什……？搞什么鬼？",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -146302,7 +146302,7 @@
     {
       "id": "script_rpy_L055189_1_7a26b5ff",
       "text": "Well, you get what I mean. You don't remember when you got attacked or where you came from very well, right?{w} Of course, Erina and Isla have been here the whole time, but not you.",
-      "new": "行了，你懂我的意思。你既记不清自己是什么时候被袭击的，也不太记得自己是从哪儿来的，对吧？",
+      "new": "总之，你明白我的意思。你不太记得自己什么时候遭到袭击、又是从哪里来的，对吧？{w}当然，Erina 和 Isla 一直在这里，可你不是。",
       "speaker": "sai",
       "source_file": "script.rpy",
       "group": "story"
@@ -147134,7 +147134,7 @@
     {
       "id": "script_rpy_L055463_1_636d3b71",
       "text": "{cps=80}This isn't over yet,{w=0.2} though.{w=0.5} We have to do one more thing.{nw}",
-      "new": "{cps=80}不过，{w=0.2}事情还没结束。{w=0.5}我们还得再做一件事。{nw}",
+      "new": "{cps=80}不过，{w=0.2}这事还没完。{w=0.5}我们还得再做一件事。{nw}",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -147142,7 +147142,7 @@
     {
       "id": "script_rpy_L055465_1_efda7364",
       "text": "{cps=80}Shiroya peered at him,{w=0.4} wondering just what he meant.{nw}",
-      "new": "{cps=80}Shiroya 凝视着他，{w=0.4}揣摩他话里的意思。{nw}",
+      "new": "{cps=80}Shiroya 打量着他，{w=0.4}不明白他究竟是什么意思。{nw}",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -147446,7 +147446,7 @@
     {
       "id": "script_rpy_L055620_1_86dcb015",
       "text": "...What are you doing?",
-      "new": "……你在干什么？",
+      "new": "……你在做什么？",
       "speaker": "sainn",
       "source_file": "script.rpy",
       "group": "story"
@@ -151222,7 +151222,7 @@
     {
       "id": "script_rpy_L057014_1_15baa94d",
       "text": "Katei Kuiji, from security. He compared it to the situation with the Nomdaid.",
-      "new": "安保部的 Katei Kuiji。他还把它和 Nomdaid 那次的事相提并论。",
+      "new": "安保部的 Katei Kuiji。他还把它和诺姆达伊德那次的事相提并论。",
       "speaker": "ido",
       "source_file": "script.rpy",
       "group": "story"
@@ -151390,7 +151390,7 @@
     {
       "id": "script_rpy_L057054_1_0bc4c2fa",
       "text": "Why were you told this?",
-      "new": "他们为什么告诉你这些？",
+      "new": "为什么要告诉你这些？",
       "speaker": "kr",
       "source_file": "script.rpy",
       "group": "story"
@@ -151726,7 +151726,7 @@
     {
       "id": "script_rpy_L057142_1_5155684e",
       "text": "Hello. I'm sorry for coming earlier than arranged.",
-      "new": "你好。抱歉，我来得比约定的时间早。",
+      "new": "你好。抱歉，比约定的时间早到了。",
       "speaker": "ta",
       "source_file": "script.rpy",
       "group": "story"
@@ -151734,7 +151734,7 @@
     {
       "id": "script_rpy_L057143_1_fb02592a",
       "text": "No, don't worry! I'm happy to see you.",
-      "new": "不，别担心！你能来我很高兴。",
+      "new": "哪里的话，不妨事！见到你我很高兴。",
       "speaker": "gan",
       "source_file": "script.rpy",
       "group": "story"
@@ -151934,7 +151934,7 @@
     {
       "id": "script_rpy_L057243_1_41ce9280",
       "text": "Wh-Where are the two girls that were here?",
-      "new": "「那、那两个女孩去哪儿了？」",
+      "new": "那、那两个女孩呢？",
       "speaker": "ann",
       "source_file": "script.rpy",
       "group": "story"
@@ -153822,7 +153822,7 @@
     {
       "id": "script_rpy_L057859_1_eaa2e512",
       "text": "Is this yours? I think you dropped it.",
-      "new": "这是你的吗？好像是你掉的。",
+      "new": "这是你的吗？我想是你掉的。",
       "speaker": "knn",
       "source_file": "script.rpy",
       "group": "story"
@@ -153870,7 +153870,7 @@
     {
       "id": "script_rpy_L057884_1_51c446bd",
       "text": "Yeah, we've been here for a while.",
-      "new": "嗯，我们在这儿等了一会儿了。",
+      "new": "对，我们在这儿等了好一会儿了。",
       "speaker": "mnn",
       "source_file": "script.rpy",
       "group": "story"
@@ -153982,7 +153982,7 @@
     {
       "id": "script_rpy_L057935_1_b96dbc03",
       "text": "Atase suppressed his nervousness as best he could. The cabinet had been unlocked, so the plan was very close to succeeding. However, a few seconds still remained until {time=9:04.}",
-      "new": "Atase 竭力压住紧张。展示柜已经解锁，计划离成功只差一步。可距离 {time=9:04} 还剩几秒。",
+      "new": "Atase 竭力压住紧张。展示柜已经解锁，计划离成功只差一步。可距离 {time=9:04.} 还剩几秒。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -154030,7 +154030,7 @@
     {
       "id": "script_rpy_L057947_1_50c1bae2",
       "text": "Do you have a reason to say that?",
-      "new": "「你这么说，有什么根据吗？」",
+      "new": "你这么说，有什么根据吗？",
       "speaker": "sann",
       "source_file": "script.rpy",
       "group": "story"
@@ -154046,7 +154046,7 @@
     {
       "id": "script_rpy_L057949_1_277e43d3",
       "text": "Maybe seeing it for yourself will convince you.",
-      "new": "「亲眼看看，或许你就信了。」",
+      "new": "等你亲眼见到，或许就会信服了。",
       "speaker": "sann",
       "source_file": "script.rpy",
       "group": "story"
@@ -154054,7 +154054,7 @@
     {
       "id": "script_rpy_L057950_1_73eaabf7",
       "text": "That's what I'm hoping.",
-      "new": "「我也正希望如此。」",
+      "new": "我也希望如此。",
       "speaker": "ta",
       "source_file": "script.rpy",
       "group": "story"
@@ -155638,7 +155638,7 @@
     {
       "id": "script_rpy_L058606_1_4fe504f3",
       "text": "Shiroya's words played back in my head. \"Don't forget what I said... I meant all of it.\"",
-      "new": "别忘了我刚才说的话……每一句我都是认真的。{w}现在待在这里，别跟过来。",
+      "new": "Shiroya 的话在脑中回响。『别忘了我说过的话……每一句都是真心的。』",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -155662,7 +155662,7 @@
     {
       "id": "script_rpy_L058611_1_74591ad2",
       "text": "I tried to continue yelling her name, but my voice broke. She'd known what would happen and hadn't warned us. She'd kept waiting at our side, bolstering our hope, until she'd run away.{w} Why...!? She would never have done that... I couldn't let a single day change my view of her.",
-      "new": "我还想继续喊她的名字，喉咙却发不出声。她明明知道会发生什么，却没有警告我们。她一直守在我们身边，撑起我们的希望，最后却一走了之。",
+      "new": "我还想继续喊她的名字，喉咙却发不出声。她明明知道会发生什么，却什么都没提醒我们。她一直守在我们身边，为我们打气，直到最后独自逃走。{w}为什么……！？她不可能做出这种事……我不能因为这一天就改变对她的看法。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -156134,7 +156134,7 @@
     {
       "id": "script_rpy_L058715_1_c4a2d13b",
       "text": "\"Don't forget what I said... I meant all of it.\"{w} If she's not here anymore, then who did this? It can't be just a coincidence that Erina left our side minutes before the shutter was going to open.",
-      "new": "别忘了我刚才说的话……每一句我都是认真的。{w}现在待在这里，别跟过来。",
+      "new": "「别忘了我说过的话……每一句我都是认真的。」{w} 如果她已经不在了，那这事又是谁做的？卷帘门就要打开的前几分钟，Erina 偏偏离开了我们身边，这不可能只是巧合。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -157678,7 +157678,7 @@
     {
       "id": "script_rpy_L059159_1_8b3b0ed4",
       "text": "No... I should be...",
-      "new": "不对……我明明应该在……",
+      "new": "不对……我应该在……",
       "speaker": "il",
       "source_file": "script.rpy",
       "group": "story"
@@ -159230,7 +159230,7 @@
     {
       "id": "script_rpy_L059803_1_1b8aec98",
       "text": "Did you see the door to the lobby?",
-      "new": "你看到通往大厅的那扇门了吗？",
+      "new": "你看到通往大厅的门了吗？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159246,7 +159246,7 @@
     {
       "id": "script_rpy_L059805_1_795065f7",
       "text": "We just left it open.",
-      "new": "我们走的时候，它就那样敞着。",
+      "new": "我们刚才走的时候没关。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159254,7 +159254,7 @@
     {
       "id": "script_rpy_L059810_1_607deff3",
       "text": "Oh. Does that matter?",
-      "new": "哦。那有什么关系吗？",
+      "new": "哦。有什么关系吗？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159342,7 +159342,7 @@
     {
       "id": "script_rpy_L059837_1_03bde91b",
       "text": "I'm trying to understand what you've said...",
-      "new": "我是在努力理解你说的话……",
+      "new": "我在试着理解你说的这些话……",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159366,7 +159366,7 @@
     {
       "id": "script_rpy_L059844_1_cff237fc",
       "text": "N-No. I have no idea who that was.",
-      "new": "不、不是。我根本不知道那是谁。",
+      "new": "不、不是的。我根本不知道那到底是谁。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159446,7 +159446,7 @@
     {
       "id": "script_rpy_L059874_1_2441d40e",
       "text": "...That's where the Sekimeiya was, right?",
-      "new": "……Sekimeiya 原本就放在那儿吧？",
+      "new": "……Sekimeiya 原本就放在那里，对吧？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159454,7 +159454,7 @@
     {
       "id": "script_rpy_L059878_1_a6b485ef",
       "text": "Yes, and look at the wheel.",
-      "new": "没错，你看那个旋钮。",
+      "new": "对，而且你看看那个转轮。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159486,7 +159486,7 @@
     {
       "id": "script_rpy_L059890_1_6c6d6f82",
       "text": "Wh-What?{w} I...{w} don't get it.",
-      "new": "什、什么？{w}我……{w}搞不懂了。",
+      "new": "什、什么？{w}我……{w=0.4}不明白。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159534,7 +159534,7 @@
     {
       "id": "script_rpy_L059902_1_e0d1d385",
       "text": "It's set to 0 °C, but the cabinet isn't cold at all.",
-      "new": "设定是 0 °C，可这展示柜一点都不冷。",
+      "new": "温度设的是 0 °C，可展示柜一点也不冷。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159550,7 +159550,7 @@
     {
       "id": "script_rpy_L059904_1_4f4c06c7",
       "text": "God, the Sekimeiya is burning, though...!",
-      "new": "天啊，可 Sekimeiya 烫得要命……！",
+      "new": "天哪，Sekimeiya 却烫得厉害……！",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159574,7 +159574,7 @@
     {
       "id": "script_rpy_L059911_1_a4822347",
       "text": "I know nothing, and even less with what you've told me.",
-      "new": "我什么都不知道，听你这么一说就更不明白了。",
+      "new": "我什么都不知道，听你这么一说，反倒更糊涂了。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159662,7 +159662,7 @@
     {
       "id": "script_rpy_L059943_1_3fc3d858",
       "text": "Wait, n-no... I-It can't be that.",
-      "new": "等等，不、不对……不、不会是这样的。",
+      "new": "等等，不、不对……不、不可能是那样。",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -159678,7 +159678,7 @@
     {
       "id": "script_rpy_L059949_1_88df758c",
       "text": "Wh-What the fuck...? It didn't fall, right?",
-      "new": "这、这他妈怎么回事……？不是自己倒下去的吧？",
+      "new": "搞、搞什么……？它没掉下来吧？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -159766,7 +159766,7 @@
     {
       "id": "script_rpy_L059998_1_73a58c3a",
       "text": "What...!? Why do you have it!?",
-      "new": "什么……！？你怎么会有？",
+      "new": "什么……！？你怎么会有这个！？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -163078,7 +163078,7 @@
     {
       "id": "script_rpy_L061113_1_80f7e9e2",
       "text": "He left through the storeroom before the others woke up. Outside, he was fast enough to meet up with everyone else who'd evacuated. He knew the floor 2 cameras had recorded him, but he was confident he could take care of that at {time=21.}",
-      "new": "其他人醒来之前，他从储藏室离开了。到了外面，他脚程够快，追上了其他已经疏散出来的人。他知道二楼的监控拍到了自己，但有把握在 {time=21} 处理好。",
+      "new": "其他人醒来之前，他从储藏室离开了。到了外面，他脚程够快，追上了其他已经疏散出来的人。他知道二楼的监控拍到了自己，但有把握在 {time=21.} 处理好。",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -167606,7 +167606,7 @@
     {
       "id": "script_rpy_L062699_1_414ec73d",
       "text": "Did we leave it like this?",
-      "new": "这是我们弄的？",
+      "new": "我们走的时候就是这样吗？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
@@ -170158,7 +170158,7 @@
     {
       "id": "script_rpy_L063783_1_5b57e96a",
       "text": "Oh, right, I'd forgotten about this too.",
-      "new": "哦，对，这事我也忘了。",
+      "new": "啊，对了，这个我也忘了。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -174550,7 +174550,7 @@
     {
       "id": "script_rpy_L065158_1_1afa762f",
       "text": "When Shiroya and I had appeared on that morning after traveling from January 5th, we'd been able to avoid falling unconscious by looking down as we'd run through the smoke. Akaro had to have thrown himself to the ground immediately to avoid inhaling it, as it had quickly risen to the ceiling.{w} I had to act again while I still could, but I waited a few seconds so that the exit to the outside would close.",
-      "new": "",
+      "new": "1 月 5 日穿越过来的那个早上，Shiroya 和我一出现，就一边跑过烟雾一边低头，才没有晕过去。烟雾很快升到了天花板，Akaro 想必是立刻趴到了地上，才没吸进去。{w} 我必须趁自己还能行动再做点什么，可我还是等了几秒，好让通往外面的出口关上。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -175430,7 +175430,7 @@
     {
       "id": "script_rpy_L065419_1_4b2402ad",
       "text": "Hardly. What do they open? And what's this thing? ...Tape?",
-      "new": "差得远。它们开哪扇门？这又是什么东西？……胶带？",
+      "new": "差远了。这些是开什么的？还有这个……是什么？……胶带？",
       "speaker": "sai4",
       "source_file": "script.rpy",
       "group": "story"
@@ -175646,7 +175646,7 @@
     {
       "id": "script_rpy_L065472_1_98a66251",
       "text": "I just...{w} traveled to the past.",
-      "new": "我刚刚……{w}穿越到了过去。",
+      "new": "我刚刚……{w}回到了过去。",
       "speaker": "k4",
       "source_file": "script.rpy",
       "group": "story"
@@ -175902,7 +175902,7 @@
     {
       "id": "script_rpy_L065567_1_93cff88e",
       "text": "So, i-it worked...? You went to the past?",
-      "new": "那么，真、真的成功了……？你回到过去了？",
+      "new": "那、那么……成功了？你回到过去了？",
       "speaker": "m2",
       "source_file": "script.rpy",
       "group": "story"
@@ -175950,7 +175950,7 @@
     {
       "id": "script_rpy_L065588_1_866b4296",
       "text": "Oh, y-you're right. I don't think he's been here for a bit.",
-      "new": "啊，你、你说得对。他好像有一阵子没在这儿了。",
+      "new": "哦，你、你说得对。他好像已经有一会儿不在了。",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176014,7 +176014,7 @@
     {
       "id": "script_rpy_L065598_1_063a6595",
       "text": "Oh, what? That long ago, we were still in the attic, right?",
-      "new": "啊，什么？那么早？那时候我们还在阁楼吧？",
+      "new": "什么？那么早……我们还在阁楼里吧？",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -176110,7 +176110,7 @@
     {
       "id": "script_rpy_L065638_1_c7f3f6af",
       "text": "...I mean, what else would we do?",
-      "new": "……我是说，不然我们还能怎么办？",
+      "new": "……不然还能怎么办？",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176118,7 +176118,7 @@
     {
       "id": "script_rpy_L065644_1_edf71a5e",
       "text": "...Did you make the sound in hallway B earlier?",
-      "new": "……之前在 B走廊弄出声响的人是你吗？",
+      "new": "……刚才 B走廊的声响是你弄出来的吗？",
       "speaker": "m2",
       "source_file": "script.rpy",
       "group": "story"
@@ -176142,7 +176142,7 @@
     {
       "id": "script_rpy_L065663_1_be6fd981",
       "text": "Actually, where is Sai? That's another good question.",
-      "new": "说起来，Sai 又去哪儿了？这也是个好问题。",
+      "new": "说起来，Sai 人呢？这倒也是个问题。",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176150,7 +176150,7 @@
     {
       "id": "script_rpy_L065668_1_b678b858",
       "text": "I know he was with us when we searched this hallway.",
-      "new": "我记得我们搜这条走廊的时候，他还和我们在一起。",
+      "new": "我记得搜这条走廊的时候，他还跟我们在一起。",
       "speaker": "m2",
       "source_file": "script.rpy",
       "group": "story"
@@ -176174,7 +176174,7 @@
     {
       "id": "script_rpy_L065681_1_f02e2f98",
       "text": "He's not here. Did you see what happened to him?",
-      "new": "他不在这儿。你看见他出了什么事吗？",
+      "new": "他不在这儿。你们看见他怎么了吗？",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176190,7 +176190,7 @@
     {
       "id": "script_rpy_L065683_1_a4dc4b2c",
       "text": "He's still here, then...",
-      "new": "那他还没离开这栋楼……",
+      "new": "那么，他还在这栋楼里……",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176254,7 +176254,7 @@
     {
       "id": "script_rpy_L065711_1_a8b87c40",
       "text": "Yes. She wasn't here.",
-      "new": "对。她不在这儿。",
+      "new": "对。她不在这层。",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176318,7 +176318,7 @@
     {
       "id": "script_rpy_L065732_1_6cd918f8",
       "text": "...Is there anything...{w} Oh, the elevator?",
-      "new": "……有没有什么……{w}哦，电梯？",
+      "new": "……有什么……{w}咦，电梯？",
       "speaker": "m2",
       "source_file": "script.rpy",
       "group": "story"
@@ -176334,7 +176334,7 @@
     {
       "id": "script_rpy_L065734_1_8d6ba780",
       "text": "It's not closed, yeah.",
-      "new": "确实没关上。",
+      "new": "嗯，确实没关上。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -176430,7 +176430,7 @@
     {
       "id": "script_rpy_L065774_1_f3002d78",
       "text": "Right, the one above the door to the lobby.",
-      "new": "对，就是大堂门口上方那台。",
+      "new": "对，就是大厅门上方那一台。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"
@@ -176478,7 +176478,7 @@
     {
       "id": "script_rpy_L065797_1_7a940c85",
       "text": "What the hell...? Was it cleaned?",
-      "new": "搞什么……？被人擦过吗？",
+      "new": "怎么回事……？是被人擦过了吗？",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176502,7 +176502,7 @@
     {
       "id": "script_rpy_L065808_1_f0441db9",
       "text": "Wait, where the hell is Sai?",
-      "new": "等等，Sai 到底跑哪儿去了？",
+      "new": "等等，Sai 到底去哪了？",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -176542,7 +176542,7 @@
     {
       "id": "script_rpy_L065831_1_7a68f05f",
       "text": "Where did it even come from?",
-      "new": "那玩意儿是从哪儿来的？",
+      "new": "那东西到底是从哪来的？",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -176582,7 +176582,7 @@
     {
       "id": "script_rpy_L065837_1_2cf1b25b",
       "text": "And it was removed before we entered the security room.",
-      "new": "而且是在我们进监控室之前就被取下来了。",
+      "new": "而且，它是在我们进入监控室之前就被取下的。",
       "speaker": "m2",
       "source_file": "script.rpy",
       "group": "story"
@@ -177238,7 +177238,7 @@
     {
       "id": "script_rpy_L066028_1_93c7e7cb",
       "text": "What...? No, that's what happened to me.",
-      "new": "什么……？不，那是我这边发生的事。",
+      "new": "什么……？不，突然出现的人是我。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177262,7 +177262,7 @@
     {
       "id": "script_rpy_L066031_1_c8ba95f1",
       "text": "Yes... I touched the Sekimeiya a second ago.",
-      "new": "对……我刚刚碰了 Sekimeiya。",
+      "new": "是……我刚刚碰了 Sekimeiya。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177294,7 +177294,7 @@
     {
       "id": "script_rpy_L066037_1_9e5da644",
       "text": "Hey! What the fuck...!? Where have you two been!?",
-      "new": "喂！搞什么鬼……！？你们俩跑哪儿去了！？",
+      "new": "喂！这他妈怎么回事……！？你们俩到底去哪儿了！？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177310,7 +177310,7 @@
     {
       "id": "script_rpy_L066039_1_f7eeb891",
       "text": "...Has anything happened?",
-      "new": "……出什么事了吗？",
+      "new": "……发生什么事了吗？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177350,7 +177350,7 @@
     {
       "id": "script_rpy_L066050_1_396d88b7",
       "text": "...H-Hey! What the fuck have you been doing!?",
-      "new": "……喂、喂！你们到底在干什么！？",
+      "new": "……喂、喂！你他妈到底在干什么！？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177358,7 +177358,7 @@
     {
       "id": "script_rpy_L066051_1_a9b80166",
       "text": "You found them too...?",
-      "new": "你也找到他们了……？",
+      "new": "你们也找到了……？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177382,7 +177382,7 @@
     {
       "id": "script_rpy_L066054_1_b09e9f00",
       "text": "...I've been here.{w} *sigh*",
-      "new": "……我一直在这儿。{w}＊叹气＊",
+      "new": "……我一直在这儿。{w}（叹气）",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177502,7 +177502,7 @@
     {
       "id": "script_rpy_L066077_1_dbb9644d",
       "text": "Ah! Isla, stay over there!",
-      "new": "啊！Isla，待在那儿别动！",
+      "new": "啊！Isla，你待在那边别动！",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177526,7 +177526,7 @@
     {
       "id": "script_rpy_L066080_1_8365958d",
       "text": "Wait, I recognize him too. Wasn't he there?",
-      "new": "等等，我也认得他。他不是也在那儿吗？",
+      "new": "等等，我也认得他。他之前不就在那边吗？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177870,7 +177870,7 @@
     {
       "id": "script_rpy_L066144_1_a8619d60",
       "text": "...That's impossible.",
-      "new": "……那不可能。",
+      "new": "……不可能。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -177918,7 +177918,7 @@
     {
       "id": "script_rpy_L066151_1_13a1cc86",
       "text": "Go ahead and find Naomi for us.",
-      "new": "那就麻烦你替我们去找 Naomi 吧。",
+      "new": "那就麻烦你去把 Naomi 找出来吧。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178190,7 +178190,7 @@
     {
       "id": "script_rpy_L066237_1_a7082c4e",
       "text": "Stay there! I'll look at the mechanical room again.",
-      "new": "待在那儿！我再去机械室看一遍。",
+      "new": "待在那儿别动！我再去看看机械室。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178270,7 +178270,7 @@
     {
       "id": "script_rpy_L066276_1_9a15bfd1",
       "text": "Yes, I looked in all of them.",
-      "new": "查过了，每个我都看过了。",
+      "new": "嗯，每一个我都看过了。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178310,7 +178310,7 @@
     {
       "id": "script_rpy_L066291_1_33adb64c",
       "text": "...I'll keep it open so that it can't be used.",
-      "new": "……就让它这么开着，这样谁也用不了。",
+      "new": "……我让它一直开着，这样谁也坐不了。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178318,7 +178318,7 @@
     {
       "id": "script_rpy_L066292_1_c57e0d6b",
       "text": "All right. Let's go.",
-      "new": "好。走吧。",
+      "new": "好，走吧。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178350,7 +178350,7 @@
     {
       "id": "script_rpy_L066317_1_6680dfc5",
       "text": "Can I do it instead?",
-      "new": "要不换我去吧？",
+      "new": "不如让我来？",
       "speaker": "m2",
       "source_file": "script.rpy",
       "group": "story"
@@ -178390,7 +178390,7 @@
     {
       "id": "script_rpy_L066330_1_bf0b3880",
       "text": "You looked everywhere, right?",
-      "new": "每个地方都看过了？",
+      "new": "每个角落都看了吧？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178398,7 +178398,7 @@
     {
       "id": "script_rpy_L066331_1_a950a3aa",
       "text": "Yes, but did the others not come with us?",
-      "new": "嗯。不过其他人没跟我们一起来吗？",
+      "new": "看了。不过，其他人没跟我们一起来吗？",
       "speaker": "m2",
       "source_file": "script.rpy",
       "group": "story"
@@ -178510,7 +178510,7 @@
     {
       "id": "script_rpy_L066375_1_ce56df95",
       "text": "You look zoned out. Are you tired?",
-      "new": "你看起来有点走神。累了吗？",
+      "new": "你有点魂不守舍。累了吗？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178526,7 +178526,7 @@
     {
       "id": "script_rpy_L066377_1_9549d127",
       "text": "All right, but don't push yourself.",
-      "new": "好吧，不过别勉强自己。",
+      "new": "好吧，不过别硬撑。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178566,7 +178566,7 @@
     {
       "id": "script_rpy_L066401_1_fc086ac2",
       "text": "...{w}You have the key, right?",
-      "new": "……{w}钥匙在你那儿吧？",
+      "new": "……{w}钥匙在你身上吧？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178630,7 +178630,7 @@
     {
       "id": "script_rpy_L066433_1_b1f1295f",
       "text": "Where the hell are they?",
-      "new": "他们到底跑哪儿去了？",
+      "new": "他们到底在哪儿？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178646,7 +178646,7 @@
     {
       "id": "script_rpy_L066444_1_f0fbc420",
       "text": "Oh. Well, I need to go to the bathroom. I'll be back.",
-      "new": "哦。那正好，我去趟洗手间，马上就回来。",
+      "new": "哦。那我去趟洗手间，很快就回来。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -178766,7 +178766,7 @@
     {
       "id": "script_rpy_L066480_1_e15ae12b",
       "text": "What the fuck is this...?",
-      "new": "这他妈是什么玩意儿……？",
+      "new": "这他妈是什么东西……？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178774,7 +178774,7 @@
     {
       "id": "script_rpy_L066481_1_f81b3a5d",
       "text": "There he is. Do you know how to pick a lock?",
-      "new": "来了。你会撬锁吗？",
+      "new": "他来了。你会开锁吗？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178798,7 +178798,7 @@
     {
       "id": "script_rpy_L066486_1_93ac34bd",
       "text": "Did you really not know about this?",
-      "new": "你真的不知道有这回事？",
+      "new": "你真的不知道这件事？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178910,7 +178910,7 @@
     {
       "id": "script_rpy_L066502_1_6248dc44",
       "text": "Let's go to the attic.",
-      "new": "我们去阁楼吧。",
+      "new": "去阁楼吧。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178934,7 +178934,7 @@
     {
       "id": "script_rpy_L066505_1_380f5e2f",
       "text": "He wasn't with us. We know that much.",
-      "new": "他没和我们在一起。这一点我们是确定的。",
+      "new": "他没和我们在一起。这点我们很清楚。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178942,7 +178942,7 @@
     {
       "id": "script_rpy_L066506_1_595c2c38",
       "text": "You've said that before. I know.",
-      "new": "这话你之前就说过了。我知道。",
+      "new": "你之前就说过了。我知道。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178958,7 +178958,7 @@
     {
       "id": "script_rpy_L066508_1_78f1f122",
       "text": "No? Then how come they spent three hours sleeping there?",
-      "new": "不是吗？那他们又怎么会在那儿睡了三个小时？",
+      "new": "不行？那他们怎么会在那里睡了三个小时？",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -178966,7 +178966,7 @@
     {
       "id": "script_rpy_L066509_1_f15062a9",
       "text": "...I haven't forgotten about that.",
-      "new": "……那件事我可没忘。",
+      "new": "……那件事我没忘。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -179134,7 +179134,7 @@
     {
       "id": "script_rpy_L066582_1_43de6d02",
       "text": "Is this yours? I think you dropped it.",
-      "new": "这是你的吗？好像是你掉的。",
+      "new": "这是你的吗？我想是你掉的。",
       "speaker": "knn",
       "source_file": "script.rpy",
       "group": "story"
@@ -179694,7 +179694,7 @@
     {
       "id": "script_rpy_L066856_1_bed3369d",
       "text": "I-It disappeared. I legitimately felt it disappear.",
-      "new": "它、它不见了。我是真的感觉到它消失了。",
+      "new": "它、它消失了。我真的感觉到它消失了。",
       "speaker": "knn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180222,7 +180222,7 @@
     {
       "id": "script_rpy_L067106_1_a439f15d",
       "text": "\"Don't lie! It can only be you. You killed them.\"",
-      "new": "「别撒谎！只可能是你。是你杀了他们。」",
+      "new": "「别撒谎！只可能是你。是你杀了她们。」",
       "speaker": "c",
       "source_file": "script.rpy",
       "group": "story"
@@ -180502,7 +180502,7 @@
     {
       "id": "script_rpy_L067215_1_391c26f5",
       "text": "What? The Sekimeiya's on the crystal floor.",
-      "new": "什么？Sekimeiya 明明在水晶层啊。",
+      "new": "什么？Sekimeiya 明明在水晶层。",
       "speaker": "ann",
       "source_file": "script.rpy",
       "group": "story"
@@ -180662,7 +180662,7 @@
     {
       "id": "script_rpy_L067310_1_e19aded9",
       "text": "Wait, it's still here.",
-      "new": "等等，它还在这儿。",
+      "new": "等等，它还在。",
       "speaker": "ann",
       "source_file": "script.rpy",
       "group": "story"
@@ -180678,7 +180678,7 @@
     {
       "id": "script_rpy_L067324_1_40c02092",
       "text": "Hang on, it's not here. The thread I left.",
-      "new": "慢着，它不在了。我留下的那根线。",
+      "new": "等等，不在这儿。我留下的那根线。",
       "speaker": "ann",
       "source_file": "script.rpy",
       "group": "story"
@@ -180686,7 +180686,7 @@
     {
       "id": "script_rpy_L067331_1_5a20017b",
       "text": "It's not here...! The Sekimeiya!",
-      "new": "不见了……！Sekimeiya 不见了！",
+      "new": "没有……！Sekimeiya 不见了！",
       "speaker": "ilnn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180726,7 +180726,7 @@
     {
       "id": "script_rpy_L067361_1_a8a38519",
       "text": "It was very cold, so let's see if that changes.",
-      "new": "刚才还凉得很，看看会不会有变化吧。",
+      "new": "它刚才非常冰，看看这样会不会有变化。",
       "speaker": "sainn",
       "source_file": "script.rpy",
       "group": "story"
@@ -180838,7 +180838,7 @@
     {
       "id": "script_rpy_L067412_1_c9094081",
       "text": "Yes, more blood is coming out than before.",
-      "new": "嗯，出血比刚才多了。",
+      "new": "没错，血比刚才流得更多了。",
       "speaker": "aknn",
       "source_file": "script.rpy",
       "group": "story"
@@ -181542,7 +181542,7 @@
     {
       "id": "script_rpy_L067739_1_8352a1c1",
       "text": "She was with us from the beginning...",
-      "new": "她从最开始就跟我们在一起……",
+      "new": "她从一开始就跟我们在一起……",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -181566,7 +181566,7 @@
     {
       "id": "script_rpy_L067752_1_ca95f790",
       "text": "What are you doing!?",
-      "new": "你在干什么！？",
+      "new": "你干什么！？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -181622,7 +181622,7 @@
     {
       "id": "script_rpy_L067781_1_d2e8321d",
       "text": "Sai, what time is it?",
-      "new": "Sai，现在几点了？",
+      "new": "Sai，现在几点？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -181718,7 +181718,7 @@
     {
       "id": "script_rpy_L067810_1_11adcd40",
       "text": "...It hasn't been opened again.",
-      "new": "……门没有再被打开过。",
+      "new": "……那扇门没有再开过。",
       "speaker": "q4",
       "source_file": "script.rpy",
       "group": "story"
@@ -181846,7 +181846,7 @@
     {
       "id": "script_rpy_L067835_1_dd977f45",
       "text": "When we took the elevator up, it stopped on the third floor. That was when we returned.{w} That must mean that the third floor was being encompassed by the ranges of both Sekimeiya, and someone activated one. If we're there at that time, I know for a fact we'll be able to return.",
-      "new": "……应该很简单。我可以再穿越到 11 月 30 日一次。我知道救下 Miiya 并非遥不可及——她还活着。{w} 然后，我必须去做刚才想到的事。等 15 日到来，我就能进入塔里。我可以在 {time=19} 时、Shiroya 出现之前，待在阁楼里。",
+      "new": "我们坐电梯上去的时候，电梯停在了三楼。我们就是那时回去的。{w}也就是说，当时三楼正处于两块 Sekimeiya 的重叠范围内，而且有人启动了其中一块。只要那时我们在那儿，我可以肯定，我们一定能回去。",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
@@ -182470,7 +182470,7 @@
     {
       "id": "script_rpy_L068006_1_c49f7c83",
       "text": "Wh-What!? Who are you!?{w=0.7} Are you... me?",
-      "new": "什、什么！？你是谁！？{w=0.7}你是……我？",
+      "new": "什、什么！？你是谁！？{w}你是……我？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183462,7 +183462,7 @@
     {
       "id": "script_rpy_L068283_1_a38bc875",
       "text": "Wh-What!? What does that mean!? You're me, right?",
-      "new": "什、什么！？那是什么意思！？你就是我，对吧？",
+      "new": "什、什么！？这话是什么意思！？你是我吧？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183502,7 +183502,7 @@
     {
       "id": "script_rpy_L068293_1_abad2059",
       "text": "...I'm sorry, I'm not sure how to answer that question.",
-      "new": "……抱歉，我不知道该怎么回答这个问题。",
+      "new": "……抱歉，这个问题我不知道该怎么回答。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183566,7 +183566,7 @@
     {
       "id": "script_rpy_L068313_1_007cbb34",
       "text": "What does that even mean...!?",
-      "new": "这算什么意思……！？",
+      "new": "这算什么话……！？",
       "speaker": "c2a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183686,7 +183686,7 @@
     {
       "id": "script_rpy_L068344_1_46503878",
       "text": "...Good. I suppose there's one thing you could do, then.",
-      "new": "……很好。既然如此，有件事可以拜托你们。",
+      "new": "……很好。既然如此，我想有件事你可以做。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -183750,7 +183750,7 @@
     {
       "id": "script_rpy_L068371_1_9129e0b5",
       "text": "Take this, but don't touch it.",
-      "new": "拿着这个，但别碰它。",
+      "new": "拿好，但别用手碰它。",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -184206,7 +184206,7 @@
     {
       "id": "script_rpy_L068532_1_15b82b6b",
       "text": "It'll be fine. We'll be able to leave.",
-      "new": "不会有事的。我们能离开。",
+      "new": "{cps=80}没事的。{w=0.4}我们能出去的。{nw}",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -184222,7 +184222,7 @@
     {
       "id": "script_rpy_L068538_1_be56a2d2",
       "text": "This isn't over yet, though. We have to do one more thing.",
-      "new": "不过，事情还没完。我们还有一件事要做。",
+      "new": "{cps=80}不过，{w=0.2}这事还没完。{w=0.5}我们还得再做一件事。{nw}",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -185598,7 +185598,7 @@
     {
       "id": "script_rpy_L069080_1_5a8f9f1c",
       "text": "What? Didn't you say that the recording was real?",
-      "new": "我说过了，录音是真的。一月五日那天，我们就在塔里。所以你碰到 Sekimeiya 的时候，我才会和你一起出现在大厅。",
+      "new": "什么？你不是说那段录音是真的吗？",
       "speaker": "s",
       "source_file": "script.rpy",
       "group": "story"
