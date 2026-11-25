@@ -10702,7 +10702,7 @@
     {
       "id": "script_rpy_L002091_1_ee86a238",
       "text": "Yes. This computer is connected to all the computers on the upper floors. Even though there's no connection, a way exists to connect with the Ashiya family, and only the security staff knows about it. It does not use the normal internet connection, and it was designed in case of emergencies.",
-      "new": "是的。这台电脑与楼上所有电脑相连。即使没有网络，也有一条能与Ashiya家联系的途径，只有安保人员知道。它不走普通的网络线路，是为应对紧急情况而设计的。",
+      "new": "是的。这台电脑与楼上所有电脑相连。即使没有网络，也有一条能与芦屋家联系的途径，只有安保人员知道。它不走普通的网络线路，是为应对紧急情况而设计的。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -55318,7 +55318,7 @@
     {
       "id": "script_rpy_L020916_1_2b3c1dc2",
       "text": "A few cabinets were composed of drawers instead of having a hollow interior compartment. One of the drawers was sticking out more than the others.",
-      "new": "我走上前，不确定那是否值得留意。Shiroya 看见我盯着的地方，也发现哪里不对劲。{w} 我凑近细看，尽管差别很小，我的判断没错：一个展示柜最下层的抽屉没有完全合上。我还没伸手，Shiroya 就说了一个我漏掉的细节。",
+      "new": "有几个展示柜并非中空，而是由抽屉构成。其中一个抽屉比别的抽屉凸出一些。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -116950,7 +116950,7 @@
     {
       "id": "script_rpy_L046190_1_6bc84630",
       "text": "I went back to Ramon street. In the center of Yushibana, it was the largest one, ending at the town hall. No cars could go through it, and it was where you could usually see the most people.",
-      "new": "我回到了 Ramon street。它是丰花中心最宽阔的一条街，一直通到市政厅。街上不通车辆，平时也是人最多的地方。",
+      "new": "我回到了拉蒙街。它是丰花中心最宽阔的一条街，一直通到市政厅。街上不通车辆，平时也是人最多的地方。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -116982,7 +116982,7 @@
     {
       "id": "script_rpy_L046201_1_030a1637",
       "text": "After ignoring two branching paths, I turned toward Enric avenue. From both sidewalks grew tall, skinny trees covered by the snow, elegantly draping over the path. It was a pretty place to live in, situated on the opposite side of Yushibana from my apartment.",
-      "new": "走过两个岔口之后，我拐向了 Enric avenue。两侧人行道上长着细高的树，枝头覆着雪，优雅地垂在路面上方。这里住起来很舒服，风景也好，跟我的公寓隔着丰花一东一西。",
+      "new": "走过两个岔口之后，我拐向了恩里克大道。两侧人行道上长着细高的树，枝头覆着雪，优雅地垂在路面上方。这里住起来很舒服，风景也好，跟我的公寓隔着丰花一东一西。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -117294,7 +117294,7 @@
     {
       "id": "script_rpy_L046277_1_085b5ce6",
       "text": "I walked all the way down the street until I was back at the wider Ramon.",
-      "new": "我沿着街道一路走去，回到了 Ramon 大街较为宽阔的那一段。",
+      "new": "我沿着街道一路走去，回到了拉蒙街较为宽阔的那一段。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -121134,7 +121134,7 @@
     {
       "id": "script_rpy_L047216_1_5883c475",
       "text": "Lost in thought, I arrived at Ramon.{w} In contrast to the early morning, the street was fairly busy, partially thanks to the good weather. I recognized a group of kids years younger than me, so I avoided even looking at them.",
-      "new": "我一路沉思，不觉已到了 Ramon。{w}与清晨不同，这条街相当热闹，多半是天气晴好的缘故。我认出几个比我小上好几岁的孩子，索性连看都不往那边看。",
+      "new": "我一路沉思，不觉已到了拉蒙街。{w}与清晨不同，这条街相当热闹，多半是天气晴好的缘故。我认出几个比我小上好几岁的孩子，索性连看都不往那边看。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -123542,7 +123542,7 @@
     {
       "id": "script_rpy_L047818_1_304022c7",
       "text": "I got more and more confused. ...Was the lack of people normal? Perhaps the few memories I had of my morning trips to school were mistaken.{w} I was sure of one thing, though. When I'd taken Ramon street to go to classes, it had been to stop by Ina and eat something. While I couldn't be sure about the other places, I knew that not once had Ina been closed.",
-      "new": "我越来越困惑。……街上没人，是正常的吗？也许我早上上学的那点记忆本来就不可靠。{w} 但有一件事我很肯定。我走 Ramon 街去上课，是为了顺路去伊娜吃点东西。别的地方我不敢说，可伊娜从来没有关过一天门。",
+      "new": "我越来越困惑。……街上没人，是正常的吗？也许我早上上学的那点记忆本来就不可靠。{w} 但有一件事我很肯定。我走拉蒙街去上课，是为了顺路去伊娜吃点东西。别的地方我不敢说，可伊娜从来没有关过一天门。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -123782,7 +123782,7 @@
     {
       "id": "script_rpy_L047880_1_04496b7e",
       "text": "So I stubbornly stayed there. Perhaps the mornings in Yushibana had become a lot more empty than before, but I knew it wouldn't be like that all day. Shortly, Ramon would fill up as always, practically bustling by comparison.",
-      "new": "于是我固执地留在原地。也许丰花的早晨比从前冷清了许多，但我知道不会一整天都这样。再过一会儿，Ramon 街就会像往常一样热闹起来，相比之下简直称得上熙熙攘攘。",
+      "new": "于是我固执地留在原地。也许丰花的早晨比从前冷清了许多，但我知道不会一整天都这样。再过一会儿，拉蒙街就会像往常一样热闹起来，相比之下简直称得上熙熙攘攘。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -123822,7 +123822,7 @@
     {
       "id": "script_rpy_L047895_1_315208c8",
       "text": "Remembering the heater, I almost stood up. However, looking at my right, I noticed that some people had arrived at Ramon. It didn't feel normal yet, but it was getting there.",
-      "new": "想起家里的暖气，我几乎要站起来。可往右边一看，我发现 Ramon 街上已经有了几个人影。虽说还谈不上正常，但总算渐渐有了样子。",
+      "new": "想起家里的暖气，我几乎要站起来。可往右边一看，我发现拉蒙街上已经有了几个人影。虽说还谈不上正常，但总算渐渐有了样子。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -125022,7 +125022,7 @@
     {
       "id": "script_rpy_L048234_1_74b1ac20",
       "text": "I walked directly to Ramon street. In the distance, I had recognized a purse.{w} ...After staring at it for a few seconds, I knew exactly where I'd seen it.",
-      "new": "我径直走向 Ramon street。远处，我认出了一只手提包。{w}……盯着它看了几秒，我便想起在哪儿见过它。",
+      "new": "我径直走向拉蒙街。远处，我认出了一只手提包。{w}……盯着它看了几秒，我便想起在哪儿见过它。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -125054,7 +125054,7 @@
     {
       "id": "script_rpy_L048244_1_db2a1b9e",
       "text": "I started moving faster as I reached an area with less snow stuck to the pavement. Ramon was pretty crowded, so I wasn't sure if anyone had been walking beside that umbrella, but I'd recalled something else I'd entirely forgotten about.",
-      "new": "走上积雪较少的路面后，我加快了脚步。Ramon street 上人不少，我不确定有没有人和那把伞并肩而行，但我又想起了一件被自己忘得干干净净的事。",
+      "new": "走上积雪较少的路面后，我加快了脚步。拉蒙街上人不少，我不确定有没有人和那把伞并肩而行，但我又想起了一件被自己忘得干干净净的事。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -128246,7 +128246,7 @@
     {
       "id": "script_rpy_L049332_1_06b13fa8",
       "text": "I reached the lonely crosswalk leading to Ramon and saw the wide street ahead, illuminated by many faint streetlights. Home to many stores, it looked like an entrance to a different town, its wet stone occupied with passersby.",
-      "new": "我来到那条通往 Ramon 的冷清人行横道前，望见前方宽阔的街道，被许多昏黄的路灯照着。那里店铺林立，宛如通往另一座小镇的入口，湿漉漉的石板路上行人往来。",
+      "new": "我来到那条通往拉蒙街的冷清人行横道前，望见前方宽阔的街道，被许多昏黄的路灯照着。那里店铺林立，宛如通往另一座小镇的入口，湿漉漉的石板路上行人往来。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -128278,7 +128278,7 @@
     {
       "id": "script_rpy_L049340_1_fb736c36",
       "text": "Ahead and still in Ramon was what looked like a blue storefront with white letters above it. It read \"Ishimaru\".",
-      "new": "前方仍在 Ramon 街上，是一家蓝色的店面，上方挂着白字招牌。写着「Ishimaru」。",
+      "new": "前方仍在拉蒙街上，是一家蓝色的店面，上方挂着白字招牌。写着「Ishimaru」。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -130014,7 +130014,7 @@
     {
       "id": "script_rpy_L049806_1_2c853bab",
       "text": "I stared out the window. I could only see the narrow street, as opposed to the moving Ramon. ...Just what had happened to the world I knew?",
-      "new": "我凝视着窗外。能看见的只有那条狭窄的街道，而不是移动的 Ramon。……我熟悉的那个世界，究竟出了什么事？",
+      "new": "我凝视着窗外。能看见的只有那条狭窄的街道，而不是移动的拉蒙街。……我熟悉的那个世界，究竟出了什么事？",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -130118,7 +130118,7 @@
     {
       "id": "script_rpy_L049863_1_35884b65",
       "text": "I'd been slowly walking down Ramon when I stopped myself to stare at a street branching off on the other side.",
-      "new": "我沿着 Ramon 慢慢走着，忽然停下脚步，望向对面一条岔出去的小路。",
+      "new": "我沿着拉蒙街慢慢走着，忽然停下脚步，望向对面一条岔出去的小路。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -164638,7 +164638,7 @@
     {
       "id": "script_rpy_L061606_1_c9dd1138",
       "text": "...",
-      "new": "Miiya是因Sekimeiya而死的——若Sekimeiya不曾存在，那场爆炸就不会发生，Miiya也会继续活下去。芦屋每周四都会在塔里举办活动，而1月26日正是星期四，那天会有一场吸引我们注意的活动。{w}若Sekimeiya不存在，1月26日我们本就会在塔里。即便Miiya死后、没有任何穿越发生，我和Shiroya也很有可能回到那里，继续疗伤、继续向前走。但据我所知，我们回去的理由会不一样——为了满足一次已经发生过的穿越。",
+      "new": "……",
       "speaker": "nm",
       "source_file": "script.rpy",
       "group": "story"
