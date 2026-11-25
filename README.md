@@ -12,6 +12,9 @@ sekimeiya_translatable_scripts/
 ├── PROOFREAD.txt                 # 校对提示词
 ├── translate_batch.py            # 批量翻译脚本
 ├── proofread_batch.py            # 批量校对脚本
+├── build_index.py                # 建句子检索索引（向量或 BM25）
+├── proofread_rag.py              # 术语匹配与句子检索
+├── proofread_index/              # 本地索引（gitignore，需自行生成）
 ├── unify_quotes.py               # 引用统一脚本
 ├── merge_back.py                 # 写回游戏脚本
 ├── export_readable.py            # 导出可读文本
@@ -40,9 +43,25 @@ python translate_batch.py --provider deepseek --model deepseek-chat --only story
 ```
 
 ### 3. 校对
+先建句子检索索引（有 sentence-transformers 时为向量检索，否则为 BM25）。索引目录 `proofread_index/` 不入库，需在本地生成：
+
 ```bat
-python proofread_batch.py --provider deepseek --model deepseek-v4-pro --only story
+pip install sentence-transformers
+python build_index.py
+python proofread_batch.py --provider deepseek --model deepseek-v4-pro --only story --batch-size 20 --workers 4
 ```
+
+无向量依赖时：`python build_index.py --backend bm25`
+
+不建索引也能跑：脚本会在启动时用内存 BM25 兜底。默认前后各 5 句上下文，检索约 6 条相近句，并附上命中的术语。
+
+查看 payload、不调 API：
+
+```bat
+python proofread_batch.py --dry-run --redo --only story --limit 1
+```
+
+常用参数：`--rag-k 6`（相近句条数）、`--context-radius 5`、`--no-sentence-rag`、`--no-term-rag`。
 
 ### 4. 统一引用
 ```bat
@@ -94,6 +113,8 @@ python merge_back.py
 
 ```
 pip install openai
+# 可选，用于向量句子检索：
+pip install sentence-transformers
 ```
 
 ## 注意事项

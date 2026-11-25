@@ -4,9 +4,18 @@ proofread_batch.py — DeepSeek second-pass proofreading for Sekimeiya localizat
 
 Supports concurrent batches for speed.
 
-Each item sent to the model includes "before" and "after" fields: the
-preceding and following two lines (original + current translation) from
-the same source file, so the model can keep the passage coherent.
+Each item sent to the model includes:
+  - before / after: the preceding and following sentences from the same
+    source file (default: 5 on each side; fewer at edges; never crosses files)
+  - retrieved_terms: glossary entries that match this sentence (keyword RAG)
+  - retrieved_examples: semantically similar translations (vector index if
+    present, otherwise BM25), so wording stays consistent
+
+Build a vector index first when you can:
+
+  python build_index.py
+  python build_index.py --backend bm25          # no sentence-transformers
+
 Use --dry-run to print a sample payload without calling the API.
 
 Usage:
@@ -18,7 +27,6 @@ import argparse
 import json
 import os
 import sys
-import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
@@ -27,8 +35,17 @@ try:
 except ImportError:
     OpenAI = None
 
-
-CONTEXT_RADIUS = 2  # sentences before and after each target
+from proofread_rag import (
+    DEFAULT_CONTEXT_RADIUS,
+    DEFAULT_INDEX_DIR,
+    DEFAULT_RAG_K,
+    default_terms_path,
+    describe_retriever,
+    load_retriever,
+    load_terms,
+    match_terms,
+    neighbor_ids,
+)
 
 
 def load_prompt(path: Path) -> str:
@@ -79,15 +96,28 @@ def format_context_line(e):
     return item
 
 
-def neighbors(index, entry, radius=CONTEXT_RADIUS):
+def neighbors(index, entry, radius=DEFAULT_CONTEXT_RADIUS):
     group, i = index[entry["id"]]
     before = [format_context_line(e) for e in group[max(0, i - radius):i]]
     after = [format_context_line(e) for e in group[i + 1:i + 1 + radius]]
     return before, after
 
 
-def build_payload(batch, index, radius=CONTEXT_RADIUS):
-    """Build the JSON list sent to the model. Does not mutate entry dicts."""
+def build_payload(
+    batch,
+    index,
+    radius=DEFAULT_CONTEXT_RADIUS,
+    terms=None,
+    retriever=None,
+    rag_k=DEFAULT_RAG_K,
+    use_term_rag=True,
+    retrieved_map=None,
+):
+    """Build the JSON list sent to the model. Does not mutate entry dicts.
+
+    retrieved_map: optional precomputed {id: [examples]} so a batch can be
+    encoded once instead of loading the embedding model per sentence.
+    """
     items = []
     for e in batch:
         item = {
@@ -99,12 +129,35 @@ def build_payload(batch, index, radius=CONTEXT_RADIUS):
             before, after = neighbors(index, e, radius)
             item["before"] = before
             item["after"] = after
+        if use_term_rag and terms:
+            hits = match_terms(e, terms)
+            if hits:
+                item["retrieved_terms"] = hits
+        examples = None
+        if retrieved_map is not None:
+            examples = retrieved_map.get(e["id"])
+        elif retriever is not None and rag_k > 0:
+            exclude = neighbor_ids(index, e, radius)
+            examples = retriever.query(e, rag_k, exclude_ids=exclude)
+        if examples:
+            item["retrieved_examples"] = examples
         items.append(item)
     return items
 
 
-def call_deepseek(client, model, system_prompt, batch, index):
-    user_msg = json.dumps(build_payload(batch, index), ensure_ascii=False, indent=2)
+def retrieve_for_batch(batch, index, retriever, rag_k, radius, st_model=None):
+    if retriever is None or rag_k <= 0 or not batch:
+        return {}
+    examples_list = retriever.query_many(
+        batch,
+        rag_k,
+        exclude_ids_fn=lambda e: neighbor_ids(index, e, radius),
+        model=st_model,
+    )
+    return {e["id"]: ex for e, ex in zip(batch, examples_list)}
+
+
+def call_deepseek(client, model, system_prompt, user_msg):
     resp = client.chat.completions.create(
         model=model,
         messages=[
@@ -135,10 +188,22 @@ def call_deepseek(client, model, system_prompt, batch, index):
 
 
 def process_batch(args_tuple):
-    client, model, system_prompt, batch, idx, total, index = args_tuple
+    (client, model, system_prompt, batch, idx, total, file_index,
+     radius, terms, retriever, rag_k, use_term_rag, st_model) = args_tuple
     print(f"[send] batch {idx}/{total}  ({len(batch)} entries)")
     try:
-        results = call_deepseek(client, model, system_prompt, batch, index)
+        retrieved_map = retrieve_for_batch(batch, file_index, retriever, rag_k, radius, st_model)
+        payload = build_payload(
+            batch,
+            file_index,
+            radius=radius,
+            terms=terms,
+            rag_k=rag_k,
+            use_term_rag=use_term_rag,
+            retrieved_map=retrieved_map,
+        )
+        user_msg = json.dumps(payload, ensure_ascii=False, indent=2)
+        results = call_deepseek(client, model, system_prompt, user_msg)
         return idx, batch, results, None
     except Exception as ex:
         return idx, batch, None, str(ex)
@@ -157,6 +222,25 @@ def main():
     ap.add_argument("--done", default="proofread_done.txt", help="file tracking proofread IDs")
     ap.add_argument("--prompt", default="PROOFREAD.txt")
     ap.add_argument("--dry-run", action="store_true", help="print a sample payload and exit, no API call")
+    ap.add_argument(
+        "--context-radius",
+        type=int,
+        default=DEFAULT_CONTEXT_RADIUS,
+        help="sentences of same-file context before and after each entry (default 5)",
+    )
+    ap.add_argument(
+        "--index",
+        default=DEFAULT_INDEX_DIR,
+        help="directory written by build_index.py (default proofread_index)",
+    )
+    ap.add_argument(
+        "--terms",
+        default="",
+        help="optional terms JSON; otherwise terms are read from PROOFREAD.txt 【术语】",
+    )
+    ap.add_argument("--rag-k", type=int, default=DEFAULT_RAG_K, help="similar sentences to retrieve (default 6)")
+    ap.add_argument("--no-sentence-rag", action="store_true", help="disable similar-sentence retrieval")
+    ap.add_argument("--no-term-rag", action="store_true", help="disable term keyword retrieval")
     args = ap.parse_args()
 
     entries_path = Path(args.entries)
@@ -166,8 +250,36 @@ def main():
 
     data = load_entries(entries_path)
     entries = data.get("entries", [])
-    system_prompt = load_prompt(Path(args.prompt))
-    index = build_file_index(entries)
+    prompt_path = Path(args.prompt)
+    system_prompt = load_prompt(prompt_path)
+    file_index = build_file_index(entries)
+    radius = max(0, args.context_radius)
+    rag_k = 0 if args.no_sentence_rag else max(0, args.rag_k)
+    use_term_rag = not args.no_term_rag
+
+    terms = []
+    if use_term_rag:
+        terms_path = Path(args.terms) if args.terms else default_terms_path(prompt_path)
+        terms = load_terms(prompt_path, terms_path)
+        src = str(terms_path) if terms_path else str(prompt_path)
+        print(f"Term RAG: {len(terms)} entries from {src}")
+    else:
+        print("Term RAG: off")
+
+    retriever = None
+    st_model = None
+    if rag_k > 0:
+        retriever, note = load_retriever(Path(args.index), entries, only_for_fallback="story")
+        if retriever is None:
+            print("WARNING: sentence RAG requested but no corpus/index was available; continuing without it.")
+            rag_k = 0
+        else:
+            print(describe_retriever(retriever, rag_k) + f"  ({note})")
+            if retriever.backend == "sentence-transformers":
+                # Load the query encoder once, share across workers.
+                st_model = retriever._prepare_st_query_model()
+    else:
+        print("Sentence RAG: off")
 
     done_path = Path(args.done)
     done = set() if args.redo else load_done(done_path)
@@ -192,10 +304,20 @@ def main():
     if args.limit:
         batches = batches[:args.limit]
     print(f"{len(batches)} batch(es) of up to {args.batch_size}. workers={args.workers} model={args.model}")
-    print(f"Context: {CONTEXT_RADIUS} sentence(s) before and after each entry (same source_file).")
+    print(f"Context: {radius} sentence(s) before and after each entry (same source_file).")
 
     if args.dry_run:
-        sample = build_payload(batches[0][:3], index)
+        sample_batch = batches[0][:3]
+        retrieved_map = retrieve_for_batch(sample_batch, file_index, retriever, rag_k, radius, st_model)
+        sample = build_payload(
+            sample_batch,
+            file_index,
+            radius=radius,
+            terms=terms,
+            rag_k=rag_k,
+            use_term_rag=use_term_rag,
+            retrieved_map=retrieved_map,
+        )
         print("Dry-run sample payload (first 3 items of batch 1):")
         print(json.dumps(sample, ensure_ascii=False, indent=2))
         return
@@ -210,7 +332,13 @@ def main():
     client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
 
     polished = 0
-    tasks = [(client, args.model, system_prompt, batch, i + 1, len(batches), index) for i, batch in enumerate(batches)]
+    tasks = [
+        (
+            client, args.model, system_prompt, batch, i + 1, len(batches), file_index,
+            radius, terms, retriever, rag_k, use_term_rag, st_model,
+        )
+        for i, batch in enumerate(batches)
+    ]
 
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
         futures = {ex.submit(process_batch, t): t for t in tasks}
