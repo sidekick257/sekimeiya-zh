@@ -4,6 +4,11 @@ proofread_batch.py — DeepSeek second-pass proofreading for Sekimeiya localizat
 
 Supports concurrent batches for speed.
 
+Each item sent to the model includes "before" and "after" fields: the
+preceding and following two lines (original + current translation) from
+the same source file, so the model can keep the passage coherent.
+Use --dry-run to print a sample payload without calling the API.
+
 Usage:
   set DEEPSEEK_API_KEY=sk-...
   python proofread_batch.py --provider deepseek --model deepseek-v4-pro --batch-size 20 --workers 4 --only story
@@ -20,8 +25,10 @@ from pathlib import Path
 try:
     from openai import OpenAI
 except ImportError:
-    print("Please install: pip install openai")
-    sys.exit(1)
+    OpenAI = None
+
+
+CONTEXT_RADIUS = 2  # sentences before and after each target
 
 
 def load_prompt(path: Path) -> str:
@@ -49,12 +56,55 @@ def save_done(path: Path, done: set):
     path.write_text("\n".join(sorted(done)) + "\n", encoding="utf-8")
 
 
-def call_deepseek(client, model, system_prompt, batch):
-    user_msg = json.dumps(
-        [{"id": e["id"], "original": e["text"], "current": e["new"]} for e in batch],
-        ensure_ascii=False,
-        indent=2,
-    )
+def build_file_index(entries):
+    """Map entry id -> (same-file entry list, index). Context never crosses source_file."""
+    by_file = {}
+    for e in entries:
+        by_file.setdefault(e.get("source_file") or "", []).append(e)
+    index = {}
+    for group in by_file.values():
+        for i, e in enumerate(group):
+            index[e["id"]] = (group, i)
+    return index
+
+
+def format_context_line(e):
+    item = {
+        "original": e.get("text") or "",
+        "current": (e.get("new") or "").strip() or "（尚无译文）",
+    }
+    speaker = e.get("speaker")
+    if speaker:
+        item["speaker"] = speaker
+    return item
+
+
+def neighbors(index, entry, radius=CONTEXT_RADIUS):
+    group, i = index[entry["id"]]
+    before = [format_context_line(e) for e in group[max(0, i - radius):i]]
+    after = [format_context_line(e) for e in group[i + 1:i + 1 + radius]]
+    return before, after
+
+
+def build_payload(batch, index, radius=CONTEXT_RADIUS):
+    """Build the JSON list sent to the model. Does not mutate entry dicts."""
+    items = []
+    for e in batch:
+        item = {
+            "id": e["id"],
+            "original": e["text"],
+            "current": e["new"],
+        }
+        if radius > 0 and e["id"] in index:
+            before, after = neighbors(index, e, radius)
+            item["before"] = before
+            item["after"] = after
+        items.append(item)
+    return items
+
+
+def call_deepseek(client, model, system_prompt, batch, index):
+    user_msg = json.dumps(build_payload(batch, index), ensure_ascii=False, indent=2)
     resp = client.chat.completions.create(
         model=model,
         messages=[
@@ -85,10 +135,10 @@ def call_deepseek(client, model, system_prompt, batch):
 
 
 def process_batch(args_tuple):
-    client, model, system_prompt, batch, idx, total = args_tuple
+    client, model, system_prompt, batch, idx, total, index = args_tuple
     print(f"[send] batch {idx}/{total}  ({len(batch)} entries)")
     try:
-        results = call_deepseek(client, model, system_prompt, batch)
+        results = call_deepseek(client, model, system_prompt, batch, index)
         return idx, batch, results, None
     except Exception as ex:
         return idx, batch, None, str(ex)
@@ -106,6 +156,7 @@ def main():
     ap.add_argument("--entries", default="all_entries.json")
     ap.add_argument("--done", default="proofread_done.txt", help="file tracking proofread IDs")
     ap.add_argument("--prompt", default="PROOFREAD.txt")
+    ap.add_argument("--dry-run", action="store_true", help="print a sample payload and exit, no API call")
     args = ap.parse_args()
 
     entries_path = Path(args.entries)
@@ -116,6 +167,7 @@ def main():
     data = load_entries(entries_path)
     entries = data.get("entries", [])
     system_prompt = load_prompt(Path(args.prompt))
+    index = build_file_index(entries)
 
     done_path = Path(args.done)
     done = set() if args.redo else load_done(done_path)
@@ -136,19 +188,29 @@ def main():
         print("Nothing to do.")
         return
 
+    batches = [pending[i:i + args.batch_size] for i in range(0, len(pending), args.batch_size)]
+    if args.limit:
+        batches = batches[:args.limit]
+    print(f"{len(batches)} batch(es) of up to {args.batch_size}. workers={args.workers} model={args.model}")
+    print(f"Context: {CONTEXT_RADIUS} sentence(s) before and after each entry (same source_file).")
+
+    if args.dry_run:
+        sample = build_payload(batches[0][:3], index)
+        print("Dry-run sample payload (first 3 items of batch 1):")
+        print(json.dumps(sample, ensure_ascii=False, indent=2))
+        return
+
+    if OpenAI is None:
+        print("Please install: pip install openai")
+        sys.exit(1)
     api_key = os.environ.get("DEEPSEEK_API_KEY") or os.environ.get("OPENAI_API_KEY")
     if not api_key:
         print("ERROR: set DEEPSEEK_API_KEY environment variable")
         sys.exit(1)
     client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
 
-    batches = [pending[i:i + args.batch_size] for i in range(0, len(pending), args.batch_size)]
-    if args.limit:
-        batches = batches[:args.limit]
-    print(f"{len(batches)} batch(es) of up to {args.batch_size}. workers={args.workers} model={args.model}")
-
     polished = 0
-    tasks = [(client, args.model, system_prompt, batch, i + 1, len(batches)) for i, batch in enumerate(batches)]
+    tasks = [(client, args.model, system_prompt, batch, i + 1, len(batches), index) for i, batch in enumerate(batches)]
 
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
         futures = {ex.submit(process_batch, t): t for t in tasks}
@@ -164,11 +226,15 @@ def main():
                 elif isinstance(r, dict) and "id" in r and "polished" in r:
                     id_to_new[r["id"]] = r["polished"]
             applied = 0
+            batch_ids = {e["id"] for e in batch}
             for e in batch:
                 if e["id"] in id_to_new and str(id_to_new[e["id"]]).strip():
                     e["new"] = id_to_new[e["id"]]
                     applied += 1
                 done.add(e["id"])
+            extras = [eid for eid in id_to_new if eid not in batch_ids]
+            if extras:
+                print(f"       batch {idx} ignored {len(extras)} id(s) not in this batch")
             polished += applied
             print(f"       batch {idx} applied={applied}")
             save_entries(entries_path, data)
