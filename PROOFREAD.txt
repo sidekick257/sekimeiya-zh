@@ -39,6 +39,18 @@
 - 第一人称自称名字的，整句改
 - 已经能读的句子保持原样
 
+【风格参考】
+下次校对向下面三组看齐：更贴近原文的节奏和信息，少用破折号和「这个决定又摆到了面前」这类套话，把句子写完整、写自然。不要为了显得更像中文而改掉原文的层次，也不要压缩成口头禅。
+
+1. 原文：I knew where one was, but I couldn't bring myself to say it. Once again, the decision of whether to change the past had to be made, and I couldn't do it.
+   更好：我知道其中一个在哪儿，却怎么也说不出口。又一次，我必须决定是否要改变过去，而我做不到。
+
+2. 原文：The place was some sort of museum, and behind it extended a mountain range that encircled Yushibana. It was known for housing numerous caves that held valuable gemstones, so enthusiasts tended to visit often. The Ashiya family had taken advantage of it and utilized their building as a gallery for the different gemstones that could be found in the nearby mountains.
+   更好：那个地方算是一座博物馆，它后面延伸着一道环绕丰花的山脉。这座山脉以拥有众多蕴藏贵重宝石的洞穴而闻名，因此宝石爱好者常常前来探访。芦屋家族利用了这一优势，把自己的建筑用作陈列附近山中出产的各种宝石的陈列馆。
+
+3. 原文：After a long silence, the hallway A door opened. When we looked over, someone was stepping into the room.
+   更好：漫长的沉默之后，A走廊的门打开了。我们望过去时，有人正走进房间。
+
 只输出改写后的中文，不要解释。
 输出格式必须是 JSON 数组，每项包含 id 和 new 字段。
 例如：[{"id": "xxx", "new": "改写后的中文"}]
