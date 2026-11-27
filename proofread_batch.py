@@ -22,6 +22,7 @@ is required for --dry-run.
 Usage:
   set DEEPSEEK_API_KEY=YOUR_KEY
   python proofread_batch.py --provider deepseek --model deepseek-v4-pro --batch-size 20 --workers 4 --only story
+  python proofread_batch.py --prompt PROOFREAD_READABLE.txt --provider deepseek --model deepseek-v4-pro --only story --max-entries 5
 
   OpenAI-compatible relay (e.g. Gemini 3.8 Flash via laozhang.ai):
   python proofread_batch.py --provider openai --model gemini-3.8-flash --base-url https://api.laozhang.ai/v1 --api-key YOUR_KEY --only story
@@ -398,6 +399,7 @@ def main():
     ap.add_argument("--batch-size", type=int, default=20)
     ap.add_argument("--workers", type=int, default=1, help="concurrent batches")
     ap.add_argument("--limit", type=int, default=0, help="max batches to process (0=all)")
+    ap.add_argument("--max-entries", type=int, default=0, help="max pending entries to process (0=all); use with --only story for a small test")
     ap.add_argument("--only", default="", help="filter by group containing this string")
     ap.add_argument("--redo", action="store_true", help="ignore done list and re-proofread")
     ap.add_argument("--entries", default="all_entries.json")
@@ -481,6 +483,9 @@ def main():
         if e["id"] in done:
             continue
         pending.append(e)
+
+    if args.max_entries:
+        pending = pending[: args.max_entries]
 
     print(f"Loaded {len(entries)} entries; {len(pending)} pending.")
     if not pending:
