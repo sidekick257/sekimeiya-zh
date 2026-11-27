@@ -1,12 +1,6 @@
-﻿# 非侵入式汉化入口：不改游戏脚本/字体/options，只新增 tl/ 与本文件。
-#
-# 1) 游戏自带语言系统把 _() 解析成恒等函数，renpy.translate_string() 才是好的。
-# 2) {time=...} 等自定义标签会被 translate_string 先渲染，用补充表兜底。
-# 3) 搜索索引在 init 阶段建立（那时翻译没生效），给 SearchEntry.what 加惰性翻译。
-# 4) 界面里有些地方内联写死 Cabin/Acumin 字体（无汉字），用 font_replacement_map
-#    把它重定向到中文字体 —— 键和值都是 (字体, 粗体, 斜体) 三元组。
+﻿init 999 python:
+    import re as _dsh_re
 
-init 999 python:
     _dsh_cn = ("tl/zh_cn/IBMPlexSansSC-Text.ttf", False, False)
     for _f in ("fonts/Acumin-BdPro.otf", "fonts/Cabin-Bold2.ttf",
                "fonts/Cabin-Medium.ttf", "fonts/Cabin-Medium2.ttf",
@@ -15,32 +9,70 @@ init 999 python:
             for _i in (False, True):
                 config.font_replacement_map[(_f, _b, _i)] = _dsh_cn
 
-    def dsh_tr(s):
-        if not isinstance(s, basestring) or dsh_busy[0]:
-            return s
+    _dsh_zw = _dsh_re.compile(r"\{(?:w|nw|p|cps)(?:=[^}]*)?\}")
+    _dsh_time = _dsh_re.compile(r"\{time=([^}]*)\}")
+
+    def _dsh_time_text(arg, fmt24):
+        if fmt24:
+            if ":" in arg:
+                return arg
+            if arg and arg[-1] == ".":
+                return arg[:-1] + ":00."
+            return arg + ":00"
+        if arg and arg[-1] == ".":
+            arg = arg[:-1]
+        if ":" in arg:
+            h, m = arg.split(":")
+            h = int(h)
+        else:
+            h = int(arg)
+        ampm = "a.m."
+        if h >= 12:
+            ampm = "p.m."
+            h -= 12
+        if h == 0:
+            h = 12
+        if ":" in arg:
+            return "{}:{} {}".format(h, m, ampm)
+        return "{} {}".format(h, ampm)
+
+    def _dsh_lookup(s):
+        """查翻译表，查不到返回 None。"""
         t = renpy.translate_string(s)
         if t != s:
             return t
-        r = store.dsh_tagged_strings.get(s)
-        if r is not None:
-            return r
-        dsh_busy[0] = True
-        try:
-            tmp = renpy.text.text.Text(s)
-            tmp.update()
-            msg = "".join([x[1] for x in tmp.tokens if isinstance(x[1], basestring)])
-        finally:
-            dsh_busy[0] = False
-        if msg != s:
-            r = store.dsh_tagged_strings.get(msg)
-            if r is not None:
-                return r
+        table = store.dsh_tagged_strings
+        cands = [s, _dsh_zw.sub("", s)]
+        if "{time=" in s:
+            for fmt24 in (True, False):
+                r = _dsh_time.sub(lambda m: _dsh_time_text(m.group(1), fmt24), s)
+                cands.append(r)
+                cands.append(_dsh_zw.sub("", r))
+        for c in cands:
+            v = table.get(c)
+            if v is not None:
+                return v
+        return None
+
+    _dsh_quotes = (u'"', u"\u201c")
+
+    def dsh_tr(s):
+        if not isinstance(s, basestring):
+            return s
+        v = _dsh_lookup(s)
+        if v is not None:
+            return v
+        # NVL 重建/搜索跳转时，传进来的是已经套好引号的整串
+        if len(s) >= 2 and s[0] in _dsh_quotes and s[-1] in (u'"', u"\u201d"):
+            v = _dsh_lookup(s[1:-1])
+            if v is not None:
+                return s[0] + v + s[-1]
         return s
 
-    dsh_busy = [False]
     config.say_menu_text_filter = dsh_tr
     _ = dsh_tr
 
+    ## 搜索条目惰性翻译
     _dsh_se = getattr(store, "SearchEntry", None)
     if _dsh_se is not None and not getattr(_dsh_se, "_dsh_patched", False):
         _dsh_se._dsh_patched = True
@@ -50,12 +82,27 @@ init 999 python:
             return dsh_tr(_dsh_fget(self))
         _dsh_se.what = property(_dsh_get, _dsh_fset)
 
+    ## 显示层兜底；∅ 这个字形中文字体没有，强制用字体组
     import renpy.text.text as _dsh_textmod
     if not getattr(_dsh_textmod, "_dsh_patched", False):
         _dsh_textmod._dsh_patched = True
         _dsh_orig = _dsh_textmod.Text.__init__
-        def _dsh_init(self, text, *args, **kwargs):
-            if isinstance(text, basestring) and not dsh_busy[0]:
-                text = dsh_tr(text)
-            _dsh_orig(self, text, *args, **kwargs)
+        def _dsh_init(self, *args, **kwargs):
+            if args and isinstance(args[0], basestring):
+                args = (dsh_tr(args[0]),) + args[1:]
+            elif isinstance(kwargs.get("text"), basestring):
+                kwargs["text"] = dsh_tr(kwargs["text"])
+            if (args and args[0] == u"\u2205") or kwargs.get("text") == u"\u2205":
+                kwargs.setdefault("font", dsh_font)
+            _dsh_orig(self, *args, **kwargs)
         _dsh_textmod.Text.__init__ = _dsh_init
+
+    ## 预建的说话人指示符图片：重建一份带字体组的
+    try:
+        _sc = store.GuiElementScaling
+        _outl = store.gui.dialogue_outline[store.gui.preference("dialogue_outline_idx")]
+        _pov = _dsh_textmod.Text(u"\u2205", size=12, yoffset=_sc(3), xoffset=_sc(-30),
+                                 outlines=_outl, font=dsh_font)
+        renpy.image("narrator_pov_img", _pov)
+    except Exception as e:
+        print("DSH_POV_ERR %r" % e)
