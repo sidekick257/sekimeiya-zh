@@ -1,133 +1,54 @@
-# Sekimeiya 汉化项目
+# The Sekimeiya: Spun Glass 简体中文补丁
 
-《The Sekimeiya: Spun Glass》中文本地化项目。
+面向《The Sekimeiya: Spun Glass》(Ren'Py 7.4.4) 的简体中文补丁，采用**非侵入式**方案：不修改游戏任何原版文件。
 
 ## 目录结构
 
 ```
-sekimeiya_translatable_scripts/
-├── all_entries.json              # 主数据文件，所有条目的原文和译文
-├── all_entries.before_*.json     # 各阶段备份
-├── PROMPT.txt                    # 初译提示词
-├── PROOFREAD.txt                 # 校对提示词
-├── translate_batch.py            # 批量翻译脚本
-├── proofread_batch.py            # 批量校对脚本
-├── build_index.py                # 建句子检索索引（向量或 BM25）
-├── proofread_rag.py              # 术语匹配与句子检索
-├── proofread_index/              # 本地索引（gitignore，需自行生成）
-├── unify_quotes.py               # 引用统一脚本
-├── merge_back.py                 # 写回游戏脚本
-├── export_readable.py            # 导出可读文本
-├── show_diff.py                  # 对比差异
-├── extract_quotes.py             # 提取引用对
-├── align_quotes.py               # 对齐引用（实验性）
-├── mark_done.py                  # 标记已校对
-├── proofread_done.txt            # 已校对 id 列表
-├── sekimeiya_quote_reuse*.md     # 引用对照表
-├── sekimeiya_full_story_with_choices.txt  # 中文全文本
-├── readable.txt / readable.tsv   # 可读导出
-├── script.rpy / notes.rpy / ...  # 游戏脚本（已提取）
-├── requirements.txt              # Python 依赖
-└── README.txt                    # 本文件
+all_entries.json      译文总表（24,396 条，唯一的真源，改这里）
+script.rpy            英文原版脚本，只读参考，不要改
+patch/                可直接分发的补丁内容
+  tl/zh_cn/           正文表、界面表、补充表、字体、入口脚本
+  gui/                中文菜单标题图（新增，不覆盖原图）
+  zz_search_all.rpy   搜索全解锁（可选，正式发布前删掉）
+sync_patch.py         重新生成补丁并装进游戏
+export_dialogue.py    从 all_entries.json 生成正文翻译表
+review/               生成器与审计工具
+三审须知.md            给校对人员看的说明
 ```
 
-## 工作流程
+## 工作流
 
-### 1. 提取
-从游戏 `.rpy` 文件提取可翻译文本 → `all_entries.json`
+改完 `all_entries.json` 之后：
 
-### 2. 翻译
-```bat
-set DEEPSEEK_API_KEY=sk-...
-python translate_batch.py --provider deepseek --model deepseek-chat --only story
+```bash
+python sync_patch.py --install
 ```
 
-### 3. 校对
-先建句子检索索引（有 sentence-transformers 时为向量检索，否则为 BM25）。索引目录 `proofread_index/` 不入库，需在本地生成：
+会重新生成 `patch/tl/zh_cn/strings_script.rpy`、`zz_tagged_strings.rpy`，然后复制进游戏目录（路径默认 `E:\steam\steamapps\common\The Sekimeiya Spun Glass\game`，可用环境变量 `SEKIMEIYA_GAME` 覆盖）。首次启动需要重新编译，约 20–60 秒。
 
-```bat
-pip install sentence-transformers
-python build_index.py
-python proofread_batch.py --provider deepseek --model deepseek-v4-pro --only story --batch-size 20 --workers 4
-```
+只生成不安装：`python sync_patch.py`。
 
-无向量依赖时：`python build_index.py --backend bm25`
+## 补丁原理
 
-不建索引也能跑：脚本会在启动时用内存 BM25 兜底。默认前后各 5 句上下文，检索约 6 条相近句，并附上命中的术语。
+游戏的 `script.rpy` 原样保留（在 `scripts.rpa` 里），中文全部通过 `game/tl/zh_cn/` 生效：
 
-查看 payload、不调 API：
+- `00_hook.rpy`：游戏自带的语言系统会把 `_()` 解析成恒等函数，导致翻译表失效；这里把 `_` 换成 `renpy.translate_string()`，并给 say/菜单加过滤
+- `strings_script.rpy`：22,557 条正文 + 选项的英中对照
+- `ui_strings.rpy`：188 条界面文本（设置、菜单、搜索、按钮）
+- `zz_tagged_strings.rpy`：补充表，处理 `{time=...}` 这类会被提前渲染的标签、`{i}`/`{w}` 这类外层标签，以及多行字符串
+- `00_language.rpy`：字体组——拉丁/汉字用 IBM Plex SC，数学符号（如 ∅）回落 DejaVu
+- 界面里内联写死 Cabin/Acumin 字体的地方，用 `config.font_replacement_map` 在运行时重定向到中文字体
 
-```bat
-python proofread_batch.py --dry-run --redo --only story --limit 1
-```
+`game/` 里没有任何原版文件被修改。卸载 = 删掉 `tl/zh_cn/`、`gui/header_*.png`、`zz_search_all.rpy`。
 
-通过 OpenAI 兼容中转站使用 Gemini（例如 laozhang.ai）。`--dry-run` 不需要密钥；密钥用 `YOUR_KEY` 或环境变量，不要写进文件：
+## 当前进度
 
-```bat
-python proofread_batch.py --provider openai --model gemini-3.8-flash --base-url https://api.laozhang.ai/v1 --api-key YOUR_KEY --only story --batch-size 20 --workers 4
-```
+- 正文与选项：22,581 条 **全部有译文**
+- 三审进行中：已细读约 1,000 条（4.4%），逐条修正
+- 笔记（Notes）、Tips、第五章问答、部分存档界面文案：**未翻译**（另属别的数据表）
 
-也可设置 `OPENAI_API_KEY` 和 `OPENAI_BASE_URL`。`--provider gemini` 同样走 OpenAI 兼容接口，需提供 `--base-url`。
+## 已知问题
 
-常用参数：`--rag-k 6`（相近句条数）、`--context-radius 5`、`--no-sentence-rag`、`--no-term-rag`、`--base-url`、`--api-key`。
-
-### 4. 统一引用
-```bat
-python unify_quotes.py
-```
-
-### 5. 写回游戏
-```bat
-python merge_back.py
-```
-
-## 关键文件说明
-
-| 文件 | 用途 |
-|------|------|
-| `all_entries.json` | 核心数据。每条包含 `id`、`text`（英文）、`new`（中文）、`source_file`、`group` |
-| `PROMPT.txt` | 初译系统提示词，控制翻译风格 |
-| `PROOFREAD.txt` | 校对系统提示词，控制润色力度 |
-| `proofread_done.txt` | 已校对条目 id，用于断点续跑 |
-| `sekimeiya_quote_reuse_all_entries.md` | 引用对照表，列出同一句话在不同章节的出现位置和 id |
-| `merge_back.py` | 把 `all_entries.json` 的译文写回 `.rpy` 文件 |
-| `show_diff.py` | 对比两个 JSON 的差异 |
-
-## 术语锁定
-
-- 人名保持英文：Atsuki、Shiroya、Akaro、Naomi、Sai、Erina、Isla、Katei
-- 遮布（curtain）
-- 水晶展室（crystal room）
-- 芦屋塔（Ashiya Tower）
-- 不用「您」
-
-## 引用统一
-
-游戏有大量跨章节引用（第五章复盘、第三章偷听、录音笔四处出现等）。
-`sekimeiya_quote_reuse_all_entries.md` 列出了 276 处引用对，其中 208 处译文不一致。
-`unify_quotes.py` 会把引用处的译文统一成原句处的译文。
-
-## 备份说明
-
-| 文件 | 时间点 |
-|------|--------|
-| `all_entries.bak.json` | 最早备份 |
-| `all_entries.flash.json` | flash 模型翻译后 |
-| `all_entries.before_proofread.json` | 校对前 |
-| `all_entries.before_align.json` | 对齐实验前 |
-| `all_entries.before_unify.json` | 引用统一前 |
-
-## 依赖
-
-```
-pip install openai
-# 可选，用于向量句子检索：
-pip install sentence-transformers
-```
-
-## 注意事项
-
-- DeepSeek API 有并发和余额限制，v4-pro 并发上限约 49
-- 校对脚本支持 `--workers` 并发，建议 8-16
-- 中断后重跑会跳过 `proofread_done.txt` 中已记录的 id
-- 最终写回前务必备份游戏原文件
+- 中文菜单标题图是脚本生成的，字形与原版美术不完全一致（`review/make_headers.py`）
+- 搜索索引在 init 阶段建立，翻译靠读取时惰性替换（`patch/tl/zh_cn/00_hook.rpy` 里有注释说明）

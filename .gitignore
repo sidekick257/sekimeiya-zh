@@ -9,3 +9,6 @@ all_entries.before*.json
 all_entries.readable_test.json
 all_entries.bak.json
 all_entries.flash.json
+
+output/
+__pycache__/

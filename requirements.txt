@@ -1,7 +1,0 @@
-google-genai>=1.0.0
-openai>=1.40.0
-# Optional, for vector sentence RAG (build_index.py --backend sentence-transformers):
-#   pip install sentence-transformers
-# CPU-only torch, if needed:
-#   pip install torch --index-url https://download.pytorch.org/whl/cpu
-# Without those packages, build_index.py --backend bm25 (or auto fallback) still works.

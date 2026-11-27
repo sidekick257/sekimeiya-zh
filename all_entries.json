@@ -7582,7 +7582,7 @@
     {
       "id": "script_rpy_L000703_1_51c0823a",
       "text": "The smoke had created a thorough cover on the walls and ceilings, which must've been an intended result. It had set up a dark environment, but that couldn't be the sole purpose: something had been added to the smoke to create the same effect on every surface it touched.",
-      "new": "烟雾在墙壁和天花板上覆盖了厚厚一层，这想必是刻意为之。它制造出一片昏暗，但这显然不是唯一的目的：烟雾里掺了东西，凡是它碰到的表面，都会产生同样的效果。",
+      "new": "烟雾在墙壁和天花板上覆盖了厚厚一层，这想必是刻意为之。它制造出一片昏暗，但这显然不是唯一的目的：烟雾里掺了东西，凡是它碰到的地方，都会产生同样的效果。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -7774,7 +7774,7 @@
     {
       "id": "script_rpy_L000786_1_79ed7c52",
       "text": "Those words made me consider an important detail. His shirt was white and a lot less stained than ours, indicating that it hadn't been hit by the smoke during its release. In contrast, the woman and the other guy had the same smoke pattern we did, being more stained on their top halves.",
-      "new": "这番话让我留意到一个重要细节。他的衬衫是白色的，污迹比我们少得多，说明烟雾喷出时并没有沾到他身上。相比之下，那女人和另一个男人身上的痕迹与我们一样，上半身沾得更多。",
+      "new": "这番话让我留意到一个重要细节。他的衬衫是白色的，污迹比我们少得多，说明烟雾喷出时并没有沾到他身上。相比之下，那女人和另一个男人身上的痕迹与我们很像，但上半身沾得更多。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -7886,7 +7886,7 @@
     {
       "id": "script_rpy_L000818_1_70eca8bf",
       "text": "Wait, you saw what the hallway looked like after you left the security room? Don't you have enough security cameras to see it from there?",
-      "new": "等等，你是出了监控室之后才看到走廊变成什么样？监控室里的摄像头不是足够看清楚吗？",
+      "new": "等等，你是出了监控室之后才看到走廊变成什么样？监控那么多个摄像头，不是该看得一清二楚吗？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -10198,7 +10198,7 @@
     {
       "id": "script_rpy_L001839_1_c7bfe6e3",
       "text": "It says \"unlocked\" right here. This is how Naomi unlocked the cabinet. Katei, do you know how many keys can open it?",
-      "new": "这里显示的是“已解锁”。Naomi 就是这样打开展示柜的。Katei，你知道有几把钥匙能打开它吗？",
+      "new": "这里写着「已解锁」。Naomi 就是这么解的锁。Katei，能打开这个柜子的钥匙有几把？",
       "speaker": "a",
       "source_file": "script.rpy",
       "group": "story"
@@ -10206,7 +10206,7 @@
     {
       "id": "script_rpy_L001840_1_b1f82a0d",
       "text": "I don't know for sure, but certainly not many. I'm only aware of the one Naomi had.",
-      "new": "我不确定，但肯定不会多。我只知道 Naomi 手里那一把。",
+      "new": "具体几把我不清楚，但应该不多。我只知道 Naomi 那把。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -10230,7 +10230,7 @@
     {
       "id": "script_rpy_L001858_1_6a06b2bf",
       "text": "Yes, but before that, we have to contact the outside from the security room. I would like to know what our situation actually looks like, and if Naomi went upstairs all by herself and chose to leave us unconscious, I won't be prioritizing her now.",
-      "new": "对，但在那之前，我们得先去监控室联系外界。我想弄清楚我们现在的处境究竟如何；如果 Naomi 是自己上的楼，还把我们丢在那里昏迷不醒，那我现在不会优先去找她。",
+      "new": "对，但在这之前，我们得先去监控室联系外界，先弄清楚现在到底是什么情况。她多半是自己上的楼——要真是这样，就没必要急着去找她了。",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -10310,7 +10310,7 @@
     {
       "id": "script_rpy_L001895_1_e43c8842",
       "text": "As Akaro had said, it looked clean, creating the same contrast as the lobby. The light worked perfectly, and there was almost no trace of the smoke apart from the small amount that had passed through the gaps of the door.",
-      "new": "正如 Akaro 所说，里面看上去很干净，和大厅一样，与外面形成了鲜明反差。照明完全正常，除了从门缝渗进来的少许烟雾，几乎看不到任何痕迹。",
+      "new": "正如 Akaro 所说，里面和刚才的大厅一样干净，跟外面反差鲜明。照明完全正常，除了从门缝渗进来的那点烟，几乎看不到烟雾留下的痕迹。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -10398,7 +10398,7 @@
     {
       "id": "script_rpy_L001939_1_3d3b3ff0",
       "text": "This is an important room. When I left, I wasn't exactly aware of the situation, given I couldn't see through some of the cameras. I found it appropriate to lock the only room that allows communication with the outside until I knew more about what had happened.",
-      "new": "这间屋子很重要。我离开的时候，有几路监控看不到画面，对情况了解得也不多。在弄清究竟发生了什么之前，我觉得把唯一能与外界联络的房间锁上是妥当的。",
+      "new": "这间屋子很重要。我离开的时候，有几路监控看不到画面，导致我对情况了解得也不多。所以在弄清究竟发生了什么之前，我觉得把唯一能与外界联络的房间锁上是妥当的。",
       "speaker": "k",
       "source_file": "script.rpy",
       "group": "story"
@@ -10414,7 +10414,7 @@
     {
       "id": "script_rpy_L001946_1_9f65035e",
       "text": "With a simple turn, the door was audibly unlocked. Before entering, I inquired about something I found next to it.",
-      "new": "钥匙只转了一下，便传来开锁的声响。进门之前，我问起了门旁发现的那样东西。",
+      "new": "钥匙一转，锁就咔的一声开了。进门之前，我问起门旁看到的那样东西。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -10462,7 +10462,7 @@
     {
       "id": "script_rpy_L001971_1_0f87f7b8",
       "text": "As Katei had said, the map only showed the first floor's contents, and it seemed stairs and an elevator would lead us to the others. It was the only floor that was usually open to the public, so there were a large number of rooms to visit.",
-      "new": "正如Katei所说，地图上只标出一楼的内容，通往其他楼层似乎要靠楼梯和一部电梯。平时对外开放的只有这一层，因此要查看的房间相当多。",
+      "new": "就像 Katei 说的，地图上只画了一楼；要去别的楼层，好像得走楼梯或者坐电梯。平时对外开放的只有这一层，所以这一层的房间特别多。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -10470,7 +10470,7 @@
     {
       "id": "script_rpy_L001972_1_57a6730e",
       "text": "We found ourselves in hallway A, next to the security room, and had plenty left of the whole floor to look through.",
-      "new": "我们来到A走廊，紧挨着监控室，整层楼还有不少地方等着查看。",
+      "new": "我们现在在 A 走廊，紧挨着监控室；这一层还有大半个没走过。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -10510,7 +10510,7 @@
     {
       "id": "script_rpy_L001995_1_324d83e0",
       "text": "Hm...{w} So, if one of the goals of the smoke was to disable the security cameras, they didn't use hallway C for anything.",
-      "new": "嗯……{w}这么说，如果放烟雾的目的之一是要让监控失效，那他们并没有利用C走廊做什么。",
+      "new": "嗯……{w}这么说，如果放烟雾的目的之一是要让监控失效，那他们根本没打算利用 C 走廊做什么。",
       "speaker": "ak",
       "source_file": "script.rpy",
       "group": "story"
@@ -11358,7 +11358,7 @@
     {
       "id": "script_rpy_L002290_1_d3687aae",
       "text": "That's when Xyn started moving in. They're a long-running group that specializes in robberies of valuable objects, alongside similar criminal activities. When the Ashiya family became an established and wealthy entity, they also became a perfect target for Xyn. The fact they had developed in such a calm environment meant their security measures weren't adequate.",
-      "new": "Xyn 就是那时开始插手的。这是个活动多年的团伙，专门盗取贵重物品，也干其他类似的勾当。芦屋家成了根基稳固的豪门之后，也就成了 Xyn 再合适不过的目标。他们是在这样安稳的环境里发展起来的，安保自然谈不上充分。",
+      "new": "就是从那时起，Xyn 开始动手了。这是个活动多年的团伙，专门抢劫贵重物品，也干别的类似的勾当。芦屋家成了根基稳固的富户之后，自然成了 Xyn 最合适的目标。可芦屋家一路都是在这样安稳的地方发展起来的，安保自然算不上严密。",
       "speaker": "su",
       "source_file": "script.rpy",
       "group": "story"

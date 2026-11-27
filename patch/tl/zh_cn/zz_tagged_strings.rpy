@@ -62,7 +62,7 @@ init -1 python:
         'Oh... I think I see what you mean.': '哦……{w} 我好像明白你的意思了。',
         "There wasn't any other opposition. If Naomi intended to show herself to us, she would come back eventually. We worked under the assumption that she still had the cabinet key. However, if she'd ever fallen unconscious, someone could've easily grabbed it, maybe failing to recognize that the cabinet was already unlocked. If she'd woken up as that happened, the culprit might've panicked and been responsible for her disappearance.": '没人再提出反对。如果 Naomi 有意现身，迟早会回来的。{w}我们暂且认定钥匙还在她手上。不过，若她曾经失去意识，别人很容易就能把钥匙拿走，而且对方也许没发现展示柜已经解锁了。如果她恰在那时醒来，下手的人说不定会惊慌失措，那她的失踪可能就是这么造成的。',
         "Katei grabbed the doorknob, and upon turning it, he tried to push the door forward. However, it didn't budge.": '{w=0.6}Katei 握住门把，拧了一下，向前推门。门却纹丝不动。',
-        "Hm... So, if one of the goals of the smoke was to disable the security cameras, they didn't use hallway C for anything.": '嗯……{w}这么说，如果放烟雾的目的之一是要让监控失效，那他们并没有利用C走廊做什么。',
+        "Hm... So, if one of the goals of the smoke was to disable the security cameras, they didn't use hallway C for anything.": '嗯……{w}这么说，如果放烟雾的目的之一是要让监控失效，那他们根本没打算利用 C 走廊做什么。',
         "Oh, yes. It's 9:41.": '哦，对。现在是 {time=9:41.}',
         "Oh, yes. It's 9:41 a.m.": '哦，对。现在是 {time=9:41.}',
         'As Katei said, next to the numbers that displayed the date, the current time showed 9:41. That meant the exit would unlock at approximately 21:05, in eleven hours and twenty minutes.': '正如Katei所说，日期旁边显示的当前时间正是 {time=9:41.}。也就是说，出口大约会在 {time=21:05} 解锁，距此还有十一小时二十分钟。',
