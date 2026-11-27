@@ -62,6 +62,8 @@
         return None
 
     _dsh_quotes = (u'"', u"\u201c")
+    _dsh_lead_tags = _dsh_re.compile(r"^(?:\{[^}]*\})+")
+    _dsh_tail_tags = _dsh_re.compile(r"(?:\{[^}]*\})+$")
 
     def dsh_tr(s):
         if not isinstance(s, basestring):
@@ -69,10 +71,25 @@
         v = _dsh_lookup(s)
         if v is not None:
             return v
+
+        pre = suf = u""
+        inner = s
         if len(s) >= 2 and s[0] in _dsh_quotes and s[-1] in (u'"', u"\u201d"):
             v = _dsh_lookup(s[1:-1])
             if v is not None:
                 return s[0] + v + s[-1]
+            pre, suf, inner = s[0], s[-1], s[1:-1]
+
+        # n / nm 角色会给整句套 {i}...{/i}
+        m1 = _dsh_lead_tags.match(inner)
+        m2 = _dsh_tail_tags.search(inner)
+        if m1 or m2:
+            a = m1.end() if m1 else 0
+            b = m2.start() if m2 else len(inner)
+            if a < b:
+                v = _dsh_lookup(inner[a:b])
+                if v is not None:
+                    return pre + (m1.group(0) if m1 else u"") + v + (m2.group(0) if m2 else u"") + suf
         return s
 
     config.say_menu_text_filter = dsh_tr
