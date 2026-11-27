@@ -11,6 +11,7 @@
 
     _dsh_zw = _dsh_re.compile(r"\{(?:w|nw|p|cps)(?:=[^}]*)?\}")
     _dsh_time = _dsh_re.compile(r"\{time=([^}]*)\}")
+    _dsh_any_tag = _dsh_re.compile(r"\{[^}]*\}")
 
     def _dsh_time_text(arg, fmt24):
         if fmt24:
@@ -36,8 +37,14 @@
             return "{}:{} {}".format(h, m, ampm)
         return "{} {}".format(h, ampm)
 
+    def _dsh_plain(s):
+        """把带标签的显示文本变成纯文本（{time} 按当前设置渲染，其余标签去掉）。"""
+        if "{time=" in s:
+            fmt24 = getattr(store.persistent, "time_format_24", True)
+            s = _dsh_time.sub(lambda m: _dsh_time_text(m.group(1), fmt24), s)
+        return _dsh_any_tag.sub("", s)
+
     def _dsh_lookup(s):
-        """查翻译表，查不到返回 None。"""
         t = renpy.translate_string(s)
         if t != s:
             return t
@@ -62,7 +69,6 @@
         v = _dsh_lookup(s)
         if v is not None:
             return v
-        # NVL 重建/搜索跳转时，传进来的是已经套好引号的整串
         if len(s) >= 2 and s[0] in _dsh_quotes and s[-1] in (u'"', u"\u201d"):
             v = _dsh_lookup(s[1:-1])
             if v is not None:
@@ -81,6 +87,27 @@
         def _dsh_get(self):
             return dsh_tr(_dsh_fget(self))
         _dsh_se.what = property(_dsh_get, _dsh_fset)
+
+    ## 搜索匹配与复制：去掉标签（原来只处理了 {time}）
+    _dsh_srch = getattr(store, "Search", None)
+    if _dsh_srch is not None and not getattr(_dsh_srch, "_dsh_patched", False):
+        _dsh_srch._dsh_patched = True
+        _dsh_ismatch = _dsh_srch.IsMatch
+
+        def _dsh_ismatch_new(self, src, target):
+            if isinstance(src, basestring):
+                src = _dsh_plain(src)
+            return _dsh_ismatch(self, src, target)
+        _dsh_srch.IsMatch = _dsh_ismatch_new
+
+        def _dsh_copy_new(self, node):
+            try:
+                entry = self.CreateSearchEntry(store.GetGlobalIndexFromNode(node))
+                text_raw = _dsh_plain(entry.what.replace("    ", ""))
+                store.clipboard.copy(text_raw, text_raw)
+            except Exception:
+                pass
+        _dsh_srch.Copy = _dsh_copy_new
 
     ## 显示层兜底；∅ 这个字形中文字体没有，强制用字体组
     import renpy.text.text as _dsh_textmod
