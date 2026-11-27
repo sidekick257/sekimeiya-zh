@@ -31,12 +31,8 @@ def main():
     ap.add_argument("--game", default=os.environ.get("SEKIMEIYA_GAME", DEFAULT_GAME))
     args = ap.parse_args()
 
-    run("export_dialogue.py")
+    run("make_strings.py")
     run(os.path.join("review", "make_tagged_strings.py"))
-
-    src = os.path.join(HERE, "output", "tl", "zh_cn", "strings_script.rpy")
-    shutil.copy2(src, os.path.join(PATCH, "tl", "zh_cn", "strings_script.rpy"))
-    print("已更新 patch/tl/zh_cn/strings_script.rpy")
 
     if not args.install:
         return

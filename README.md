@@ -12,7 +12,7 @@ patch/                可直接分发的补丁内容
   gui/                中文菜单标题图（新增，不覆盖原图）
   zz_search_all.rpy   搜索全解锁（可选，正式发布前删掉）
 sync_patch.py         重新生成补丁并装进游戏
-export_dialogue.py    从 all_entries.json 生成正文翻译表
+make_strings.py        从 all_entries.json 生成正文翻译表
 review/               生成器与审计工具
 三审须知.md            给校对人员看的说明
 ```

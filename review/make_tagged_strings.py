@@ -49,7 +49,7 @@ def main():
                if e.get("group") == "story" and (e.get("new") or "").strip()]
 
     # 主表里没有的条目（导出时被多行字符串卡掉的那些），也放进补充表
-    main_table = open("output/tl/zh_cn/strings_script.rpy", encoding="utf-8").read()
+    main_table = open(os.path.join(HERE, "patch", "tl", "zh_cn", "strings_script.rpy"), encoding="utf-8").read()
 
     def in_main(en):
         esc = en.replace("\\", "\\\\").replace('"', '\\"')
