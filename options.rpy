@@ -3,6 +3,9 @@
 ## Lines beginning with two '#' marks are comments, and you shouldn't uncomment
 ## them. Lines beginning with a single '#' mark are commented-out code, and you
 ## may want to uncomment them when appropriate.
+init python:
+    config.console = True
+
 
 define config.layers = [ 'master', 'snow_layer', 'master_overlay', 'transient', 'screens', 'overlay', 'credits0', 'credits1', 'credits2', 'credits3' ]
 

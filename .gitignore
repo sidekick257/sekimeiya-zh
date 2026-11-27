@@ -3,3 +3,9 @@ __pycache__/
 .cache/
 proofread_index/
 .venv/
+review/api_key.txt
+all_entries.backup.json
+all_entries.before*.json
+all_entries.readable_test.json
+all_entries.bak.json
+all_entries.flash.json
