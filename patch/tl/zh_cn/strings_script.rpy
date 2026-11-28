@@ -1980,7 +1980,7 @@ translate zh_cn strings:
     new "正是。芦屋家和 Xyn 之间积怨已久。芦屋在这一带被视为极有势力的一方，可一旦有人盯上他们的生意，竞争者和仇敌也就不可避免地随之而来。"
 
     old "That's when Xyn started moving in. They're a long-running group that specializes in robberies of valuable objects, alongside similar criminal activities. When the Ashiya family became an established and wealthy entity, they also became a perfect target for Xyn. The fact they had developed in such a calm environment meant their security measures weren't adequate."
-    new "就是从那时起，Xyn 开始动手了。这是个活动多年的团伙，专门抢劫贵重物品，也干别的类似的勾当。芦屋家成了根基稳固的富户之后，自然成了 Xyn 最合适的目标。可芦屋家一路都是在这样安稳的地方发展起来的，安保自然算不上严密。"
+    new "就是从那时起，Xyn 开始动手了。这是个活动多年的团伙，专门抢劫贵重物品，也干别的类似的勾当。芦屋家成了根基稳固的富户之后，自然成了 Xyn 最合适的目标。因为芦屋家一路都是在这样安稳的地方发展起来的，安保肯定算不上严密。"
 
     old "It's rumored that Xyn is a small group of people who work together and put a great deal of effort into their plans. None of them have ever been caught, which evidently gave them a reputation among plenty of people."
     new "据说 Xyn 人数不多，彼此配合，在筹划上极费心思。他们至今无一人落网，名声自然也就传开了。"
@@ -1995,7 +1995,7 @@ translate zh_cn strings:
     new "然而从那以后，袭击的规模和次数都在增加。自称 Xyn 的这个团伙究竟有多大，我说不准，但他们已经折腾芦屋很久了。"
 
     old "Stopping them has been pretty problematic, and now they're moving in broad daylight with mass panic like this. At least, we assume they're involved here."
-    new "要拦住他们相当棘手，而如今他们竟敢在光天化日之下动手，闹出这么大的恐慌。至少我们是这么推断的——这次也有他们插手。"
+    new "一直以来，想阻止他们都不容易；现在他们竟然大白天就动手，还搞出这么大的恐慌。至少我们推测，这次也脱不了他们的干系。"
 
     old "...{w}Had such a battle actually been happening in the town I'd always lived in? I'd purposely avoided anything to do with that aspect of Yushibana, but I hadn't heard of Xyn even once. I could vaguely recall hearing about Ashiya Tower being robbed, but I'd never imagined the situation was so large scale.{w} No one I frequently talked to had an interest in the topic, so if it was common knowledge, I'd never been told. Ashiya had always felt like a taboo, and I'd never personally researched them."
     new "……{w}这样的争斗，真的一直发生在我生活了这么多年的镇子上吗？关于丰花的这一面，我一向刻意回避，可即便如此，Xyn 这个名字我竟一次也没听过。芦屋塔遭劫的事，我隐约有些印象，却从没想过规模如此之大。{w}常和我来往的人里没人关心这类话题，所以就算这早已人尽皆知，也从来没人跟我提起。芦屋对我而言一直像个禁忌，我也从未主动去了解过他们。"
@@ -2016,7 +2016,7 @@ translate zh_cn strings:
     new "也许我们都是这么想的。看起来，我们只是被卷进了两方的争斗之中，而芦屋最新的这步棋，反倒把我们关在了里面。"
 
     old "...Yes.{w} It's possible that Xyn aren't actually involved, given the stolen gems were found. Nonetheless, the method used to get them out is still unknown. They were in one of the deepest rooms of the floor you're on."
-    new "……是的。{w}既然被盗的宝石已经找回来了，Xyn 也未必真的参与其中。但宝石是怎么被运出去的，至今仍是个谜。它们原本放在你们这层最深处的一间房里。"
+    new "……是的。{w}宝石既然已经找回来了，那 Xyn 也可能根本没参与。但宝石是怎么被运出去的，我们还是不清楚。它们原本放在你们这层最深处的一间房里。"
 
     old "What closed the exit was the alarm, which had never gone off in the past. While Ashiya are denying it, malfunctions are a possibility.{w} The alarm was supposed to only go off whenever the Sekimeiya cabinet was forced open. If stealing the gems we found was what triggered it, it doesn't make sense that they were brought outside. And on top of that, you're telling me the Sekimeiya and the cabinet are completely fine..."
     new "封死出口的是警报，而这种警报过去从未响过。芦屋家否认存在故障，但也不能排除这种可能。{w}按设计，只有 Sekimeiya 的展示柜被强行打开时，警报才会响。如果真是因为偷走那些宝石才触发的警报，那宝石被带到外面就说不通了。更何况，你们还说 Sekimeiya 和展示柜都完好无损……"
@@ -2103,7 +2103,7 @@ translate zh_cn strings:
     new "我还在这个房间时，就发现芦屋家也遇到了同样的问题：我没有权限调出那条指令。也就是说，我们只能在这里待满规定的时间。"
 
     old "In case something went wrong, this failsafe was designed: the exit would always open twelve hours after it locked. Obviously, that much time ensured that if a Xyn member had gotten trapped, they couldn't escape when the time ran out."
-    new "为了防止出岔子，还设了一道保险：出口在封锁满十二个小时后必定开启。显然，留出这么长的时间，就是为了确保万一有 Xyn 成员被困，也没法等到时间结束再逃出去。"
+    new "为了防止出岔子，还设了一道保险：出口在封锁满十二个小时后必定开启。显然，留出这么长的时间，就是为了让被困的 Xyn 成员即使熬到十二小时结束、出口打开，也照样逃不掉——外面有整整十二个小时用来布控。"
 
     old "How is it possible that you don't have access to it? Can't you fix it?"
     new "你怎么可能没有权限？难道不能修好吗？"
@@ -2133,7 +2133,7 @@ translate zh_cn strings:
     new "是的。几天前芦屋就把这个计划通知了我们。他们确信 Xyn 会动手，所以警方也必须知悉。"
 
     old "Since today was the last possible day, we were all anticipating Xyn to come during the night. Long before {time=9}, I myself was in the tower, aware that the chances of a theft were incredibly likely. I was in contact with Ashiya staff about what the procedure would be if something were to happen."
-    new "今天是最后的机会，所以我们都预料 Xyn 会在夜里行动。早在 {time=9} 之前，我就已经待在塔里，清楚盗窃的可能性极高，并一直与芦屋的员工联络，确认万一出事该如何应对。"
+    new "今天是他们能下手的最后一天，所以我们都预料 Xyn 会在夜里来。早在 {time=9} 之前我就已经在塔里了——我很清楚盗窃的可能性极高，也一直在跟芦屋的员工联系，商量万一出事该如何应对。"
 
     old "Sure enough, after thinking about it, I recalled seeing him next to the entrance while we'd been waiting."
     new "仔细一想，果然不假——我们等候的时候，我的确见过他站在入口旁边。"
@@ -2154,7 +2154,7 @@ translate zh_cn strings:
     new "好吧。还有别的该告诉我们的事吗？"
 
     old "...I don't believe so. There's nothing you should worry about besides having to be in there for a while. I personally apologize for all the inconvenience, and I'm sure Ashiya will compensate all of you for being innocently trapped."
-    new "……我想没有了。除了要在里面待上一阵子，没什么需要担心的。给你们添了这些麻烦，我个人深表歉意；各位无辜被困，芦屋一定会给予补偿。"
+    new "……我想没有了。除了要在里面待上一阵子，没什么需要担心的。给你们添了这些麻烦，我个人深表歉意；如果各位是无辜被困的，那么芦屋一定会给予补偿。"
 
     old "Nobody wanted to mention that someone among us might not have been \"innocently\" trapped, and instead we stayed silent, thinking about the hours that awaited us."
     new "没有人愿意提起，我们当中或许有人并非「无辜」被困。大家只是沉默着，想着接下来那几个小时该如何度过。"
@@ -2295,7 +2295,7 @@ translate zh_cn strings:
     new "还是去确认一下吧。"
 
     old "I agree. Let me go with you, esteemed visitor."
-    new "我同意。让我陪你走一趟吧，尊贵的访客。"
+    new "我同意。大人物，让我陪你走一趟吧。"
 
     old "Without waiting for a reply, Sai grabbed me by my shirt and lightly ushered me out of the room."
     new "Sai 没等回答，便抓住我的衣襟，半推半送地把我带出了房间。"
@@ -2871,7 +2871,7 @@ translate zh_cn strings:
     new "我看向他。他神情平静，甚至有些若无其事，仿佛与我们不在同一个世界里。"
 
     old "Earlier, when I looked at him after Katei rushed out of the room, he took his hand out from behind the leftmost monitor. What exactly did I see?"
-    new "刚才 Katei 冲出房间后，我看向他时，他正把手从最左边那台显示器后面抽出来。我到底看见了什么？"
+    new "刚才 Katei 冲出房间的时候，我朝 Sai 看了一眼——他正把手从最左边那台显示器后面收回来。我究竟看到了什么？"
 
     old "Let me take a different approach. Assuming the monitor powering off was his doing, what could the reason be?"
     new "换个角度想。假设显示器熄灭是他动的手脚，那理由会是什么？"
