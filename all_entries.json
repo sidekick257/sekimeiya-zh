@@ -6798,7 +6798,7 @@
     {
       "id": "script_rpy_L000458_1_1b0ac306",
       "text": "Without bothering to ask myself questions, I tried to find Shiroya. At my right, I saw her face morphing into shock.",
-      "new": "我顾不上多想，立刻去找 Shiroya。她就在我右手边，我看见她脸上渐渐显出惊愕。",
+      "new": "我顾不上多想，立刻转头看向 Shiroya。她就在我右手边，我看见她脸上渐渐显出惊愕。",
       "speaker": "i",
       "source_file": "script.rpy",
       "group": "story"
@@ -7606,7 +7606,7 @@
     {
       "id": "script_rpy_L000713_1_bfe6a222",
       "text": "Isla's finally waking up. Thank God.",
-      "new": "Isla 终于醒了。谢天谢地。",
+      "new": "Isla 总算要醒了。谢天谢地。",
       "speaker": "aki",
       "source_file": "script.rpy",
       "group": "story"

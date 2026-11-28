@@ -327,7 +327,7 @@ translate zh_cn strings:
     new "这……这是什么！？"
 
     old "Without bothering to ask myself questions, I tried to find Shiroya. At my right, I saw her face morphing into shock."
-    new "我顾不上多想，立刻去找 Shiroya。她就在我右手边，我看见她脸上渐渐显出惊愕。"
+    new "我顾不上多想，立刻转头看向 Shiroya。她就在我右手边，我看见她脸上渐渐显出惊愕。"
 
     old "Atsuki... Wha..."
     new "Atsuki……怎么……"
@@ -621,7 +621,7 @@ translate zh_cn strings:
     new "走近一些，又看见两个人跪在地上。Akaro 也在他们旁边。等我们终于走到跟前，我才发现地上躺着一个小小的身影。"
 
     old "Isla's finally waking up. Thank God."
-    new "Isla 终于醒了。谢天谢地。"
+    new "Isla 总算要醒了。谢天谢地。"
 
     old "That woman was the person we'd heard. She had the little girl on her lap and was looking at her closed eyes with concern."
     new "方才那声喊叫就是她发出的。她把小女孩抱在膝上，忧心地注视着她紧闭的双眼。"
