@@ -49983,7 +49983,7 @@ translate zh_cn strings:
     new "确实，可我们也只能这么做。"
 
     old "We can draw them to a specific cabinet. Do you remember when we obtained the Nomdaid? It was targeted by Xyn immediately.{w} If we procure something of that caliber, Xyn won't be able to resist a repeat. That will be the cabinet we'll need to alter, and since it won't be one currently displayed, we can modify it before they know it exists."
-    new "我们可以把他们引到某个特定的展示柜。还记得我们拿到诺姆达伊德的时候吗？Xyn 立刻就盯上了它。{w} 若再弄到一件那种级别的东西，Xyn 一定忍不住故技重施。要改的就是那个展示柜；既然它现在还不会展出，我们就能在他们知道它存在之前先动手改好。"
+    new "我们可以把他们引到某个特定的展示柜。还记得我们拿到 Nomdaid 的时候吗？Xyn 立刻就盯上了它。{w} 若再弄到一件那种级别的东西，Xyn 一定忍不住故技重施。要改的就是那个展示柜；既然它现在还不会展出，我们就能在他们知道它存在之前先动手改好。"
 
     old "Lei nodded thoughtfully. Katei's plan could definitely work."
     new "Lei 若有所思地点了点头。Katei 的计划确实行得通。"
@@ -50313,7 +50313,7 @@ translate zh_cn strings:
     new "谁说的？"
 
     old "Katei Kuiji, from security. He compared it to the situation with the Nomdaid."
-    new "安保部的 Katei Kuiji。他还把它和诺姆达伊德那次的事相提并论。"
+    new "安保部的 Katei Kuiji。他还把它和 Nomdaid 那次的事相提并论。"
 
     old "He said they'll show it on the 15th; the event is going to be changed."
     new "他说 15 号会公开展出，活动安排也会改。"
